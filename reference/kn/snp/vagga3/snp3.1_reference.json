@@ -1,0 +1,22 @@
+{
+  "snp3.1:3.1": "sc1,  vns408,  vnp405,  pts72",
+  "snp3.1:4.1": "sc2,  vns409,  vnp406",
+  "snp3.1:5.1": "sc3,  vns410,  vnp407",
+  "snp3.1:6.1": "sc4,  vns411,  vnp408",
+  "snp3.1:7.1": "sc5,  vns412,  vnp409",
+  "snp3.1:8.1": "sc6,  vns413,  vnp410",
+  "snp3.1:9.1": "sc7,  vns414,  vnp411",
+  "snp3.1:10.1": "sc8,  vns415,  vnp412",
+  "snp3.1:11.1": "sc9,  vns416,  vnp413",
+  "snp3.1:12.1": "sc10,  vns417,  vnp414,  pts73",
+  "snp3.1:13.1": "sc11,  vns418,  vnp415",
+  "snp3.1:14.1": "sc12,  vns419,  vnp416",
+  "snp3.1:15.1": "sc13,  vns420,  vnp417",
+  "snp3.1:16.1": "sc14,  vns421,  vnp418",
+  "snp3.1:17.1": "sc15,  vns422,  vnp419",
+  "snp3.1:18.1": "sc16,  vns423,  vnp420",
+  "snp3.1:19.1": "sc17,  vns424,  vnp421",
+  "snp3.1:20.1": "sc18,  vns425,  vnp422",
+  "snp3.1:21.1": "sc19,  vns426,  vnp423,  pts74",
+  "snp3.1:22.1": "sc20,  vns427,  vnp424"
+}

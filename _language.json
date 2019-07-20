@@ -1,0 +1,12 @@
+{
+    "pli": {
+        "type": "language",
+        "name": "Pali",
+        "is_root": true
+    },
+    "en": {
+        "type": "language",
+        "name": "English",
+        "is_root": false
+    }
+}

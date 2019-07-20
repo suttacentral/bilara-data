@@ -1,0 +1,10 @@
+{
+  "snp2.8:3.1": "sc1,  vns319,  vnp316",
+  "snp2.8:4.1": "sc2,  vns320,  vnp317",
+  "snp2.8:5.1": "sc3,  vns321,  vnp318",
+  "snp2.8:6.1": "sc4,  vns322,  vnp319",
+  "snp2.8:7.1": "sc5,  vns323,  vnp320",
+  "snp2.8:8.1": "sc6,  vns324,  vnp321,  pts56",
+  "snp2.8:9.1": "sc7,  vns325,  vnp322",
+  "snp2.8:10.1": "sc8,  vns326,  vnp323"
+}

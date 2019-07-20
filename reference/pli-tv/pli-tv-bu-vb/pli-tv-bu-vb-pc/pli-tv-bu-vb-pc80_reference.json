@@ -1,0 +1,11 @@
+{
+  "pli-tv-bu-vb-pc80:1.1.1": "sc1",
+  "pli-tv-bu-vb-pc80:1.1.7": "sc2,  pts-vp-pli4.153",
+  "pli-tv-bu-vb-pc80:1.1.16": "sc3",
+  "pli-tv-bu-vb-pc80:2.1.1": "sc4",
+  "pli-tv-bu-vb-pc80:2.1.6": "sc5",
+  "pli-tv-bu-vb-pc80:2.1.8": "sc6",
+  "pli-tv-bu-vb-pc80:2.1.12": "sc7",
+  "pli-tv-bu-vb-pc80:2.3.1": "sc8",
+  "pli-tv-bu-vb-pc80:2.3.3": "sc9"
+}
