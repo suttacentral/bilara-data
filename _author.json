@@ -11,7 +11,7 @@
         "root_lang": "pli",
         "root_edition": "ms"
     },
-    "xtext": {
+    "xtest": {
 	"type": "translator",
 	"name": "Test Project",
 	"root_lang": "pli",
