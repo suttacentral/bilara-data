@@ -10,6 +10,12 @@
         "name": "Brahmali Bhikkhu",
         "root_lang": "pli",
         "root_edition": "ms"
+    },
+    "xtext": {
+	"type": "translator",
+	"name": "Test Project",
+	"root_lang": "pli",
+	"root_edition": "ms"
     }
 
 }
