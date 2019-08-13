@@ -1,11 +1,5 @@
 {
-  "sn3.4:4.6": [
-    "anapāyinī → anupāyinī (s1-3, km, mr)"
-  ],
-  "sn3.4:5.4": [
-    "taṃva → tañca (sabbattha)"
-  ],
-  "sn3.4:5.5": [
-    "Taṃvassa → tañcassa (bj, s1-3, km, pts2) | taṃ cassa (pts1)"
-  ]
+  "sn3.4:4.6": "anapāyinī → anupāyinī (s1-3, km, mr)",
+  "sn3.4:5.4": "taṃva → tañca (sabbattha)",
+  "sn3.4:5.5": "Taṃvassa → tañcassa (bj, s1-3, km, pts2) | taṃ cassa (pts1)"
 }

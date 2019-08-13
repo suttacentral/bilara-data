@@ -1,35 +1,13 @@
 {
-  "snp3.2:8.4": [
-    "yenatthena → senatthena (?) | attano atthena (aṭṭha.)"
-  ],
-  "snp3.2:9.1": [
-    "Aṇumattopi → aṇumattenapi (bj, pts1)"
-  ],
-  "snp3.2:10.1": [
-    "tathā → tapo (s1-3, mr) | tato (pts1)"
-  ],
-  "snp3.2:13.3": [
-    "Kāmesu → kāme (bj, s1-3)"
-  ],
-  "snp3.2:15.1": [
-    "Pañcamaṃ → pañcamī (bj, pts1)"
-  ],
-  "snp3.2:18.2": [
-    "mama → idha (pts1, mr)"
-  ],
-  "snp3.2:21.3": [
-    "bhecchāmi → gacchāmi (bj, pts1) | vecchāmi (s1-3) | vajjhāmi (mr)"
-  ],
-  "snp3.2:21.4": [
-    "pattaṃva asmanā → pakkaṃva amhanā (s1-3, mr) | pattaṃ va amhanā (pts1)"
-  ],
-  "snp3.2:22.1": [
-    "Vasīkaritvā → vasiṃ karitvā (bahūsu)"
-  ],
-  "snp3.2:23.3": [
-    "Akāmassa → akāmā (mr)"
-  ],
-  "snp3.2:25.3": [
-    "muduṃ → mudu (bj, pts1)"
-  ]
+  "snp3.2:8.4": "yenatthena → senatthena (?) | attano atthena (aṭṭha.)",
+  "snp3.2:9.1": "Aṇumattopi → aṇumattenapi (bj, pts1)",
+  "snp3.2:10.1": "tathā → tapo (s1-3, mr) | tato (pts1)",
+  "snp3.2:13.3": "Kāmesu → kāme (bj, s1-3)",
+  "snp3.2:15.1": "Pañcamaṃ → pañcamī (bj, pts1)",
+  "snp3.2:18.2": "mama → idha (pts1, mr)",
+  "snp3.2:21.3": "bhecchāmi → gacchāmi (bj, pts1) | vecchāmi (s1-3) | vajjhāmi (mr)",
+  "snp3.2:21.4": "pattaṃva asmanā → pakkaṃva amhanā (s1-3, mr) | pattaṃ va amhanā (pts1)",
+  "snp3.2:22.1": "Vasīkaritvā → vasiṃ karitvā (bahūsu)",
+  "snp3.2:23.3": "Akāmassa → akāmā (mr)",
+  "snp3.2:25.3": "muduṃ → mudu (bj, pts1)"
 }

@@ -1,17 +1,7 @@
 {
-  "ja384:5.2": [
-    "bhaddaṃ vo → bhadda vo (s2, s3, mr)"
-  ],
-  "ja384:7.3": [
-    "potañca → chāpe ca (bj, s2, s3)"
-  ],
-  "ja384:9.3": [
-    "gāmanigamāsu sādhu → gāmanigamāsu sādhu sammato (bj) | gāmanigamasādhu (pts1)"
-  ],
-  "ja384:10.2": [
-    "viheṭhatha → vipothatha (pts1)"
-  ],
-  "ja384:11.1": [
-    "Dhammadhajajātakaṃ → dhammaddhajajātakaṃ (s2, s3, pts1)"
-  ]
+  "ja384:5.2": "bhaddaṃ vo → bhadda vo (s2, s3, mr)",
+  "ja384:7.3": "potañca → chāpe ca (bj, s2, s3)",
+  "ja384:9.3": "gāmanigamāsu sādhu → gāmanigamāsu sādhu sammato (bj) | gāmanigamasādhu (pts1)",
+  "ja384:10.2": "viheṭhatha → vipothatha (pts1)",
+  "ja384:11.1": "Dhammadhajajātakaṃ → dhammaddhajajātakaṃ (s2, s3, pts1)"
 }

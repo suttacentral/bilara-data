@@ -1,28 +1,10 @@
 {
-  "mn50:2.4": [
-    "garugaro viya → garu garu viya (bj, pts1 ṭīkāyaṃ pāṭhantaraṃ) | garugarutaro viya (s1-3)"
-  ],
-  "mn50:4.7": [
-    "jāneyya, kuto pana → kuto ca pana (s1-3)"
-  ],
-  "mn50:9.5": [
-    "evaṃ → etaṃ (bj, s1-3, pts1)",
-    "vidhurassa vidhuroteva → vidhurassa vidhuro vidhurotveva (bj, s1-3, km) | vidhurassa vidhuro vidhuroteva (pts1)"
-  ],
-  "mn50:11.6": [
-    "sañjīvassa sañjīvoteva → sañjīvo sañjīvotveva (bj, s1-3, km) | sañjīvo sañjīvoteva (pts1)"
-  ],
-  "mn50:13.2": [
-    "kiṇhā → kiṇṇā (si) | kaṇhā (s1-3, km, mr)"
-  ],
-  "mn50:21.1": [
-    "kumārakaṃ → kumāraṃ (bj, pts1)",
-    "sīsaṃ vobhindi → sīsaṃ te bhindissāmīti (mr)"
-  ],
-  "mn50:22.4": [
-    "yadā kho te → yato te (mr)"
-  ],
-  "mn50:31.1": [
-    "cetayati → veṭhayati (bj)"
-  ]
+  "mn50:2.4": "garugaro viya → garu garu viya (bj, pts1 ṭīkāyaṃ pāṭhantaraṃ) | garugarutaro viya (s1-3)",
+  "mn50:4.7": "jāneyya, kuto pana → kuto ca pana (s1-3)",
+  "mn50:9.5": "evaṃ → etaṃ (bj, s1-3, pts1), vidhurassa vidhuroteva → vidhurassa vidhuro vidhurotveva (bj, s1-3, km) | vidhurassa vidhuro vidhuroteva (pts1)",
+  "mn50:11.6": "sañjīvassa sañjīvoteva → sañjīvo sañjīvotveva (bj, s1-3, km) | sañjīvo sañjīvoteva (pts1)",
+  "mn50:13.2": "kiṇhā → kiṇṇā (si) | kaṇhā (s1-3, km, mr)",
+  "mn50:21.1": "kumārakaṃ → kumāraṃ (bj, pts1), sīsaṃ vobhindi → sīsaṃ te bhindissāmīti (mr)",
+  "mn50:22.4": "yadā kho te → yato te (mr)",
+  "mn50:31.1": "cetayati → veṭhayati (bj)"
 }

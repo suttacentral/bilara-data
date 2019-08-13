@@ -1,9 +1,4 @@
 {
-  "pli-tv-pvr1.8:5.3": [
-    "khāyite → khayite (bj, pts1)",
-    "Akkhāyite → akkhayite (bj, pts1)"
-  ],
-  "pli-tv-pvr1.8:5.5": [
-    "vaṭṭakate → vattakate (bj, pts1) | vivaṭakate (s1-3)"
-  ]
+  "pli-tv-pvr1.8:5.3": "khāyite → khayite (bj, pts1), Akkhāyite → akkhayite (bj, pts1)",
+  "pli-tv-pvr1.8:5.5": "vaṭṭakate → vattakate (bj, pts1) | vivaṭakate (s1-3)"
 }

@@ -1,32 +1,12 @@
 {
-  "snp4.9:3.1": [
-    "aratiṃ ragañca → aratiñca rāgaṃ (s1-3, mr)"
-  ],
-  "snp4.9:4.3": [
-    "sīlavataṃ nu jīvitaṃ → sīlavatānujīvitaṃ (bj, pts1, mr)"
-  ],
-  "snp4.9:5.2": [
-    "māgaṇḍiyāti → māgandiyāti (bj, s1-3, pts1)"
-  ],
-  "snp4.9:6.2": [
-    "māgaṇḍiyo → māgandiyo (bj, s1-3, pts1)"
-  ],
-  "snp4.9:9.3": [
-    "pamohamāgā → pamohamāga (bj) | samohamāgā (s1-3, mr)"
-  ],
-  "snp4.9:10.2": [
-    "maññati → maññatī (c1, c2)"
-  ],
-  "snp4.9:12.2": [
-    "santhavāni → sandhavāni (mr)"
-  ],
-  "snp4.9:13.3": [
-    "Jalambujaṃ → elambujaṃ (bj, s1-3 ^mnd9#89 [Māgaṇḍiyasuttaniddesa])"
-  ],
-  "snp4.9:14.1": [
-    "Na vedagū diṭṭhiyāyako → na vedagū diṭṭhiyā (bj, s1-3, pts1)"
-  ],
-  "snp4.9:15.4": [
-    "ghaṭṭayantā → ghaṭṭamānā (s1-3, mr)"
-  ]
+  "snp4.9:3.1": "aratiṃ ragañca → aratiñca rāgaṃ (s1-3, mr)",
+  "snp4.9:4.3": "sīlavataṃ nu jīvitaṃ → sīlavatānujīvitaṃ (bj, pts1, mr)",
+  "snp4.9:5.2": "māgaṇḍiyāti → māgandiyāti (bj, s1-3, pts1)",
+  "snp4.9:6.2": "māgaṇḍiyo → māgandiyo (bj, s1-3, pts1)",
+  "snp4.9:9.3": "pamohamāgā → pamohamāga (bj) | samohamāgā (s1-3, mr)",
+  "snp4.9:10.2": "maññati → maññatī (c1, c2)",
+  "snp4.9:12.2": "santhavāni → sandhavāni (mr)",
+  "snp4.9:13.3": "Jalambujaṃ → elambujaṃ (bj, s1-3 ^mnd9#89 [Māgaṇḍiyasuttaniddesa])",
+  "snp4.9:14.1": "Na vedagū diṭṭhiyāyako → na vedagū diṭṭhiyā (bj, s1-3, pts1)",
+  "snp4.9:15.4": "ghaṭṭayantā → ghaṭṭamānā (s1-3, mr)"
 }

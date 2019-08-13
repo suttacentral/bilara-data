@@ -1,14 +1,6 @@
 {
-  "bv22:5.2": [
-    "jinapuṅgave → munipuṅgave (si)"
-  ],
-  "bv22:7.1": [
-    "Yamakapāṭihāriyañca → yamakaṃ pāṭihīrañca (bj, pts1-2) | yamakapāṭihāriyaṃ (s2, s3)"
-  ],
-  "bv22:18.3": [
-    "Sucandako giri vasabho → sucando giri vahano (bj, pts1-2) | suvaḍḍhako giri nārīvāhano (s2, s3)"
-  ],
-  "bv22:31.1": [
-    "Sikhissa bhagavato vaṃso → sikhibuddhavaṃso (s2, s3)"
-  ]
+  "bv22:5.2": "jinapuṅgave → munipuṅgave (si)",
+  "bv22:7.1": "Yamakapāṭihāriyañca → yamakaṃ pāṭihīrañca (bj, pts1-2) | yamakapāṭihāriyaṃ (s2, s3)",
+  "bv22:18.3": "Sucandako giri vasabho → sucando giri vahano (bj, pts1-2) | suvaḍḍhako giri nārīvāhano (s2, s3)",
+  "bv22:31.1": "Sikhissa bhagavato vaṃso → sikhibuddhavaṃso (s2, s3)"
 }

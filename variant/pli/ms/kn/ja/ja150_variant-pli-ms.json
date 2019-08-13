@@ -1,11 +1,5 @@
 {
-  "ja150:6.2": [
-    "Kakaṇṭakavaggo → pāpasevanavaggo (mr)"
-  ],
-  "ja150:9.1": [
-    "Uparimapaṇṇāsako → bj potthakeyeva"
-  ],
-  "ja150:11.5": [
-    "haṃci kusanāḷi → haṃsi sarikkhaṃ (sabbattha)"
-  ]
+  "ja150:6.2": "Kakaṇṭakavaggo → pāpasevanavaggo (mr)",
+  "ja150:9.1": "Uparimapaṇṇāsako → bj potthakeyeva",
+  "ja150:11.5": "haṃci kusanāḷi → haṃsi sarikkhaṃ (sabbattha)"
 }

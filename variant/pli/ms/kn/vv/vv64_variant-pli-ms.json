@@ -1,50 +1,18 @@
 {
-  "vv64:6.2": [
-    "Phalehi → thalehi (bj, pts2)"
-  ],
-  "vv64:9.3": [
-    "suyyati → sūyati (bj)"
-  ],
-  "vv64:11.4": [
-    "siṃsare → sabbare (mr) | sappare (?)"
-  ],
-  "vv64:12.4": [
-    "turagānamuttama → turaṅgānamuttamā (mr)"
-  ],
-  "vv64:13.1": [
-    "patanti → pavattanti (s2, s3, pts1, mr)"
-  ],
-  "vv64:14.2": [
-    "nādo → nādī (s2, pts1) | nādi (s3, pts-a, mr)"
-  ],
-  "vv64:19.2": [
-    "candanasāravāsitā → ... vositā (s2, s3, pts1) | bhūsitā (mr)"
-  ],
-  "vv64:24.2": [
-    "hadayeritaṃ pītiṃ → hadayeritaṃ pati (bj, pts2) | hadayeritampi taṃ (s2, s3, pts1)"
-  ],
-  "vv64:25.2": [
-    "cimāni → cemāni (bj, pts2)"
-  ],
-  "vv64:26.4": [
-    "hadayeritaṃ pītiṃ → hadayeritaṃ pati (bj, pts2) | hadayeritampi taṃ (s2, s3, pts1)"
-  ],
-  "vv64:27.3": [
-    "Uposathaṃ kaṃ vā → uposathaṃ kiṃ va (s2, s3)"
-  ],
-  "vv64:27.4": [
-    "Kaṃ → kiṃ (s2, s3, pts1)"
-  ],
-  "vv64:28.1": [
-    "Nayīdamappassa katassa → nayidaṃ appassa katassa (bj, s2, s3, pts1-2) | sāsedaṃ appakatassa (mr)"
-  ],
-  "vv64:35.4": [
-    "Indūpamo → indasamo (s2, s3, pts1, mr)"
-  ],
-  "vv64:37.1": [
-    "Nayimasmiṃ loke parasmiṃ → imasmiṃ loke parasmiṃ (s2, s3) | nayimasmiṃ vā loke parasmiṃ (^kv4.3#63 [Sattarasamavagga/ Navattabbaṃbuddhassadinnaṃmahapphalantikathā]) | nayimasmi loke va parasmi (?)"
-  ],
-  "vv64:37.3": [
-    "Āhuneyyānaṃ → āhuneyyanaṃ yamāhuneyyānaṃ (mr)"
-  ]
+  "vv64:6.2": "Phalehi → thalehi (bj, pts2)",
+  "vv64:9.3": "suyyati → sūyati (bj)",
+  "vv64:11.4": "siṃsare → sabbare (mr) | sappare (?)",
+  "vv64:12.4": "turagānamuttama → turaṅgānamuttamā (mr)",
+  "vv64:13.1": "patanti → pavattanti (s2, s3, pts1, mr)",
+  "vv64:14.2": "nādo → nādī (s2, pts1) | nādi (s3, pts-a, mr)",
+  "vv64:19.2": "candanasāravāsitā → ... vositā (s2, s3, pts1) | bhūsitā (mr)",
+  "vv64:24.2": "hadayeritaṃ pītiṃ → hadayeritaṃ pati (bj, pts2) | hadayeritampi taṃ (s2, s3, pts1)",
+  "vv64:25.2": "cimāni → cemāni (bj, pts2)",
+  "vv64:26.4": "hadayeritaṃ pītiṃ → hadayeritaṃ pati (bj, pts2) | hadayeritampi taṃ (s2, s3, pts1)",
+  "vv64:27.3": "Uposathaṃ kaṃ vā → uposathaṃ kiṃ va (s2, s3)",
+  "vv64:27.4": "Kaṃ → kiṃ (s2, s3, pts1)",
+  "vv64:28.1": "Nayīdamappassa katassa → nayidaṃ appassa katassa (bj, s2, s3, pts1-2) | sāsedaṃ appakatassa (mr)",
+  "vv64:35.4": "Indūpamo → indasamo (s2, s3, pts1, mr)",
+  "vv64:37.1": "Nayimasmiṃ loke parasmiṃ → imasmiṃ loke parasmiṃ (s2, s3) | nayimasmiṃ vā loke parasmiṃ (^kv4.3#63 [Sattarasamavagga/ Navattabbaṃbuddhassadinnaṃmahapphalantikathā]) | nayimasmi loke va parasmi (?)",
+  "vv64:37.3": "Āhuneyyānaṃ → āhuneyyanaṃ yamāhuneyyānaṃ (mr)"
 }

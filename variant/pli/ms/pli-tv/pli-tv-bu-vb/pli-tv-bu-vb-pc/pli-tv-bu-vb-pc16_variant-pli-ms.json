@@ -1,9 +1,4 @@
 {
-  "pli-tv-bu-vb-pc16:1.2": [
-    "vuṭṭhāpenti → ettha te iti kammapadaṃ ūnaṃ viya"
-  ],
-  "pli-tv-bu-vb-pc16:1.17": [
-    "pubbupagataṃ → pubbūpagataṃ (bj, s1-3)",
-    "anupakhajja → anūpakhajja (s1-3)"
-  ]
+  "pli-tv-bu-vb-pc16:1.2": "vuṭṭhāpenti → ettha te iti kammapadaṃ ūnaṃ viya",
+  "pli-tv-bu-vb-pc16:1.17": "pubbupagataṃ → pubbūpagataṃ (bj, s1-3), anupakhajja → anūpakhajja (s1-3)"
 }

@@ -1,11 +1,5 @@
 {
-  "vv31:7.4": [
-    "appamattā ahosiṃ → ahosiṃ appamattā uposathe (bj) | appamattā uposathe (s2, s3, pts1, mr) | appamattā uposathe ahosiṃ (pts2)"
-  ],
-  "vv31:8.1": [
-    "daharā apāpikā → daharāsa'pāpikā (bj)"
-  ],
-  "vv31:10.4": [
-    "pasannamānasā ahaṃ → atipasannamānasā (mr)"
-  ]
+  "vv31:7.4": "appamattā ahosiṃ → ahosiṃ appamattā uposathe (bj) | appamattā uposathe (s2, s3, pts1, mr) | appamattā uposathe ahosiṃ (pts2)",
+  "vv31:8.1": "daharā apāpikā → daharāsa'pāpikā (bj)",
+  "vv31:10.4": "pasannamānasā ahaṃ → atipasannamānasā (mr)"
 }

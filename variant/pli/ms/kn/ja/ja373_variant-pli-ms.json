@@ -1,15 +1,6 @@
 {
-  "ja373:6.1": [
-    "Yañcetaṃ → yathetaṃ (bj, pts1) | yavetaṃ (mr) | yametaṃ (katthaci)"
-  ],
-  "ja373:7.2": [
-    "paṭhamuppattiko → paṭhamuppattito (si, pts1)"
-  ],
-  "ja373:7.3": [
-    "Dīghañcetaṃ → dīghametaṃ (bj, pts1)",
-    "samāsajja → samāpajja (s2, s3, mr)"
-  ],
-  "ja373:8.2": [
-    "nāṅgaputtapinena → nāṅgaputtasirena (bj, s2, s3) | naṅgaputtasirena (pts1)"
-  ]
+  "ja373:6.1": "Yañcetaṃ → yathetaṃ (bj, pts1) | yavetaṃ (mr) | yametaṃ (katthaci)",
+  "ja373:7.2": "paṭhamuppattiko → paṭhamuppattito (si, pts1)",
+  "ja373:7.3": "Dīghañcetaṃ → dīghametaṃ (bj, pts1), samāsajja → samāpajja (s2, s3, mr)",
+  "ja373:8.2": "nāṅgaputtapinena → nāṅgaputtasirena (bj, s2, s3) | naṅgaputtasirena (pts1)"
 }

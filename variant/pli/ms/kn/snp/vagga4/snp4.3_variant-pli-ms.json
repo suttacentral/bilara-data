@@ -1,9 +1,4 @@
 {
-  "snp4.3:5.2": [
-    "paresa → parassa (si, mr)",
-    "pāva → pāvā (bj, s1-3, pts1)"
-  ],
-  "snp4.3:10.3": [
-    "nirattā → attaṃ nirattaṃ (bahūsu)"
-  ]
+  "snp4.3:5.2": "paresa → parassa (si, mr), pāva → pāvā (bj, s1-3, pts1)",
+  "snp4.3:10.3": "nirattā → attaṃ nirattaṃ (bahūsu)"
 }

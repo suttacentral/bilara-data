@@ -1,14 +1,6 @@
 {
-  "ja346:5.4": [
-    "ramati assame → ramatassame (mr)"
-  ],
-  "ja346:6.1": [
-    "Sādūni → sādhūni (bj, s2, s3, mr)"
-  ],
-  "ja346:8.1": [
-    "vā → asāduṃ (bj, pts1)"
-  ],
-  "ja346:9.1": [
-    "Kesavajātakaṃ → kesījātakaṃ (mr)"
-  ]
+  "ja346:5.4": "ramati assame → ramatassame (mr)",
+  "ja346:6.1": "Sādūni → sādhūni (bj, s2, s3, mr)",
+  "ja346:8.1": "vā → asāduṃ (bj, pts1)",
+  "ja346:9.1": "Kesavajātakaṃ → kesījātakaṃ (mr)"
 }

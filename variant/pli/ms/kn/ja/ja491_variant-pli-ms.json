@@ -1,33 +1,12 @@
 {
-  "ja491:5.3": [
-    "Rañño ca → raññova (pts1)",
-    "upantikaṃ → upenti (bj) | upanti (s2, s3, pts1)"
-  ],
-  "ja491:6.2": [
-    "cāpadhure → cāpavare (bj, pts1) | cāpavaro (s2, s3)"
-  ],
-  "ja491:11.1": [
-    "santi devā iti āhu → iccāhu (bj, pts1)"
-  ],
-  "ja491:15.1": [
-    "tavedaṃ → tavetaṃ (bj, s2, s3, pts1)"
-  ],
-  "ja491:15.2": [
-    "bhaveyya → vadeyya (bj, pts1)"
-  ],
-  "ja491:16.3": [
-    "Akkhāhi → akkhāhi taṃ dāni (mr)"
-  ],
-  "ja491:20.3": [
-    "Tesampahaṃ → tesaṃ ahaṃ (s2, s3, mr)"
-  ],
-  "ja491:20.4": [
-    "pattā → patto (bj) | accha (s2, s3)"
-  ],
-  "ja491:21.3": [
-    "Bandhitvā → bandhitva (bj, pts1)"
-  ],
-  "ja491:21.4": [
-    "Dukkhā sa pamucci → dukkhā pamucci (bj) | dukkhā pamuñci (s2, s3) | dukkhā pamuñcī (pts1)"
-  ]
+  "ja491:5.3": "Rañño ca → raññova (pts1), upantikaṃ → upenti (bj) | upanti (s2, s3, pts1)",
+  "ja491:6.2": "cāpadhure → cāpavare (bj, pts1) | cāpavaro (s2, s3)",
+  "ja491:11.1": "santi devā iti āhu → iccāhu (bj, pts1)",
+  "ja491:15.1": "tavedaṃ → tavetaṃ (bj, s2, s3, pts1)",
+  "ja491:15.2": "bhaveyya → vadeyya (bj, pts1)",
+  "ja491:16.3": "Akkhāhi → akkhāhi taṃ dāni (mr)",
+  "ja491:20.3": "Tesampahaṃ → tesaṃ ahaṃ (s2, s3, mr)",
+  "ja491:20.4": "pattā → patto (bj) | accha (s2, s3)",
+  "ja491:21.3": "Bandhitvā → bandhitva (bj, pts1)",
+  "ja491:21.4": "Dukkhā sa pamucci → dukkhā pamucci (bj) | dukkhā pamuñci (s2, s3) | dukkhā pamuñcī (pts1)"
 }

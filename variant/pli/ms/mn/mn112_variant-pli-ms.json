@@ -1,21 +1,8 @@
 {
-  "mn112:6.2": [
-    "upāyūpādānā → upayūpādānā (bj, mr) | upādāyupādānā (s1-3) | upāyupādānā (pts1)",
-    "virāgunaṃ → virāgaṃ (bj, pts1) | virāgutaṃ (ṭīkā)"
-  ],
-  "mn112:10.2": [
-    "nandī → nandi (bj, s1-3, km)"
-  ],
-  "mn112:11.3": [
-    "samūhatā’ti → susamūhatāti (bj, s1-3, km, pts1)"
-  ],
-  "mn112:14.19": [
-    "yena yeneva → yena yena ca (mr)"
-  ],
-  "mn112:16.2": [
-    "imāya ca ariyāya santuṭṭhiyā samannāgato → etthantare pāṭho sī, syā1-3, kaṃ, pā1 potthakesu natthi; 9M:1042 cūḷa­hatthi­pa­dopa­masutte"
-  ],
-  "mn112:21.4": [
-    "sabrahmacāriṃ samanupassāmā’”ti → brahmacāriṃ passāmāti (bj, pts1)"
-  ]
+  "mn112:6.2": "upāyūpādānā → upayūpādānā (bj, mr) | upādāyupādānā (s1-3) | upāyupādānā (pts1), virāgunaṃ → virāgaṃ (bj, pts1) | virāgutaṃ (ṭīkā)",
+  "mn112:10.2": "nandī → nandi (bj, s1-3, km)",
+  "mn112:11.3": "samūhatā’ti → susamūhatāti (bj, s1-3, km, pts1)",
+  "mn112:14.19": "yena yeneva → yena yena ca (mr)",
+  "mn112:16.2": "imāya ca ariyāya santuṭṭhiyā samannāgato → etthantare pāṭho sī, syā1-3, kaṃ, pā1 potthakesu natthi; 9M:1042 cūḷa­hatthi­pa­dopa­masutte",
+  "mn112:21.4": "sabrahmacāriṃ samanupassāmā’”ti → brahmacāriṃ passāmāti (bj, pts1)"
 }

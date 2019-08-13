@@ -1,24 +1,9 @@
 {
-  "ja465:5.2": [
-    "vehāyasaṃ ṭhitā → vehāsayaṃ ṭhitā (bj, pts1) | vehāyasaṇṭhitā (s2, s3)"
-  ],
-  "ja465:6.3": [
-    "Saṭṭhi → saṭṭhiṃ (bj, pts1)"
-  ],
-  "ja465:8.1": [
-    "Taṃ ivāhaṃ → tava ahaṃ (bj) | tañca ahaṃ (s2, s3, pts1)"
-  ],
-  "ja465:11.2": [
-    "mūlamhi chindatha → mūlañca chindatha (bj) | mūlaṃ vichindatha (pts1)"
-  ],
-  "ja465:12.1": [
-    "Hatthapādaṃ → hatthapāde (mr)",
-    "chinde → chinne (mr)"
-  ],
-  "ja465:12.2": [
-    "jīvato → jīvite (bj, pts1)"
-  ],
-  "ja465:16.1": [
-    "Ceteyyarūpaṃ → cetabbarūpaṃ (bj, pts1)"
-  ]
+  "ja465:5.2": "vehāyasaṃ ṭhitā → vehāsayaṃ ṭhitā (bj, pts1) | vehāyasaṇṭhitā (s2, s3)",
+  "ja465:6.3": "Saṭṭhi → saṭṭhiṃ (bj, pts1)",
+  "ja465:8.1": "Taṃ ivāhaṃ → tava ahaṃ (bj) | tañca ahaṃ (s2, s3, pts1)",
+  "ja465:11.2": "mūlamhi chindatha → mūlañca chindatha (bj) | mūlaṃ vichindatha (pts1)",
+  "ja465:12.1": "Hatthapādaṃ → hatthapāde (mr), chinde → chinne (mr)",
+  "ja465:12.2": "jīvato → jīvite (bj, pts1)",
+  "ja465:16.1": "Ceteyyarūpaṃ → cetabbarūpaṃ (bj, pts1)"
 }

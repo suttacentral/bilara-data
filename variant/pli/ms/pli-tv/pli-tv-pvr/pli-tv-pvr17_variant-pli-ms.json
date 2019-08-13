@@ -1,28 +1,10 @@
 {
-  "pli-tv-pvr17:9.3": [
-    "vinodetuṃ → imasmiṃ ṭhāne sabbattha \\"
-  ],
-  "pli-tv-pvr17:100.3": [
-    "() → (na saññāyati) (bj)",
-    "na sampāyati → na sampādeti (bj, s1-3) | na sampādayati (mr)"
-  ],
-  "pli-tv-pvr17:109.1": [
-    "pañcaṅgasamannāgataṃ → pañcahaṅgehi samannāgataṃ (bj, s1-3)"
-  ],
-  "pli-tv-pvr17:109.2": [
-    "Katame pañca → katamehi pañcahi (s1-3)"
-  ],
-  "pli-tv-pvr17:132.2": [
-    "Kāruññaṃ → kāruññena (bj) | kāruññe (s1-3, pts1)"
-  ],
-  "pli-tv-pvr17:150.4": [
-    "veramaṇī → veraṃani (pts1) | veramaṇi (mr)"
-  ],
-  "pli-tv-pvr17:209.19": [
-    "āvenibhāvaṃ → āveṇibhāvaṃ (bj, s1-3, pts1)",
-    "āveniṃ → āveṇi (bj, s1-3, pts1)"
-  ],
-  "pli-tv-pvr17:225.5": [
-    "Khantiṃ ruciñca saññañca → khanti ruci ca saññā ca (bj, s1-3, pts1)"
-  ]
+  "pli-tv-pvr17:9.3": "vinodetuṃ → imasmiṃ ṭhāne sabbattha \\",
+  "pli-tv-pvr17:100.3": "() → (na saññāyati) (bj), na sampāyati → na sampādeti (bj, s1-3) | na sampādayati (mr)",
+  "pli-tv-pvr17:109.1": "pañcaṅgasamannāgataṃ → pañcahaṅgehi samannāgataṃ (bj, s1-3)",
+  "pli-tv-pvr17:109.2": "Katame pañca → katamehi pañcahi (s1-3)",
+  "pli-tv-pvr17:132.2": "Kāruññaṃ → kāruññena (bj) | kāruññe (s1-3, pts1)",
+  "pli-tv-pvr17:150.4": "veramaṇī → veraṃani (pts1) | veramaṇi (mr)",
+  "pli-tv-pvr17:209.19": "āvenibhāvaṃ → āveṇibhāvaṃ (bj, s1-3, pts1), āveniṃ → āveṇi (bj, s1-3, pts1)",
+  "pli-tv-pvr17:225.5": "Khantiṃ ruciñca saññañca → khanti ruci ca saññā ca (bj, s1-3, pts1)"
 }

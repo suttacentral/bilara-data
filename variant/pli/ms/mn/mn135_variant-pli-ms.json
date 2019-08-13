@@ -1,17 +1,7 @@
 {
-  "mn135:3.3": [
-    "bavhābādhā → bahvābādhā (s1-3, km, mr)"
-  ],
-  "mn135:3.8": [
-    "paññavanto → paññāvanto (bj, pts1)"
-  ],
-  "mn135:4.1": [
-    "kammayonī kammabandhū → kammayoni kammabandhu (bj)"
-  ],
-  "mn135:5.1": [
-    "adayāpanno pāṇabhūtesu → sab­bapāṇa­bhū­tesu (bj, mr)"
-  ],
-  "mn135:5.2": [
-    "samādinnena → samādiṇṇena (pts1, mr)"
-  ]
+  "mn135:3.3": "bavhābādhā → bahvābādhā (s1-3, km, mr)",
+  "mn135:3.8": "paññavanto → paññāvanto (bj, pts1)",
+  "mn135:4.1": "kammayonī kammabandhū → kammayoni kammabandhu (bj)",
+  "mn135:5.1": "adayāpanno pāṇabhūtesu → sab­bapāṇa­bhū­tesu (bj, mr)",
+  "mn135:5.2": "samādinnena → samādiṇṇena (pts1, mr)"
 }

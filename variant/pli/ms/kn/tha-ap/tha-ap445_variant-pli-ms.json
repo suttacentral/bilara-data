@@ -1,11 +1,5 @@
 {
-  "tha-ap445:3.1": [
-    "3 Billiyattheraapadāna → billaphaliyattherāpadānaṃ (bj, pts1) | veluvaphaliyattherāpadānaṃ (s2, s3)"
-  ],
-  "tha-ap445:4.3": [
-    "Billarukkhehi → belurukkhehi (si, pts1) | veluvarukkhehi (s2, s3)"
-  ],
-  "tha-ap445:11.1": [
-    "billiyo thero → billaphaliyatthero (bj) | veluvaphaliyo thero (s2, s3) | billaphaliyo (pts1)"
-  ]
+  "tha-ap445:3.1": "3 Billiyattheraapadāna → billaphaliyattherāpadānaṃ (bj, pts1) | veluvaphaliyattherāpadānaṃ (s2, s3)",
+  "tha-ap445:4.3": "Billarukkhehi → belurukkhehi (si, pts1) | veluvarukkhehi (s2, s3)",
+  "tha-ap445:11.1": "billiyo thero → billaphaliyatthero (bj) | veluvaphaliyo thero (s2, s3) | billaphaliyo (pts1)"
 }

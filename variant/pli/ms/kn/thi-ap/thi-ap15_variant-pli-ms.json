@@ -1,14 +1,6 @@
 {
-  "thi-ap15:4.2": [
-    "cārikī → cārikā (bj, s2, s3)"
-  ],
-  "thi-ap15:4.3": [
-    "Ārāmena ca ārāmaṃ → ārāmena vihārena (s2, s3, pts1)"
-  ],
-  "thi-ap15:14.1": [
-    "Parammukhā → pubbamukhā (s2, s3, pts1)"
-  ],
-  "thi-ap15:15.2": [
-    "sugataduggate → sukatadukkaṭaṃ (s2, s3) | sukatadukkate (pts1)"
-  ]
+  "thi-ap15:4.2": "cārikī → cārikā (bj, s2, s3)",
+  "thi-ap15:4.3": "Ārāmena ca ārāmaṃ → ārāmena vihārena (s2, s3, pts1)",
+  "thi-ap15:14.1": "Parammukhā → pubbamukhā (s2, s3, pts1)",
+  "thi-ap15:15.2": "sugataduggate → sukatadukkaṭaṃ (s2, s3) | sukatadukkate (pts1)"
 }

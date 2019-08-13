@@ -1,11 +1,5 @@
 {
-  "mn151:2.2": [
-    "bahulaṃ → etarahi bahulaṃ (bj, pts1)"
-  ],
-  "mn151:2.6": [
-    "eso → hesa (bj, s1-3, km, pts1)"
-  ],
-  "mn151:21.4": [
-    "Tasmātiha, sāriputta → tena hi vo sāriputta evaṃ sikkhitabbaṃ (bj, pts1) | tasmātiha vo sāriputta sikkhitabbaṃ (s1, s2) | tasmātiha vo sārīputta sikkhitabbaṃ (s3)"
-  ]
+  "mn151:2.2": "bahulaṃ → etarahi bahulaṃ (bj, pts1)",
+  "mn151:2.6": "eso → hesa (bj, s1-3, km, pts1)",
+  "mn151:21.4": "Tasmātiha, sāriputta → tena hi vo sāriputta evaṃ sikkhitabbaṃ (bj, pts1) | tasmātiha vo sāriputta sikkhitabbaṃ (s1, s2) | tasmātiha vo sārīputta sikkhitabbaṃ (s3)"
 }

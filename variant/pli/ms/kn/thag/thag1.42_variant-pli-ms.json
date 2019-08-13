@@ -1,12 +1,5 @@
 {
-  "thag1.42:4.1": [
-    "1.42 Khadiravaniyattheragāthā → khadiravaniyarevatattheragāthā (bj)"
-  ],
-  "thag1.42:5.1": [
-    "Cāle upacāle sīsūpacāle → hale upahale sīsupahale (s2, s3)",
-    "() → (halā upahalā sīsupahalā) (s2, s3) | (cālā upacālā sīsūpacālā)"
-  ],
-  "thag1.42:5.2": [
-    "Patissatā → patissatikā (s2, s3, pts1-2, mr)"
-  ]
+  "thag1.42:4.1": "1.42 Khadiravaniyattheragāthā → khadiravaniyarevatattheragāthā (bj)",
+  "thag1.42:5.1": "Cāle upacāle sīsūpacāle → hale upahale sīsupahale (s2, s3), () → (halā upahalā sīsupahalā) (s2, s3) | (cālā upacālā sīsūpacālā)",
+  "thag1.42:5.2": "Patissatā → patissatikā (s2, s3, pts1-2, mr)"
 }

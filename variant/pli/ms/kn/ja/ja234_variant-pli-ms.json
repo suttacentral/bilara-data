@@ -1,14 +1,6 @@
 {
-  "ja234:5.1": [
-    "dānimakara → makarā (si) | makari (s2, s3)"
-  ],
-  "ja234:5.4": [
-    "renukaṃ → rerukaṃ (bj, pts1)"
-  ],
-  "ja234:6.1": [
-    "Atricchaṃ → atricchā (bj, s2, s3, pts1)"
-  ],
-  "ja234:7.1": [
-    "Asitābhūjātakaṃ → asitābhujātakaṃ (s2, s3, pts1)"
-  ]
+  "ja234:5.1": "dānimakara → makarā (si) | makari (s2, s3)",
+  "ja234:5.4": "renukaṃ → rerukaṃ (bj, pts1)",
+  "ja234:6.1": "Atricchaṃ → atricchā (bj, s2, s3, pts1)",
+  "ja234:7.1": "Asitābhūjātakaṃ → asitābhujātakaṃ (s2, s3, pts1)"
 }

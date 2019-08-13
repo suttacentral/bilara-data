@@ -1,11 +1,5 @@
 {
-  "sn22.53:0.2": [
-    "6. Upayavagga → upāyavaggo (s1-3, pts1)"
-  ],
-  "sn22.53:1.2": [
-    "Upayo → upāyo (s1-3, km, pts1)"
-  ],
-  "sn22.53:1.3": [
-    "Rūpupayaṃ → rūpūpāyaṃ (s1-3, km) | rūpupāyaṃ (pts1, mr)"
-  ]
+  "sn22.53:0.2": "6. Upayavagga → upāyavaggo (s1-3, pts1)",
+  "sn22.53:1.2": "Upayo → upāyo (s1-3, km, pts1)",
+  "sn22.53:1.3": "Rūpupayaṃ → rūpūpāyaṃ (s1-3, km) | rūpupāyaṃ (pts1, mr)"
 }

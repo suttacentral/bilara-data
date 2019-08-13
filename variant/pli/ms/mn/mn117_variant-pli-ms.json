@@ -1,27 +1,10 @@
 {
-  "mn117:6.2": [
-    "dvāyaṃ → dvayaṃ (bj, s1-3, km, pts1)"
-  ],
-  "mn117:8.2": [
-    "maggaṅgaṃ → maggaṅgā (si, pts1)"
-  ],
-  "mn117:9.1": [
-    "svāssa → sāssa (si, pts1) | svāyaṃ (mr)"
-  ],
-  "mn117:9.2": [
-    "sāssa → sāyaṃ (mr)"
-  ],
-  "mn117:9.3": [
-    "Itiyime → itissime (bj, s1-3, km, pts1) | itime (si)"
-  ],
-  "mn117:29.2": [
-    "nijigīsanatā → nijigiṃsanatā (bj, s1-3, km, pts1)"
-  ],
-  "mn117:34.4": [
-    "sekkho → sekkhā (bj) | sekho (s1-3) | sekho pāṭipado (pts1, mr)"
-  ],
-  "mn117:38.1": [
-    "amaññiṃsu → maññeyyuṃ (s1-3, pts1, mr)",
-    "vassabhaññā → vayabhiññā (mr)"
-  ]
+  "mn117:6.2": "dvāyaṃ → dvayaṃ (bj, s1-3, km, pts1)",
+  "mn117:8.2": "maggaṅgaṃ → maggaṅgā (si, pts1)",
+  "mn117:9.1": "svāssa → sāssa (si, pts1) | svāyaṃ (mr)",
+  "mn117:9.2": "sāssa → sāyaṃ (mr)",
+  "mn117:9.3": "Itiyime → itissime (bj, s1-3, km, pts1) | itime (si)",
+  "mn117:29.2": "nijigīsanatā → nijigiṃsanatā (bj, s1-3, km, pts1)",
+  "mn117:34.4": "sekkho → sekkhā (bj) | sekho (s1-3) | sekho pāṭipado (pts1, mr)",
+  "mn117:38.1": "amaññiṃsu → maññeyyuṃ (s1-3, pts1, mr), vassabhaññā → vayabhiññā (mr)"
 }

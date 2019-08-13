@@ -1,15 +1,6 @@
 {
-  "tha-ap340:11.4": [
-    "akā me → akāsi (s2, s3)"
-  ],
-  "tha-ap340:17.1": [
-    "Koseyyakambaliyāni → koseyyakambalīyāni (bj) | koseyyakambalāni ca (s2, s3, pts1)"
-  ],
-  "tha-ap340:22.1": [
-    "Aviññattaṃ nivāsemi → aviññatti nisevāmi (pts1) | aviññattāni sevāmi (?)"
-  ],
-  "tha-ap340:22.3": [
-    "Lābhī → lābhimhi (s2, s3) | lābhī hi (pts1)",
-    "annassa pānassa → annapānassa (s2, s3, pts1)"
-  ]
+  "tha-ap340:11.4": "akā me → akāsi (s2, s3)",
+  "tha-ap340:17.1": "Koseyyakambaliyāni → koseyyakambalīyāni (bj) | koseyyakambalāni ca (s2, s3, pts1)",
+  "tha-ap340:22.1": "Aviññattaṃ nivāsemi → aviññatti nisevāmi (pts1) | aviññattāni sevāmi (?)",
+  "tha-ap340:22.3": "Lābhī → lābhimhi (s2, s3) | lābhī hi (pts1), annassa pānassa → annapānassa (s2, s3, pts1)"
 }

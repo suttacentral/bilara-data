@@ -1,40 +1,12 @@
 {
-  "an3.60:1.5": [
-    "gotama, yo ceva yajati → yo ceva yaññaṃ yajati (s1-3, km)",
-    "puññappaṭipadaṃ → puññapaṭipadaṃ (bj, s1-3, pts1)"
-  ],
-  "an3.60:2.6": [
-    "etha → etaṃ (mr)"
-  ],
-  "an3.60:2.7": [
-    "ayañceva → sayaṃ ceva (mr)"
-  ],
-  "an3.60:3.3": [
-    "Iccāyampi → iccāyante (mr)"
-  ],
-  "an3.60:7.5": [
-    "nvajja → kānujja (bj, pts1)",
-    "rājapurisānaṃ → rājaparisāyaṃ (bj, s1-3, km, pts1)"
-  ],
-  "an3.60:8.5": [
-    "abhijjamāne → abhejjamāne (bj) | abhijjamāno (pts1)"
-  ],
-  "an3.60:14.1": [
-    "yadidaṃ → yamidaṃ (s1-3, km, pts1)"
-  ],
-  "an3.60:14.2": [
-    "yova → yo ca (s1-3, km, pts1, mr)",
-    "sova → so ca (s1-3, km, pts1, mr)",
-    "yova → yo ca (s1-3, km, pts1, mr)",
-    "tasseva → tassa ceva (s1-3, km, pts1)"
-  ],
-  "an3.60:14.3": [
-    "yova → yo ca (s1-3, km, pts1, mr)",
-    "sova → so ca (s1-3, km, pts1, mr)",
-    "yova → yo ca (s1-3, km, pts1, mr)",
-    "tasseva → tassa ceva (s1-3, km, pts1)"
-  ],
-  "an3.60:19.2": [
-    "ye → te (mr)"
-  ]
+  "an3.60:1.5": "gotama, yo ceva yajati → yo ceva yaññaṃ yajati (s1-3, km), puññappaṭipadaṃ → puññapaṭipadaṃ (bj, s1-3, pts1)",
+  "an3.60:2.6": "etha → etaṃ (mr)",
+  "an3.60:2.7": "ayañceva → sayaṃ ceva (mr)",
+  "an3.60:3.3": "Iccāyampi → iccāyante (mr)",
+  "an3.60:7.5": "nvajja → kānujja (bj, pts1), rājapurisānaṃ → rājaparisāyaṃ (bj, s1-3, km, pts1)",
+  "an3.60:8.5": "abhijjamāne → abhejjamāne (bj) | abhijjamāno (pts1)",
+  "an3.60:14.1": "yadidaṃ → yamidaṃ (s1-3, km, pts1)",
+  "an3.60:14.2": "yova → yo ca (s1-3, km, pts1, mr), sova → so ca (s1-3, km, pts1, mr), yova → yo ca (s1-3, km, pts1, mr), tasseva → tassa ceva (s1-3, km, pts1)",
+  "an3.60:14.3": "yova → yo ca (s1-3, km, pts1, mr), sova → so ca (s1-3, km, pts1, mr), yova → yo ca (s1-3, km, pts1, mr), tasseva → tassa ceva (s1-3, km, pts1)",
+  "an3.60:19.2": "ye → te (mr)"
 }

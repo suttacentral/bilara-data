@@ -1,19 +1,7 @@
 {
-  "mn152:1.2": [
-    "gajaṅgalāyaṃ → kajaṅgalāyaṃ (bj, pts1) | kajjaṅgalāyaṃ (s1-3, km)",
-    "suveḷuvane → mukheluvane (bj, pts1) | sukheluvane (si) | veḷuvane (s1-3, km)"
-  ],
-  "mn152:5.9": [
-    "accharaṃ → accharikaṃ (s1-3, km, pts1, mr)"
-  ],
-  "mn152:6.9": [
-    "padumapalāse → paduminipatte (bj, s1-3, km, pts1)",
-    "īsakampoṇe → īsakapoṇe (bj, s1-3, km, pts1) | īsakaphaṇe (bj-a)"
-  ],
-  "mn152:7.9": [
-    "vameyya → vammeyya (s1-3) | sandhameyya (mr)"
-  ],
-  "mn152:11-15.3": [
-    "paṭikūle → paṭikkūle (sabbattha)"
-  ]
+  "mn152:1.2": "gajaṅgalāyaṃ → kajaṅgalāyaṃ (bj, pts1) | kajjaṅgalāyaṃ (s1-3, km), suveḷuvane → mukheluvane (bj, pts1) | sukheluvane (si) | veḷuvane (s1-3, km)",
+  "mn152:5.9": "accharaṃ → accharikaṃ (s1-3, km, pts1, mr)",
+  "mn152:6.9": "padumapalāse → paduminipatte (bj, s1-3, km, pts1), īsakampoṇe → īsakapoṇe (bj, s1-3, km, pts1) | īsakaphaṇe (bj-a)",
+  "mn152:7.9": "vameyya → vammeyya (s1-3) | sandhameyya (mr)",
+  "mn152:11-15.3": "paṭikūle → paṭikkūle (sabbattha)"
 }

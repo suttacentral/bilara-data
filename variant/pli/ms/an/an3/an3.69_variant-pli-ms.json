@@ -1,35 +1,12 @@
 {
-  "an3.69:2.1": [
-    "akusalamūlaṃ → akusalaṃ (bj, s1-3, km, pts1)"
-  ],
-  "an3.69:2.2": [
-    "vācāya → vācā (bj)",
-    "akusalaṃ → akusalamūlaṃ (mr)"
-  ],
-  "an3.69:2.3": [
-    "uppādayati → upadahati (bj, s1-3, km, pts1)",
-    "akusalaṃ → idaṃ pana sabbatthapi evameva"
-  ],
-  "an3.69:10.1": [
-    "kusalamūlaṃ → kusalaṃ (bj, s1-3, km, pts1)"
-  ],
-  "an3.69:10.2": [
-    "kusalaṃ → kusalamūlaṃ (mr)"
-  ],
-  "an3.69:15.5": [
-    "uddhasto → uddhaseto (s1-3) | uddhasetā (pts1)"
-  ],
-  "an3.69:15.6": [
-    "kudālapiṭakaṃ → kuddālapiṭakaṃ (bj, s1-3, km, pts1)"
-  ],
-  "an3.69:15.7": [
-    "usīranāḷimattānipi → usīranāḷamattānipi (bj, s1-3, km) | usīranālamattāni (pts1)"
-  ],
-  "an3.69:15.8": [
-    "ḍaheyya → daheyya (bj, pts1)",
-    "ophuṇeyya → opuneyya (bj, pts1) | ophuneyya (s1-3)"
-  ],
-  "an3.69:15.9": [
-    "Evamassa → evamassu (bj) | evassu (mr)"
-  ]
+  "an3.69:2.1": "akusalamūlaṃ → akusalaṃ (bj, s1-3, km, pts1)",
+  "an3.69:2.2": "vācāya → vācā (bj), akusalaṃ → akusalamūlaṃ (mr)",
+  "an3.69:2.3": "uppādayati → upadahati (bj, s1-3, km, pts1), akusalaṃ → idaṃ pana sabbatthapi evameva",
+  "an3.69:10.1": "kusalamūlaṃ → kusalaṃ (bj, s1-3, km, pts1)",
+  "an3.69:10.2": "kusalaṃ → kusalamūlaṃ (mr)",
+  "an3.69:15.5": "uddhasto → uddhaseto (s1-3) | uddhasetā (pts1)",
+  "an3.69:15.6": "kudālapiṭakaṃ → kuddālapiṭakaṃ (bj, s1-3, km, pts1)",
+  "an3.69:15.7": "usīranāḷimattānipi → usīranāḷamattānipi (bj, s1-3, km) | usīranālamattāni (pts1)",
+  "an3.69:15.8": "ḍaheyya → daheyya (bj, pts1), ophuṇeyya → opuneyya (bj, pts1) | ophuneyya (s1-3)",
+  "an3.69:15.9": "Evamassa → evamassu (bj) | evassu (mr)"
 }

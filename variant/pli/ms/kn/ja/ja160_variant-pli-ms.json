@@ -1,14 +1,6 @@
 {
-  "ja160:5.1": [
-    "nūna → nu (mr)"
-  ],
-  "ja160:6.3": [
-    "Gāmantakāni → gāmantikāni (bj) | gāmantarāni (mr)"
-  ],
-  "ja160:6.4": [
-    "tavāti → tuvanti (s2, s3) | tavanti (pts1)"
-  ],
-  "ja160:7.1": [
-    "Vinīlajātakaṃ → vinīlakajātakaṃ (bj, s2, s3, pts1)"
-  ]
+  "ja160:5.1": "nūna → nu (mr)",
+  "ja160:6.3": "Gāmantakāni → gāmantikāni (bj) | gāmantarāni (mr)",
+  "ja160:6.4": "tavāti → tuvanti (s2, s3) | tavanti (pts1)",
+  "ja160:7.1": "Vinīlajātakaṃ → vinīlakajātakaṃ (bj, s2, s3, pts1)"
 }

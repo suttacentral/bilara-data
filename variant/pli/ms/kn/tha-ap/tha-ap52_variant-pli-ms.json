@@ -1,20 +1,8 @@
 {
-  "tha-ap52:13.4": [
-    "sakakammaṃ apassito → sakakammūpasaṃhito (s2, s3)"
-  ],
-  "tha-ap52:14.3": [
-    "Hiraññaṃ tassa → hiraññassa ca (bj, pts1, mr)"
-  ],
-  "tha-ap52:16.3": [
-    "Cūḷacundoti → cūlacundoti (bj, pts1)"
-  ],
-  "tha-ap52:19.2": [
-    "ohiya → opiya (bj, pts1) | ociya (s2, s3)"
-  ],
-  "tha-ap52:22.2": [
-    "Vimokkhāpi ca phassitā → vimokkhāpica aṭṭhime (s2, s3, pts1)"
-  ],
-  "tha-ap52:27.5": [
-    "satālīsaṃ → ca tāḷīsaṃ (bj, s2, s3) | ca tālīsaṃ (pts1)"
-  ]
+  "tha-ap52:13.4": "sakakammaṃ apassito → sakakammūpasaṃhito (s2, s3)",
+  "tha-ap52:14.3": "Hiraññaṃ tassa → hiraññassa ca (bj, pts1, mr)",
+  "tha-ap52:16.3": "Cūḷacundoti → cūlacundoti (bj, pts1)",
+  "tha-ap52:19.2": "ohiya → opiya (bj, pts1) | ociya (s2, s3)",
+  "tha-ap52:22.2": "Vimokkhāpi ca phassitā → vimokkhāpica aṭṭhime (s2, s3, pts1)",
+  "tha-ap52:27.5": "satālīsaṃ → ca tāḷīsaṃ (bj, s2, s3) | ca tālīsaṃ (pts1)"
 }

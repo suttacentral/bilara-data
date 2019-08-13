@@ -1,124 +1,42 @@
 {
-  "ja525:4.1": [
-    "5 Cūḷasutasomajātaka → cullasutasomajātakaṃ (bj, s2, s3) | cullasutasomajātaka (pts1)"
-  ],
-  "ja525:5.2": [
-    "parissaje → pārisajje ca (bj, s2, s3) | parīsaje (pts1)"
-  ],
-  "ja525:6.2": [
-    "kappesi → kampesi (pts1)"
-  ],
-  "ja525:11.3": [
-    "tepi → te (bj, pts1)"
-  ],
-  "ja525:12.4": [
-    "vināsabhāvo → vinābhāvo (bj, s2, s3, pts1)"
-  ],
-  "ja525:13.2": [
-    "te → ādu (bj, pts1) | ādū (s2, s3)"
-  ],
-  "ja525:13.3": [
-    "vikandantiyo → vikkandantiyo (bj) | pi kandantiyo (pts1)"
-  ],
-  "ja525:14.4": [
-    "Tena ahaṃ → tenāhaṃ (bj, s2, s3) | tenamahaṃ (pts1)"
-  ],
-  "ja525:16.3": [
-    "Yaṃ me kucchipaṭisandhiṃ → maṃ kucchimatiṃ santiṃ (pts1)"
-  ],
-  "ja525:18.2": [
-    "tvaṃ → naṃ (pts1)"
-  ],
-  "ja525:19.3": [
-    "varapāsādaṃ → ca pāsādaṃ (pts1)"
-  ],
-  "ja525:20.3": [
-    "Kaṃ avajjhaṃ ghātemi → ghātemi km avajjhaṃ (pts1) | taṃ avajjhaṃ ghātemi (mr)"
-  ],
-  "ja525:21.2": [
-    "Vijitāvī → jīvitāvī (pts1)"
-  ],
-  "ja525:23.1": [
-    "Mātucca → mātu ca (bj, s2, s3)",
-    "rudantyā → rudatyā (pts1)"
-  ],
-  "ja525:23.4": [
-    "gacchasi → gañchisi (pts1)"
-  ],
-  "ja525:24.3": [
-    "paripanthamakāsi → ... makā (bj, pts1)"
-  ],
-  "ja525:25.1": [
-    "dadeyyaṃ → jaheyyaṃ (pts1)"
-  ],
-  "ja525:25.2": [
-    "imināttho → ko nu me iminā attho (bj, s2, s3) | ko nu me nattho (pts1)"
-  ],
-  "ja525:26.4": [
-    "pabbaji → pabbajassu (bj) | pabbaja (pts1)"
-  ],
-  "ja525:28.2": [
-    "Saṅkhātuṃ → saṅkhyātuṃ (bj)"
-  ],
-  "ja525:28.3": [
-    "Taṃ te dadāmi sabbampi → taṃ deva te dadāmi sabbampi (bj) | tan te dadāmi sabbaṃ (pts1)"
-  ],
-  "ja525:29.1": [
-    "Jānāmi → jānāmi te (bj, s2, s3)"
-  ],
-  "ja525:30.2": [
-    "āvisati → āvīsati (mr)"
-  ],
-  "ja525:30.3": [
-    "Bahukāpi → bahukā hi (bj, s2, s3)"
-  ],
-  "ja525:34.4": [
-    "Andhabālā → atha bālā (bj, s2, s3, pts1)"
-  ],
-  "ja525:36.2": [
-    "pubbakamhi ca → pupphakamhi ca (bj, s2, s3) | pupphakamhi (pts1)"
-  ],
-  "ja525:37.2": [
-    "Sovaṇṇapupphamālyavītikiṇṇo → sovaṇṇo puppha ... (pts1)"
-  ],
-  "ja525:37.3": [
-    "Yahimanuvicari → yamhi ... (pts1)"
-  ],
-  "ja525:39.2": [
-    "Sovaṇṇapupphamālyavītikiṇṇaṃ → sovaṇṇo puppha ... (pts1)"
-  ],
-  "ja525:40.2": [
-    "Sovaṇṇapupphamālyavītikiṇṇaṃ → sovaṇṇaṃ puppha ... (pts1)"
-  ],
-  "ja525:47.1": [
-    "pāṭalivanaṃ → pāṭaḷīvanaṃ (bj)"
-  ],
-  "ja525:53.1": [
-    "kho → rājā kho (bj, s2, s3, pts1)"
-  ],
-  "ja525:53.2": [
-    "pahatvāna → pahantvāna (bj, s2, s3, mr)"
-  ],
-  "ja525:53.4": [
-    "ekako → ekakova (bj)"
-  ],
-  "ja525:54.2": [
-    "anussarittha → anussarittho (pts1)"
-  ],
-  "ja525:54.4": [
-    "Rammaṃ hi → surammañhi (s2, s3, mr)",
-    "sudassanaṃ → sudassanaṃ nāma (bj)"
-  ],
-  "ja525:55.1": [
-    "Mettacittañca → mettaṃ cittañca (bj) | mettañca (pts1)"
-  ],
-  "ja525:55.3": [
-    "Agacchittha → atha gañchittha (bj, pts1) | atha gacchittha (s2, s3)"
-  ],
-  "ja525:55.4": [
-    "puññakamminan”ti → puññakammānanti (pts1)"
-  ],
-  "ja525:56.1": [
-    "Cūḷasutasomajātakaṃ → cullasutasomajātakaṃ (bj, s2, s3, pts1)"
-  ]
+  "ja525:4.1": "5 Cūḷasutasomajātaka → cullasutasomajātakaṃ (bj, s2, s3) | cullasutasomajātaka (pts1)",
+  "ja525:5.2": "parissaje → pārisajje ca (bj, s2, s3) | parīsaje (pts1)",
+  "ja525:6.2": "kappesi → kampesi (pts1)",
+  "ja525:11.3": "tepi → te (bj, pts1)",
+  "ja525:12.4": "vināsabhāvo → vinābhāvo (bj, s2, s3, pts1)",
+  "ja525:13.2": "te → ādu (bj, pts1) | ādū (s2, s3)",
+  "ja525:13.3": "vikandantiyo → vikkandantiyo (bj) | pi kandantiyo (pts1)",
+  "ja525:14.4": "Tena ahaṃ → tenāhaṃ (bj, s2, s3) | tenamahaṃ (pts1)",
+  "ja525:16.3": "Yaṃ me kucchipaṭisandhiṃ → maṃ kucchimatiṃ santiṃ (pts1)",
+  "ja525:18.2": "tvaṃ → naṃ (pts1)",
+  "ja525:19.3": "varapāsādaṃ → ca pāsādaṃ (pts1)",
+  "ja525:20.3": "Kaṃ avajjhaṃ ghātemi → ghātemi km avajjhaṃ (pts1) | taṃ avajjhaṃ ghātemi (mr)",
+  "ja525:21.2": "Vijitāvī → jīvitāvī (pts1)",
+  "ja525:23.1": "Mātucca → mātu ca (bj, s2, s3), rudantyā → rudatyā (pts1)",
+  "ja525:23.4": "gacchasi → gañchisi (pts1)",
+  "ja525:24.3": "paripanthamakāsi → ... makā (bj, pts1)",
+  "ja525:25.1": "dadeyyaṃ → jaheyyaṃ (pts1)",
+  "ja525:25.2": "imināttho → ko nu me iminā attho (bj, s2, s3) | ko nu me nattho (pts1)",
+  "ja525:26.4": "pabbaji → pabbajassu (bj) | pabbaja (pts1)",
+  "ja525:28.2": "Saṅkhātuṃ → saṅkhyātuṃ (bj)",
+  "ja525:28.3": "Taṃ te dadāmi sabbampi → taṃ deva te dadāmi sabbampi (bj) | tan te dadāmi sabbaṃ (pts1)",
+  "ja525:29.1": "Jānāmi → jānāmi te (bj, s2, s3)",
+  "ja525:30.2": "āvisati → āvīsati (mr)",
+  "ja525:30.3": "Bahukāpi → bahukā hi (bj, s2, s3)",
+  "ja525:34.4": "Andhabālā → atha bālā (bj, s2, s3, pts1)",
+  "ja525:36.2": "pubbakamhi ca → pupphakamhi ca (bj, s2, s3) | pupphakamhi (pts1)",
+  "ja525:37.2": "Sovaṇṇapupphamālyavītikiṇṇo → sovaṇṇo puppha ... (pts1)",
+  "ja525:37.3": "Yahimanuvicari → yamhi ... (pts1)",
+  "ja525:39.2": "Sovaṇṇapupphamālyavītikiṇṇaṃ → sovaṇṇo puppha ... (pts1)",
+  "ja525:40.2": "Sovaṇṇapupphamālyavītikiṇṇaṃ → sovaṇṇaṃ puppha ... (pts1)",
+  "ja525:47.1": "pāṭalivanaṃ → pāṭaḷīvanaṃ (bj)",
+  "ja525:53.1": "kho → rājā kho (bj, s2, s3, pts1)",
+  "ja525:53.2": "pahatvāna → pahantvāna (bj, s2, s3, mr)",
+  "ja525:53.4": "ekako → ekakova (bj)",
+  "ja525:54.2": "anussarittha → anussarittho (pts1)",
+  "ja525:54.4": "Rammaṃ hi → surammañhi (s2, s3, mr), sudassanaṃ → sudassanaṃ nāma (bj)",
+  "ja525:55.1": "Mettacittañca → mettaṃ cittañca (bj) | mettañca (pts1)",
+  "ja525:55.3": "Agacchittha → atha gañchittha (bj, pts1) | atha gacchittha (s2, s3)",
+  "ja525:55.4": "puññakamminan”ti → puññakammānanti (pts1)",
+  "ja525:56.1": "Cūḷasutasomajātakaṃ → cullasutasomajātakaṃ (bj, s2, s3, pts1)"
 }

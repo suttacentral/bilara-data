@@ -1,10 +1,4 @@
 {
-  "an10.60:3.2": [
-    "anabhiratasaññā → anabhiratisaññā (mr)"
-  ],
-  "an10.60:7.4": [
-    "ḍāho → ḍaho (bj, s1-3, pts1)",
-    "nakhasā → rakhasā (bj, s1-3, pts1)",
-    "lohitaṃ pittaṃ → lohitapittaṃ (bj, pts1)"
-  ]
+  "an10.60:3.2": "anabhiratasaññā → anabhiratisaññā (mr)",
+  "an10.60:7.4": "ḍāho → ḍaho (bj, s1-3, pts1), nakhasā → rakhasā (bj, s1-3, pts1), lohitaṃ pittaṃ → lohitapittaṃ (bj, pts1)"
 }

@@ -1,371 +1,124 @@
 {
-  "ja543:11.4": [
-    "kañci → kiñci (bj, pts1, mr)"
-  ],
-  "ja543:17.1": [
-    "pabyathitā → pabyadhitā (bj, c1) | sabyādhitā (s2, s3) | pavyadhitā (pts1)"
-  ],
-  "ja543:18.1": [
-    "() → (nagarakaṇḍo) (bj)"
-  ],
-  "ja543:21.2": [
-    "tejassī → tejasī (bj, s2, s3, pts1, mr)"
-  ],
-  "ja543:24.4": [
-    "vattavataṃ → vattavatiṃ (s2, s3, mr)"
-  ],
-  "ja543:26.2": [
-    "pahūtatagarā → bahutatagarā (s2, pts1) | pahutatagarā (s3)"
-  ],
-  "ja543:27.4": [
-    "pokkharañño → pokkharaññā (s2, s3, pts1)"
-  ],
-  "ja543:31.4": [
-    "saindānaṃ → indānaṃ (s2, s3, mr)"
-  ],
-  "ja543:37.3": [
-    "hoti → hohi (s2, s3)"
-  ],
-  "ja543:43.1": [
-    "() → (vanappavesakaṇḍo) (bj)"
-  ],
-  "ja543:44.2": [
-    "sādhuvittaṃ → sādhucittaṃ (pts1)"
-  ],
-  "ja543:45.3": [
-    "pathaṃ → padaṃ (bj, pts1)"
-  ],
-  "ja543:46.1": [
-    "Sūpaciṇṇo → supaciṇṇo (s2, s3, c1)"
-  ],
-  "ja543:46.2": [
-    "mānito → mahito (bj, s2, s3, pts1, c1)"
-  ],
-  "ja543:48.1": [
-    "akusalo → kusalaṃ (mr)"
-  ],
-  "ja543:49.2": [
-    "gohi → kehi (mr)",
-    "ratanehi → ratanena (bj, pts1)"
-  ],
-  "ja543:50.2": [
-    "gohi → kehi (mr)"
-  ],
-  "ja543:53.3": [
-    "vittoti → vittosmi (s2, s3, mr)"
-  ],
-  "ja543:58.4": [
-    "alampānoti → alambānoti (bj) | ālambānoti (pts1) | ālambāyanoti (s2, s3)"
-  ],
-  "ja543:61.1": [
-    "Sace tvaṃ → sace hi (bj, pts1, mr)"
-  ],
-  "ja543:61.2": [
-    "bhūridatto padassati → bhūridatto padissati (s2, s3) | bhūridattaṃ padissasi (mr)"
-  ],
-  "ja543:63.2": [
-    "mahissamapi vivarati → mahissamavadīyati (bj, pts1) | mahimassa vindrīyati (s2, s3)"
-  ],
-  "ja543:63.4": [
-    "jīvarevāpi sussati → jīvare cāpi sussare (bj, pts1)"
-  ],
-  "ja543:64.1": [
-    "Sace tvaṃ → sace hi (bj, pts1, mr)"
-  ],
-  "ja543:66.3": [
-    "Padampekaṃ → padamekaṃ (s2, s3, mr)"
-  ],
-  "ja543:69.2": [
-    "padissati → kāya'ssa dissati (bj, pts1)"
-  ],
-  "ja543:70.3": [
-    "satthuṃ → saṭṭhuṃ (bj, pts1) | yuṭṭhuṃ (s2) | phuṭṭhuṃ (s3) | suttuṃ (mr)"
-  ],
-  "ja543:71.1": [
-    "() → (kīḷanakaṇḍo) (bj)"
-  ],
-  "ja543:72.4": [
-    "sāvaṃ → sāmaṃ (pts1)"
-  ],
-  "ja543:73.1": [
-    "Padmaṃ → padumaṃ (bj, s2, s3, pts1)"
-  ],
-  "ja543:73.3": [
-    "jātaṃ → yantaṃ (mr)"
-  ],
-  "ja543:74.1": [
-    "Kacci nu → kaccinnu (bj, pts1)",
-    "nābhisasi → te nābhisayi (bj) | te nābhissasi (s2, s3)"
-  ],
-  "ja543:76.1": [
-    "Yatohaṃ → yato taṃ (bj) | yato (pts1)"
-  ],
-  "ja543:77.1": [
-    "parivāriṃsu → paricāriṃsu (bj, pts1)"
-  ],
-  "ja543:78.1": [
-    "parivāriṃsu → paricāriṃsu (bj, pts1)"
-  ],
-  "ja543:82.4": [
-    "apassatī → imissā gāthāyānantare bj, pts1 potthakesu-- \\ saku hataputt"
-  ],
-  "ja543:86.1": [
-    "sampamathitā → sampamadditā (s2, s3, mr)"
-  ],
-  "ja543:87.3": [
-    "subhogo → subhago (bj, pts1)"
-  ],
-  "ja543:87.4": [
-    "padhāviṃsu → upadhāviṃsu (bj, pts1)"
-  ],
-  "ja543:92.3": [
-    "Orena sattarattassa → orena dasarattassa (bj, pts1)"
-  ],
-  "ja543:93.3": [
-    "Kacci nu taṃ ḍaṃsī tāta → kacci taṃ nu ḍasī tāta (bj) | kacci nu ḍaṃsito tāta (s2, s3) | kaccitānuḍasī tāta (pts1)"
-  ],
-  "ja543:95.2": [
-    "ditto → datto (bj, s2, s3, pts1)"
-  ],
-  "ja543:101.1": [
-    "Alampāno → ālambāno (bj, pts1) | ālambāyano (s2, s3)"
-  ],
-  "ja543:101.2": [
-    "abhijigīsati → abhijigiṃsati (bj, s2, s3, pts1)"
-  ],
-  "ja543:102.4": [
-    "ahidassanaṃ → abhidassananti (pts1)"
-  ],
-  "ja543:105.3": [
-    "ālampa → ālamba (bj, s2, s3, pts1)"
-  ],
-  "ja543:105.4": [
-    "Bhusamuṭṭhiṃ → sattumuṭṭhiṃ (bj, pts1) | thusamuṭṭhiṃ (s2, s3)"
-  ],
-  "ja543:106.1": [
-    "dummī → rummī (bj, s2, s3, pts1)"
-  ],
-  "ja543:112.1": [
-    "ajamukhī → accimukhī (bj, s2, s3, pts1)"
-  ],
-  "ja543:113.3": [
-    "taṃ ḍaṃsatvajamukhī → sā dissatu accimukhī (bj) | sā ḍaṃsatu accimukhī (s2, s3) | sā dissatu accīmukhī (pts1)"
-  ],
-  "ja543:116.1": [
-    "Udake ce → udakañce (bj, pts1)"
-  ],
-  "ja543:116.3": [
-    "Yāvantodakajā → yāvatā odakā (bj) | yāvatā udakajā (pts1)"
-  ],
-  "ja543:117.1": [
-    "() → (nagarappavesanakaṇḍaṃ niṭṭhitaṃ) (bj)"
-  ],
-  "ja543:119.2": [
-    "pakriya → pakiraharī (bj) | pakīraharī (s2, s3) | pakiraparī (pts1)"
-  ],
-  "ja543:120.2": [
-    "Kāsissa → kaṃsassa (bj, pts1)"
-  ],
-  "ja543:120.6": [
-    "ohārituṃ → ohātuṃ (pts1)"
-  ],
-  "ja543:121.3": [
-    "dūramacari → dūra'masarā (bj, pts1) | dūramācari (s2, s3)"
-  ],
-  "ja543:121.4": [
-    "sīghavā → sekhavā (bj, pts1) | pekkhavā (s2, s3, mr)"
-  ],
-  "ja543:122.3": [
-    "Sa maṃsakājamādāya → samaṃ sakajamādāya (c1)"
-  ],
-  "ja543:123.2": [
-    "piṅgalaṃ → piṅgiyaṃ (bj, s2, s3, pts1)"
-  ],
-  "ja543:127.4": [
-    "hoti → bhavati (bj, s2, s3, pts1)"
-  ],
-  "ja543:130.1": [
-    "() → (subhagakaṇḍo) (bj)"
-  ],
-  "ja543:136.2": [
-    "bhojetumaggiṃ → jetumaggiṃ (bj, pts1)"
-  ],
-  "ja543:137.3": [
-    "raṭṭhaṃ → rathaṃ (bj, pts1)"
-  ],
-  "ja543:137.4": [
-    "dudīpopi jagāma → dudīpopi jagāmaṃ (bj) | dudīpopajjhagāmi (s2, s3) | dujīpopi jagāma (pts1)"
-  ],
-  "ja543:138.2": [
-    "soṇṇamayaṃ → sovaṇṇamayaṃ (s2, s3, mr)"
-  ],
-  "ja543:139.2": [
-    "Pavattatha → pavattati (s2, s3, mr)",
-    "dadhisannisinnaṃ → dadhisannaṃ (bj, pts1) | dadhisanninnaṃ (s3)"
-  ],
-  "ja543:141.1": [
-    "Akārayi → akāri (bj, pts1)"
-  ],
-  "ja543:141.2": [
-    "gijjhaṃ → vijjhaṃ (s2, s3, mr) | viñjhaṃ (?)"
-  ],
-  "ja543:142.1": [
-    "gijjho → vijjhā (s2, s3) | vijjho (mr)"
-  ],
-  "ja543:142.2": [
-    "kuveru → kākaneru (bj, pts1) | kākaveru (s2, s3)"
-  ],
-  "ja543:143.2": [
-    "yācayogotidhāhu → yācayogoti cāha (bj, pts1) | yācayogītidhāhu (s2, s3) | yācayogoti cāhu (mr)"
-  ],
-  "ja543:143.3": [
-    "sajantaṃ → siñcantaṃ (mr)"
-  ],
-  "ja543:145.1": [
-    "Kalī → kaliṃ (bj)"
-  ],
-  "ja543:147.1": [
-    "sadhanaṃ sabhogaṃ → sadhanā sabhogā (bj, s2, s3, pts1, mr)"
-  ],
-  "ja543:147.3": [
-    "na tappe → na tappe aggi (mr)"
-  ],
-  "ja543:147.4": [
-    "dvirasaññu kayirā → dirasañña kuriyā (bj) | dirasaññu kayirā (s2, s3) | dirasaññu kuriyā (pts1)"
-  ],
-  "ja543:149.1": [
-    "Na dissatī → na dissate (bj, pts1) | na dissati (s2, s3)"
-  ],
-  "ja543:149.3": [
-    "Nāmatthamāno → nāmanthamāno (bj, pts1)"
-  ],
-  "ja543:154.1": [
-    "Sikhimpi → sikhiṃ hi (bj, pts1) | sikhiñhi (s2, s3)"
-  ],
-  "ja543:154.2": [
-    "milakkhū → milakkhā (bj, pts1)"
-  ],
-  "ja543:154.3": [
-    "bhaṇanti → gaṇhanti (mr)"
-  ],
-  "ja543:155.1": [
-    "Anindriyabaddhamasaññakāyaṃ → nirindriyaṃ santaṃ asaññakāyaṃ (bj, pts1) | anindriyaṃ santamasaññakāyaṃ (s2, s3)"
-  ],
-  "ja543:155.4": [
-    "pakubbamāno → patrubbamāno (s2, s3) | pakobbamāno (mr)"
-  ],
-  "ja543:157.4": [
-    "Sandhāpitā → santhambhitā (bj, pts1) | sandhābhitā (s2, s3) | santāpitā (mr)"
-  ],
-  "ja543:159.6": [
-    "parapesanāya → parapessitāya (bj, pts1)"
-  ],
-  "ja543:161.1": [
-    "Khatyā hi vessānaṃ → khatyā na vessā na (bj) | khattā na vessā na (pts1)"
-  ],
-  "ja543:162.2": [
-    "Brahmā bahūbhūtapatī → brahmāpahū bhūtapatī (s2, s3)"
-  ],
-  "ja543:163.3": [
-    "musāvajjamadena → musāvañcanapadena (mr)"
-  ],
-  "ja543:163.4": [
-    "kimatthamakāri → kimattha'kāsi (bj, pts1) | kimatthakārī (s2) | kimatthakāri (s3)"
-  ],
-  "ja543:165.1": [
-    "bhekā → bhiṅgā (s2) | bheṅgā (s3)"
-  ],
-  "ja543:166.3": [
-    "mārayeyyuṃ → mārabheyyuṃ (mr)"
-  ],
-  "ja543:167.4": [
-    "pasumārabhanti → ... māharanti (bj, pts1)"
-  ],
-  "ja543:168.1": [
-    "Yūpussane → yūpassa te (bj) | yūpassa ne (s3, pts1)"
-  ],
-  "ja543:169.6": [
-    "Abrāhmaṇaṃ → na brāhmaṇā (bj, s2, s3) | na brāhmaṇaṃ (pts1)"
-  ],
-  "ja543:171.1": [
-    "paluddhabālā → upaladdhabālā (bj, pts1)"
-  ],
-  "ja543:172.4": [
-    "atigāḷhayanti → atigāḷayanti (bj, pts1)"
-  ],
-  "ja543:174.2": [
-    "bahukā → bahuhi (bj)"
-  ],
-  "ja543:177.2": [
-    "sa devo → sudevo (s2, s3, mr)"
-  ],
-  "ja543:180.1": [
-    "cirena → cirenapi (bj, pts1)"
-  ],
-  "ja543:183.3": [
-    "brāhmaṇajjhoharaṇena → brāhmaṇajjhoharanena (pts1) | brāhmaṇajjhohari tena (mr)"
-  ],
-  "ja543:184.4": [
-    "vosaggavibhaṅgamāhu → vossaggavibhāgamāhu (bj) | vossaggavibhaṅgamāhu (s2, s3, c1)"
-  ],
-  "ja543:185.2": [
-    "matīmā → mutīmā (bj, pts1)"
-  ],
-  "ja543:185.4": [
-    "katā → kattā (bj, pts1)"
-  ],
-  "ja543:186.1": [
-    "giddhikatā → giddhigatā (mr)"
-  ],
-  "ja543:187.4": [
-    "samānā → samānaṃ (s2, s3, mr)"
-  ],
-  "ja543:188.4": [
-    "niccasukhī → niccasukhā (pts1)"
-  ],
-  "ja543:190.4": [
-    "Sabbeva tesaṃ catunnañca → sabbe te sabbesaṃ catunna (bj, pts1)"
-  ],
-  "ja543:191.2": [
-    "karonti → kārenti (bj, s2, s3, pts1)"
-  ],
-  "ja543:192.1": [
-    "te → ete (bj, s2, s3, pts1)"
-  ],
-  "ja543:192.3": [
-    "karonti → kārenti (bj, s2, s3, pts1)"
-  ],
-  "ja543:193.1": [
-    "() → (yaññabhedavādakaṇḍo) (bj)"
-  ],
-  "ja543:198.1": [
-    "aṅgaṃ → aṅkaṃ (bj, pts1) | aṅga (s3)"
-  ],
-  "ja543:198.2": [
-    "vālabījanimuttamaṃ → vāḷa ... (c1)"
-  ],
-  "ja543:198.3": [
-    "Ubhato varapuññassa → carate varapaññassa (bj, pts1) | ubhato varapaññassa (s2, s3)"
-  ],
-  "ja543:199.3": [
-    "Kañcanamaṇidaṇḍāni → tapaññamaṇidaṇḍāni (bj, pts1) | suvaṇṇamaṇidaṇḍāni (s2, s3, mr)"
-  ],
-  "ja543:201.2": [
-    "mudukāḷakā → mudukālakaṃ (bj) | mudu kāḷikā (s2, s3)"
-  ],
-  "ja543:203.1": [
-    "lapanajātā → lapanajā suddhā (bj, pts1)"
-  ],
-  "ja543:203.2": [
-    "suddhā saṅkhavarūpamā → suddhasaṅkhavarūpamā (bj, pts1)"
-  ],
-  "ja543:205.1": [
-    "himavati → hemavato (bj, pts1) | himavato (s2, s3)"
-  ],
-  "ja543:206.4": [
-    "īsaṃ khaggaṃ pamuñcati → īso khaggaṃva muccati (bj) | aṃse khaggaṃ pamuñcati (s2, s3) | īso khaggaṃva muñcati (pts1)"
-  ],
-  "ja543:207.2": [
-    "cittasibbanā → citrasibbanā (bj, pts1) | citrasibbinī (s2, s3, mr)"
-  ]
+  "ja543:11.4": "kañci → kiñci (bj, pts1, mr)",
+  "ja543:17.1": "pabyathitā → pabyadhitā (bj, c1) | sabyādhitā (s2, s3) | pavyadhitā (pts1)",
+  "ja543:18.1": "() → (nagarakaṇḍo) (bj)",
+  "ja543:21.2": "tejassī → tejasī (bj, s2, s3, pts1, mr)",
+  "ja543:24.4": "vattavataṃ → vattavatiṃ (s2, s3, mr)",
+  "ja543:26.2": "pahūtatagarā → bahutatagarā (s2, pts1) | pahutatagarā (s3)",
+  "ja543:27.4": "pokkharañño → pokkharaññā (s2, s3, pts1)",
+  "ja543:31.4": "saindānaṃ → indānaṃ (s2, s3, mr)",
+  "ja543:37.3": "hoti → hohi (s2, s3)",
+  "ja543:43.1": "() → (vanappavesakaṇḍo) (bj)",
+  "ja543:44.2": "sādhuvittaṃ → sādhucittaṃ (pts1)",
+  "ja543:45.3": "pathaṃ → padaṃ (bj, pts1)",
+  "ja543:46.1": "Sūpaciṇṇo → supaciṇṇo (s2, s3, c1)",
+  "ja543:46.2": "mānito → mahito (bj, s2, s3, pts1, c1)",
+  "ja543:48.1": "akusalo → kusalaṃ (mr)",
+  "ja543:49.2": "gohi → kehi (mr), ratanehi → ratanena (bj, pts1)",
+  "ja543:50.2": "gohi → kehi (mr)",
+  "ja543:53.3": "vittoti → vittosmi (s2, s3, mr)",
+  "ja543:58.4": "alampānoti → alambānoti (bj) | ālambānoti (pts1) | ālambāyanoti (s2, s3)",
+  "ja543:61.1": "Sace tvaṃ → sace hi (bj, pts1, mr)",
+  "ja543:61.2": "bhūridatto padassati → bhūridatto padissati (s2, s3) | bhūridattaṃ padissasi (mr)",
+  "ja543:63.2": "mahissamapi vivarati → mahissamavadīyati (bj, pts1) | mahimassa vindrīyati (s2, s3)",
+  "ja543:63.4": "jīvarevāpi sussati → jīvare cāpi sussare (bj, pts1)",
+  "ja543:64.1": "Sace tvaṃ → sace hi (bj, pts1, mr)",
+  "ja543:66.3": "Padampekaṃ → padamekaṃ (s2, s3, mr)",
+  "ja543:69.2": "padissati → kāya'ssa dissati (bj, pts1)",
+  "ja543:70.3": "satthuṃ → saṭṭhuṃ (bj, pts1) | yuṭṭhuṃ (s2) | phuṭṭhuṃ (s3) | suttuṃ (mr)",
+  "ja543:71.1": "() → (kīḷanakaṇḍo) (bj)",
+  "ja543:72.4": "sāvaṃ → sāmaṃ (pts1)",
+  "ja543:73.1": "Padmaṃ → padumaṃ (bj, s2, s3, pts1)",
+  "ja543:73.3": "jātaṃ → yantaṃ (mr)",
+  "ja543:74.1": "Kacci nu → kaccinnu (bj, pts1), nābhisasi → te nābhisayi (bj) | te nābhissasi (s2, s3)",
+  "ja543:76.1": "Yatohaṃ → yato taṃ (bj) | yato (pts1)",
+  "ja543:77.1": "parivāriṃsu → paricāriṃsu (bj, pts1)",
+  "ja543:78.1": "parivāriṃsu → paricāriṃsu (bj, pts1)",
+  "ja543:82.4": "apassatī → imissā gāthāyānantare bj, pts1 potthakesu-- \\ saku hataputt",
+  "ja543:86.1": "sampamathitā → sampamadditā (s2, s3, mr)",
+  "ja543:87.3": "subhogo → subhago (bj, pts1)",
+  "ja543:87.4": "padhāviṃsu → upadhāviṃsu (bj, pts1)",
+  "ja543:92.3": "Orena sattarattassa → orena dasarattassa (bj, pts1)",
+  "ja543:93.3": "Kacci nu taṃ ḍaṃsī tāta → kacci taṃ nu ḍasī tāta (bj) | kacci nu ḍaṃsito tāta (s2, s3) | kaccitānuḍasī tāta (pts1)",
+  "ja543:95.2": "ditto → datto (bj, s2, s3, pts1)",
+  "ja543:101.1": "Alampāno → ālambāno (bj, pts1) | ālambāyano (s2, s3)",
+  "ja543:101.2": "abhijigīsati → abhijigiṃsati (bj, s2, s3, pts1)",
+  "ja543:102.4": "ahidassanaṃ → abhidassananti (pts1)",
+  "ja543:105.3": "ālampa → ālamba (bj, s2, s3, pts1)",
+  "ja543:105.4": "Bhusamuṭṭhiṃ → sattumuṭṭhiṃ (bj, pts1) | thusamuṭṭhiṃ (s2, s3)",
+  "ja543:106.1": "dummī → rummī (bj, s2, s3, pts1)",
+  "ja543:112.1": "ajamukhī → accimukhī (bj, s2, s3, pts1)",
+  "ja543:113.3": "taṃ ḍaṃsatvajamukhī → sā dissatu accimukhī (bj) | sā ḍaṃsatu accimukhī (s2, s3) | sā dissatu accīmukhī (pts1)",
+  "ja543:116.1": "Udake ce → udakañce (bj, pts1)",
+  "ja543:116.3": "Yāvantodakajā → yāvatā odakā (bj) | yāvatā udakajā (pts1)",
+  "ja543:117.1": "() → (nagarappavesanakaṇḍaṃ niṭṭhitaṃ) (bj)",
+  "ja543:119.2": "pakriya → pakiraharī (bj) | pakīraharī (s2, s3) | pakiraparī (pts1)",
+  "ja543:120.2": "Kāsissa → kaṃsassa (bj, pts1)",
+  "ja543:120.6": "ohārituṃ → ohātuṃ (pts1)",
+  "ja543:121.3": "dūramacari → dūra'masarā (bj, pts1) | dūramācari (s2, s3)",
+  "ja543:121.4": "sīghavā → sekhavā (bj, pts1) | pekkhavā (s2, s3, mr)",
+  "ja543:122.3": "Sa maṃsakājamādāya → samaṃ sakajamādāya (c1)",
+  "ja543:123.2": "piṅgalaṃ → piṅgiyaṃ (bj, s2, s3, pts1)",
+  "ja543:127.4": "hoti → bhavati (bj, s2, s3, pts1)",
+  "ja543:130.1": "() → (subhagakaṇḍo) (bj)",
+  "ja543:136.2": "bhojetumaggiṃ → jetumaggiṃ (bj, pts1)",
+  "ja543:137.3": "raṭṭhaṃ → rathaṃ (bj, pts1)",
+  "ja543:137.4": "dudīpopi jagāma → dudīpopi jagāmaṃ (bj) | dudīpopajjhagāmi (s2, s3) | dujīpopi jagāma (pts1)",
+  "ja543:138.2": "soṇṇamayaṃ → sovaṇṇamayaṃ (s2, s3, mr)",
+  "ja543:139.2": "Pavattatha → pavattati (s2, s3, mr), dadhisannisinnaṃ → dadhisannaṃ (bj, pts1) | dadhisanninnaṃ (s3)",
+  "ja543:141.1": "Akārayi → akāri (bj, pts1)",
+  "ja543:141.2": "gijjhaṃ → vijjhaṃ (s2, s3, mr) | viñjhaṃ (?)",
+  "ja543:142.1": "gijjho → vijjhā (s2, s3) | vijjho (mr)",
+  "ja543:142.2": "kuveru → kākaneru (bj, pts1) | kākaveru (s2, s3)",
+  "ja543:143.2": "yācayogotidhāhu → yācayogoti cāha (bj, pts1) | yācayogītidhāhu (s2, s3) | yācayogoti cāhu (mr)",
+  "ja543:143.3": "sajantaṃ → siñcantaṃ (mr)",
+  "ja543:145.1": "Kalī → kaliṃ (bj)",
+  "ja543:147.1": "sadhanaṃ sabhogaṃ → sadhanā sabhogā (bj, s2, s3, pts1, mr)",
+  "ja543:147.3": "na tappe → na tappe aggi (mr)",
+  "ja543:147.4": "dvirasaññu kayirā → dirasañña kuriyā (bj) | dirasaññu kayirā (s2, s3) | dirasaññu kuriyā (pts1)",
+  "ja543:149.1": "Na dissatī → na dissate (bj, pts1) | na dissati (s2, s3)",
+  "ja543:149.3": "Nāmatthamāno → nāmanthamāno (bj, pts1)",
+  "ja543:154.1": "Sikhimpi → sikhiṃ hi (bj, pts1) | sikhiñhi (s2, s3)",
+  "ja543:154.2": "milakkhū → milakkhā (bj, pts1)",
+  "ja543:154.3": "bhaṇanti → gaṇhanti (mr)",
+  "ja543:155.1": "Anindriyabaddhamasaññakāyaṃ → nirindriyaṃ santaṃ asaññakāyaṃ (bj, pts1) | anindriyaṃ santamasaññakāyaṃ (s2, s3)",
+  "ja543:155.4": "pakubbamāno → patrubbamāno (s2, s3) | pakobbamāno (mr)",
+  "ja543:157.4": "Sandhāpitā → santhambhitā (bj, pts1) | sandhābhitā (s2, s3) | santāpitā (mr)",
+  "ja543:159.6": "parapesanāya → parapessitāya (bj, pts1)",
+  "ja543:161.1": "Khatyā hi vessānaṃ → khatyā na vessā na (bj) | khattā na vessā na (pts1)",
+  "ja543:162.2": "Brahmā bahūbhūtapatī → brahmāpahū bhūtapatī (s2, s3)",
+  "ja543:163.3": "musāvajjamadena → musāvañcanapadena (mr)",
+  "ja543:163.4": "kimatthamakāri → kimattha'kāsi (bj, pts1) | kimatthakārī (s2) | kimatthakāri (s3)",
+  "ja543:165.1": "bhekā → bhiṅgā (s2) | bheṅgā (s3)",
+  "ja543:166.3": "mārayeyyuṃ → mārabheyyuṃ (mr)",
+  "ja543:167.4": "pasumārabhanti → ... māharanti (bj, pts1)",
+  "ja543:168.1": "Yūpussane → yūpassa te (bj) | yūpassa ne (s3, pts1)",
+  "ja543:169.6": "Abrāhmaṇaṃ → na brāhmaṇā (bj, s2, s3) | na brāhmaṇaṃ (pts1)",
+  "ja543:171.1": "paluddhabālā → upaladdhabālā (bj, pts1)",
+  "ja543:172.4": "atigāḷhayanti → atigāḷayanti (bj, pts1)",
+  "ja543:174.2": "bahukā → bahuhi (bj)",
+  "ja543:177.2": "sa devo → sudevo (s2, s3, mr)",
+  "ja543:180.1": "cirena → cirenapi (bj, pts1)",
+  "ja543:183.3": "brāhmaṇajjhoharaṇena → brāhmaṇajjhoharanena (pts1) | brāhmaṇajjhohari tena (mr)",
+  "ja543:184.4": "vosaggavibhaṅgamāhu → vossaggavibhāgamāhu (bj) | vossaggavibhaṅgamāhu (s2, s3, c1)",
+  "ja543:185.2": "matīmā → mutīmā (bj, pts1)",
+  "ja543:185.4": "katā → kattā (bj, pts1)",
+  "ja543:186.1": "giddhikatā → giddhigatā (mr)",
+  "ja543:187.4": "samānā → samānaṃ (s2, s3, mr)",
+  "ja543:188.4": "niccasukhī → niccasukhā (pts1)",
+  "ja543:190.4": "Sabbeva tesaṃ catunnañca → sabbe te sabbesaṃ catunna (bj, pts1)",
+  "ja543:191.2": "karonti → kārenti (bj, s2, s3, pts1)",
+  "ja543:192.1": "te → ete (bj, s2, s3, pts1)",
+  "ja543:192.3": "karonti → kārenti (bj, s2, s3, pts1)",
+  "ja543:193.1": "() → (yaññabhedavādakaṇḍo) (bj)",
+  "ja543:198.1": "aṅgaṃ → aṅkaṃ (bj, pts1) | aṅga (s3)",
+  "ja543:198.2": "vālabījanimuttamaṃ → vāḷa ... (c1)",
+  "ja543:198.3": "Ubhato varapuññassa → carate varapaññassa (bj, pts1) | ubhato varapaññassa (s2, s3)",
+  "ja543:199.3": "Kañcanamaṇidaṇḍāni → tapaññamaṇidaṇḍāni (bj, pts1) | suvaṇṇamaṇidaṇḍāni (s2, s3, mr)",
+  "ja543:201.2": "mudukāḷakā → mudukālakaṃ (bj) | mudu kāḷikā (s2, s3)",
+  "ja543:203.1": "lapanajātā → lapanajā suddhā (bj, pts1)",
+  "ja543:203.2": "suddhā saṅkhavarūpamā → suddhasaṅkhavarūpamā (bj, pts1)",
+  "ja543:205.1": "himavati → hemavato (bj, pts1) | himavato (s2, s3)",
+  "ja543:206.4": "īsaṃ khaggaṃ pamuñcati → īso khaggaṃva muccati (bj) | aṃse khaggaṃ pamuñcati (s2, s3) | īso khaggaṃva muñcati (pts1)",
+  "ja543:207.2": "cittasibbanā → citrasibbanā (bj, pts1) | citrasibbinī (s2, s3, mr)"
 }

@@ -1,17 +1,7 @@
 {
-  "an5.181:0.2": [
-    "āraññakavaggo (bj)"
-  ],
-  "an5.181:0.3": [
-    "āraññakasuttaṃ (bj)"
-  ],
-  "an5.181:1.1": [
-    "āraññikā → āraññatā (bj) | āraññakā (s1-3, km, pts1)"
-  ],
-  "an5.181:1.3": [
-    "idamatthitaṃyeva → idamaṭṭhitaṃyeva (bj, pts1)"
-  ],
-  "an5.181:2.1": [
-    "sappimaṇḍo, sappimaṇḍo → sappimhā sappimaṇḍo (pts1, mr)"
-  ]
+  "an5.181:0.2": "āraññakavaggo (bj)",
+  "an5.181:0.3": "āraññakasuttaṃ (bj)",
+  "an5.181:1.1": "āraññikā → āraññatā (bj) | āraññakā (s1-3, km, pts1)",
+  "an5.181:1.3": "idamatthitaṃyeva → idamaṭṭhitaṃyeva (bj, pts1)",
+  "an5.181:2.1": "sappimaṇḍo, sappimaṇḍo → sappimhā sappimaṇḍo (pts1, mr)"
 }

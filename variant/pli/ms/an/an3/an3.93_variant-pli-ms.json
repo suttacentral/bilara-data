@@ -1,19 +1,7 @@
 {
-  "an3.93:2.1": [
-    "tirīṭānipi → tirīṭakānipi (bj, s1-3, pts1)",
-    "ajinampi → ajinānipi (bj, s1-3, pts1)"
-  ],
-  "an3.93:4.1": [
-    "rukkhamūlaṃ susānaṃ → rukkhamūlaṃ bhusāgāraṃ susānaṃ (mr)",
-    "bhusāgāraṃ → suññāgāraṃ (mr)"
-  ],
-  "an3.93:6.2": [
-    "sīghaṃ sīghaṃ → sīghasīghaṃ (bj, s1-3, km, pts1)"
-  ],
-  "an3.93:6.4": [
-    "ubbahāpeyya → ubbāhāpeyya (s1-3, km)"
-  ],
-  "an3.93:6.13": [
-    "Evamassu → evassu (mr)"
-  ]
+  "an3.93:2.1": "tirīṭānipi → tirīṭakānipi (bj, s1-3, pts1), ajinampi → ajinānipi (bj, s1-3, pts1)",
+  "an3.93:4.1": "rukkhamūlaṃ susānaṃ → rukkhamūlaṃ bhusāgāraṃ susānaṃ (mr), bhusāgāraṃ → suññāgāraṃ (mr)",
+  "an3.93:6.2": "sīghaṃ sīghaṃ → sīghasīghaṃ (bj, s1-3, km, pts1)",
+  "an3.93:6.4": "ubbahāpeyya → ubbāhāpeyya (s1-3, km)",
+  "an3.93:6.13": "Evamassu → evassu (mr)"
 }

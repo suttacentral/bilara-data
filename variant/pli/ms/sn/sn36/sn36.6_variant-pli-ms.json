@@ -1,20 +1,8 @@
 {
-  "sn36.6:1.1": [
-    "vedayati → vediyati (bj, pts1)"
-  ],
-  "sn36.6:1.3": [
-    "adhippayāso → adhippāyo (bj, mr) | adhippāyaso (s1-3, km) | adhippāyoso (pts1)"
-  ],
-  "sn36.6:1.8": [
-    "sallena vijjheyya → sallena vijjheyyuṃ (bj, s1-3, km, pts1)"
-  ],
-  "sn36.6:1.9": [
-    "sallena anuvedhaṃ vijjheyya → sallena anuvedhaṃ vijjheyyuṃ (bj, s1-3, km) | sallena vijjheyyuṃ (pts1)"
-  ],
-  "sn36.6:4.4": [
-    "Mahā → ayaṃ (s1-3, km, mr)"
-  ],
-  "sn36.6:5.2": [
-    "Vipassato → sampassato (bj, pts1)"
-  ]
+  "sn36.6:1.1": "vedayati → vediyati (bj, pts1)",
+  "sn36.6:1.3": "adhippayāso → adhippāyo (bj, mr) | adhippāyaso (s1-3, km) | adhippāyoso (pts1)",
+  "sn36.6:1.8": "sallena vijjheyya → sallena vijjheyyuṃ (bj, s1-3, km, pts1)",
+  "sn36.6:1.9": "sallena anuvedhaṃ vijjheyya → sallena anuvedhaṃ vijjheyyuṃ (bj, s1-3, km) | sallena vijjheyyuṃ (pts1)",
+  "sn36.6:4.4": "Mahā → ayaṃ (s1-3, km, mr)",
+  "sn36.6:5.2": "Vipassato → sampassato (bj, pts1)"
 }

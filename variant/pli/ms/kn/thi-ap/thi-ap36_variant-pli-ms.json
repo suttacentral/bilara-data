@@ -1,26 +1,10 @@
 {
-  "thi-ap36:3.1": [
-    "6 Abhirūpanandātherīapadāna → rūpanandāpadānaṃ (bj)"
-  ],
-  "thi-ap36:9.2": [
-    "adhibhotvāna sesake → abhibhotvā asesato (s2, s3) | abhibhotvāna sesake (pts1)"
-  ],
-  "thi-ap36:12.1": [
-    "Abhirūpasampadampi → abhirūpaṃ upapadaṃ (bj) | abhirūpaṃ uppādaṃ (pts1)"
-  ],
-  "thi-ap36:13.1": [
-    "Tadā mamatthe → tadā mamatthaṃ (bj) | idha mamatte (s2, s3, mr) | idaṃ mematthe (pts1)"
-  ],
-  "thi-ap36:16.1": [
-    "Tissitthiyo → tthiyo (bj) | tisso thiyo (pts1)"
-  ],
-  "thi-ap36:16.4": [
-    "jaritaṃ → jarikaṃ (s2, s3, mr) | jaritā (pts1)"
-  ],
-  "thi-ap36:21.2": [
-    "vicarantiyā → viharantyā'dha (bj) | vicinantīdha (s2, s3) | vicinantidha (pts1)"
-  ],
-  "thi-ap36:29.1": [
-    "abhirūpanandā → rūpanandā (bj)"
-  ]
+  "thi-ap36:3.1": "6 Abhirūpanandātherīapadāna → rūpanandāpadānaṃ (bj)",
+  "thi-ap36:9.2": "adhibhotvāna sesake → abhibhotvā asesato (s2, s3) | abhibhotvāna sesake (pts1)",
+  "thi-ap36:12.1": "Abhirūpasampadampi → abhirūpaṃ upapadaṃ (bj) | abhirūpaṃ uppādaṃ (pts1)",
+  "thi-ap36:13.1": "Tadā mamatthe → tadā mamatthaṃ (bj) | idha mamatte (s2, s3, mr) | idaṃ mematthe (pts1)",
+  "thi-ap36:16.1": "Tissitthiyo → tthiyo (bj) | tisso thiyo (pts1)",
+  "thi-ap36:16.4": "jaritaṃ → jarikaṃ (s2, s3, mr) | jaritā (pts1)",
+  "thi-ap36:21.2": "vicarantiyā → viharantyā'dha (bj) | vicinantīdha (s2, s3) | vicinantidha (pts1)",
+  "thi-ap36:29.1": "abhirūpanandā → rūpanandā (bj)"
 }

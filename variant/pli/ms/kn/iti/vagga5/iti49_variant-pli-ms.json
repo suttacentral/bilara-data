@@ -1,14 +1,6 @@
 {
-  "iti49:6.3": [
-    "attā → satto (si, mr) | attho (pts1)"
-  ],
-  "iti49:8.1": [
-    "Ye → yo (s1-3, pts1, mr)"
-  ],
-  "iti49:9.1": [
-    "Sa ve → sace (si, s1-3)"
-  ],
-  "iti49:14.5": [
-    "ceva → yeva (s1-3)"
-  ]
+  "iti49:6.3": "attā → satto (si, mr) | attho (pts1)",
+  "iti49:8.1": "Ye → yo (s1-3, pts1, mr)",
+  "iti49:9.1": "Sa ve → sace (si, s1-3)",
+  "iti49:14.5": "ceva → yeva (s1-3)"
 }

@@ -1,11 +1,5 @@
 {
-  "tha-ap452:3.1": [
-    "10 Bodhigharadāyakattheraapadāna → bodhighariyattherāpadānaṃ (bj, pts1) | bodhigharakārakattherāpadānaṃ (s2, s3)"
-  ],
-  "tha-ap452:6.4": [
-    "vissakammena → visukammena (s2, s3, mr)"
-  ],
-  "tha-ap452:16.1": [
-    "bodhigharadāyako → bodhighariyo (bj, pts1) | bodhigharakārako (s2, s3)"
-  ]
+  "tha-ap452:3.1": "10 Bodhigharadāyakattheraapadāna → bodhighariyattherāpadānaṃ (bj, pts1) | bodhigharakārakattherāpadānaṃ (s2, s3)",
+  "tha-ap452:6.4": "vissakammena → visukammena (s2, s3, mr)",
+  "tha-ap452:16.1": "bodhigharadāyako → bodhighariyo (bj, pts1) | bodhigharakārako (s2, s3)"
 }

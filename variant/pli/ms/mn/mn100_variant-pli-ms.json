@@ -1,34 +1,11 @@
 {
-  "mn100:2.1": [
-    "dhanañjānī → dhānañjānī (pts1)",
-    "cañcalikappe → maṇḍalakappe (bj) | caṇḍalakappe (si, pts1) | paccalakappe (s1-3, km)"
-  ],
-  "mn100:3.4": [
-    "avabhūtāva ayaṃ → avabhūtā cayaṃ (bj, pts1) | avabhūtā ca yaṃ (s1-3, km)",
-    "tevijjānaṃ → idaṃ padaṃ bj, pts1 potthakesu",
-    "bhāsissatī”ti → bhāsatīti (bj, s1-3, km, pts1)",
-    "parabhūtāva ayaṃ → parābhūtā ca yaṃ (s1-3, km) | parābhūtā cayaṃ (pts1)"
-  ],
-  "mn100:42.2": [
-    "aṭṭhitavataṃ → aṭṭhitavata (s1-3, km, pts1)",
-    "sappurisavataṃ → sappurisavata (s1-3, km, pts1)"
-  ],
-  "mn100:42.4": [
-    "atthi devā”ti → adhidevāti (mr)"
-  ],
-  "mn100:42.5": [
-    "Ṭhānaso metaṃ → ṭhānaso kho panetaṃ (s1-3, km) | kho panetaṃ (mr)"
-  ],
-  "mn100:42.6": [
-    "adhidevā”ti → atthi devāti (bj, s1-3, km, pts1) | atidevāti (?)"
-  ],
-  "mn100:42.9": [
-    "puṭṭho samāno ‘atthi devā’ti yo vadeyya, ‘ṭhānaso me viditā’ti → ṭhānaso viditā me viditāti (s1-3, km, pts1) | ṭhānaso me viditā atidevāti (?)"
-  ],
-  "mn100:42.10": [
-    "gantabbaṃ → gantuṃ vā (s1-3, km) | gantuṃ (mr)"
-  ],
-  "mn100:42.12": [
-    "gotamo ādikeneva na byākāsī”ti → gotamo ādikeneva byākāsīti (mr) | gotamo atthi devāti na byākāsīti (?)"
-  ]
+  "mn100:2.1": "dhanañjānī → dhānañjānī (pts1), cañcalikappe → maṇḍalakappe (bj) | caṇḍalakappe (si, pts1) | paccalakappe (s1-3, km)",
+  "mn100:3.4": "avabhūtāva ayaṃ → avabhūtā cayaṃ (bj, pts1) | avabhūtā ca yaṃ (s1-3, km), tevijjānaṃ → idaṃ padaṃ bj, pts1 potthakesu, bhāsissatī”ti → bhāsatīti (bj, s1-3, km, pts1), parabhūtāva ayaṃ → parābhūtā ca yaṃ (s1-3, km) | parābhūtā cayaṃ (pts1)",
+  "mn100:42.2": "aṭṭhitavataṃ → aṭṭhitavata (s1-3, km, pts1), sappurisavataṃ → sappurisavata (s1-3, km, pts1)",
+  "mn100:42.4": "atthi devā”ti → adhidevāti (mr)",
+  "mn100:42.5": "Ṭhānaso metaṃ → ṭhānaso kho panetaṃ (s1-3, km) | kho panetaṃ (mr)",
+  "mn100:42.6": "adhidevā”ti → atthi devāti (bj, s1-3, km, pts1) | atidevāti (?)",
+  "mn100:42.9": "puṭṭho samāno ‘atthi devā’ti yo vadeyya, ‘ṭhānaso me viditā’ti → ṭhānaso viditā me viditāti (s1-3, km, pts1) | ṭhānaso me viditā atidevāti (?)",
+  "mn100:42.10": "gantabbaṃ → gantuṃ vā (s1-3, km) | gantuṃ (mr)",
+  "mn100:42.12": "gotamo ādikeneva na byākāsī”ti → gotamo ādikeneva byākāsīti (mr) | gotamo atthi devāti na byākāsīti (?)"
 }

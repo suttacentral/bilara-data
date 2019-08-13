@@ -1,11 +1,4 @@
 {
-  "mil7.2.5:6.2": [
-    "gaṇhate → gaṇhatī (bj, maku, pts1)"
-  ],
-  "mil7.2.5:7.2": [
-    "muggasupyatāya → muggasuppatāya (bj, pts1)",
-    "pāribhaṭyatāya → paribhaṭṭakatāya (bj, pts1) | pāribhaṭyakatāya (maku)",
-    "aṅgavijjāya → nagavijjāya (mr)",
-    "na bhuñjitabbaṃ → paribhuñjitabbaṃ (bj, pts1)"
-  ]
+  "mil7.2.5:6.2": "gaṇhate → gaṇhatī (bj, maku, pts1)",
+  "mil7.2.5:7.2": "muggasupyatāya → muggasuppatāya (bj, pts1), pāribhaṭyatāya → paribhaṭṭakatāya (bj, pts1) | pāribhaṭyakatāya (maku), aṅgavijjāya → nagavijjāya (mr), na bhuñjitabbaṃ → paribhuñjitabbaṃ (bj, pts1)"
 }

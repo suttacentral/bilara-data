@@ -1,11 +1,5 @@
 {
-  "thi-ap7:3.1": [
-    "7 Kaṭacchubhikkhādāyikātherīapadāna → kaṭacchubhikhadāyikātheriyāpadānaṃ (s2, s3, pts1)"
-  ],
-  "thi-ap7:10.1": [
-    "Sudinnaṃ me dānavaraṃ → sudinnameva me dānaṃ (s2, s3)"
-  ],
-  "thi-ap7:15.1": [
-    "kaṭacchubhikkhādāyikā → kaṭacchubhikkhadāyikā (s2, s3, pts1)"
-  ]
+  "thi-ap7:3.1": "7 Kaṭacchubhikkhādāyikātherīapadāna → kaṭacchubhikhadāyikātheriyāpadānaṃ (s2, s3, pts1)",
+  "thi-ap7:10.1": "Sudinnaṃ me dānavaraṃ → sudinnameva me dānaṃ (s2, s3)",
+  "thi-ap7:15.1": "kaṭacchubhikkhādāyikā → kaṭacchubhikkhadāyikā (s2, s3, pts1)"
 }

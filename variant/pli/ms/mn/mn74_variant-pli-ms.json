@@ -1,12 +1,5 @@
 {
-  "mn74:2.7": [
-    "ce → esāpi (mr)"
-  ],
-  "mn74:5.2": [
-    "ukkaṃseti → ukkaṃsati (bj, pts1, mr)",
-    "samukkaṃseti → samukkaṃsati (bj, pts1) | sampahaṃsati (mr)"
-  ],
-  "mn74:14.1": [
-    "bījayamāno → vījayamāno (bj) | vijiyamāno (s1) | vijīyamāno (s2, s3) | vījamāno (pts1)"
-  ]
+  "mn74:2.7": "ce → esāpi (mr)",
+  "mn74:5.2": "ukkaṃseti → ukkaṃsati (bj, pts1, mr), samukkaṃseti → samukkaṃsati (bj, pts1) | sampahaṃsati (mr)",
+  "mn74:14.1": "bījayamāno → vījayamāno (bj) | vijiyamāno (s1) | vijīyamāno (s2, s3) | vījamāno (pts1)"
 }

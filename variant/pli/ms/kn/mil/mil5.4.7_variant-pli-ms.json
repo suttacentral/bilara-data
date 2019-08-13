@@ -1,12 +1,5 @@
 {
-  "mil5.4.7:4.1": [
-    "7 Kusalākusalasamavisamapañha → kusalākusalasamapañho (bj)"
-  ],
-  "mil5.4.7:11.1": [
-    "() → (dummatinagare) (maku)",
-    "kāsirājā → kāsikarājā (mr)"
-  ],
-  "mil5.4.7:33.1": [
-    "Kusalākusalasamavisamapañho → kusalākusalasamasamapañho (maku)"
-  ]
+  "mil5.4.7:4.1": "7 Kusalākusalasamavisamapañha → kusalākusalasamapañho (bj)",
+  "mil5.4.7:11.1": "() → (dummatinagare) (maku), kāsirājā → kāsikarājā (mr)",
+  "mil5.4.7:33.1": "Kusalākusalasamavisamapañho → kusalākusalasamasamapañho (maku)"
 }

@@ -1,14 +1,6 @@
 {
-  "ja350:5.4": [
-    "tvābhipassasi → mabhipassasi (bj)"
-  ],
-  "ja350:9.2": [
-    "Cūḷakuṇālavaggo → cullakuṇālavaggo (s2, s3)"
-  ],
-  "ja350:13.1": [
-    "Kāliṅgaṃ → vivaraṃ (bahūsu)"
-  ],
-  "ja350:13.2": [
-    "kuṭidūsaka kokilā → kuṭidūsaṃ bahubhāṇakaṃ (bahūsu)"
-  ]
+  "ja350:5.4": "tvābhipassasi → mabhipassasi (bj)",
+  "ja350:9.2": "Cūḷakuṇālavaggo → cullakuṇālavaggo (s2, s3)",
+  "ja350:13.1": "Kāliṅgaṃ → vivaraṃ (bahūsu)",
+  "ja350:13.2": "kuṭidūsaka kokilā → kuṭidūsaṃ bahubhāṇakaṃ (bahūsu)"
 }

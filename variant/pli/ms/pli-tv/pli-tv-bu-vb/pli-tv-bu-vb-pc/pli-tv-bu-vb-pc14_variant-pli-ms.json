@@ -1,11 +1,5 @@
 {
-  "pli-tv-bu-vb-pc14:1.2.4": [
-    "aṭṭha māse avassikasaṅkete → vasituṃ avassi­ka­saṃ­kete (itipi)"
-  ],
-  "pli-tv-bu-vb-pc14:2.1.18": [
-    "pabbajamayaṃ → babbajamayaṃ (bj, pts1)"
-  ],
-  "pli-tv-bu-vb-pc14:2.1.24": [
-    "santhārakassa → santhatassa (bj)"
-  ]
+  "pli-tv-bu-vb-pc14:1.2.4": "aṭṭha māse avassikasaṅkete → vasituṃ avassi­ka­saṃ­kete (itipi)",
+  "pli-tv-bu-vb-pc14:2.1.18": "pabbajamayaṃ → babbajamayaṃ (bj, pts1)",
+  "pli-tv-bu-vb-pc14:2.1.24": "santhārakassa → santhatassa (bj)"
 }

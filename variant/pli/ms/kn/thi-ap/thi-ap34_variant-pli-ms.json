@@ -1,23 +1,9 @@
 {
-  "thi-ap34:3.1": [
-    "4 Siṅgālamātutherīapadāna → sigālamātāpadānaṃ (bj) | siṅgālamātātheriyāpadānaṃ (s2, s3) | sigālakamātātherīapadānaṃ (pts1)"
-  ],
-  "thi-ap34:8.4": [
-    "buddhadassanalālasā → buddhadassanasālayā (s2, s3)"
-  ],
-  "thi-ap34:12.4": [
-    "buddhāna → buddhānaṃ sāsanaṃ (s2, s3)"
-  ],
-  "thi-ap34:15.3": [
-    "Siṅgālakassa → sigālakassa (bj)"
-  ],
-  "thi-ap34:20.1": [
-    "namassantaṃ → namassati (s2, s3)"
-  ],
-  "thi-ap34:26.4": [
-    "saddhādhimuttikā → saṃgavimuttikā (pts1) | mamādhimuttikā (mr)"
-  ],
-  "thi-ap34:33.1": [
-    "siṅgālamātā → sigālamātā (bj) | sigālakamātā (pts1)"
-  ]
+  "thi-ap34:3.1": "4 Siṅgālamātutherīapadāna → sigālamātāpadānaṃ (bj) | siṅgālamātātheriyāpadānaṃ (s2, s3) | sigālakamātātherīapadānaṃ (pts1)",
+  "thi-ap34:8.4": "buddhadassanalālasā → buddhadassanasālayā (s2, s3)",
+  "thi-ap34:12.4": "buddhāna → buddhānaṃ sāsanaṃ (s2, s3)",
+  "thi-ap34:15.3": "Siṅgālakassa → sigālakassa (bj)",
+  "thi-ap34:20.1": "namassantaṃ → namassati (s2, s3)",
+  "thi-ap34:26.4": "saddhādhimuttikā → saṃgavimuttikā (pts1) | mamādhimuttikā (mr)",
+  "thi-ap34:33.1": "siṅgālamātā → sigālamātā (bj) | sigālakamātā (pts1)"
 }

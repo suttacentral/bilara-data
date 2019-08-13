@@ -1,12 +1,5 @@
 {
-  "an5.136:1.1": [
-    "oparajjaṃ → uparajjaṃ (s1-3, pts1, mr)"
-  ],
-  "an5.136:3.5": [
-    "suppatiṭṭhitacitto → supaṭṭhitacitto (bj, s1-3) | supatiṭṭhitacitto (pts1) | sūpaṭṭhitacitto (mr)"
-  ],
-  "an5.136:4.4": [
-    "sātthaṃ sabyañjanaṃ → sātthā sabyañjanā (bj)",
-    "dhātā → dhatā (bj, pts1)"
-  ]
+  "an5.136:1.1": "oparajjaṃ → uparajjaṃ (s1-3, pts1, mr)",
+  "an5.136:3.5": "suppatiṭṭhitacitto → supaṭṭhitacitto (bj, s1-3) | supatiṭṭhitacitto (pts1) | sūpaṭṭhitacitto (mr)",
+  "an5.136:4.4": "sātthaṃ sabyañjanaṃ → sātthā sabyañjanā (bj), dhātā → dhatā (bj, pts1)"
 }

@@ -1,11 +1,5 @@
 {
-  "thag2.12:5.1": [
-    "veṭhamissena → veghamissena (bj, s2, s3, pts1-2) | vegamissena (mr)"
-  ],
-  "thag2.12:5.4": [
-    "pharusūpakkamā → pharusupakkamā (s2, s3, pts2)"
-  ],
-  "thag2.12:5.5": [
-    "tattheva → tatheva (s2, s3, pts1)"
-  ]
+  "thag2.12:5.1": "veṭhamissena → veghamissena (bj, s2, s3, pts1-2) | vegamissena (mr)",
+  "thag2.12:5.4": "pharusūpakkamā → pharusupakkamā (s2, s3, pts2)",
+  "thag2.12:5.5": "tattheva → tatheva (s2, s3, pts1)"
 }

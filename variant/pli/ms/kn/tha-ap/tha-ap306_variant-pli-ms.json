@@ -1,11 +1,5 @@
 {
-  "tha-ap306:4.3": [
-    "Rukkhaṭṭhasseva sambuddho → rukkhaṭṭheyeva sambuddhe (bj) | rukkhaṭṭho iva sambuddho (aṭṭha.)"
-  ],
-  "tha-ap306:4.4": [
-    "Lokajeṭṭho narāsabho → lokajeṭṭhe narāsabhe (bj)"
-  ],
-  "tha-ap306:6.2": [
-    "desayaṃ → desayi (s2, s3) | bhāsati (mr)"
-  ]
+  "tha-ap306:4.3": "Rukkhaṭṭhasseva sambuddho → rukkhaṭṭheyeva sambuddhe (bj) | rukkhaṭṭho iva sambuddho (aṭṭha.)",
+  "tha-ap306:4.4": "Lokajeṭṭho narāsabho → lokajeṭṭhe narāsabhe (bj)",
+  "tha-ap306:6.2": "desayaṃ → desayi (s2, s3) | bhāsati (mr)"
 }

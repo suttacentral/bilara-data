@@ -1,14 +1,6 @@
 {
-  "an6.37:4.3": [
-    "asaṅkhyeyyo → asaṅkheyyo (bj, s1-3, km) | asaṃkheyyo (pts1)"
-  ],
-  "an6.37:6.4": [
-    "yaññassa → puññassa (mr)"
-  ],
-  "an6.37:7.1": [
-    "Vītarāgā → vītarāgo (s1-3, km, mr)"
-  ],
-  "an6.37:7.4": [
-    "brahmacārayo → brahmacārino (bj, s1-3, km)"
-  ]
+  "an6.37:4.3": "asaṅkhyeyyo → asaṅkheyyo (bj, s1-3, km) | asaṃkheyyo (pts1)",
+  "an6.37:6.4": "yaññassa → puññassa (mr)",
+  "an6.37:7.1": "Vītarāgā → vītarāgo (s1-3, km, mr)",
+  "an6.37:7.4": "brahmacārayo → brahmacārino (bj, s1-3, km)"
 }

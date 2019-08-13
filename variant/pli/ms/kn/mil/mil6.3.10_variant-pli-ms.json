@@ -1,17 +1,7 @@
 {
-  "mil6.3.10:6.1": [
-    "vigaṇetvā → gaṇetvā (maku) | minitvā (mr)"
-  ],
-  "mil6.3.10:7.1": [
-    "parigaṇetuṃ → pariminituṃ (mr)"
-  ],
-  "mil6.3.10:17.8": [
-    "ujjotattakaraṃ → ujjotatthakaraṃ (bj, pts1) | ujjotitatthakaraṃ (maku)"
-  ],
-  "mil6.3.10:18.8": [
-    "sajjanapasatthaṃ → sabbajanapasaṭṭhaṃ (maku)"
-  ],
-  "mil6.3.10:21.1": [
-    "Nibbānarūpasaṇṭhānapañho → nibbānapañho (maku)"
-  ]
+  "mil6.3.10:6.1": "vigaṇetvā → gaṇetvā (maku) | minitvā (mr)",
+  "mil6.3.10:7.1": "parigaṇetuṃ → pariminituṃ (mr)",
+  "mil6.3.10:17.8": "ujjotattakaraṃ → ujjotatthakaraṃ (bj, pts1) | ujjotitatthakaraṃ (maku)",
+  "mil6.3.10:18.8": "sajjanapasatthaṃ → sabbajanapasaṭṭhaṃ (maku)",
+  "mil6.3.10:21.1": "Nibbānarūpasaṇṭhānapañho → nibbānapañho (maku)"
 }

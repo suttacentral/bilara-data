@@ -1,11 +1,5 @@
 {
-  "sn2.24:0.3": [
-    "24. Ghaṭīkārasutta → ghaṭikārasuttaṃ (s3)"
-  ],
-  "sn2.24:4.1": [
-    "palagaṇḍo → phalagaṇḍo (si, s1-3, pts1-2, mr)"
-  ],
-  "sn2.24:4.4": [
-    "bāhuraggi ca saṅgiyo → bāhudantī ca piṅgiyo (bj) | bāhudakkhi ca siṅgiyo (s1) | bāhuraggi ca siṅgiyo (s2, s3) | bāhuraggi ca piṅgiyo (pts1-2)"
-  ]
+  "sn2.24:0.3": "24. Ghaṭīkārasutta → ghaṭikārasuttaṃ (s3)",
+  "sn2.24:4.1": "palagaṇḍo → phalagaṇḍo (si, s1-3, pts1-2, mr)",
+  "sn2.24:4.4": "bāhuraggi ca saṅgiyo → bāhudantī ca piṅgiyo (bj) | bāhudakkhi ca siṅgiyo (s1) | bāhuraggi ca siṅgiyo (s2, s3) | bāhuraggi ca piṅgiyo (pts1-2)"
 }

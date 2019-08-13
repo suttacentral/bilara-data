@@ -1,20 +1,8 @@
 {
-  "tha-ap36:7.1": [
-    "kantaṃ → kantayidaṃ (s2, s3)"
-  ],
-  "tha-ap36:9.1": [
-    "Dasa aṭṭha cakkhattuṃ → dasa caṭṭhakkhattuṃ (bj) | dasamaṭṭhakkhattuñca (s2, s3) | dasa caṭṭha cakkhattuñ (pts1)"
-  ],
-  "tha-ap36:12.3": [
-    "gottena → nāmena (s2, s3, mr)"
-  ],
-  "tha-ap36:15.1": [
-    "taṃ → so (bj, pts1)"
-  ],
-  "tha-ap36:18.3": [
-    "Pasādito → pamodito (bj, pts1)"
-  ],
-  "tha-ap36:20.1": [
-    "kāḷudāyī → kāḷudāyi (s2, s3)"
-  ]
+  "tha-ap36:7.1": "kantaṃ → kantayidaṃ (s2, s3)",
+  "tha-ap36:9.1": "Dasa aṭṭha cakkhattuṃ → dasa caṭṭhakkhattuṃ (bj) | dasamaṭṭhakkhattuñca (s2, s3) | dasa caṭṭha cakkhattuñ (pts1)",
+  "tha-ap36:12.3": "gottena → nāmena (s2, s3, mr)",
+  "tha-ap36:15.1": "taṃ → so (bj, pts1)",
+  "tha-ap36:18.3": "Pasādito → pamodito (bj, pts1)",
+  "tha-ap36:20.1": "kāḷudāyī → kāḷudāyi (s2, s3)"
 }

@@ -1,17 +1,7 @@
 {
-  "ja376:5.1": [
-    "kujjha → māssu kujjhi (bj, pts1)"
-  ],
-  "ja376:6.4": [
-    "kujjha → māssu kujjhi (bj, pts1)"
-  ],
-  "ja376:8.4": [
-    "pāresino → taresino (bj, pts1) | tiresino (s2, s3)"
-  ],
-  "ja376:11.4": [
-    "abandhi sū”ti → avaḍḍhitunti (bj, s2, s3) | avaḍḍhi sūti (?)"
-  ],
-  "ja376:12.1": [
-    "Avāriyajātakaṃ → āvāriyajātakaṃ (s2, s3)"
-  ]
+  "ja376:5.1": "kujjha → māssu kujjhi (bj, pts1)",
+  "ja376:6.4": "kujjha → māssu kujjhi (bj, pts1)",
+  "ja376:8.4": "pāresino → taresino (bj, pts1) | tiresino (s2, s3)",
+  "ja376:11.4": "abandhi sū”ti → avaḍḍhitunti (bj, s2, s3) | avaḍḍhi sūti (?)",
+  "ja376:12.1": "Avāriyajātakaṃ → āvāriyajātakaṃ (s2, s3)"
 }

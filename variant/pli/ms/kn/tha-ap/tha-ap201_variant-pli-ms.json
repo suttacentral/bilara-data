@@ -1,11 +1,5 @@
 {
-  "tha-ap201:3.1": [
-    "9 Kiṃkaṇikapupphiyattheraapadāna → kiṅkaṇipupphiyattherāpadānaṃ (bj) | tikaṇḍipupphiyattherāpadānaṃ (s2, s3, pts1)"
-  ],
-  "tha-ap201:6.1": [
-    "Kiṃkaṇipupphaṃ → tikaṇḍipupphaṃ (s2, s3, pts1)"
-  ],
-  "tha-ap201:10.1": [
-    "kiṃkaṇikapupphiyo → kiṅkaṇipupphiyo (bj) | tikaṇḍipupphiyo (s2, s3, pts1)"
-  ]
+  "tha-ap201:3.1": "9 Kiṃkaṇikapupphiyattheraapadāna → kiṅkaṇipupphiyattherāpadānaṃ (bj) | tikaṇḍipupphiyattherāpadānaṃ (s2, s3, pts1)",
+  "tha-ap201:6.1": "Kiṃkaṇipupphaṃ → tikaṇḍipupphaṃ (s2, s3, pts1)",
+  "tha-ap201:10.1": "kiṃkaṇikapupphiyo → kiṅkaṇipupphiyo (bj) | tikaṇḍipupphiyo (s2, s3, pts1)"
 }

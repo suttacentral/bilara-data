@@ -1,17 +1,7 @@
 {
-  "ja390:8.3": [
-    "Anubhoti → nānubhoti (s2, s3, mr)"
-  ],
-  "ja390:9.1": [
-    "va → ye ca (s2, s3, mr)"
-  ],
-  "ja390:10.1": [
-    "Dhīro → dhīro ca (bj)"
-  ],
-  "ja390:10.4": [
-    "sagge pamodatī”ti → sagge ca modatīti (bj, pts1)"
-  ],
-  "ja390:11.1": [
-    "Mayhakajātakaṃ → mayhakasakuṇajātakaṃ (s2, s3)"
-  ]
+  "ja390:8.3": "Anubhoti → nānubhoti (s2, s3, mr)",
+  "ja390:9.1": "va → ye ca (s2, s3, mr)",
+  "ja390:10.1": "Dhīro → dhīro ca (bj)",
+  "ja390:10.4": "sagge pamodatī”ti → sagge ca modatīti (bj, pts1)",
+  "ja390:11.1": "Mayhakajātakaṃ → mayhakasakuṇajātakaṃ (s2, s3)"
 }

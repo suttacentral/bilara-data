@@ -1,20 +1,8 @@
 {
-  "pv32:4.2": [
-    "kāmaguṇehi → kāmehi (mr)"
-  ],
-  "pv32:6.3": [
-    "sadā → tadā (bj)"
-  ],
-  "pv32:7.1": [
-    "suhadayo → suhado (bj)"
-  ],
-  "pv32:7.3": [
-    "Sopi → so hi (s2, s3) | so ca (pts1-2)"
-  ],
-  "pv32:12.3": [
-    "paṭihatāva → paṭihatā ca (mr)"
-  ],
-  "pv32:14.1": [
-    "Migaluddakapetavatthu → migaluddapetavatthu (s2, s3, pts1-2)"
-  ]
+  "pv32:4.2": "kāmaguṇehi → kāmehi (mr)",
+  "pv32:6.3": "sadā → tadā (bj)",
+  "pv32:7.1": "suhadayo → suhado (bj)",
+  "pv32:7.3": "Sopi → so hi (s2, s3) | so ca (pts1-2)",
+  "pv32:12.3": "paṭihatāva → paṭihatā ca (mr)",
+  "pv32:14.1": "Migaluddakapetavatthu → migaluddapetavatthu (s2, s3, pts1-2)"
 }

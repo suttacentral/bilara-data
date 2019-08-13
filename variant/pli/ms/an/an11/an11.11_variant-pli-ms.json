@@ -1,14 +1,6 @@
 {
-  "an11.11:0.2": [
-    "2. Anussativagga → dutiyavaggo (s1-3)"
-  ],
-  "an11.11:2.5": [
-    "kenassa → kena (s1-3, km)"
-  ],
-  "an11.11:3.9": [
-    "uttari → uttariṃ (bj, s1-3, km, pts1)"
-  ],
-  "an11.11:4.2": [
-    "opaneyyiko → opanayiko (bj, s1-3, km, pts1)"
-  ]
+  "an11.11:0.2": "2. Anussativagga → dutiyavaggo (s1-3)",
+  "an11.11:2.5": "kenassa → kena (s1-3, km)",
+  "an11.11:3.9": "uttari → uttariṃ (bj, s1-3, km, pts1)",
+  "an11.11:4.2": "opaneyyiko → opanayiko (bj, s1-3, km, pts1)"
 }

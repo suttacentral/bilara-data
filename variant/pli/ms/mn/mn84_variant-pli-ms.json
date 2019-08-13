@@ -1,20 +1,8 @@
 {
-  "mn84:1.2": [
-    "madhurāyaṃ → madhurāya (s1-3) | mathurāyaṃ (ṭīkā)"
-  ],
-  "mn84:5.47": [
-    "Nesaṃ → nāhaṃ (s1-3, km) | na’saṃ (pts1)"
-  ],
-  "mn84:6.2": [
-    "micchādiṭṭhi → micchādiṭṭhī (bj, s2, s3, km, pts1)"
-  ],
-  "mn84:7.2": [
-    "sammādiṭṭhi → sammādiṭṭhī (bj, s2, s3, km, pts1, mr)"
-  ],
-  "mn84:8.8": [
-    "saṅkhyaṃ → saṅkhaṃ (bj, s1-3, km, pts1)"
-  ],
-  "mn84:10.7": [
-    "Tameva tvaṃ → tametaṃ tvaṃ (s1-3, km) | tametaṃ (mr)"
-  ]
+  "mn84:1.2": "madhurāyaṃ → madhurāya (s1-3) | mathurāyaṃ (ṭīkā)",
+  "mn84:5.47": "Nesaṃ → nāhaṃ (s1-3, km) | na’saṃ (pts1)",
+  "mn84:6.2": "micchādiṭṭhi → micchādiṭṭhī (bj, s2, s3, km, pts1)",
+  "mn84:7.2": "sammādiṭṭhi → sammādiṭṭhī (bj, s2, s3, km, pts1, mr)",
+  "mn84:8.8": "saṅkhyaṃ → saṅkhaṃ (bj, s1-3, km, pts1)",
+  "mn84:10.7": "Tameva tvaṃ → tametaṃ tvaṃ (s1-3, km) | tametaṃ (mr)"
 }

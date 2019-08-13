@@ -1,17 +1,6 @@
 {
-  "an10.95:8.1": [
-    "sabbo vā → sabbo ca (pts1, mr)",
-    "nīyati → nīyissati (bj) | niyyāssati (s1-3) | niyyissati (pts1)",
-    "tibhāgo vā”ti → tibhāgo vā (s1-3) | tibhāgo vāti vadehi (mr)"
-  ],
-  "an10.95:10.4": [
-    "daḷhuddhāpaṃ → daḷhuddāpaṃ (bj, pts1) | daḷhaddālaṃ (s1-3)"
-  ],
-  "an10.95:11.3": [
-    "Evamete → evametena (mr)"
-  ],
-  "an10.95:11.4": [
-    "Yadeva kho tvaṃ → yadeva khvettha (mr)",
-    "pañhaṃ → imaṃ pañhaṃ (s1-3, mr)"
-  ]
+  "an10.95:8.1": "sabbo vā → sabbo ca (pts1, mr), nīyati → nīyissati (bj) | niyyāssati (s1-3) | niyyissati (pts1), tibhāgo vā”ti → tibhāgo vā (s1-3) | tibhāgo vāti vadehi (mr)",
+  "an10.95:10.4": "daḷhuddhāpaṃ → daḷhuddāpaṃ (bj, pts1) | daḷhaddālaṃ (s1-3)",
+  "an10.95:11.3": "Evamete → evametena (mr)",
+  "an10.95:11.4": "Yadeva kho tvaṃ → yadeva khvettha (mr), pañhaṃ → imaṃ pañhaṃ (s1-3, mr)"
 }

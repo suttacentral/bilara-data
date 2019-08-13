@@ -1,21 +1,8 @@
 {
-  "snp2.13:10.1": [
-    "nunnameyya → na uṇṇameyya (bj, s1-3, pts1) | nuṇṇameyya (bahūsu)"
-  ],
-  "snp2.13:11.2": [
-    "chedanabandhanā ca → chedanabandhanāto (bj, pts1) | chedanabandhanato (s1-3)"
-  ],
-  "snp2.13:13.2": [
-    "Mūlā ca → mūlā (bj, s1-3, pts1)"
-  ],
-  "snp2.13:13.3": [
-    "nirāso → nirāsayo (bj, pts1) | nirāsaso (s1-3)",
-    "anāsisāno → anāsayāno (bj) | anāsasāno (s1-3, pts1)"
-  ],
-  "snp2.13:18.3": [
-    "parikkhayāno → parikkhayā (s1-3, pts1)"
-  ],
-  "snp2.13:19.3": [
-    "Sabbasaṃyojanayogavītivatto → sabbasaṃyojaniye ca vītivatto (bj, s1-3, pts1)"
-  ]
+  "snp2.13:10.1": "nunnameyya → na uṇṇameyya (bj, s1-3, pts1) | nuṇṇameyya (bahūsu)",
+  "snp2.13:11.2": "chedanabandhanā ca → chedanabandhanāto (bj, pts1) | chedanabandhanato (s1-3)",
+  "snp2.13:13.2": "Mūlā ca → mūlā (bj, s1-3, pts1)",
+  "snp2.13:13.3": "nirāso → nirāsayo (bj, pts1) | nirāsaso (s1-3), anāsisāno → anāsayāno (bj) | anāsasāno (s1-3, pts1)",
+  "snp2.13:18.3": "parikkhayāno → parikkhayā (s1-3, pts1)",
+  "snp2.13:19.3": "Sabbasaṃyojanayogavītivatto → sabbasaṃyojaniye ca vītivatto (bj, s1-3, pts1)"
 }

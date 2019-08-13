@@ -1,16 +1,5 @@
 {
-  "pli-tv-bi-vb-pj6:6.2": [
-    "Bhikkhū → ye te bhikkhū ...pe... (?)"
-  ],
-  "pli-tv-bi-vb-pj6:6.4": [
-    "paṭicodeti → paṭicodesi ... ārocesīti (bj, pts1, mr)",
-    "na gaṇassa ārocetī”ti → paṭicodesi ... ārocesīti (bj, pts1, mr)"
-  ],
-  "pli-tv-bi-vb-pj6:7.1": [
-    "nevattanā → neva attanā (s1-3)",
-    "avassaṭā → avasaṭā (bj, s1-3, pts1)",
-    "ti → vajjapaṭicchādikāti (bj, s1-3, pts1)",
-    "aññāsiṃ → saññāsiṃ (s2, s3)",
-    "pubbevāhaṃ → pubbe vāhaṃ (s1-3)"
-  ]
+  "pli-tv-bi-vb-pj6:6.2": "Bhikkhū → ye te bhikkhū ...pe... (?)",
+  "pli-tv-bi-vb-pj6:6.4": "paṭicodeti → paṭicodesi ... ārocesīti (bj, pts1, mr), na gaṇassa ārocetī”ti → paṭicodesi ... ārocesīti (bj, pts1, mr)",
+  "pli-tv-bi-vb-pj6:7.1": "nevattanā → neva attanā (s1-3), avassaṭā → avasaṭā (bj, s1-3, pts1), ti → vajjapaṭicchādikāti (bj, s1-3, pts1), aññāsiṃ → saññāsiṃ (s2, s3), pubbevāhaṃ → pubbe vāhaṃ (s1-3)"
 }

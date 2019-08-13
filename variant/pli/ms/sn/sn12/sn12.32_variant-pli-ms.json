@@ -1,14 +1,6 @@
 {
-  "sn12.32:6.9": [
-    "attho → attho ca (bj, s1-3, km, mr)"
-  ],
-  "sn12.32:8.4": [
-    "puṭṭhohaṃ → puṭṭhāhaṃ (pts1-2, mr)"
-  ],
-  "sn12.32:12.11": [
-    "viditaṃ → vidite (pts1-2) | viditā (ṭīkā)"
-  ],
-  "sn12.32:16.6": [
-    "Rattindivaṃ → rattidivaṃ (mr)"
-  ]
+  "sn12.32:6.9": "attho → attho ca (bj, s1-3, km, mr)",
+  "sn12.32:8.4": "puṭṭhohaṃ → puṭṭhāhaṃ (pts1-2, mr)",
+  "sn12.32:12.11": "viditaṃ → vidite (pts1-2) | viditā (ṭīkā)",
+  "sn12.32:16.6": "Rattindivaṃ → rattidivaṃ (mr)"
 }

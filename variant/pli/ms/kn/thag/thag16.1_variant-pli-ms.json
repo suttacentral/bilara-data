@@ -1,11 +1,5 @@
 {
-  "thag16.1:5.3": [
-    "Avasesaṃ → avase taṃ (bj) | avase'saṃ (pts2) | avasesānaṃ (aṭṭha.)"
-  ],
-  "thag16.1:10.4": [
-    "pitvāva → pītvāva (bj) | pitvāna (s2, s3, pts1)"
-  ],
-  "thag16.1:21.1": [
-    "bhadante → bhaddante (bj, pts1)"
-  ]
+  "thag16.1:5.3": "Avasesaṃ → avase taṃ (bj) | avase'saṃ (pts2) | avasesānaṃ (aṭṭha.)",
+  "thag16.1:10.4": "pitvāva → pītvāva (bj) | pitvāna (s2, s3, pts1)",
+  "thag16.1:21.1": "bhadante → bhaddante (bj, pts1)"
 }

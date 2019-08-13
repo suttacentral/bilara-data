@@ -1,152 +1,51 @@
 {
-  "dn14:1.3.3": [
-    "bhagavato sutvā → bhagavato vacanaṃ sutvā (s1-3)"
-  ],
-  "dn14:1.4.1": [
-    "ekanavutikappe → ekanavuto kappo (bj, s1-3, km, pts1)"
-  ],
-  "dn14:1.4.2": [
-    "ekatiṃse kappe → ekatiṃso kappo (bj, s1-3, km, pts1)"
-  ],
-  "dn14:1.4.4": [
-    "Imasmiññeva → imasmiṃ yeva (km, pts1) | imasmiṃ (katthaci)"
-  ],
-  "dn14:1.12.2": [
-    "janetti → janettī (s1-3, pts1)"
-  ],
-  "dn14:1.12.7": [
-    "suppatito nāma → suppatīto nāma (bj, s1-3, pts1)"
-  ],
-  "dn14:1.12.8": [
-    "Vassavatī nāma → yasavatī nāma (bj, s1-3, km, pts1)"
-  ],
-  "dn14:1.12.18": [
-    "nāma → kiṃkī nāma (s1-3)"
-  ],
-  "dn14:1.17.9": [
-    "catuddisaṃ → cātuddisaṃ (s1-3, km)"
-  ],
-  "dn14:1.21.2": [
-    "Tatrāssa → tatra yaṃ (bj) | tatrassa (s1-3, km, pts1)"
-  ],
-  "dn14:1.27.1": [
-    "udena → uddena (bj, s1-3, km, pts1) | udarena (katthaci)",
-    "asucinā suddho → visuddho (s1-3)"
-  ],
-  "dn14:1.29.1": [
-    "uttarābhimukho → uttare­nābhi­mukho (s1-3, km) uttarenamukho (mr)"
-  ],
-  "dn14:1.31.2": [
-    "deva → deva te (mr)"
-  ],
-  "dn14:1.32.8": [
-    "Imassa, deva → imassa hi deva (?)"
-  ],
-  "dn14:1.32.15": [
-    "parimasati → parāmasati (mr)"
-  ],
-  "dn14:1.32.18": [
-    "upalimpati → upalippati (bj, s1-3)"
-  ],
-  "dn14:1.32.24": [
-    "citantaraṃso → pittantaraṃso (s1-3, km)"
-  ],
-  "dn14:1.33.6": [
-    "asatthena dhammena → dhammena samena (s1-3, km)"
-  ],
-  "dn14:1.33.9": [
-    "acchādāpetvā → acchādetvā (s1-3, km)"
-  ],
-  "dn14:1.35.1": [
-    "kho pana, bhikkhave, vipassī kumāro mañjussaro ca → kumāro brahmassaro mañjussaro ca (mr)"
-  ],
-  "dn14:1.36.1": [
-    "yena sudaṃ → yena dūraṃ (s1-3, km)"
-  ],
-  "dn14:1.37.2": [
-    "Animisanto kumāro pekkhatī’ti kho, bhikkhave → jātassa kho pana bhikkhave (s1-3) | animmissantā pekkhāti evameva kho bhikkheve (km) | jātassa kho pana bhikkhave (mr)"
-  ],
-  "dn14:1.37.3": [
-    "atthakaraṇe → aṭṭakaraṇe (s1-3, km)"
-  ],
-  "dn14:1.37.4": [
-    "ñāyena → ñāṇena (s1-3, km)"
-  ],
-  "dn14:1.38.3": [
-    "Tatra sudaṃ, bhikkhave, vipassī kumāro vassike pāsāde cattāro māse → vassike pāsāde vassike cattāro māse (bj, pts1)"
-  ],
-  "dn14:2.1.6": [
-    "bhaddaṃ yānaṃ → bhadraṃ yānaṃ (s1-3, km)"
-  ],
-  "dn14:2.2.1": [
-    "bhoggaṃ → bhaggaṃ (s1-3, km)"
-  ],
-  "dn14:2.6.1": [
-    "semānaṃ → sayamānaṃ (s1-3, km, mr)"
-  ],
-  "dn14:2.6.4": [
-    "saropissa → siropissa (s1-3, km)"
-  ],
-  "dn14:2.14.7": [
-    "samacariyā → sammacariyā (mr)",
-    "kusalakiriyā → kusalacariyā (s1-3, km)"
-  ],
-  "dn14:2.16.4": [
-    "orakā → orikā (s1-3, pts1)"
-  ],
-  "dn14:2.16.5": [
-    "pana mayan’ti → pana na mayanti (s1-3, km, pts1)",
-    "kimaṅgaṃ → kimaṅga (bj, pts1)"
-  ],
-  "dn14:2.16.6": [
-    "mahājanakāyo → mahājanakāyā (s1-3, km)"
-  ],
-  "dn14:2.17.2": [
-    "na kho metaṃ → na kho panetaṃ (s1-3, km) | na kho me taṃ (pts1)"
-  ],
-  "dn14:2.18.2": [
-    "jīyati ca mīyati ca → jiyyati ca miyyati ca (mr)"
-  ],
-  "dn14:3.2.12": [
-    "namati → nami (s1-3, km, mr) | namissati (?)"
-  ],
-  "dn14:3.3.1": [
-    "nihantvā → nidahanto (s1-3, km)"
-  ],
-  "dn14:3.3.2": [
-    "santi → santīdha (s1-3, km)"
-  ],
-  "dn14:3.4.1": [
-    "Evaṃ vutte → atha kho (bj, mr)"
-  ],
-  "dn14:3.6.2": [
-    "suviññāpaye duviññāpaye → duviññāpaye bhabbe abhabbe (s1-3, km)"
-  ],
-  "dn14:3.7.6": [
-    "Sokāvatiṇṇaṃ → sokāvakiṇṇaṃ (s1-3, km)"
-  ],
-  "dn14:3.7.10": [
-    "Desassu → desetu (s1-3, km, pts1)"
-  ],
-  "dn14:3.9.2": [
-    "dāyapālaṃ → migadāyapālaṃ (s1-3)"
-  ],
-  "dn14:3.10.2": [
-    "pattikāva → pattikā (s1-3, km)"
-  ],
-  "dn14:3.11.1": [
-    "anupubbiṃ kathaṃ → anupubbīkathaṃ (s1-3, km) | ānupubbikathaṃ (pts1)"
-  ],
-  "dn14:3.13.3": [
-    "nibbāne → nibbāne va (bj) | nekkhamme (s1-3, km)"
-  ],
-  "dn14:3.23.8": [
-    "aññātāro”ti → aññātāro (s1-3, km, pts1)"
-  ],
-  "dn14:3.28.10": [
-    "Anūpavādo anūpaghāto → anupavādo anupaghāto (pts1, mr)"
-  ],
-  "dn14:3.29.3": [
-    "anāvutthapubbo → anaj­jhā­vuttha­pubbo (bj) | anaj­jhā­vuṭṭha­pubbo (mr)"
-  ]
+  "dn14:1.3.3": "bhagavato sutvā → bhagavato vacanaṃ sutvā (s1-3)",
+  "dn14:1.4.1": "ekanavutikappe → ekanavuto kappo (bj, s1-3, km, pts1)",
+  "dn14:1.4.2": "ekatiṃse kappe → ekatiṃso kappo (bj, s1-3, km, pts1)",
+  "dn14:1.4.4": "Imasmiññeva → imasmiṃ yeva (km, pts1) | imasmiṃ (katthaci)",
+  "dn14:1.12.2": "janetti → janettī (s1-3, pts1)",
+  "dn14:1.12.7": "suppatito nāma → suppatīto nāma (bj, s1-3, pts1)",
+  "dn14:1.12.8": "Vassavatī nāma → yasavatī nāma (bj, s1-3, km, pts1)",
+  "dn14:1.12.18": "nāma → kiṃkī nāma (s1-3)",
+  "dn14:1.17.9": "catuddisaṃ → cātuddisaṃ (s1-3, km)",
+  "dn14:1.21.2": "Tatrāssa → tatra yaṃ (bj) | tatrassa (s1-3, km, pts1)",
+  "dn14:1.27.1": "udena → uddena (bj, s1-3, km, pts1) | udarena (katthaci), asucinā suddho → visuddho (s1-3)",
+  "dn14:1.29.1": "uttarābhimukho → uttare­nābhi­mukho (s1-3, km) uttarenamukho (mr)",
+  "dn14:1.31.2": "deva → deva te (mr)",
+  "dn14:1.32.8": "Imassa, deva → imassa hi deva (?)",
+  "dn14:1.32.15": "parimasati → parāmasati (mr)",
+  "dn14:1.32.18": "upalimpati → upalippati (bj, s1-3)",
+  "dn14:1.32.24": "citantaraṃso → pittantaraṃso (s1-3, km)",
+  "dn14:1.33.6": "asatthena dhammena → dhammena samena (s1-3, km)",
+  "dn14:1.33.9": "acchādāpetvā → acchādetvā (s1-3, km)",
+  "dn14:1.35.1": "kho pana, bhikkhave, vipassī kumāro mañjussaro ca → kumāro brahmassaro mañjussaro ca (mr)",
+  "dn14:1.36.1": "yena sudaṃ → yena dūraṃ (s1-3, km)",
+  "dn14:1.37.2": "Animisanto kumāro pekkhatī’ti kho, bhikkhave → jātassa kho pana bhikkhave (s1-3) | animmissantā pekkhāti evameva kho bhikkheve (km) | jātassa kho pana bhikkhave (mr)",
+  "dn14:1.37.3": "atthakaraṇe → aṭṭakaraṇe (s1-3, km)",
+  "dn14:1.37.4": "ñāyena → ñāṇena (s1-3, km)",
+  "dn14:1.38.3": "Tatra sudaṃ, bhikkhave, vipassī kumāro vassike pāsāde cattāro māse → vassike pāsāde vassike cattāro māse (bj, pts1)",
+  "dn14:2.1.6": "bhaddaṃ yānaṃ → bhadraṃ yānaṃ (s1-3, km)",
+  "dn14:2.2.1": "bhoggaṃ → bhaggaṃ (s1-3, km)",
+  "dn14:2.6.1": "semānaṃ → sayamānaṃ (s1-3, km, mr)",
+  "dn14:2.6.4": "saropissa → siropissa (s1-3, km)",
+  "dn14:2.14.7": "samacariyā → sammacariyā (mr), kusalakiriyā → kusalacariyā (s1-3, km)",
+  "dn14:2.16.4": "orakā → orikā (s1-3, pts1)",
+  "dn14:2.16.5": "pana mayan’ti → pana na mayanti (s1-3, km, pts1), kimaṅgaṃ → kimaṅga (bj, pts1)",
+  "dn14:2.16.6": "mahājanakāyo → mahājanakāyā (s1-3, km)",
+  "dn14:2.17.2": "na kho metaṃ → na kho panetaṃ (s1-3, km) | na kho me taṃ (pts1)",
+  "dn14:2.18.2": "jīyati ca mīyati ca → jiyyati ca miyyati ca (mr)",
+  "dn14:3.2.12": "namati → nami (s1-3, km, mr) | namissati (?)",
+  "dn14:3.3.1": "nihantvā → nidahanto (s1-3, km)",
+  "dn14:3.3.2": "santi → santīdha (s1-3, km)",
+  "dn14:3.4.1": "Evaṃ vutte → atha kho (bj, mr)",
+  "dn14:3.6.2": "suviññāpaye duviññāpaye → duviññāpaye bhabbe abhabbe (s1-3, km)",
+  "dn14:3.7.6": "Sokāvatiṇṇaṃ → sokāvakiṇṇaṃ (s1-3, km)",
+  "dn14:3.7.10": "Desassu → desetu (s1-3, km, pts1)",
+  "dn14:3.9.2": "dāyapālaṃ → migadāyapālaṃ (s1-3)",
+  "dn14:3.10.2": "pattikāva → pattikā (s1-3, km)",
+  "dn14:3.11.1": "anupubbiṃ kathaṃ → anupubbīkathaṃ (s1-3, km) | ānupubbikathaṃ (pts1)",
+  "dn14:3.13.3": "nibbāne → nibbāne va (bj) | nekkhamme (s1-3, km)",
+  "dn14:3.23.8": "aññātāro”ti → aññātāro (s1-3, km, pts1)",
+  "dn14:3.28.10": "Anūpavādo anūpaghāto → anupavādo anupaghāto (pts1, mr)",
+  "dn14:3.29.3": "anāvutthapubbo → anaj­jhā­vuttha­pubbo (bj) | anaj­jhā­vuṭṭha­pubbo (mr)"
 }

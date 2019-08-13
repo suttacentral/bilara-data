@@ -1,14 +1,6 @@
 {
-  "tha-ap135:3.1": [
-    "3 Candanapūjanakattheraapadāna → candanapūjakattherāpadānaṃ (bj, s2, s3, pts1)"
-  ],
-  "tha-ap135:4.4": [
-    "pupphānivasano tathā → pupphanivasano tathā (bj) | pupphavivasano ca'haṃ (si) | pupphānaṃ vasano ahaṃ (s2, s3) | pupphānaṃ vasano cahaṃ (pts1)"
-  ],
-  "tha-ap135:11.3": [
-    "Rohaṇī nāma → rohitā nāma (bj) | rohiṇī nāma (s2, s3, pts1)"
-  ],
-  "tha-ap135:13.1": [
-    "candanapūjanako → candanapūjako (bj, s2, s3, pts1)"
-  ]
+  "tha-ap135:3.1": "3 Candanapūjanakattheraapadāna → candanapūjakattherāpadānaṃ (bj, s2, s3, pts1)",
+  "tha-ap135:4.4": "pupphānivasano tathā → pupphanivasano tathā (bj) | pupphavivasano ca'haṃ (si) | pupphānaṃ vasano ahaṃ (s2, s3) | pupphānaṃ vasano cahaṃ (pts1)",
+  "tha-ap135:11.3": "Rohaṇī nāma → rohitā nāma (bj) | rohiṇī nāma (s2, s3, pts1)",
+  "tha-ap135:13.1": "candanapūjanako → candanapūjako (bj, s2, s3, pts1)"
 }

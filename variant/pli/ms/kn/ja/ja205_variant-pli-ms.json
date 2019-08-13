@@ -1,11 +1,5 @@
 {
-  "ja205:5.2": [
-    "atho sobhati yāmuno → atho sobhanti yāmunā (s2, s3, pts1)"
-  ],
-  "ja205:5.5": [
-    "Īsakāyatagīvo → īsamāyata (mr)"
-  ],
-  "ja205:6.1": [
-    "akkhāsi → akkhāti (bj, s2, s3, pts1)"
-  ]
+  "ja205:5.2": "atho sobhati yāmuno → atho sobhanti yāmunā (s2, s3, pts1)",
+  "ja205:5.5": "Īsakāyatagīvo → īsamāyata (mr)",
+  "ja205:6.1": "akkhāsi → akkhāti (bj, s2, s3, pts1)"
 }

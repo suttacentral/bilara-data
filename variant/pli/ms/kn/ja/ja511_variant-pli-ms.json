@@ -1,56 +1,20 @@
 {
-  "ja511:6.2": [
-    "supariṇāhavā → suparināhavā (bj) | supariṇāmavā (pts1, mr)"
-  ],
-  "ja511:9.2": [
-    "Byantībhūto → byantibhūto (bj, mr) | vyantibhūto (pts1)"
-  ],
-  "ja511:9.4": [
-    "kesuci → kesupi (si)"
-  ],
-  "ja511:12.1": [
-    "meva → me (bj) | mama (?)"
-  ],
-  "ja511:13.1": [
-    "Ruppapaṭṭapalimaṭṭhīva → rupapaṭṭaplamaṭṭhīva (s2, s3) | rūpapaṭṭapamaṭṭhīva (mr)"
-  ],
-  "ja511:14.4": [
-    "gandhabbamanussaloke → devagandhabbamānuse (s2, s3)"
-  ],
-  "ja511:18.2": [
-    "tālā cudumbarā → tālamudumbarā (s2, s3, mr)"
-  ],
-  "ja511:21.1": [
-    "vaḍḍhavaṃ → vaddhavaṃ (bj, pts1)"
-  ],
-  "ja511:22.5": [
-    "Asaṃsayaṃ tepi → āsaṃsayante (bj, pts1)"
-  ],
-  "ja511:22.6": [
-    "paṭṭhabhūtā → vaddhabhūtā (bj, pts1)"
-  ],
-  "ja511:24.2": [
-    "sati → pati (s2, s3, mr)"
-  ],
-  "ja511:24.4": [
-    "jigīsasi → jigiṃsasi (bj, s2, s3, pts1)"
-  ],
-  "ja511:26.2": [
-    "rakkhasseva → rakkhassu ca (s2, s3)"
-  ],
-  "ja511:26.4": [
-    "pakuṭṭhāyi → pakatthāsi (bj, pts1) | pakvakkhāsi (s2, s3)"
-  ],
-  "ja511:31.1": [
-    "vippasākhaggā → vippasūnaggā (bj, s2, s3, pts1) | vippaonaggā (mr)"
-  ],
-  "ja511:31.3": [
-    "Kosambasaḷalā → kosumbhasalalā (bj) | kosumbasalaḷā (s2, s3) | kosumbhasalaḷā (pts1)"
-  ],
-  "ja511:32.2": [
-    "candanussado → candanassado (bj)"
-  ],
-  "ja511:35.2": [
-    "gadhito → gathito (bj, pts1) | giddhito (s2, s3, mr) | giddhiko (Ma-aka)"
-  ]
+  "ja511:6.2": "supariṇāhavā → suparināhavā (bj) | supariṇāmavā (pts1, mr)",
+  "ja511:9.2": "Byantībhūto → byantibhūto (bj, mr) | vyantibhūto (pts1)",
+  "ja511:9.4": "kesuci → kesupi (si)",
+  "ja511:12.1": "meva → me (bj) | mama (?)",
+  "ja511:13.1": "Ruppapaṭṭapalimaṭṭhīva → rupapaṭṭaplamaṭṭhīva (s2, s3) | rūpapaṭṭapamaṭṭhīva (mr)",
+  "ja511:14.4": "gandhabbamanussaloke → devagandhabbamānuse (s2, s3)",
+  "ja511:18.2": "tālā cudumbarā → tālamudumbarā (s2, s3, mr)",
+  "ja511:21.1": "vaḍḍhavaṃ → vaddhavaṃ (bj, pts1)",
+  "ja511:22.5": "Asaṃsayaṃ tepi → āsaṃsayante (bj, pts1)",
+  "ja511:22.6": "paṭṭhabhūtā → vaddhabhūtā (bj, pts1)",
+  "ja511:24.2": "sati → pati (s2, s3, mr)",
+  "ja511:24.4": "jigīsasi → jigiṃsasi (bj, s2, s3, pts1)",
+  "ja511:26.2": "rakkhasseva → rakkhassu ca (s2, s3)",
+  "ja511:26.4": "pakuṭṭhāyi → pakatthāsi (bj, pts1) | pakvakkhāsi (s2, s3)",
+  "ja511:31.1": "vippasākhaggā → vippasūnaggā (bj, s2, s3, pts1) | vippaonaggā (mr)",
+  "ja511:31.3": "Kosambasaḷalā → kosumbhasalalā (bj) | kosumbasalaḷā (s2, s3) | kosumbhasalaḷā (pts1)",
+  "ja511:32.2": "candanussado → candanassado (bj)",
+  "ja511:35.2": "gadhito → gathito (bj, pts1) | giddhito (s2, s3, mr) | giddhiko (Ma-aka)"
 }

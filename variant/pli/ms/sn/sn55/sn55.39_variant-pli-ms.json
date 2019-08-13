@@ -1,11 +1,5 @@
 {
-  "sn55.39:0.3": [
-    "39. Kāḷigodhasutta → kāligodhāsuttaṃ (bj) | kāḷi (pts1)"
-  ],
-  "sn55.39:1.2": [
-    "kāḷigodhāya → kāligodhāya (bj)"
-  ],
-  "sn55.39:2.7": [
-    "payatapāṇinī → payatapāṇī (bj, s1, s2, pts1) | payatapāṇi (s3)"
-  ]
+  "sn55.39:0.3": "39. Kāḷigodhasutta → kāligodhāsuttaṃ (bj) | kāḷi (pts1)",
+  "sn55.39:1.2": "kāḷigodhāya → kāligodhāya (bj)",
+  "sn55.39:2.7": "payatapāṇinī → payatapāṇī (bj, s1, s2, pts1) | payatapāṇi (s3)"
 }

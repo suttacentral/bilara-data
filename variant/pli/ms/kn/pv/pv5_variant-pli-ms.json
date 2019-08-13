@@ -1,17 +1,7 @@
 {
-  "pv5:4.1": [
-    "Tirokuṭṭesu → tirokuḍḍesu (bj, s2, s3, pts1-2)"
-  ],
-  "pv5:9.4": [
-    "kayākayaṃ → kayākkayaṃ (bj, mr) | kayakkayaṃ (pts1-2) | kayokayaṃ (18Kh:69)"
-  ],
-  "pv5:9.6": [
-    "kālagatā → kālakatā (bj, s2, s3, pts1-2)"
-  ],
-  "pv5:12.2": [
-    "mittā → ñāti mitto (?)"
-  ],
-  "pv5:16.1": [
-    "Tirokuṭṭapetavatthu → tirokuḍḍapetavatthu (bj, s2, s3, pts1-2)"
-  ]
+  "pv5:4.1": "Tirokuṭṭesu → tirokuḍḍesu (bj, s2, s3, pts1-2)",
+  "pv5:9.4": "kayākayaṃ → kayākkayaṃ (bj, mr) | kayakkayaṃ (pts1-2) | kayokayaṃ (18Kh:69)",
+  "pv5:9.6": "kālagatā → kālakatā (bj, s2, s3, pts1-2)",
+  "pv5:12.2": "mittā → ñāti mitto (?)",
+  "pv5:16.1": "Tirokuṭṭapetavatthu → tirokuḍḍapetavatthu (bj, s2, s3, pts1-2)"
 }

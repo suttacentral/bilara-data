@@ -1,14 +1,6 @@
 {
-  "sn56.45:0.3": [
-    "45. Vālasutta → chiggaḷa 1 (pts1)"
-  ],
-  "sn56.45:1.3": [
-    "poṅkhānupoṅkhaṃ → pokhānupokhaṃ (s1-3, km) | poṅkhānupoṅkaṃ (pts1)"
-  ],
-  "sn56.45:3.3": [
-    "sattadhā → satadhā (bj, pts1)"
-  ],
-  "sn56.45:3.5": [
-    "Atha kho → atha kho te (bj, s1-3, km)"
-  ]
+  "sn56.45:0.3": "45. Vālasutta → chiggaḷa 1 (pts1)",
+  "sn56.45:1.3": "poṅkhānupoṅkhaṃ → pokhānupokhaṃ (s1-3, km) | poṅkhānupoṅkaṃ (pts1)",
+  "sn56.45:3.3": "sattadhā → satadhā (bj, pts1)",
+  "sn56.45:3.5": "Atha kho → atha kho te (bj, s1-3, km)"
 }

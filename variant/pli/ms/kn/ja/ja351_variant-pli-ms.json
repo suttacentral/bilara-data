@@ -1,20 +1,8 @@
 {
-  "ja351:5.3": [
-    "asesakesu → asesitesu (bj, pts1) | asesikesu (mr)"
-  ],
-  "ja351:6.2": [
-    "Macco vā te → ca ne (pts1) | dhane (mr)"
-  ],
-  "ja351:7.1": [
-    "āpūrati veti → pūreti khīyati (s2, s3)"
-  ],
-  "ja351:7.2": [
-    "Atthaṃ tapetvāna → atthaṅgametvāna (s2, s3) | andhaṃ tapetvāna (mr)"
-  ],
-  "ja351:7.3": [
-    "Viditā → vijitā (s2, s3)"
-  ],
-  "ja351:9.3": [
-    "rāja → rañño (bj, s2, s3)"
-  ]
+  "ja351:5.3": "asesakesu → asesitesu (bj, pts1) | asesikesu (mr)",
+  "ja351:6.2": "Macco vā te → ca ne (pts1) | dhane (mr)",
+  "ja351:7.1": "āpūrati veti → pūreti khīyati (s2, s3)",
+  "ja351:7.2": "Atthaṃ tapetvāna → atthaṅgametvāna (s2, s3) | andhaṃ tapetvāna (mr)",
+  "ja351:7.3": "Viditā → vijitā (s2, s3)",
+  "ja351:9.3": "rāja → rañño (bj, s2, s3)"
 }

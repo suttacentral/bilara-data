@@ -1,32 +1,12 @@
 {
-  "dhp334:3": [
-    "plavatī → plavati (bj) | palavatī (s1-3, pts1-2) | palavetī (mr) | uplavatī (?)"
-  ],
-  "dhp335:4": [
-    "abhivaṭṭhaṃva → abhivaṭṭaṃva (si, pts1) | abhivaḍḍhaṃva (s1-3) | abhivuḍḍhaṃva (mr)"
-  ],
-  "dhp339:3": [
-    "Mahāvahanti → vāhā vahanti (bj, s1, pts1-2)"
-  ],
-  "dhp340:2": [
-    "uppajja → ubbhijja (bj, s1-3, km, pts1-2)"
-  ],
-  "dhp342:2": [
-    "bandhito → bādhito (bahūsu)"
-  ],
-  "dhp343:4": [
-    "Ākaṅkhanta → bhikkhu ākaṅkhī (bj) | bhikkhu ākaṅkhaṃ (s1-3) | bhikkhu ākaṃkha (pts1-2)"
-  ],
-  "dhp345:2": [
-    "dārujapabbajañca → dārujaṃ babbajañca (bj, pts1) | dārujaṃ pabbajañca (s1-3, pts2)"
-  ],
-  "dhp349:4": [
-    "Esa kho daḷhaṃ → esa gāḷhaṃ (mr)"
-  ],
-  "dhp350:1": [
-    "Vitakkūpasame ca → vitakkūpasameva (mr)"
-  ],
-  "dhp350:3": [
-    "Esa → eso (?)"
-  ]
+  "dhp334:3": "plavatī → plavati (bj) | palavatī (s1-3, pts1-2) | palavetī (mr) | uplavatī (?)",
+  "dhp335:4": "abhivaṭṭhaṃva → abhivaṭṭaṃva (si, pts1) | abhivaḍḍhaṃva (s1-3) | abhivuḍḍhaṃva (mr)",
+  "dhp339:3": "Mahāvahanti → vāhā vahanti (bj, s1, pts1-2)",
+  "dhp340:2": "uppajja → ubbhijja (bj, s1-3, km, pts1-2)",
+  "dhp342:2": "bandhito → bādhito (bahūsu)",
+  "dhp343:4": "Ākaṅkhanta → bhikkhu ākaṅkhī (bj) | bhikkhu ākaṅkhaṃ (s1-3) | bhikkhu ākaṃkha (pts1-2)",
+  "dhp345:2": "dārujapabbajañca → dārujaṃ babbajañca (bj, pts1) | dārujaṃ pabbajañca (s1-3, pts2)",
+  "dhp349:4": "Esa kho daḷhaṃ → esa gāḷhaṃ (mr)",
+  "dhp350:1": "Vitakkūpasame ca → vitakkūpasameva (mr)",
+  "dhp350:3": "Esa → eso (?)"
 }

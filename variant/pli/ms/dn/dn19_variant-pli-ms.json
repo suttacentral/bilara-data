@@ -1,66 +1,23 @@
 {
-  "dn19:9.1": [
-    "Abhinipphanno → abhinippanno (pts1, mr)"
-  ],
-  "dn19:33.7": [
-    "sukho bhavetha → sukha medhetha (bj) | sukhaṃ bhaveyyātha (s1-3, km) | sukha­medhey­yā­tha (pts1) | sukhā bhaveyyātha (mr)"
-  ],
-  "dn19:34.12": [
-    "vacanaṃ → vacananti (s1-3, km, mr)"
-  ],
-  "dn19:36.1": [
-    "paṭṭhapesi → aṭṭhapesi (pts1)"
-  ],
-  "dn19:36.3": [
-    "kaliṅgānaṃ → kāliṅgānaṃ (s1-3, km, pts1, mr)"
-  ],
-  "dn19:36.5": [
-    "Mahesayaṃ → māhissati (bj, s1-3, km) | māhissatī (pts1)"
-  ],
-  "dn19:37.6": [
-    "muddhāvasitte rajje → muddhābhisitte rajjena (s1-3, km)"
-  ],
-  "dn19:38.1": [
-    "abbhuggacchi → abbhuggañchi (bj, pts1)"
-  ],
-  "dn19:43.2": [
-    "upasaṅkamati → upasaṃkami (pts1)"
-  ],
-  "dn19:44.9": [
-    "sanantanaṃ → sanantica (mr)"
-  ],
-  "dn19:44.13": [
-    "madhusākañca → madhupākañca (bj, s1-3, km, pts1)"
-  ],
-  "dn19:45.13": [
-    "karuṇedhimutto → karuṇādhimutto (bj, s1-3, km, pts1)"
-  ],
-  "dn19:46.13": [
-    "kurutu → kurūrā (bj) | kururū (s1-3, km) | kuruṭṭharū (pts1) | kurūru (?)",
-    "Kenāvaṭā → kenāvutā (bj) | kenāvuṭā (s1-3, km)"
-  ],
-  "dn19:47.15": [
-    "pājahi → pājehi (aṭṭhakathāyaṃ saṃ­vaṇṇi­ta­pā­ṭhantaraṃ)"
-  ],
-  "dn19:49.15": [
-    "mamapimā → mamapi tā (bj, mr) | mamapīmā (s1-3, km)"
-  ],
-  "dn19:51.5": [
-    "mantāyaṃ → mantāya (s1-3, km, pts1)"
-  ],
-  "dn19:55.6": [
-    "rajjena → rajje (s1-3, km, pts1)"
-  ],
-  "dn19:56.11": [
-    "brāhmaṇānaṃ → brahmānaṃ (bj, mr)"
-  ],
-  "dn19:60.1": [
-    "bho → pana (bj, s1-3, km, mr)"
-  ],
-  "dn19:62.3": [
-    "karissanti → karonti (pts1)"
-  ],
-  "dn19:62.5": [
-    "pabbajjā → pabbajā ahosi (mr)"
-  ]
+  "dn19:9.1": "Abhinipphanno → abhinippanno (pts1, mr)",
+  "dn19:33.7": "sukho bhavetha → sukha medhetha (bj) | sukhaṃ bhaveyyātha (s1-3, km) | sukha­medhey­yā­tha (pts1) | sukhā bhaveyyātha (mr)",
+  "dn19:34.12": "vacanaṃ → vacananti (s1-3, km, mr)",
+  "dn19:36.1": "paṭṭhapesi → aṭṭhapesi (pts1)",
+  "dn19:36.3": "kaliṅgānaṃ → kāliṅgānaṃ (s1-3, km, pts1, mr)",
+  "dn19:36.5": "Mahesayaṃ → māhissati (bj, s1-3, km) | māhissatī (pts1)",
+  "dn19:37.6": "muddhāvasitte rajje → muddhābhisitte rajjena (s1-3, km)",
+  "dn19:38.1": "abbhuggacchi → abbhuggañchi (bj, pts1)",
+  "dn19:43.2": "upasaṅkamati → upasaṃkami (pts1)",
+  "dn19:44.9": "sanantanaṃ → sanantica (mr)",
+  "dn19:44.13": "madhusākañca → madhupākañca (bj, s1-3, km, pts1)",
+  "dn19:45.13": "karuṇedhimutto → karuṇādhimutto (bj, s1-3, km, pts1)",
+  "dn19:46.13": "kurutu → kurūrā (bj) | kururū (s1-3, km) | kuruṭṭharū (pts1) | kurūru (?), Kenāvaṭā → kenāvutā (bj) | kenāvuṭā (s1-3, km)",
+  "dn19:47.15": "pājahi → pājehi (aṭṭhakathāyaṃ saṃ­vaṇṇi­ta­pā­ṭhantaraṃ)",
+  "dn19:49.15": "mamapimā → mamapi tā (bj, mr) | mamapīmā (s1-3, km)",
+  "dn19:51.5": "mantāyaṃ → mantāya (s1-3, km, pts1)",
+  "dn19:55.6": "rajjena → rajje (s1-3, km, pts1)",
+  "dn19:56.11": "brāhmaṇānaṃ → brahmānaṃ (bj, mr)",
+  "dn19:60.1": "bho → pana (bj, s1-3, km, mr)",
+  "dn19:62.3": "karissanti → karonti (pts1)",
+  "dn19:62.5": "pabbajjā → pabbajā ahosi (mr)"
 }

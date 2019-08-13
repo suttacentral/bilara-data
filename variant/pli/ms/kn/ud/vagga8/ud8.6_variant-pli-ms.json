@@ -1,36 +1,13 @@
 {
-  "ud8.6:3.3": [
-    "pāṭaligāmiyā → pāṭaligāmikā (^dn16#56 [Mahāparinibbānasutta/5. Dussīlaādīnava])"
-  ],
-  "ud8.6:4.5": [
-    "sabbasantharisanthataṃ → sabbasanthariṃ santhataṃ (s1-3, pts1)"
-  ],
-  "ud8.6:4.7": [
-    "udakamaṇiko patiṭṭhāpito → udakamaṇikaṃ patiṭṭhāpitaṃ (s1-3)"
-  ],
-  "ud8.6:17.1": [
-    "sunidhavassakārā → sunīdhavassakārā (bj, s1-3, pts1)"
-  ],
-  "ud8.6:17.2": [
-    "sahassasahasseva → sahasseva (s1-3, mr) | sahassasseva (pts1)"
-  ],
-  "ud8.6:19.1": [
-    "kho → ko nu kho (sabbattha)",
-    "māpentī”ti → māpetīti (sabbattha)"
-  ],
-  "ud8.6:20.3": [
-    "sāraṇīyaṃ → sārāṇīyaṃ (bj, s1-3, km, pts1)"
-  ],
-  "ud8.6:24.4": [
-    "brahmacārayo → brahmacārino (s1-3) | brahmacariye (pts1, mr)"
-  ],
-  "ud8.6:29.8": [
-    "orimatīre → orimatīrā (s1-3, pts1)"
-  ],
-  "ud8.6:32.3": [
-    "pabandhati → bandhati (s1-3, pts1)"
-  ],
-  "ud8.6:32.4": [
-    "Tiṇṇā → nitiṇṇā (mr)"
-  ]
+  "ud8.6:3.3": "pāṭaligāmiyā → pāṭaligāmikā (^dn16#56 [Mahāparinibbānasutta/5. Dussīlaādīnava])",
+  "ud8.6:4.5": "sabbasantharisanthataṃ → sabbasanthariṃ santhataṃ (s1-3, pts1)",
+  "ud8.6:4.7": "udakamaṇiko patiṭṭhāpito → udakamaṇikaṃ patiṭṭhāpitaṃ (s1-3)",
+  "ud8.6:17.1": "sunidhavassakārā → sunīdhavassakārā (bj, s1-3, pts1)",
+  "ud8.6:17.2": "sahassasahasseva → sahasseva (s1-3, mr) | sahassasseva (pts1)",
+  "ud8.6:19.1": "kho → ko nu kho (sabbattha), māpentī”ti → māpetīti (sabbattha)",
+  "ud8.6:20.3": "sāraṇīyaṃ → sārāṇīyaṃ (bj, s1-3, km, pts1)",
+  "ud8.6:24.4": "brahmacārayo → brahmacārino (s1-3) | brahmacariye (pts1, mr)",
+  "ud8.6:29.8": "orimatīre → orimatīrā (s1-3, pts1)",
+  "ud8.6:32.3": "pabandhati → bandhati (s1-3, pts1)",
+  "ud8.6:32.4": "Tiṇṇā → nitiṇṇā (mr)"
 }

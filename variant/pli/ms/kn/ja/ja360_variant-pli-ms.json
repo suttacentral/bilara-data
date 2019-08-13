@@ -1,26 +1,10 @@
 {
-  "ja360:5.2": [
-    "ca → va (s2, s3, pts1)"
-  ],
-  "ja360:5.3": [
-    "suyonandī → ito hi susandhī (bj, s2, s3) | itopi sussondī (pts1)"
-  ],
-  "ja360:6.2": [
-    "sedumaṃ → serumaṃ (bj, s2, s3, pts1)"
-  ],
-  "ja360:6.4": [
-    "saggasamāgamo → aggasamāgamo (s2, s3)"
-  ],
-  "ja360:7.1": [
-    "Kurukacchā → bharukacchā (bj, s2, s3) | bharukaccha (pts1)"
-  ],
-  "ja360:7.3": [
-    "Makarehi abhidā → makarehambhidā (bj) | maṅkarehi bhidā (s2, s3) | makarehi bhinnā (pts1)"
-  ],
-  "ja360:8.3": [
-    "Aṅgena → aṅkena (bj, pts1, mr)"
-  ],
-  "ja360:10.1": [
-    "Suyonandījātakaṃ → susandhijātakaṃ (bj) | susandhījātakaṃ (s2, s3) | sussondijātakaṃ (pts1)"
-  ]
+  "ja360:5.2": "ca → va (s2, s3, pts1)",
+  "ja360:5.3": "suyonandī → ito hi susandhī (bj, s2, s3) | itopi sussondī (pts1)",
+  "ja360:6.2": "sedumaṃ → serumaṃ (bj, s2, s3, pts1)",
+  "ja360:6.4": "saggasamāgamo → aggasamāgamo (s2, s3)",
+  "ja360:7.1": "Kurukacchā → bharukacchā (bj, s2, s3) | bharukaccha (pts1)",
+  "ja360:7.3": "Makarehi abhidā → makarehambhidā (bj) | maṅkarehi bhidā (s2, s3) | makarehi bhinnā (pts1)",
+  "ja360:8.3": "Aṅgena → aṅkena (bj, pts1, mr)",
+  "ja360:10.1": "Suyonandījātakaṃ → susandhijātakaṃ (bj) | susandhījātakaṃ (s2, s3) | sussondijātakaṃ (pts1)"
 }

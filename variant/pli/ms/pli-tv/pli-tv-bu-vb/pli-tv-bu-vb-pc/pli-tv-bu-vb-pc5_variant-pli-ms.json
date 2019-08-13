@@ -1,12 +1,5 @@
 {
-  "pli-tv-bu-vb-pc5:2.16": [
-    "sahaseyyaṃ → saha seyyaṃ (s1-3)",
-    "uttaridirattatirattaṃ → uttaridviratta … (s1-3, pts1)"
-  ],
-  "pli-tv-bu-vb-pc5:3.3.6": [
-    "sabbaacchanne → (bj)"
-  ],
-  "pli-tv-bu-vb-pc5:3.3.14": [
-    "Sahaseyyasikkhāpadaṃ → paṭha­ma­saha­seyya­sikkhā­padaṃ (bj)"
-  ]
+  "pli-tv-bu-vb-pc5:2.16": "sahaseyyaṃ → saha seyyaṃ (s1-3), uttaridirattatirattaṃ → uttaridviratta … (s1-3, pts1)",
+  "pli-tv-bu-vb-pc5:3.3.6": "sabbaacchanne → (bj)",
+  "pli-tv-bu-vb-pc5:3.3.14": "Sahaseyyasikkhāpadaṃ → paṭha­ma­saha­seyya­sikkhā­padaṃ (bj)"
 }

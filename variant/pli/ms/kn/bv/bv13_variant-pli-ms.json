@@ -1,12 +1,5 @@
 {
-  "bv13:14.3": [
-    "tassupagañchiṃ → tassa upagañchiṃ (s2, s3) | tass'upāgañchiṃ (pts1-2)"
-  ],
-  "bv13:19.3": [
-    "Abhiññāsu pāramiṃ → abhiññāpāramiṃ (s2, s3)",
-    "gantvā → patvā (bj, s2, s3, mr)"
-  ],
-  "bv13:27.3": [
-    "Yasodharā sirimā ca → yasā nāma sirivā ca (s2, s3, km)"
-  ]
+  "bv13:14.3": "tassupagañchiṃ → tassa upagañchiṃ (s2, s3) | tass'upāgañchiṃ (pts1-2)",
+  "bv13:19.3": "Abhiññāsu pāramiṃ → abhiññāpāramiṃ (s2, s3), gantvā → patvā (bj, s2, s3, mr)",
+  "bv13:27.3": "Yasodharā sirimā ca → yasā nāma sirivā ca (s2, s3, km)"
 }

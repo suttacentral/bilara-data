@@ -1,47 +1,17 @@
 {
-  "snp2.12:4.1": [
-    "Pucchāmi → pucchāma (bj, s1-3, pts1, c1)"
-  ],
-  "snp2.12:5.3": [
-    "mutyapekkho → mutyapekho (^thag21.1#56 [Vaṅgīsattheragāthā])"
-  ],
-  "snp2.12:6.1": [
-    "sakya → sakka (bj, s1-3, pts1)"
-  ],
-  "snp2.12:7.3": [
-    "Majjheva → majjhe ca (s1-3, mr)"
-  ],
-  "snp2.12:9.4": [
-    "jotimantopi narā tapeyyuṃ → jotimantopi na pabhāseyyuṃ (^thag21.1#60 [Vaṅgīsattheragāthā])"
-  ],
-  "snp2.12:10.2": [
-    "vīra → dhīra (bj, s1-3, pts1)"
-  ],
-  "snp2.12:10.3": [
-    "jānamupāgamumhā → jānamupāgamamha (bj, s1-3, pts1)"
-  ],
-  "snp2.12:11.2": [
-    "saṇikaṃ → sanikaṃ (bj) | saṇiṃ (s1-3, pts1)"
-  ],
-  "snp2.12:12.4": [
-    "Saṅkheyyakāro ca → saṅkhayyakārova (bj, mr)"
-  ],
-  "snp2.12:13.2": [
-    "Samujjupaññassa → samujjapaññassa (s1-3, mr)"
-  ],
-  "snp2.12:14.1": [
-    "Parovaraṃ → varāvaraṃ (katthaci)"
-  ],
-  "snp2.12:14.4": [
-    "sutaṃ pavassa → sutassa vassa (s1-3, pts1)"
-  ],
-  "snp2.12:15.1": [
-    "Yadatthikaṃ → yadatthiyaṃ (pts1) | yadatthitaṃ (mr)"
-  ],
-  "snp2.12:16.1": [
-    "Acchecchi → achejji (mr)"
-  ],
-  "snp2.12:16.3": [
-    "Kaṇhassa → taṇhāya (mr)"
-  ]
+  "snp2.12:4.1": "Pucchāmi → pucchāma (bj, s1-3, pts1, c1)",
+  "snp2.12:5.3": "mutyapekkho → mutyapekho (^thag21.1#56 [Vaṅgīsattheragāthā])",
+  "snp2.12:6.1": "sakya → sakka (bj, s1-3, pts1)",
+  "snp2.12:7.3": "Majjheva → majjhe ca (s1-3, mr)",
+  "snp2.12:9.4": "jotimantopi narā tapeyyuṃ → jotimantopi na pabhāseyyuṃ (^thag21.1#60 [Vaṅgīsattheragāthā])",
+  "snp2.12:10.2": "vīra → dhīra (bj, s1-3, pts1)",
+  "snp2.12:10.3": "jānamupāgamumhā → jānamupāgamamha (bj, s1-3, pts1)",
+  "snp2.12:11.2": "saṇikaṃ → sanikaṃ (bj) | saṇiṃ (s1-3, pts1)",
+  "snp2.12:12.4": "Saṅkheyyakāro ca → saṅkhayyakārova (bj, mr)",
+  "snp2.12:13.2": "Samujjupaññassa → samujjapaññassa (s1-3, mr)",
+  "snp2.12:14.1": "Parovaraṃ → varāvaraṃ (katthaci)",
+  "snp2.12:14.4": "sutaṃ pavassa → sutassa vassa (s1-3, pts1)",
+  "snp2.12:15.1": "Yadatthikaṃ → yadatthiyaṃ (pts1) | yadatthitaṃ (mr)",
+  "snp2.12:16.1": "Acchecchi → achejji (mr)",
+  "snp2.12:16.3": "Kaṇhassa → taṇhāya (mr)"
 }

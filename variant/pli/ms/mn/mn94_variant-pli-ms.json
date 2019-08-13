@@ -1,14 +1,6 @@
 {
-  "mn94:2.6": [
-    "paribbajo → paribbājo (bj, pts1)"
-  ],
-  "mn94:3.4": [
-    "saṃvijjanti → saṃvijjante (bahūsu)"
-  ],
-  "mn94:32.5": [
-    "Sacepi → sace (bj, pts1) | sace hi (s1-3, km)"
-  ],
-  "mn94:32.10": [
-    "Yojanasate cepi → yojanasatepi (bj, s1-3, km, pts1)"
-  ]
+  "mn94:2.6": "paribbajo → paribbājo (bj, pts1)",
+  "mn94:3.4": "saṃvijjanti → saṃvijjante (bahūsu)",
+  "mn94:32.5": "Sacepi → sace (bj, pts1) | sace hi (s1-3, km)",
+  "mn94:32.10": "Yojanasate cepi → yojanasatepi (bj, s1-3, km, pts1)"
 }

@@ -1,11 +1,5 @@
 {
-  "thig11.1:4.2": [
-    "āsuṃ → āhuṃ (si)"
-  ],
-  "thig11.1:9.4": [
-    "tādino → sirīmato (s2, s3, pts1-2, mr)"
-  ],
-  "thig11.1:10.2": [
-    "sālamūle → rukkhamūle (s2, s3, pts1-2, mr)"
-  ]
+  "thig11.1:4.2": "āsuṃ → āhuṃ (si)",
+  "thig11.1:9.4": "tādino → sirīmato (s2, s3, pts1-2, mr)",
+  "thig11.1:10.2": "sālamūle → rukkhamūle (s2, s3, pts1-2, mr)"
 }

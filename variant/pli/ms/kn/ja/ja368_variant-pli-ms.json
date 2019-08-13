@@ -1,14 +1,6 @@
 {
-  "ja368:5.1": [
-    "Amittahatthatthagatā → ... hatthattagatā (katthaci, bj -nissya)"
-  ],
-  "ja368:6.2": [
-    "Atthova labbho → attho ca labbhā (bj, s2, s3) | atthodha labbhā (^an5.48#1 [48. Alabbhanīyaṭhānasutta])"
-  ],
-  "ja368:7.3": [
-    "Paccatthikāssa → paccatthikā te (mr)"
-  ],
-  "ja368:9.2": [
-    "Mayā va → mayā vā (s2, s3, mr)"
-  ]
+  "ja368:5.1": "Amittahatthatthagatā → ... hatthattagatā (katthaci, bj -nissya)",
+  "ja368:6.2": "Atthova labbho → attho ca labbhā (bj, s2, s3) | atthodha labbhā (^an5.48#1 [48. Alabbhanīyaṭhānasutta])",
+  "ja368:7.3": "Paccatthikāssa → paccatthikā te (mr)",
+  "ja368:9.2": "Mayā va → mayā vā (s2, s3, mr)"
 }

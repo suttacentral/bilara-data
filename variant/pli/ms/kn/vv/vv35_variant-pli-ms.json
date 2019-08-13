@@ -1,33 +1,12 @@
 {
-  "vv35:7.1": [
-    "sateratāva → sateritāva (s2, s3, mr)"
-  ],
-  "vv35:8.2": [
-    "Yodhika bandhukanojakā → yothikā bhaṇḍikā nojakā (s2) | yothikābhaṇḍikānojakā (s3)"
-  ],
-  "vv35:9.1": [
-    "Saḷalalabujabhujaka → ... sujaka (si, s2, s3)",
-    "saṃyuttā → saññatā (bj)"
-  ],
-  "vv35:11.4": [
-    "avacāsiḷārapamhe”ti → avacāsulārapakhumeti (bj, pts1-2) | avacāsi āḷārapamukheti (s2, s3)"
-  ],
-  "vv35:12.2": [
-    "Koñcamayūracakorasaṅghacaritaṃ → ... mayuracakora ... (s2, s3) | ... mayūracaṅkora ... (mr)"
-  ],
-  "vv35:12.3": [
-    "Dibyapilavahaṃsarājaciṇṇaṃ → dibba ... (bj, pts1-2)"
-  ],
-  "vv35:13.4": [
-    "pavedayāmi → pavadissāmi (bj) | pavedissāmi (s2, s3, pts1-2)"
-  ],
-  "vv35:14.4": [
-    "Pesavatīti → sesavatī (bj) | sesavatīti (s2, s3, pts1-2)"
-  ],
-  "vv35:15.4": [
-    "abbhukiriṃ → abbhokiriṃ (bj, s2, s3, pts1-2, mr)"
-  ],
-  "vv35:17.1": [
-    "Pesavatīvimānaṃ → sesavatīvimānaṃ (bj, s2, s3, pts1-2)"
-  ]
+  "vv35:7.1": "sateratāva → sateritāva (s2, s3, mr)",
+  "vv35:8.2": "Yodhika bandhukanojakā → yothikā bhaṇḍikā nojakā (s2) | yothikābhaṇḍikānojakā (s3)",
+  "vv35:9.1": "Saḷalalabujabhujaka → ... sujaka (si, s2, s3), saṃyuttā → saññatā (bj)",
+  "vv35:11.4": "avacāsiḷārapamhe”ti → avacāsulārapakhumeti (bj, pts1-2) | avacāsi āḷārapamukheti (s2, s3)",
+  "vv35:12.2": "Koñcamayūracakorasaṅghacaritaṃ → ... mayuracakora ... (s2, s3) | ... mayūracaṅkora ... (mr)",
+  "vv35:12.3": "Dibyapilavahaṃsarājaciṇṇaṃ → dibba ... (bj, pts1-2)",
+  "vv35:13.4": "pavedayāmi → pavadissāmi (bj) | pavedissāmi (s2, s3, pts1-2)",
+  "vv35:14.4": "Pesavatīti → sesavatī (bj) | sesavatīti (s2, s3, pts1-2)",
+  "vv35:15.4": "abbhukiriṃ → abbhokiriṃ (bj, s2, s3, pts1-2, mr)",
+  "vv35:17.1": "Pesavatīvimānaṃ → sesavatīvimānaṃ (bj, s2, s3, pts1-2)"
 }

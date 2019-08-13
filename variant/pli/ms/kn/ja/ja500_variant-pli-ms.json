@@ -1,44 +1,15 @@
 {
-  "ja500:6.4": [
-    "pesakarā → pessakarā (bj, pts1)"
-  ],
-  "ja500:6.6": [
-    "sirīmāva → sirimāva (bj, s2, s3, pts1)"
-  ],
-  "ja500:8.1": [
-    "kammāni karoti bālo → karonti bālā (s2, s3, mr)"
-  ],
-  "ja500:8.2": [
-    "Idhameva → idameva (bj, s2, s3, Ma-aka) | imameva (mr)",
-    "maññamāno → maññamānā (s2, s3, mr)"
-  ],
-  "ja500:9.2": [
-    "Na bandhuvā → na bandhavā (bj, s2, s3, mr)",
-    "na sarīravaṇṇo yo → na sarīrāvakāso (bj, s2, s3, pts1)"
-  ],
-  "ja500:9.4": [
-    "goravindaṃ → gorimandaṃ (bj, pts1)"
-  ],
-  "ja500:11.2": [
-    "samabhisaranti → sambhi caranti (bj) | samabhicaranti (pts1)"
-  ],
-  "ja500:13.4": [
-    "iddhiṃ paññopi loke → iddhiparo hi loke (bj, s2, s3) | iddhiparo hi loko (pts1)"
-  ],
-  "ja500:16.2": [
-    "sandhānagato → santhānagato (bj) | saṇṭhānagato (s2, s3, pts1)"
-  ],
-  "ja500:16.4": [
-    "hi naṃ → sirihīnaṃ (bj, mr) | sirīhīnaṃ (s2, s3, pts1)",
-    "na paññā → na paññaṃ (s2, s3, mr)"
-  ],
-  "ja500:17.4": [
-    "Pacchāpi → peccāpi (bj) | peccampi (pts1)"
-  ],
-  "ja500:18.2": [
-    "Anāḷhiyo → anāḷiyo (s2, s3) | anālayo (pts1)"
-  ],
-  "ja500:26.1": [
-    "Sirīmantajātakaṃ → sirimandajātakaṃ (bj, s2, s3, pts1)"
-  ]
+  "ja500:6.4": "pesakarā → pessakarā (bj, pts1)",
+  "ja500:6.6": "sirīmāva → sirimāva (bj, s2, s3, pts1)",
+  "ja500:8.1": "kammāni karoti bālo → karonti bālā (s2, s3, mr)",
+  "ja500:8.2": "Idhameva → idameva (bj, s2, s3, Ma-aka) | imameva (mr), maññamāno → maññamānā (s2, s3, mr)",
+  "ja500:9.2": "Na bandhuvā → na bandhavā (bj, s2, s3, mr), na sarīravaṇṇo yo → na sarīrāvakāso (bj, s2, s3, pts1)",
+  "ja500:9.4": "goravindaṃ → gorimandaṃ (bj, pts1)",
+  "ja500:11.2": "samabhisaranti → sambhi caranti (bj) | samabhicaranti (pts1)",
+  "ja500:13.4": "iddhiṃ paññopi loke → iddhiparo hi loke (bj, s2, s3) | iddhiparo hi loko (pts1)",
+  "ja500:16.2": "sandhānagato → santhānagato (bj) | saṇṭhānagato (s2, s3, pts1)",
+  "ja500:16.4": "hi naṃ → sirihīnaṃ (bj, mr) | sirīhīnaṃ (s2, s3, pts1), na paññā → na paññaṃ (s2, s3, mr)",
+  "ja500:17.4": "Pacchāpi → peccāpi (bj) | peccampi (pts1)",
+  "ja500:18.2": "Anāḷhiyo → anāḷiyo (s2, s3) | anālayo (pts1)",
+  "ja500:26.1": "Sirīmantajātakaṃ → sirimandajātakaṃ (bj, s2, s3, pts1)"
 }

@@ -1,38 +1,13 @@
 {
-  "ja472:5.1": [
-    "Nādaṭṭhā → nādiṭṭhā (bj, s2, s3, mr)"
-  ],
-  "ja472:7.1": [
-    "daṇḍayati → daṇḍiyati (s2, s3, pts1)"
-  ],
-  "ja472:7.2": [
-    "adaṇḍiyaṃ → adaṇḍiya (nissya) | na daṇḍaye (?)"
-  ],
-  "ja472:8.4": [
-    "voharitumarahati → vohātum arahati (pts1)"
-  ],
-  "ja472:9.3": [
-    "mahante → mahatte (s2, s3, mr)",
-    "ṭhapetuṃ → ṭhāpetuṃ (bj, s2, s3, pts1)"
-  ],
-  "ja472:12.1": [
-    "Sabbova → sabbo ca (bj, pts1)",
-    "ekato → ekanto (bj, pts1)"
-  ],
-  "ja472:12.4": [
-    "pakkhipatheva → pakkhipetha (s-a)"
-  ],
-  "ja472:13.2": [
-    "gambhīre ca suduttare → gambhīre ca duruttare (s2, s3) | gambhīre suduruttare (pts1, mr)"
-  ],
-  "ja472:15.3": [
-    "kārehi → kāresi (bj)"
-  ],
-  "ja472:16.4": [
-    "Evaṃ → sukhaṃ (pts1, mr)",
-    "attanaṃ → attanā (s2, s3) | attani (pts1, mr) evaṃ ahampi puna sotthibhāvappattaṃ gilitabaḷisaṃ purisamiva attānaṃ passāmīti (aṭṭha. saṃvaṇṇanā)"
-  ],
-  "ja472:19.5": [
-    "Rājaputto ahaṃ āsiṃ → ahaṃ tadā rājaputto (bj, s2, s3, pts1)"
-  ]
+  "ja472:5.1": "Nādaṭṭhā → nādiṭṭhā (bj, s2, s3, mr)",
+  "ja472:7.1": "daṇḍayati → daṇḍiyati (s2, s3, pts1)",
+  "ja472:7.2": "adaṇḍiyaṃ → adaṇḍiya (nissya) | na daṇḍaye (?)",
+  "ja472:8.4": "voharitumarahati → vohātum arahati (pts1)",
+  "ja472:9.3": "mahante → mahatte (s2, s3, mr), ṭhapetuṃ → ṭhāpetuṃ (bj, s2, s3, pts1)",
+  "ja472:12.1": "Sabbova → sabbo ca (bj, pts1), ekato → ekanto (bj, pts1)",
+  "ja472:12.4": "pakkhipatheva → pakkhipetha (s-a)",
+  "ja472:13.2": "gambhīre ca suduttare → gambhīre ca duruttare (s2, s3) | gambhīre suduruttare (pts1, mr)",
+  "ja472:15.3": "kārehi → kāresi (bj)",
+  "ja472:16.4": "Evaṃ → sukhaṃ (pts1, mr), attanaṃ → attanā (s2, s3) | attani (pts1, mr) evaṃ ahampi puna sotthibhāvappattaṃ gilitabaḷisaṃ purisamiva attānaṃ passāmīti (aṭṭha. saṃvaṇṇanā)",
+  "ja472:19.5": "Rājaputto ahaṃ āsiṃ → ahaṃ tadā rājaputto (bj, s2, s3, pts1)"
 }

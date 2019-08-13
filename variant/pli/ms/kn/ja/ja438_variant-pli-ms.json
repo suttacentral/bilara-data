@@ -1,18 +1,7 @@
 {
-  "ja438:11.3": [
-    "vākurehi → vākarehi (pts1, bj -nissya) | vāgurehi (?)"
-  ],
-  "ja438:12.1": [
-    "kulīkā → kulikā (bj, s2, s3) | kuliṅkā (pts1)"
-  ],
-  "ja438:12.2": [
-    "Akkhā jitā → akkhācitā (si)"
-  ],
-  "ja438:12.3": [
-    "Abbāhitaṃ → appahitaṃ (bj, s2, s3) | abbūhitaṃ (pts1, bj -nissya)",
-    "pubbakaṃ → pupphakaṃ (bj, s2, s3, pts1)"
-  ],
-  "ja438:14.1": [
-    "Daddarajātakaṃ → tittirajātakaṃ (bj, pts1)"
-  ]
+  "ja438:11.3": "vākurehi → vākarehi (pts1, bj -nissya) | vāgurehi (?)",
+  "ja438:12.1": "kulīkā → kulikā (bj, s2, s3) | kuliṅkā (pts1)",
+  "ja438:12.2": "Akkhā jitā → akkhācitā (si)",
+  "ja438:12.3": "Abbāhitaṃ → appahitaṃ (bj, s2, s3) | abbūhitaṃ (pts1, bj -nissya), pubbakaṃ → pupphakaṃ (bj, s2, s3, pts1)",
+  "ja438:14.1": "Daddarajātakaṃ → tittirajātakaṃ (bj, pts1)"
 }

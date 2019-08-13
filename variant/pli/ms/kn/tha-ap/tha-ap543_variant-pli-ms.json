@@ -1,29 +1,11 @@
 {
-  "tha-ap543:3.1": [
-    "1 Lakuṇḍabhaddiyattheraapadāna → lakuṇṭakabhaddhiyattherāpadānaṃ (bj, s2, s3) | lakuṇṭakabhaddiyattherāpadānaṃ (pts1)"
-  ],
-  "tha-ap543:13.3": [
-    "sabbasattānaṃ → sabbapāṇīnaṃ (bj)"
-  ],
-  "tha-ap543:14.2": [
-    "phussakokilo → pussakokilo (s2, s3)"
-  ],
-  "tha-ap543:15.4": [
-    "mañjunābhinikūjahaṃ → mañjunādena kūjahaṃ (bj) | mañjunā abhikūjahaṃ (s2, s3, pts1)"
-  ],
-  "tha-ap543:18.1": [
-    "haṭṭhacittohaṃ → tuṭṭhacittohaṃ (bj)"
-  ],
-  "tha-ap543:18.4": [
-    "pañjaliṃ → pakkhehañjaliṃ (bj)"
-  ],
-  "tha-ap543:19.4": [
-    "nīḷaṃ → niḷaṃ (bj) | niddaṃ (s2, s3, pts1)"
-  ],
-  "tha-ap543:31.3": [
-    "Lakuṇḍakasarīrohaṃ → lakuṇṭakasarīrohaṃ (bj, s2, s3, pts1)"
-  ],
-  "tha-ap543:37.1": [
-    "lakuṇḍabhaddiyo → lakuṇṭakabhaddiyo (bj, s2, s3, pts1)"
-  ]
+  "tha-ap543:3.1": "1 Lakuṇḍabhaddiyattheraapadāna → lakuṇṭakabhaddhiyattherāpadānaṃ (bj, s2, s3) | lakuṇṭakabhaddiyattherāpadānaṃ (pts1)",
+  "tha-ap543:13.3": "sabbasattānaṃ → sabbapāṇīnaṃ (bj)",
+  "tha-ap543:14.2": "phussakokilo → pussakokilo (s2, s3)",
+  "tha-ap543:15.4": "mañjunābhinikūjahaṃ → mañjunādena kūjahaṃ (bj) | mañjunā abhikūjahaṃ (s2, s3, pts1)",
+  "tha-ap543:18.1": "haṭṭhacittohaṃ → tuṭṭhacittohaṃ (bj)",
+  "tha-ap543:18.4": "pañjaliṃ → pakkhehañjaliṃ (bj)",
+  "tha-ap543:19.4": "nīḷaṃ → niḷaṃ (bj) | niddaṃ (s2, s3, pts1)",
+  "tha-ap543:31.3": "Lakuṇḍakasarīrohaṃ → lakuṇṭakasarīrohaṃ (bj, s2, s3, pts1)",
+  "tha-ap543:37.1": "lakuṇḍabhaddiyo → lakuṇṭakabhaddiyo (bj, s2, s3, pts1)"
 }

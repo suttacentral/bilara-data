@@ -1,22 +1,7 @@
 {
-  "an9.19:2.3": [
-    "paccuṭṭhimha abhivādimha → paccuṭṭhimha ca abhivādimha ca (s1-3)"
-  ],
-  "an9.19:3.3": [
-    "paccuṭṭhimha abhivādimha → paccuṭṭhimha ca abhivādimha ca (s1-3, pts1)",
-    "āsanaṃ → āsanañca (bj, s1-3, pts1)"
-  ],
-  "an9.19:3.4": [
-    "yathābalaṃ → yathābalaṃ ca (?)"
-  ],
-  "an9.19:3.5": [
-    "upanisīdimha → upanisīdimha ca (s1-3)"
-  ],
-  "an9.19:4.3": [
-    "paccuṭṭhimha abhivādimha → paccuṭṭhimha ca abhivādimha ca (s1-3)",
-    "āsanaṃ → āsanañca (s1-3)",
-    "yathābalaṃ → yathābalaṃ ca (?)",
-    "upanisīdimha → upanisīdimha ca (s1-3)",
-    "dhammānudhammaṃ → dhammānudhamma (pts1) | dhammānudhammañca (?)"
-  ]
+  "an9.19:2.3": "paccuṭṭhimha abhivādimha → paccuṭṭhimha ca abhivādimha ca (s1-3)",
+  "an9.19:3.3": "paccuṭṭhimha abhivādimha → paccuṭṭhimha ca abhivādimha ca (s1-3, pts1), āsanaṃ → āsanañca (bj, s1-3, pts1)",
+  "an9.19:3.4": "yathābalaṃ → yathābalaṃ ca (?)",
+  "an9.19:3.5": "upanisīdimha → upanisīdimha ca (s1-3)",
+  "an9.19:4.3": "paccuṭṭhimha abhivādimha → paccuṭṭhimha ca abhivādimha ca (s1-3), āsanaṃ → āsanañca (s1-3), yathābalaṃ → yathābalaṃ ca (?), upanisīdimha → upanisīdimha ca (s1-3), dhammānudhammaṃ → dhammānudhamma (pts1) | dhammānudhammañca (?)"
 }

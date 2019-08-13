@@ -1,17 +1,7 @@
 {
-  "an7.68:11.1": [
-    "suṇanti → suṇantā (mr)"
-  ],
-  "an7.68:12.1": [
-    "dhārenti → dhārentā (mr)"
-  ],
-  "an7.68:12.2": [
-    "dhātānaṃ → dhatānaṃ (bj, s1-3, km, pts1)"
-  ],
-  "an7.68:13.1": [
-    "upaparikkhanti → upaparikkhantā (mr)"
-  ],
-  "an7.68:15.1": [
-    "bhikkhuno → bhikkhunā (s1, s2)"
-  ]
+  "an7.68:11.1": "suṇanti → suṇantā (mr)",
+  "an7.68:12.1": "dhārenti → dhārentā (mr)",
+  "an7.68:12.2": "dhātānaṃ → dhatānaṃ (bj, s1-3, km, pts1)",
+  "an7.68:13.1": "upaparikkhanti → upaparikkhantā (mr)",
+  "an7.68:15.1": "bhikkhuno → bhikkhunā (s1, s2)"
 }

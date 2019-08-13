@@ -1,19 +1,7 @@
 {
-  "an11.13:1.2": [
-    "hoti → ahosi (mr)"
-  ],
-  "an11.13:3.1": [
-    "upagacchi → upagañchi (bj, pts1)"
-  ],
-  "an11.13:3.3": [
-    "adhiṭṭhāsi → adhiṭṭhāya (s1-3) | adhiṭṭhāti (mr)",
-    "labhi → lacchati (s1-3, mr)"
-  ],
-  "an11.13:10.2": [
-    "kabaḷīkārāhārabhakkhānaṃ → kabaliṅkārāhārabhakkhānaṃ (bj) | kabaliṅkārabhakkhānaṃ (si) | kabaḷīkārabhakkhānaṃ (s1-3, km, pts1)"
-  ],
-  "an11.13:11.2": [
-    "nikkujjo → nikujjo (mr)",
-    "paccāvamati → pacchā vamati (bj) | paccāmasati (s1-3)"
-  ]
+  "an11.13:1.2": "hoti → ahosi (mr)",
+  "an11.13:3.1": "upagacchi → upagañchi (bj, pts1)",
+  "an11.13:3.3": "adhiṭṭhāsi → adhiṭṭhāya (s1-3) | adhiṭṭhāti (mr), labhi → lacchati (s1-3, mr)",
+  "an11.13:10.2": "kabaḷīkārāhārabhakkhānaṃ → kabaliṅkārāhārabhakkhānaṃ (bj) | kabaliṅkārabhakkhānaṃ (si) | kabaḷīkārabhakkhānaṃ (s1-3, km, pts1)",
+  "an11.13:11.2": "nikkujjo → nikujjo (mr), paccāvamati → pacchā vamati (bj) | paccāmasati (s1-3)"
 }

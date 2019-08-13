@@ -1,20 +1,8 @@
 {
-  "tha-ap103:3.1": [
-    "1 Bhikkhadāyakattheraapadāna → bhikkhādāyakattherāpadānaṃ (bj)"
-  ],
-  "tha-ap103:4.3": [
-    "Pavarā → pavanā (bj, s2, s3)"
-  ],
-  "tha-ap103:4.4": [
-    "Vanā nibbanamāgataṃ → vānā nibbānamāgataṃ (s2, s3, pts1)"
-  ],
-  "tha-ap103:6.1": [
-    "Padenānupadāyantaṃ → padenānupadaṃ santaṃ (bj) | padenānupadāyanto (si, s2, s3) | padenānupadaṃyanto (pts1)"
-  ],
-  "tha-ap103:6.4": [
-    "buddhe ādiccabandhune → ... bandhuni (bj) | buddhassādiccabandhuno (si, s2, s3, pts1)"
-  ],
-  "tha-ap103:10.1": [
-    "bhikkhadāyako → bhikkhādāyako (bj)"
-  ]
+  "tha-ap103:3.1": "1 Bhikkhadāyakattheraapadāna → bhikkhādāyakattherāpadānaṃ (bj)",
+  "tha-ap103:4.3": "Pavarā → pavanā (bj, s2, s3)",
+  "tha-ap103:4.4": "Vanā nibbanamāgataṃ → vānā nibbānamāgataṃ (s2, s3, pts1)",
+  "tha-ap103:6.1": "Padenānupadāyantaṃ → padenānupadaṃ santaṃ (bj) | padenānupadāyanto (si, s2, s3) | padenānupadaṃyanto (pts1)",
+  "tha-ap103:6.4": "buddhe ādiccabandhune → ... bandhuni (bj) | buddhassādiccabandhuno (si, s2, s3, pts1)",
+  "tha-ap103:10.1": "bhikkhadāyako → bhikkhādāyako (bj)"
 }

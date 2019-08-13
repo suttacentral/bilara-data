@@ -1,29 +1,11 @@
 {
-  "snp1.6:4.2": [
-    "gotama → gotamaṃ (bj, s1-3, pts1)"
-  ],
-  "snp1.6:4.3": [
-    "Bhavantaṃ → bhagavantaṃ (s3, pts1, c1)"
-  ],
-  "snp1.6:5.2": [
-    "suvijāno → duvijāno (s1-3, mr)"
-  ],
-  "snp1.6:11.1": [
-    "mātaraṃ → yo mātaraṃ vā (bj, s1-3, km, pts1)"
-  ],
-  "snp1.6:13.1": [
-    "brāhmaṇaṃ → yo brāhmaṇaṃ vā (bj, s1-3, km, pts1)"
-  ],
-  "snp1.6:21.1": [
-    "dārehi asantuṭṭho → dārehyasantuṭṭho (bj, mr)"
-  ],
-  "snp1.6:21.2": [
-    "padussati → padissati (bj, pts1)"
-  ],
-  "snp1.6:21.3": [
-    "Dussati → dissati (bj, pts1)"
-  ],
-  "snp1.6:25.3": [
-    "ṭhapeti → ṭhāpeti (bj, pts1) | thapeti (mr)"
-  ]
+  "snp1.6:4.2": "gotama → gotamaṃ (bj, s1-3, pts1)",
+  "snp1.6:4.3": "Bhavantaṃ → bhagavantaṃ (s3, pts1, c1)",
+  "snp1.6:5.2": "suvijāno → duvijāno (s1-3, mr)",
+  "snp1.6:11.1": "mātaraṃ → yo mātaraṃ vā (bj, s1-3, km, pts1)",
+  "snp1.6:13.1": "brāhmaṇaṃ → yo brāhmaṇaṃ vā (bj, s1-3, km, pts1)",
+  "snp1.6:21.1": "dārehi asantuṭṭho → dārehyasantuṭṭho (bj, mr)",
+  "snp1.6:21.2": "padussati → padissati (bj, pts1)",
+  "snp1.6:21.3": "Dussati → dissati (bj, pts1)",
+  "snp1.6:25.3": "ṭhapeti → ṭhāpeti (bj, pts1) | thapeti (mr)"
 }

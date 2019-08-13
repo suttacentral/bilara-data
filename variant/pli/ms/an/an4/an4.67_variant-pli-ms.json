@@ -1,23 +1,9 @@
 {
-  "an4.67:0.3": [
-    "ahi (metta) suttaṃ (bj)"
-  ],
-  "an4.67:2.1": [
-    "Na hi nūna → nahanūna (bj, s1, s2, km, pts1) | naha nūna (s3)"
-  ],
-  "an4.67:6.2": [
-    "dvipādakehi → dipādakehi (bj, s1-3, km, pts1)"
-  ],
-  "an4.67:7.2": [
-    "dvipādako → dipādako (bj, s1-3, km, pts1)"
-  ],
-  "an4.67:8.4": [
-    "kañci → kiñci (s1-3, km, mr)"
-  ],
-  "an4.67:9.4": [
-    "sarīsapāni → siriṃsapāni (bj, s1-3, km, pts1)"
-  ],
-  "an4.67:10.3": [
-    "rakkhā katā me parittā → kataṃ me parittaṃ (?)"
-  ]
+  "an4.67:0.3": "ahi (metta) suttaṃ (bj)",
+  "an4.67:2.1": "Na hi nūna → nahanūna (bj, s1, s2, km, pts1) | naha nūna (s3)",
+  "an4.67:6.2": "dvipādakehi → dipādakehi (bj, s1-3, km, pts1)",
+  "an4.67:7.2": "dvipādako → dipādako (bj, s1-3, km, pts1)",
+  "an4.67:8.4": "kañci → kiñci (s1-3, km, mr)",
+  "an4.67:9.4": "sarīsapāni → siriṃsapāni (bj, s1-3, km, pts1)",
+  "an4.67:10.3": "rakkhā katā me parittā → kataṃ me parittaṃ (?)"
 }

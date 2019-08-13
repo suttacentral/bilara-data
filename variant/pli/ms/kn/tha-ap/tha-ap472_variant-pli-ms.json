@@ -1,20 +1,8 @@
 {
-  "tha-ap472:8.4": [
-    "ubbijjiṃsu → vimhayiṃsu (s2, s3, mr)"
-  ],
-  "tha-ap472:10.1": [
-    "Avacāsiṃ → vidassāmi (s2, s3) | avacāsi (pts1)"
-  ],
-  "tha-ap472:10.2": [
-    "bhetha → mā bhāyittha (s2, s3) | mā roda (mr)"
-  ],
-  "tha-ap472:10.4": [
-    "suvatthiko → sukhatthiko (s2, s3, pts1)"
-  ],
-  "tha-ap472:11.1": [
-    "Aṭṭhahetūhi samphussa → aṭṭhahetūhi samphassā (s2, s3) | aṭṭhahetuhi samphassa (pts1) | atthahetu nisaṃsayaṃ (mr)"
-  ],
-  "tha-ap472:20.1": [
-    "Sālakusumiyavaggo → sālapupphivaggo (s2, s3) | sālapupphiyavaggo (pts1)"
-  ]
+  "tha-ap472:8.4": "ubbijjiṃsu → vimhayiṃsu (s2, s3, mr)",
+  "tha-ap472:10.1": "Avacāsiṃ → vidassāmi (s2, s3) | avacāsi (pts1)",
+  "tha-ap472:10.2": "bhetha → mā bhāyittha (s2, s3) | mā roda (mr)",
+  "tha-ap472:10.4": "suvatthiko → sukhatthiko (s2, s3, pts1)",
+  "tha-ap472:11.1": "Aṭṭhahetūhi samphussa → aṭṭhahetūhi samphassā (s2, s3) | aṭṭhahetuhi samphassa (pts1) | atthahetu nisaṃsayaṃ (mr)",
+  "tha-ap472:20.1": "Sālakusumiyavaggo → sālapupphivaggo (s2, s3) | sālapupphiyavaggo (pts1)"
 }

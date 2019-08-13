@@ -1,11 +1,5 @@
 {
-  "sn2.23:8.1": [
-    "sirī → serī (bj, s1-3, km, pts1-2)"
-  ],
-  "sn2.23:8.3": [
-    "itthāgāraṃ upasaṅkamitvā etadavoca → itthāgārā upasaṅkamitvā etadavocuṃ (mr)"
-  ],
-  "sn2.23:8.4": [
-    "devassa kho → devasseva kho (bj, pts2)"
-  ]
+  "sn2.23:8.1": "sirī → serī (bj, s1-3, km, pts1-2)",
+  "sn2.23:8.3": "itthāgāraṃ upasaṅkamitvā etadavoca → itthāgārā upasaṅkamitvā etadavocuṃ (mr)",
+  "sn2.23:8.4": "devassa kho → devasseva kho (bj, pts2)"
 }

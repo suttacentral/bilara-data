@@ -1,23 +1,9 @@
 {
-  "vv16:6.3": [
-    "varatanu → varacāru (katthaci)"
-  ],
-  "vv16:7.1": [
-    "yamāhunuttaraṃ → ... anuttarā (s2, s3, pts1) | ... anuttaraṃ (pts2) | ... nuttarā (mr)"
-  ],
-  "vv16:8.1": [
-    "sucaritamācarīdha → sucarita mācarī idha (s2, s3, pts1)"
-  ],
-  "vv16:10.4": [
-    "avediṃsu → avedisuṃ (bj)"
-  ],
-  "vv16:12.4": [
-    "naravarabuddhadesite → ... bhāsite (bj)"
-  ],
-  "vv16:14.4": [
-    "Khiḍḍāratiṃ → khiḍḍaṃ ratiṃ (s2, s3, pts1)"
-  ],
-  "vv16:15.1": [
-    "amatadasamhi → amatarasamhi (s2, s3, mr)"
-  ]
+  "vv16:6.3": "varatanu → varacāru (katthaci)",
+  "vv16:7.1": "yamāhunuttaraṃ → ... anuttarā (s2, s3, pts1) | ... anuttaraṃ (pts2) | ... nuttarā (mr)",
+  "vv16:8.1": "sucaritamācarīdha → sucarita mācarī idha (s2, s3, pts1)",
+  "vv16:10.4": "avediṃsu → avedisuṃ (bj)",
+  "vv16:12.4": "naravarabuddhadesite → ... bhāsite (bj)",
+  "vv16:14.4": "Khiḍḍāratiṃ → khiḍḍaṃ ratiṃ (s2, s3, pts1)",
+  "vv16:15.1": "amatadasamhi → amatarasamhi (s2, s3, mr)"
 }

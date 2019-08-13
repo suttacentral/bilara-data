@@ -1,11 +1,5 @@
 {
-  "pli-tv-bu-vb-np26:1.2": [
-    "bahuṃ suttaṃ → bahusuttaṃ (bj, s1-3, pts1)"
-  ],
-  "pli-tv-bu-vb-np26:2.12": [
-    "payoge payoge dukkaṭaṃ → payoge dukkaṭaṃ (s1-3, pts1)"
-  ],
-  "pli-tv-bu-vb-np26:2.32": [
-    "aṃsabaddhake → aṃsavaṭṭake (bj) | aṃsabandhake (s1-3, pts1)"
-  ]
+  "pli-tv-bu-vb-np26:1.2": "bahuṃ suttaṃ → bahusuttaṃ (bj, s1-3, pts1)",
+  "pli-tv-bu-vb-np26:2.12": "payoge payoge dukkaṭaṃ → payoge dukkaṭaṃ (s1-3, pts1)",
+  "pli-tv-bu-vb-np26:2.32": "aṃsabaddhake → aṃsavaṭṭake (bj) | aṃsabandhake (s1-3, pts1)"
 }

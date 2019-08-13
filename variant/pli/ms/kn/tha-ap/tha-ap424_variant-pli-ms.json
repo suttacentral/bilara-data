@@ -1,14 +1,6 @@
 {
-  "tha-ap424:12.4": [
-    "cakkavattī → cakkavatti (s2, s3)"
-  ],
-  "tha-ap424:13.2": [
-    "asaṅkhiyaṃ → asaṅkhayaṃ (s2, s3, mr)"
-  ],
-  "tha-ap424:14.2": [
-    "anavakkantadehavā → anuvattanta ... (s2, s3) | anupakkanta ... (pts1)"
-  ],
-  "tha-ap424:15.3": [
-    "vīro → dhīro (bj, s2, s3)"
-  ]
+  "tha-ap424:12.4": "cakkavattī → cakkavatti (s2, s3)",
+  "tha-ap424:13.2": "asaṅkhiyaṃ → asaṅkhayaṃ (s2, s3, mr)",
+  "tha-ap424:14.2": "anavakkantadehavā → anuvattanta ... (s2, s3) | anupakkanta ... (pts1)",
+  "tha-ap424:15.3": "vīro → dhīro (bj, s2, s3)"
 }

@@ -1,14 +1,6 @@
 {
-  "iti75:2.1": [
-    "Avuṭṭhikasutta → vuṭṭhisuttaṃ (bj)"
-  ],
-  "iti75:5.2": [
-    "samaṇabrāhmaṇakapaṇaddhikavanibbakayācakānaṃ → ... vaṇibbakayācakānaṃ (bj)"
-  ],
-  "iti75:6.1": [
-    "hoti → idaṃ padaṃ s1-3 potthakesu"
-  ],
-  "iti75:11.4": [
-    "abhisandantova → abhisandanto ca (s1-3) | abhisandanto (pts1) | abhisandentova (?)"
-  ]
+  "iti75:2.1": "Avuṭṭhikasutta → vuṭṭhisuttaṃ (bj)",
+  "iti75:5.2": "samaṇabrāhmaṇakapaṇaddhikavanibbakayācakānaṃ → ... vaṇibbakayācakānaṃ (bj)",
+  "iti75:6.1": "hoti → idaṃ padaṃ s1-3 potthakesu",
+  "iti75:11.4": "abhisandantova → abhisandanto ca (s1-3) | abhisandanto (pts1) | abhisandentova (?)"
 }

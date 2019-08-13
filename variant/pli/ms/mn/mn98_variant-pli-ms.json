@@ -1,54 +1,19 @@
 {
-  "mn98:1.2": [
-    "icchānaṅgale → icchānaṅkale (pts1)"
-  ],
-  "mn98:2.2": [
-    "jāṇussoṇi → jāṇusoṇī (mr)"
-  ],
-  "mn98:7.7": [
-    "veyyākaraṇā → no byākaraṇā (si, s1-3, km, mr)"
-  ],
-  "mn98:7.13": [
-    "kammunā → kammanā (bj, pts1)"
-  ],
-  "mn98:7.15": [
-    "ñāpetuṃ → saññattuṃ (pts1) | saññāpetuṃ (mr)"
-  ],
-  "mn98:7.26": [
-    "kammunā → kammanā (bj, pts1)"
-  ],
-  "mn98:9.12": [
-    "na sambādhe na methune → na sambādhā na methunā (mr)"
-  ],
-  "mn98:10.16": [
-    "pessako → pessiko (bj, s1-3, km, pts1)"
-  ],
-  "mn98:11.3": [
-    "Bhovādi → bhovādī (s1-3, km)"
-  ],
-  "mn98:11.9": [
-    "visaṃyuttaṃ → visaññuttaṃ (bj, s1, mr)"
-  ],
-  "mn98:11.11": [
-    "naddhiṃ → nandiṃ (bj) | nandhiṃ (pts1)"
-  ],
-  "mn98:11.61": [
-    "Nirāsāsaṃ → nirāsayaṃ (bj, pts1)"
-  ],
-  "mn98:11.81": [
-    "pahantvāna → pahatvāna (bj)"
-  ],
-  "mn98:11.111": [
-    "nhātakaṃ → nahātakaṃ (bj, s1, pts1)"
-  ],
-  "mn98:12.7": [
-    "Ajānantā no → ajānantā no ca (s1-3) | ajānantā noti ajānantā eva (ṭīkā)",
-    "pabrunti → pabruvanti (bj, pts1) | brūhanti (s1-3)"
-  ],
-  "mn98:12.9": [
-    "brāhmaṇo → vasalo (s1-3, km, mr)"
-  ],
-  "mn98:12.10": [
-    "abrāhmaṇo → brāhmaṇo (s1-3, km, mr)"
-  ]
+  "mn98:1.2": "icchānaṅgale → icchānaṅkale (pts1)",
+  "mn98:2.2": "jāṇussoṇi → jāṇusoṇī (mr)",
+  "mn98:7.7": "veyyākaraṇā → no byākaraṇā (si, s1-3, km, mr)",
+  "mn98:7.13": "kammunā → kammanā (bj, pts1)",
+  "mn98:7.15": "ñāpetuṃ → saññattuṃ (pts1) | saññāpetuṃ (mr)",
+  "mn98:7.26": "kammunā → kammanā (bj, pts1)",
+  "mn98:9.12": "na sambādhe na methune → na sambādhā na methunā (mr)",
+  "mn98:10.16": "pessako → pessiko (bj, s1-3, km, pts1)",
+  "mn98:11.3": "Bhovādi → bhovādī (s1-3, km)",
+  "mn98:11.9": "visaṃyuttaṃ → visaññuttaṃ (bj, s1, mr)",
+  "mn98:11.11": "naddhiṃ → nandiṃ (bj) | nandhiṃ (pts1)",
+  "mn98:11.61": "Nirāsāsaṃ → nirāsayaṃ (bj, pts1)",
+  "mn98:11.81": "pahantvāna → pahatvāna (bj)",
+  "mn98:11.111": "nhātakaṃ → nahātakaṃ (bj, s1, pts1)",
+  "mn98:12.7": "Ajānantā no → ajānantā no ca (s1-3) | ajānantā noti ajānantā eva (ṭīkā), pabrunti → pabruvanti (bj, pts1) | brūhanti (s1-3)",
+  "mn98:12.9": "brāhmaṇo → vasalo (s1-3, km, mr)",
+  "mn98:12.10": "abrāhmaṇo → brāhmaṇo (s1-3, km, mr)"
 }

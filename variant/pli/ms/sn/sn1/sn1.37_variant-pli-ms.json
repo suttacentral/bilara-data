@@ -1,8 +1,4 @@
 {
-  "sn1.37:1.7": [
-    "paccekaṃ gāthaṃ → paccekagāthaṃ (bj, pts1-2) | paccekagāthā (s1-3, km)"
-  ],
-  "sn1.37:5.2": [
-    "ujukaṃ akaṃsu → ujukamakaṃsu (bj, s1-3, km, pts1-2)"
-  ]
+  "sn1.37:1.7": "paccekaṃ gāthaṃ → paccekagāthaṃ (bj, pts1-2) | paccekagāthā (s1-3, km)",
+  "sn1.37:5.2": "ujukaṃ akaṃsu → ujukamakaṃsu (bj, s1-3, km, pts1-2)"
 }

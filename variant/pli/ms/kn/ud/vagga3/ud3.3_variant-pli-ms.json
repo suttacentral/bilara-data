@@ -1,26 +1,10 @@
 {
-  "ud3.3:3.4": [
-    "uccāsaddā mahāsaddā → uccāsaddamahāsaddā (mr)"
-  ],
-  "ud3.3:6.5": [
-    "paṇāmemi vo → vo panāmemi (bj) | vo paṇāmemi (s1-3, pts1)"
-  ],
-  "ud3.3:7.1": [
-    "saṃsāmetvā → paṭisāmetvā (s1-3, pts1)"
-  ],
-  "ud3.3:8.1": [
-    "vassūpagato → vassupagato (pts1) | vassūpagate (mr)"
-  ],
-  "ud3.3:10.3": [
-    "disāyaṃ → yāyaṃ (mr)"
-  ],
-  "ud3.3:14.1": [
-    "uttarāsaṅgaṃ → cīvaraṃ (bj, pts1)"
-  ],
-  "ud3.3:17.2": [
-    "nappaṭibhāseyya → na paṭibhāseyya (s1-3, pts1) | nappaṭibhāyeyya (^an10.96#1 [96. Kokanudasutta]) | nappaṭibheyya (?)"
-  ],
-  "ud3.3:19.3": [
-    "Pabbatova → pabbato viya (bj, s1-3, pts1)"
-  ]
+  "ud3.3:3.4": "uccāsaddā mahāsaddā → uccāsaddamahāsaddā (mr)",
+  "ud3.3:6.5": "paṇāmemi vo → vo panāmemi (bj) | vo paṇāmemi (s1-3, pts1)",
+  "ud3.3:7.1": "saṃsāmetvā → paṭisāmetvā (s1-3, pts1)",
+  "ud3.3:8.1": "vassūpagato → vassupagato (pts1) | vassūpagate (mr)",
+  "ud3.3:10.3": "disāyaṃ → yāyaṃ (mr)",
+  "ud3.3:14.1": "uttarāsaṅgaṃ → cīvaraṃ (bj, pts1)",
+  "ud3.3:17.2": "nappaṭibhāseyya → na paṭibhāseyya (s1-3, pts1) | nappaṭibhāyeyya (^an10.96#1 [96. Kokanudasutta]) | nappaṭibheyya (?)",
+  "ud3.3:19.3": "Pabbatova → pabbato viya (bj, s1-3, pts1)"
 }

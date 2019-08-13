@@ -1,11 +1,5 @@
 {
-  "an9.37:2.3": [
-    "paṭisaṃvedissati → paṭisaṃvedayati (mr)"
-  ],
-  "an9.37:7.2": [
-    "jaṭilavāsikā → jaṭilagāhiyā (bj) | jaṭilabhāgikā (s1-3) | jaṭilāgāhiyā (pts1)"
-  ],
-  "an9.37:7.3": [
-    "sasaṅkhāraniggayhavāritagato → sasaṅkhāraniggayhavāritavato (bj, s1-3, km, pts1) | sasaṅkhāraniggayhavārivāvaṭo (mr)"
-  ]
+  "an9.37:2.3": "paṭisaṃvedissati → paṭisaṃvedayati (mr)",
+  "an9.37:7.2": "jaṭilavāsikā → jaṭilagāhiyā (bj) | jaṭilabhāgikā (s1-3) | jaṭilāgāhiyā (pts1)",
+  "an9.37:7.3": "sasaṅkhāraniggayhavāritagato → sasaṅkhāraniggayhavāritavato (bj, s1-3, km, pts1) | sasaṅkhāraniggayhavārivāvaṭo (mr)"
 }

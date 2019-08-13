@@ -1,11 +1,5 @@
 {
-  "ja332:5.3": [
-    "Pubbamakkhāyino → pubbevakkhāyino (pts1) | pubbavakkhāyino (mr)"
-  ],
-  "ja332:5.4": [
-    "aññadatthu → ekadatthu (bj, pts1) | etadatthuṃ (s2, s3)"
-  ],
-  "ja332:8.3": [
-    "rāja → rañño (si, s2, s3)"
-  ]
+  "ja332:5.3": "Pubbamakkhāyino → pubbevakkhāyino (pts1) | pubbavakkhāyino (mr)",
+  "ja332:5.4": "aññadatthu → ekadatthu (bj, pts1) | etadatthuṃ (s2, s3)",
+  "ja332:8.3": "rāja → rañño (si, s2, s3)"
 }

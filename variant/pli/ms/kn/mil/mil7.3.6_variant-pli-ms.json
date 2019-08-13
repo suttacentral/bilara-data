@@ -1,8 +1,4 @@
 {
-  "mil7.3.6:6.1": [
-    "na plavati → na pilavati (bj, pts1) | na palavati (maku)"
-  ],
-  "mil7.3.6:8.1": [
-    "Nāvālagganakaṅgapañho → nāvālakanakaṅgapañho (bj)"
-  ]
+  "mil7.3.6:6.1": "na plavati → na pilavati (bj, pts1) | na palavati (maku)",
+  "mil7.3.6:8.1": "Nāvālagganakaṅgapañho → nāvālakanakaṅgapañho (bj)"
 }

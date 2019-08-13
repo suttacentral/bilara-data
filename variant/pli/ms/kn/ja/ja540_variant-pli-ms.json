@@ -1,122 +1,42 @@
 {
-  "ja540:4.1": [
-    "3 Suvaṇṇasāmajātaka → sāmajātakaṃ (bj) | sāmajātaka (pts1)"
-  ],
-  "ja540:5.2": [
-    "udahārakaṃ → hārikaṃ (s2, s3) | hāriyaṃ (mr)"
-  ],
-  "ja540:10.1": [
-    "tvaṃ kassa vā putto → tvañca kassa vā puttosi (bj, pts1)"
-  ],
-  "ja540:11.4": [
-    "svajjevāhaṃ gato → svājjevaṅgato (s2, s3) | svājjevahaṃ gato (pts1) | svajjevaṅgate (mr)"
-  ],
-  "ja540:13.1": [
-    "Paṭivāmagataṃ → paṭicamma gataṃ (bj, pts1)"
-  ],
-  "ja540:13.2": [
-    "dhimhāmi → vihāmi (bj, pts1) | thimhāmi (s2, s3)"
-  ],
-  "ja540:19.4": [
-    "utrāsanti migā mamaṃ → uttrase so migo mamaṃ (bj) | utrase so migo mamanti (pts1)"
-  ],
-  "ja540:20.1": [
-    "Na taṃ tasa → na taddasā (bj, pts1)"
-  ],
-  "ja540:20.4": [
-    "avassajiṃ → avissajiṃ (s2, s3) | avissajīti (pts1)"
-  ],
-  "ja540:26.2": [
-    "rucchati → rucchiti (pts1) | ruccati (mr)"
-  ],
-  "ja540:26.4": [
-    "avasucchati → avasussati (s2, s3)"
-  ],
-  "ja540:27.2": [
-    "rucchati → ruccati (mr)"
-  ],
-  "ja540:27.4": [
-    "avasucchati → avasussati (s2, s3)"
-  ],
-  "ja540:28.1": [
-    "Uṭṭhānapādacariyāya → ... pāricariyāya (bj, pts1)"
-  ],
-  "ja540:29.4": [
-    "maññe hissāmi → maññe hessāmi (bj) | yañca hessāmi (pts1) | taṃ me hissāmi (mr)"
-  ],
-  "ja540:32.1": [
-    "Migānaṃ → magānaṃ (mr)"
-  ],
-  "ja540:38.4": [
-    "ajjetaṃ ñāmi → ajjahaññāmi (mr)"
-  ],
-  "ja540:39.3": [
-    "Svajja evaṃ → svajjevaṃ (bj) | svājjevaṅ (s2, s3) | svājjevaṃ (pts1)"
-  ],
-  "ja540:44.1": [
-    "kira → kari (bj, pts1)"
-  ],
-  "ja540:44.2": [
-    "akari → akarā (bj)"
-  ],
-  "ja540:48.2": [
-    "neyati → ñattati (bj)"
-  ],
-  "ja540:55.4": [
-    "sūnaggavellitā → sunagga ... (s2, s3, pts1) | sonagga ... (mr)"
-  ],
-  "ja540:56.2": [
-    "ādāya → ādā (bj, pts1)"
-  ],
-  "ja540:68.3": [
-    "tvamasi → tvamahi (?)"
-  ],
-  "ja540:70.1": [
-    "samajjantā → pamajjantā (bj) | pavaṭṭantā (pts1)"
-  ],
-  "ja540:73.4": [
-    "patikunthito → patikuṇṭhito (bj) | parikuṇṭhito (s2, s3, pts1)"
-  ],
-  "ja540:75.2": [
-    "niyutāni → nahutāni (bj, s2, s3, pts1)"
-  ],
-  "ja540:79.4": [
-    "kalūnaṃ → karuṇaṃ (bj, pts1)"
-  ],
-  "ja540:81.3": [
-    "ajjevaṃ → svajjevaṃ (mr)"
-  ],
-  "ja540:86.1": [
-    "paṃsugataṃ → paṅkagataṃ (bj, pts1)"
-  ],
-  "ja540:86.2": [
-    "saṇṭhapessati → saṇṭhapessāmi (bj)"
-  ],
-  "ja540:87.1": [
-    "sammajjamādāya → ce sammajjanādāya (bj) | no sammajjanādāya (s2, s3) | vā sammajjanādāya (pts1)"
-  ],
-  "ja540:94.2": [
-    "mātāpettibharo → mātāpetibharo (s2, s3) | mātāpittibharo (mr)"
-  ],
-  "ja540:97.1": [
-    "kiñcitthi → kiñcatthi (bj, pts1)"
-  ],
-  "ja540:105.1": [
-    "kiñcitthi → kiñcatthi (bj, pts1)"
-  ],
-  "ja540:107.2": [
-    "cirarattanivāsinī → ciraṃ rattaṃ nivāsinī (s2, s3)"
-  ],
-  "ja540:107.4": [
-    "sāmena → sāmā na (bj, pts1)"
-  ],
-  "ja540:110.1": [
-    "bhaddaṃ vo → bhaddante (mr)"
-  ],
-  "ja540:119.3": [
-    "Saraṇaṃ taṃ sāma gacchāmi → saraṇaṃ sāma gacchāmi (s2, s3, mr)"
-  ],
-  "ja540:130.1": [
-    "Suvaṇṇasāmajātakaṃ → sāmajātakaṃ (bj, pts1)"
-  ]
+  "ja540:4.1": "3 Suvaṇṇasāmajātaka → sāmajātakaṃ (bj) | sāmajātaka (pts1)",
+  "ja540:5.2": "udahārakaṃ → hārikaṃ (s2, s3) | hāriyaṃ (mr)",
+  "ja540:10.1": "tvaṃ kassa vā putto → tvañca kassa vā puttosi (bj, pts1)",
+  "ja540:11.4": "svajjevāhaṃ gato → svājjevaṅgato (s2, s3) | svājjevahaṃ gato (pts1) | svajjevaṅgate (mr)",
+  "ja540:13.1": "Paṭivāmagataṃ → paṭicamma gataṃ (bj, pts1)",
+  "ja540:13.2": "dhimhāmi → vihāmi (bj, pts1) | thimhāmi (s2, s3)",
+  "ja540:19.4": "utrāsanti migā mamaṃ → uttrase so migo mamaṃ (bj) | utrase so migo mamanti (pts1)",
+  "ja540:20.1": "Na taṃ tasa → na taddasā (bj, pts1)",
+  "ja540:20.4": "avassajiṃ → avissajiṃ (s2, s3) | avissajīti (pts1)",
+  "ja540:26.2": "rucchati → rucchiti (pts1) | ruccati (mr)",
+  "ja540:26.4": "avasucchati → avasussati (s2, s3)",
+  "ja540:27.2": "rucchati → ruccati (mr)",
+  "ja540:27.4": "avasucchati → avasussati (s2, s3)",
+  "ja540:28.1": "Uṭṭhānapādacariyāya → ... pāricariyāya (bj, pts1)",
+  "ja540:29.4": "maññe hissāmi → maññe hessāmi (bj) | yañca hessāmi (pts1) | taṃ me hissāmi (mr)",
+  "ja540:32.1": "Migānaṃ → magānaṃ (mr)",
+  "ja540:38.4": "ajjetaṃ ñāmi → ajjahaññāmi (mr)",
+  "ja540:39.3": "Svajja evaṃ → svajjevaṃ (bj) | svājjevaṅ (s2, s3) | svājjevaṃ (pts1)",
+  "ja540:44.1": "kira → kari (bj, pts1)",
+  "ja540:44.2": "akari → akarā (bj)",
+  "ja540:48.2": "neyati → ñattati (bj)",
+  "ja540:55.4": "sūnaggavellitā → sunagga ... (s2, s3, pts1) | sonagga ... (mr)",
+  "ja540:56.2": "ādāya → ādā (bj, pts1)",
+  "ja540:68.3": "tvamasi → tvamahi (?)",
+  "ja540:70.1": "samajjantā → pamajjantā (bj) | pavaṭṭantā (pts1)",
+  "ja540:73.4": "patikunthito → patikuṇṭhito (bj) | parikuṇṭhito (s2, s3, pts1)",
+  "ja540:75.2": "niyutāni → nahutāni (bj, s2, s3, pts1)",
+  "ja540:79.4": "kalūnaṃ → karuṇaṃ (bj, pts1)",
+  "ja540:81.3": "ajjevaṃ → svajjevaṃ (mr)",
+  "ja540:86.1": "paṃsugataṃ → paṅkagataṃ (bj, pts1)",
+  "ja540:86.2": "saṇṭhapessati → saṇṭhapessāmi (bj)",
+  "ja540:87.1": "sammajjamādāya → ce sammajjanādāya (bj) | no sammajjanādāya (s2, s3) | vā sammajjanādāya (pts1)",
+  "ja540:94.2": "mātāpettibharo → mātāpetibharo (s2, s3) | mātāpittibharo (mr)",
+  "ja540:97.1": "kiñcitthi → kiñcatthi (bj, pts1)",
+  "ja540:105.1": "kiñcitthi → kiñcatthi (bj, pts1)",
+  "ja540:107.2": "cirarattanivāsinī → ciraṃ rattaṃ nivāsinī (s2, s3)",
+  "ja540:107.4": "sāmena → sāmā na (bj, pts1)",
+  "ja540:110.1": "bhaddaṃ vo → bhaddante (mr)",
+  "ja540:119.3": "Saraṇaṃ taṃ sāma gacchāmi → saraṇaṃ sāma gacchāmi (s2, s3, mr)",
+  "ja540:130.1": "Suvaṇṇasāmajātakaṃ → sāmajātakaṃ (bj, pts1)"
 }

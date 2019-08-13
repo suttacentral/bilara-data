@@ -1,17 +1,7 @@
 {
-  "sn15.1:0.2": [
-    "1. Paṭhamavagga → tiṇakaṭṭhavaggo (bj)"
-  ],
-  "sn15.1:1.7": [
-    "Anamataggoyaṃ → anamataggāyaṃ (pts1-2, mr)"
-  ],
-  "sn15.1:1.9": [
-    "taṃ chetvā → tacchetvā (si, s1-3, pts1-2)"
-  ],
-  "sn15.1:1.10": [
-    "apariyādinnāva → apariyādinnā ca (s1-3, pts1-2)"
-  ],
-  "sn15.1:1.14": [
-    "kaṭasī → kaṭasi (bj, pts1-2, mr)"
-  ]
+  "sn15.1:0.2": "1. Paṭhamavagga → tiṇakaṭṭhavaggo (bj)",
+  "sn15.1:1.7": "Anamataggoyaṃ → anamataggāyaṃ (pts1-2, mr)",
+  "sn15.1:1.9": "taṃ chetvā → tacchetvā (si, s1-3, pts1-2)",
+  "sn15.1:1.10": "apariyādinnāva → apariyādinnā ca (s1-3, pts1-2)",
+  "sn15.1:1.14": "kaṭasī → kaṭasi (bj, pts1-2, mr)"
 }

@@ -1,14 +1,6 @@
 {
-  "tha-ap470:3.1": [
-    "8 Pilakkhaphaladāyakattheraapadāna → milakkhuphaladāyakattherāpadānaṃ (s2, s3) | pilakkhuphaladāyakattherāpadānaṃ (pts1)"
-  ],
-  "tha-ap470:4.1": [
-    "Vanantare buddhaṃ disvā → vanante buddhaṃ disvāna (bj, pts1)"
-  ],
-  "tha-ap470:4.4": [
-    "pilakkhassa → milakkhussa (s2, s3) | pilakkhussa (pts1)"
-  ],
-  "tha-ap470:9.1": [
-    "pilakkhaphaladāyako → milakkhuphaladāyako (s2, s3) | pilakkhuphaladāyako (pts1)"
-  ]
+  "tha-ap470:3.1": "8 Pilakkhaphaladāyakattheraapadāna → milakkhuphaladāyakattherāpadānaṃ (s2, s3) | pilakkhuphaladāyakattherāpadānaṃ (pts1)",
+  "tha-ap470:4.1": "Vanantare buddhaṃ disvā → vanante buddhaṃ disvāna (bj, pts1)",
+  "tha-ap470:4.4": "pilakkhassa → milakkhussa (s2, s3) | pilakkhussa (pts1)",
+  "tha-ap470:9.1": "pilakkhaphaladāyako → milakkhuphaladāyako (s2, s3) | pilakkhuphaladāyako (pts1)"
 }

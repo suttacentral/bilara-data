@@ -1,11 +1,5 @@
 {
-  "ps2.4:4.4": [
-    "uttari → uttariṃ (bj, s1-3, pts1)"
-  ],
-  "ps2.4:6.2": [
-    "abyāpajjā → abyāpajjhā (s1-3, pts1)"
-  ],
-  "ps2.4:17.3": [
-    "pasīdanā → saṃsīdanā (bj)"
-  ]
+  "ps2.4:4.4": "uttari → uttariṃ (bj, s1-3, pts1)",
+  "ps2.4:6.2": "abyāpajjā → abyāpajjhā (s1-3, pts1)",
+  "ps2.4:17.3": "pasīdanā → saṃsīdanā (bj)"
 }

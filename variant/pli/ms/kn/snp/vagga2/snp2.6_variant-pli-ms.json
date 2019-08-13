@@ -1,14 +1,6 @@
 {
-  "snp2.6:10.2": [
-    "abhinibbajjiyātha → abhinibbijjayātha (bj, pts1) | abhinibbijjiyātha (s1-3)"
-  ],
-  "snp2.6:10.3": [
-    "Kāraṇḍavaṃ → kāraṇḍaṃ va (s1-3, mr)"
-  ],
-  "snp2.6:10.4": [
-    "apakassatha → cāpakassatha (bj) | avakassatha (s1-3, mr)"
-  ],
-  "snp2.6:11.1": [
-    "palāpe → palāse (s1-3, mr)"
-  ]
+  "snp2.6:10.2": "abhinibbajjiyātha → abhinibbijjayātha (bj, pts1) | abhinibbijjiyātha (s1-3)",
+  "snp2.6:10.3": "Kāraṇḍavaṃ → kāraṇḍaṃ va (s1-3, mr)",
+  "snp2.6:10.4": "apakassatha → cāpakassatha (bj) | avakassatha (s1-3, mr)",
+  "snp2.6:11.1": "palāpe → palāse (s1-3, mr)"
 }

@@ -1,11 +1,5 @@
 {
-  "an4.127:1.1": [
-    "abbhutā dhammā → abbhutadhammā (s1-3, km, mr)"
-  ],
-  "an4.127:1.4": [
-    "yatthapimesaṃ → yatthimesaṃ (bj, s1, s2, km)"
-  ],
-  "an4.127:1.7": [
-    "abbhuto dhammo → abbhutadhammo (s1-3, km, mr)"
-  ]
+  "an4.127:1.1": "abbhutā dhammā → abbhutadhammā (s1-3, km, mr)",
+  "an4.127:1.4": "yatthapimesaṃ → yatthimesaṃ (bj, s1, s2, km)",
+  "an4.127:1.7": "abbhuto dhammo → abbhutadhammo (s1-3, km, mr)"
 }

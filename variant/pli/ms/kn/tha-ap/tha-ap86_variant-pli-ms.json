@@ -1,14 +1,6 @@
 {
-  "tha-ap86:6.2": [
-    "adhivatthayiṃ → abhipatthayiṃ (s2, s3, pts1) | abhimatthayiṃ (mr)"
-  ],
-  "tha-ap86:6.4": [
-    "āgacchiṃ → āgañchiṃ (pts1) | agacchiṃ (mr)"
-  ],
-  "tha-ap86:7.3": [
-    "Ālokite → ālokito (s2, s3, pts1)"
-  ],
-  "tha-ap86:8.4": [
-    "pāyāsiṃ → pāvisiṃ (bj, pts1)"
-  ]
+  "tha-ap86:6.2": "adhivatthayiṃ → abhipatthayiṃ (s2, s3, pts1) | abhimatthayiṃ (mr)",
+  "tha-ap86:6.4": "āgacchiṃ → āgañchiṃ (pts1) | agacchiṃ (mr)",
+  "tha-ap86:7.3": "Ālokite → ālokito (s2, s3, pts1)",
+  "tha-ap86:8.4": "pāyāsiṃ → pāvisiṃ (bj, pts1)"
 }

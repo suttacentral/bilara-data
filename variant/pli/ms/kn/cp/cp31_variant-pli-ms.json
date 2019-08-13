@@ -1,8 +1,4 @@
 {
-  "cp31:13.1": [
-    "āsīvisena → ativisena (s2, s3, pts1, mr)"
-  ],
-  "cp31:13.2": [
-    "papati → patati (pts1, mr)"
-  ]
+  "cp31:13.1": "āsīvisena → ativisena (s2, s3, pts1, mr)",
+  "cp31:13.2": "papati → patati (pts1, mr)"
 }

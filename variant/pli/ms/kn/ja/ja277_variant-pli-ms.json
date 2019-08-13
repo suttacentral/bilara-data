@@ -1,17 +1,7 @@
 {
-  "ja277:5.3": [
-    "abhinibbutattā → abhinibbutacittā (s2, s3, mr)"
-  ],
-  "ja277:5.4": [
-    "Hatthattamāyanti → hatthattha ... (s2, s3)"
-  ],
-  "ja277:7.1": [
-    "na mayaṃ sampamūḷhā → na maya'masma mūḷhā (bj, pts1) | na mayaṃ sammuḷhā (s2, s3)"
-  ],
-  "ja277:7.4": [
-    "Ājīvikā → ājīvaka (bj, s2, s3) | ājīvika (pts1)"
-  ],
-  "ja277:8.1": [
-    "Romakajātakaṃ → romajātakaṃ (s2, s3)"
-  ]
+  "ja277:5.3": "abhinibbutattā → abhinibbutacittā (s2, s3, mr)",
+  "ja277:5.4": "Hatthattamāyanti → hatthattha ... (s2, s3)",
+  "ja277:7.1": "na mayaṃ sampamūḷhā → na maya'masma mūḷhā (bj, pts1) | na mayaṃ sammuḷhā (s2, s3)",
+  "ja277:7.4": "Ājīvikā → ājīvaka (bj, s2, s3) | ājīvika (pts1)",
+  "ja277:8.1": "Romakajātakaṃ → romajātakaṃ (s2, s3)"
 }

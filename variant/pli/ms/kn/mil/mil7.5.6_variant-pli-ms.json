@@ -1,17 +1,7 @@
 {
-  "mil7.5.6:5.1": [
-    "jarasiṅgālassa → jarasigālassa (bj, pts1)"
-  ],
-  "mil7.5.6:10.1": [
-    "Lūkhenapi ca → lūkhenapi vā (^thag10.6#4 [Vaṅgantaputtaupasenattheragāthā])"
-  ],
-  "mil7.5.6:10.4": [
-    "ramate → ramatī (bj, maku, pts1)"
-  ],
-  "mil7.5.6:10.5": [
-    "santuṭṭho → santuṭṭhe (bj, pts1) | santuṭṭhī (maku)"
-  ],
-  "mil7.5.6:11.1": [
-    "Jarasiṅgālaṅgapañho → jarasigālaṅgapañho (bj)"
-  ]
+  "mil7.5.6:5.1": "jarasiṅgālassa → jarasigālassa (bj, pts1)",
+  "mil7.5.6:10.1": "Lūkhenapi ca → lūkhenapi vā (^thag10.6#4 [Vaṅgantaputtaupasenattheragāthā])",
+  "mil7.5.6:10.4": "ramate → ramatī (bj, maku, pts1)",
+  "mil7.5.6:10.5": "santuṭṭho → santuṭṭhe (bj, pts1) | santuṭṭhī (maku)",
+  "mil7.5.6:11.1": "Jarasiṅgālaṅgapañho → jarasigālaṅgapañho (bj)"
 }

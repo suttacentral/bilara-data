@@ -1,23 +1,9 @@
 {
-  "ne6:5.3": [
-    "yojayati → yojeti (bj)"
-  ],
-  "ne6:5.4": [
-    "sambahulattherāpadeso → sampahula ... (mr)"
-  ],
-  "ne6:6.5": [
-    "Katamissaṃ → katamiyaṃ (bj, pts1)"
-  ],
-  "ne6:10.1": [
-    "Maccunābbhāhato → maccunabbhāhato (mr)"
-  ],
-  "ne6:13.1": [
-    "nāmehi → dhammehi (aṭṭha.)"
-  ],
-  "ne6:14.4": [
-    "samūlikā → samūlakā (bj, pts1, c1)"
-  ],
-  "ne6:17.1": [
-    "Yathā hi → yathāha (si) | yadi hi (pts1)"
-  ]
+  "ne6:5.3": "yojayati → yojeti (bj)",
+  "ne6:5.4": "sambahulattherāpadeso → sampahula ... (mr)",
+  "ne6:6.5": "Katamissaṃ → katamiyaṃ (bj, pts1)",
+  "ne6:10.1": "Maccunābbhāhato → maccunabbhāhato (mr)",
+  "ne6:13.1": "nāmehi → dhammehi (aṭṭha.)",
+  "ne6:14.4": "samūlikā → samūlakā (bj, pts1, c1)",
+  "ne6:17.1": "Yathā hi → yathāha (si) | yadi hi (pts1)"
 }

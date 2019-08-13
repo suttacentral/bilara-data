@@ -1,14 +1,6 @@
 {
-  "ja306:5.4": [
-    "taṃ → te (pts1)"
-  ],
-  "ja306:7.2": [
-    "vippajahanti taṃ → vippajahanti'maṃ (?)"
-  ],
-  "ja306:8.2": [
-    "iddhippattāya → iddhimattāya (mr)"
-  ],
-  "ja306:8.4": [
-    "māssā → māsu (mr)"
-  ]
+  "ja306:5.4": "taṃ → te (pts1)",
+  "ja306:7.2": "vippajahanti taṃ → vippajahanti'maṃ (?)",
+  "ja306:8.2": "iddhippattāya → iddhimattāya (mr)",
+  "ja306:8.4": "māssā → māsu (mr)"
 }

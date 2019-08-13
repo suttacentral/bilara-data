@@ -1,11 +1,5 @@
 {
-  "ne26:5.1": [
-    "āvaṭṭo → āvatto (pts1)"
-  ],
-  "ne26:6.2": [
-    "samatho → ayaṃ samatho (bj, pts1, mr)"
-  ],
-  "ne26:6.6": [
-    "jahe”ti nirodho → ayaṃ nirodho (bj, pts1, mr)"
-  ]
+  "ne26:5.1": "āvaṭṭo → āvatto (pts1)",
+  "ne26:6.2": "samatho → ayaṃ samatho (bj, pts1, mr)",
+  "ne26:6.6": "jahe”ti nirodho → ayaṃ nirodho (bj, pts1, mr)"
 }

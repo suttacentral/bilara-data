@@ -1,12 +1,5 @@
 {
-  "sn1.16:0.3": [
-    "16. Niddātandīsutta → niddātandisuttaṃ (bj, pts2) | niddā tandi (pts1)"
-  ],
-  "sn1.16:1.1": [
-    "tandī → niddā tandi (bj)",
-    "vijambhitā → tandi vijambhikā (bj, pts2) | tandī vijimhitā (s1-3) | tandī vijambhikā (pts1)"
-  ],
-  "sn1.16:2.3": [
-    "Vīriyena → viriyena (bj, s1-3, km, pts1-2)"
-  ]
+  "sn1.16:0.3": "16. Niddātandīsutta → niddātandisuttaṃ (bj, pts2) | niddā tandi (pts1)",
+  "sn1.16:1.1": "tandī → niddā tandi (bj), vijambhitā → tandi vijambhikā (bj, pts2) | tandī vijimhitā (s1-3) | tandī vijambhikā (pts1)",
+  "sn1.16:2.3": "Vīriyena → viriyena (bj, s1-3, km, pts1-2)"
 }

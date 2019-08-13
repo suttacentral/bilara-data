@@ -1,11 +1,5 @@
 {
-  "sn54.9:0.3": [
-    "9. Vesālīsutta → asubhasuttaṃ (bj)"
-  ],
-  "sn54.9:3.3": [
-    "aṭṭīyamānā → aṭṭiyamānā (si, s1-3, km, mr) | aṭṭiyāmānā (pts1)"
-  ],
-  "sn54.9:5.3": [
-    "sannipatito → sannipātito (si)"
-  ]
+  "sn54.9:0.3": "9. Vesālīsutta → asubhasuttaṃ (bj)",
+  "sn54.9:3.3": "aṭṭīyamānā → aṭṭiyamānā (si, s1-3, km, mr) | aṭṭiyāmānā (pts1)",
+  "sn54.9:5.3": "sannipatito → sannipātito (si)"
 }

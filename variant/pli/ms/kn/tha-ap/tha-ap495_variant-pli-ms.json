@@ -1,11 +1,5 @@
 {
-  "tha-ap495:4.2": [
-    "pitumātumatenahaṃ → pitupetāmahenahaṃ (bj) | pitupitāmahenahaṃ (s2, s3, pts1)"
-  ],
-  "tha-ap495:7.4": [
-    "padaseṭṭhamapūjayiṃ → padaseṭṭhe apūjayiṃ (si, pts1) | padaseṭṭhaṃ apūjayiṃ (s2, s3)"
-  ],
-  "tha-ap495:9.4": [
-    "suppabhāso → sappabhāso (bj, s2, s3, pts1, mr)"
-  ]
+  "tha-ap495:4.2": "pitumātumatenahaṃ → pitupetāmahenahaṃ (bj) | pitupitāmahenahaṃ (s2, s3, pts1)",
+  "tha-ap495:7.4": "padaseṭṭhamapūjayiṃ → padaseṭṭhe apūjayiṃ (si, pts1) | padaseṭṭhaṃ apūjayiṃ (s2, s3)",
+  "tha-ap495:9.4": "suppabhāso → sappabhāso (bj, s2, s3, pts1, mr)"
 }

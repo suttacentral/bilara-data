@@ -1,12 +1,5 @@
 {
-  "thag2.22:5.3": [
-    "soḷasubbedho → soḷasapabbedho (bj, pts1-2) | soḷasabbāṇo (?)"
-  ],
-  "thag2.22:5.4": [
-    "ubbhamāhu → uddhamāhu (bj) | uccamāhu (s2, s3)"
-  ],
-  "thag2.22:6.1": [
-    "Sahassakaṇḍo → sahassakaṇḍu (pts1)",
-    "satageṇḍu → satabheṇḍu (bj, pts1)"
-  ]
+  "thag2.22:5.3": "soḷasubbedho → soḷasapabbedho (bj, pts1-2) | soḷasabbāṇo (?)",
+  "thag2.22:5.4": "ubbhamāhu → uddhamāhu (bj) | uccamāhu (s2, s3)",
+  "thag2.22:6.1": "Sahassakaṇḍo → sahassakaṇḍu (pts1), satageṇḍu → satabheṇḍu (bj, pts1)"
 }

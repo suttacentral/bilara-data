@@ -1,20 +1,8 @@
 {
-  "snp2.14:11.3": [
-    "sabbepi → sabbe (bj, pts1) | sabbe mayaṃ (s1-3)"
-  ],
-  "snp2.14:21.3": [
-    "Na hesa → na heso (si, pts1)"
-  ],
-  "snp2.14:22.1": [
-    "na hane → na hāne (bj)"
-  ],
-  "snp2.14:22.4": [
-    "tasā santi → tasanti (si, pts1)"
-  ],
-  "snp2.14:25.2": [
-    "veko → ceko (bj, s1-3)"
-  ],
-  "snp2.14:35.3": [
-    "Dhammacariyañca brāhmaṇo → kapilaṃca puna brāhmaṇadhammikaṃ (bj) | kapilo brāhmaṇopi ca (s1-3, mr) | dhammacariyā puna brāhmaṇadhammikaṃ (pts1)"
-  ]
+  "snp2.14:11.3": "sabbepi → sabbe (bj, pts1) | sabbe mayaṃ (s1-3)",
+  "snp2.14:21.3": "Na hesa → na heso (si, pts1)",
+  "snp2.14:22.1": "na hane → na hāne (bj)",
+  "snp2.14:22.4": "tasā santi → tasanti (si, pts1)",
+  "snp2.14:25.2": "veko → ceko (bj, s1-3)",
+  "snp2.14:35.3": "Dhammacariyañca brāhmaṇo → kapilaṃca puna brāhmaṇadhammikaṃ (bj) | kapilo brāhmaṇopi ca (s1-3, mr) | dhammacariyā puna brāhmaṇadhammikaṃ (pts1)"
 }

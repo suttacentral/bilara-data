@@ -1,23 +1,9 @@
 {
-  "ne21:7.4": [
-    "asammuṭṭhā → apammuṭṭhā (bj) | asamuṭṭhā (si, mr)"
-  ],
-  "ne21:8.2": [
-    "sasaṅkhāraniggayhavāritagato → sasaṅkhāraniggayha vāritavato (bj) | sasaṅkhāraniggayhavārivāvaṭo (pts1, mr)"
-  ],
-  "ne21:11.1": [
-    "niyyāti → nīyāti (bj) | niyāti (mr)"
-  ],
-  "ne21:14.2": [
-    "adhigamaṃ gacchati → adhigacchati (bj, pts1)"
-  ],
-  "ne21:22.1": [
-    "anupaṭṭhitassati → anupaṭṭhitasati (bj, pts1)"
-  ],
-  "ne21:24.8": [
-    "parinibbantināsavā”ti → parinibbanti anāsavāti (bj, pts1, mr)"
-  ],
-  "ne21:41.10": [
-    "vibhūtasaññāsamāpatti → vibhūtasamāpatti (si, pts1, mr)"
-  ]
+  "ne21:7.4": "asammuṭṭhā → apammuṭṭhā (bj) | asamuṭṭhā (si, mr)",
+  "ne21:8.2": "sasaṅkhāraniggayhavāritagato → sasaṅkhāraniggayha vāritavato (bj) | sasaṅkhāraniggayhavārivāvaṭo (pts1, mr)",
+  "ne21:11.1": "niyyāti → nīyāti (bj) | niyāti (mr)",
+  "ne21:14.2": "adhigamaṃ gacchati → adhigacchati (bj, pts1)",
+  "ne21:22.1": "anupaṭṭhitassati → anupaṭṭhitasati (bj, pts1)",
+  "ne21:24.8": "parinibbantināsavā”ti → parinibbanti anāsavāti (bj, pts1, mr)",
+  "ne21:41.10": "vibhūtasaññāsamāpatti → vibhūtasamāpatti (si, pts1, mr)"
 }

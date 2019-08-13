@@ -1,11 +1,5 @@
 {
-  "tha-ap223:3.1": [
-    "1 Ālambaṇadāyakattheraapadāna → ālambanadāyakattherāpadānaṃ (bj, s2, s3, pts1)"
-  ],
-  "tha-ap223:4.3": [
-    "Ālambaṇaṃ → ālambanaṃ (bj, s2, s3, pts1)"
-  ],
-  "tha-ap223:9.1": [
-    "ālambaṇadāyako → ālambanadāyako (bj, s2, s3, pts1)"
-  ]
+  "tha-ap223:3.1": "1 Ālambaṇadāyakattheraapadāna → ālambanadāyakattherāpadānaṃ (bj, s2, s3, pts1)",
+  "tha-ap223:4.3": "Ālambaṇaṃ → ālambanaṃ (bj, s2, s3, pts1)",
+  "tha-ap223:9.1": "ālambaṇadāyako → ālambanadāyako (bj, s2, s3, pts1)"
 }

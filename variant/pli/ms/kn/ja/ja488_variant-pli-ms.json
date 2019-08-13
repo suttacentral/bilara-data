@@ -1,44 +1,16 @@
 {
-  "ja488:8.2": [
-    "Rājābhirājā → rājādhirājā (s2, s3, mr)"
-  ],
-  "ja488:10.1": [
-    "sabbasamantavedaṃ → sabbasamattavedaṃ (bj) | sabbasamattavedanaṃ (pts1)"
-  ],
-  "ja488:12.3": [
-    "rājato byasana mālattha → mā rājato vyasana'malattha (bj, s2, s3, pts1)"
-  ],
-  "ja488:13.2": [
-    "Itthīsahassāna → itthīsahassassa (bj, pts1)"
-  ],
-  "ja488:15.2": [
-    "gajaṅgalāyaṃ → kajaṅgalāyaṃ (bj, s2, s3, pts1)"
-  ],
-  "ja488:15.3": [
-    "divasaṃ → divasā (bj, s2, s3, pts1)"
-  ],
-  "ja488:16.1": [
-    "chabbhi → chamhi (bj) | chambhī (pts1) | chassu (?)"
-  ],
-  "ja488:16.2": [
-    "rājadhāniṃ → rājaṭhāniṃ (mr)"
-  ],
-  "ja488:17.3": [
-    "Sakacchabandho → sakkaccabaddho (bj, pts1) | sakañca baddho (s2, s3) | saṃkaccabandho (nissya)"
-  ],
-  "ja488:18.1": [
-    "anaṭṭhaṃva → anaṭṭhaṃ (bj, s2, s3, pts1)"
-  ],
-  "ja488:18.2": [
-    "labhataṃ bhuñjatañca → labhatu bhuñjatu ca (s2, s3)"
-  ],
-  "ja488:18.4": [
-    "kañcideva → kiñcideva (mr)"
-  ],
-  "ja488:28.1": [
-    "Pālileyyo → pārileyyo (bj, pts1)"
-  ],
-  "ja488:28.2": [
-    "madhudo → madhuvā (pts1)"
-  ]
+  "ja488:8.2": "Rājābhirājā → rājādhirājā (s2, s3, mr)",
+  "ja488:10.1": "sabbasamantavedaṃ → sabbasamattavedaṃ (bj) | sabbasamattavedanaṃ (pts1)",
+  "ja488:12.3": "rājato byasana mālattha → mā rājato vyasana'malattha (bj, s2, s3, pts1)",
+  "ja488:13.2": "Itthīsahassāna → itthīsahassassa (bj, pts1)",
+  "ja488:15.2": "gajaṅgalāyaṃ → kajaṅgalāyaṃ (bj, s2, s3, pts1)",
+  "ja488:15.3": "divasaṃ → divasā (bj, s2, s3, pts1)",
+  "ja488:16.1": "chabbhi → chamhi (bj) | chambhī (pts1) | chassu (?)",
+  "ja488:16.2": "rājadhāniṃ → rājaṭhāniṃ (mr)",
+  "ja488:17.3": "Sakacchabandho → sakkaccabaddho (bj, pts1) | sakañca baddho (s2, s3) | saṃkaccabandho (nissya)",
+  "ja488:18.1": "anaṭṭhaṃva → anaṭṭhaṃ (bj, s2, s3, pts1)",
+  "ja488:18.2": "labhataṃ bhuñjatañca → labhatu bhuñjatu ca (s2, s3)",
+  "ja488:18.4": "kañcideva → kiñcideva (mr)",
+  "ja488:28.1": "Pālileyyo → pārileyyo (bj, pts1)",
+  "ja488:28.2": "madhudo → madhuvā (pts1)"
 }

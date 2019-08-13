@@ -1,17 +1,7 @@
 {
-  "thag2.33:4.1": [
-    "2.33 Upavāṇattheragāthā → upavānattheragāthā (bj)"
-  ],
-  "thag2.33:5.2": [
-    "vātehābādhiko → ... bādhito (bj, s2, s3, pts1-2, mr)"
-  ],
-  "thag2.33:6.1": [
-    "pūjaneyyānaṃ → pūjanīyānaṃ (bj)"
-  ],
-  "thag2.33:6.3": [
-    "Apacitopaceyyānaṃ → apacitopacanīyānaṃ (bj) | apacito apacineyyānaṃ"
-  ],
-  "thag2.33:7.2": [
-    "Upavāṇo → upavāno (bj, pts1-2)"
-  ]
+  "thag2.33:4.1": "2.33 Upavāṇattheragāthā → upavānattheragāthā (bj)",
+  "thag2.33:5.2": "vātehābādhiko → ... bādhito (bj, s2, s3, pts1-2, mr)",
+  "thag2.33:6.1": "pūjaneyyānaṃ → pūjanīyānaṃ (bj)",
+  "thag2.33:6.3": "Apacitopaceyyānaṃ → apacitopacanīyānaṃ (bj) | apacito apacineyyānaṃ",
+  "thag2.33:7.2": "Upavāṇo → upavāno (bj, pts1-2)"
 }
