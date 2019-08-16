@@ -1,23 +1,9 @@
 {
-  "tha-ap11:4.4": [
-    "ca tariṃ → orimaṃ ca tare (s2, s3)"
-  ],
-  "tha-ap11:5.4": [
-    "gaṅgātīramupāgato → gaṅgāsotaṃ tarissati\\pts1"
-  ],
-  "tha-ap11:6.2": [
-    "vaḍḍhakīhi → cammakehi (mr)"
-  ],
-  "tha-ap11:6.3": [
-    "Nāvāya → nāvānaṃ (mr)"
-  ],
-  "tha-ap11:10.2": [
-    "tārako → tāraṇo (s2, s3, pts1)"
-  ],
-  "tha-ap11:11.2": [
-    "cammako → campako (bj, pts1) | cambako (s2, s3)"
-  ],
-  "tha-ap11:16.1": [
-    "Vīriyaṃ → viriyaṃ (bj, s2, s3) | viriyam (pts1)"
-  ]
+  "tha-ap11:4.4": "ca tariṃ → orimaṃ ca tare (s2, s3)",
+  "tha-ap11:5.4": "gaṅgātīramupāgato → gaṅgāsotaṃ tarissati\\pts1",
+  "tha-ap11:6.2": "vaḍḍhakīhi → cammakehi (mr)",
+  "tha-ap11:6.3": "Nāvāya → nāvānaṃ (mr)",
+  "tha-ap11:10.2": "tārako → tāraṇo (s2, s3, pts1)",
+  "tha-ap11:11.2": "cammako → campako (bj, pts1) | cambako (s2, s3)",
+  "tha-ap11:16.1": "Vīriyaṃ → viriyaṃ (bj, s2, s3) | viriyam (pts1)"
 }

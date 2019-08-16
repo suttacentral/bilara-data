@@ -1,36 +1,13 @@
 {
-  "dhp371:1": [
-    "Jhāya bhikkhu → jhāya tuvaṃ bhikkhu (?)",
-    "pamādo → mā ca pamādo (bj, s1-3, pts1) | mā ca pāmado (pts2)"
-  ],
-  "dhp371:2": [
-    "ramessu → bhamassu (bj, s3, pts1-2) | bhavassu (s1, s2) | ramassu (mr)"
-  ],
-  "dhp372:2": [
-    "ajhāyato → ajjhāyato (pts1) | ajhāyino (mr)"
-  ],
-  "dhp374:3": [
-    "Labhatī → labhati (bj) | labhate (mr)"
-  ],
-  "dhp376:3": [
-    "Paṭisanthāravutyassa → paṭisanthāravuttyassa (s1-3) | paṭisanthāravutt'assa (pts1-2) | paṭisandhāravutyassa (mr)"
-  ],
-  "dhp377:2": [
-    "maddavāni → majjavāni (mr ṭīkā) | paccavāni (mr aṭṭha.)"
-  ],
-  "dhp378:2": [
-    "santavā susamāhito → santamano susamāhito (s1-3) | santamano samāhito (mr)"
-  ],
-  "dhp379:2": [
-    "paṭimaṃsetha attanā → paṭimāsettamattanā (bj, s1, pts1) | paṭimaṃsetamattanā (s2, s3) | paṭimāse attamattanā (pts2)"
-  ],
-  "dhp380:2": [
-    "ko hi nātho paro siyā →  etthantare pāṭho videsapotthakesu"
-  ],
-  "dhp380:4": [
-    "saṃyamamattānaṃ → saññamaya'ttānaṃ (bj, s1) | saññama attānaṃ (s2, s3) | aññamay'attānaṃ (pts1) | saññāmay'attānaṃ (pts2)"
-  ],
-  "dhp382:3": [
-    "Somaṃ → so imaṃ (bj, s1-3, km, pts1)"
-  ]
+  "dhp371:1": "Jhāya bhikkhu → jhāya tuvaṃ bhikkhu (?), pamādo → mā ca pamādo (bj, s1-3, pts1) | mā ca pāmado (pts2)",
+  "dhp371:2": "ramessu → bhamassu (bj, s3, pts1-2) | bhavassu (s1, s2) | ramassu (mr)",
+  "dhp372:2": "ajhāyato → ajjhāyato (pts1) | ajhāyino (mr)",
+  "dhp374:3": "Labhatī → labhati (bj) | labhate (mr)",
+  "dhp376:3": "Paṭisanthāravutyassa → paṭisanthāravuttyassa (s1-3) | paṭisanthāravutt'assa (pts1-2) | paṭisandhāravutyassa (mr)",
+  "dhp377:2": "maddavāni → majjavāni (mr ṭīkā) | paccavāni (mr aṭṭha.)",
+  "dhp378:2": "santavā susamāhito → santamano susamāhito (s1-3) | santamano samāhito (mr)",
+  "dhp379:2": "paṭimaṃsetha attanā → paṭimāsettamattanā (bj, s1, pts1) | paṭimaṃsetamattanā (s2, s3) | paṭimāse attamattanā (pts2)",
+  "dhp380:2": "ko hi nātho paro siyā →  etthantare pāṭho videsapotthakesu",
+  "dhp380:4": "saṃyamamattānaṃ → saññamaya'ttānaṃ (bj, s1) | saññama attānaṃ (s2, s3) | aññamay'attānaṃ (pts1) | saññāmay'attānaṃ (pts2)",
+  "dhp382:3": "Somaṃ → so imaṃ (bj, s1-3, km, pts1)"
 }

@@ -1,39 +1,13 @@
 {
-  "an8.46:0.3": [
-    "46. Anuruddhasutta → anuruddhamanāpakāyikasuttaṃ (bj)"
-  ],
-  "an8.46:4.1": [
-    "ca → ekāva (s1-3, pts1)",
-    "ca → ekāva (s1-3, pts1)",
-    "nacci ekā ca → ekāva (s1-3, pts1)"
-  ],
-  "an8.46:4.2": [
-    "tūriyassa → turiyassa (bj, s1-3, pts1)"
-  ],
-  "an8.46:5.1": [
-    "na khvayyo → na kho ayyo (bj)",
-    "sādiyatī”ti → sādīyatīti (bj) | sādayatīti (saddanīti dhātumālā)"
-  ],
-  "an8.46:11.1": [
-    "garuno → guruno (mr)"
-  ],
-  "an8.46:11.3": [
-    "garuṃ karoti → garukaroti (bj, s1-3, pts1)"
-  ],
-  "an8.46:12.1": [
-    "tatrupāyāya → tatrūpāyāya (bj)"
-  ],
-  "an8.46:13.2": [
-    "paccaṃsena → paccayena (s1, s2) | paccayaṃsena (s3) | paccattaṃsena (mr)"
-  ],
-  "an8.46:17.2": [
-    "muttacāgā → muttacāgī (s1-3)",
-    "payatapāṇinī → payatapāṇi (bj) | payatapāṇī (s1-3, pts1, mr)"
-  ],
-  "an8.46:21.1": [
-    "Uṭṭhāhikā → uṭṭhāyikā (mr)"
-  ],
-  "an8.46:22.3": [
-    "Manāpā nāma te → manāpakāyikā (si, mr)"
-  ]
+  "an8.46:0.3": "46. Anuruddhasutta → anuruddhamanāpakāyikasuttaṃ (bj)",
+  "an8.46:4.1": "ca → ekāva (s1-3, pts1), ca → ekāva (s1-3, pts1), nacci ekā ca → ekāva (s1-3, pts1)",
+  "an8.46:4.2": "tūriyassa → turiyassa (bj, s1-3, pts1)",
+  "an8.46:5.1": "na khvayyo → na kho ayyo (bj), sādiyatī”ti → sādīyatīti (bj) | sādayatīti (saddanīti dhātumālā)",
+  "an8.46:11.1": "garuno → guruno (mr)",
+  "an8.46:11.3": "garuṃ karoti → garukaroti (bj, s1-3, pts1)",
+  "an8.46:12.1": "tatrupāyāya → tatrūpāyāya (bj)",
+  "an8.46:13.2": "paccaṃsena → paccayena (s1, s2) | paccayaṃsena (s3) | paccattaṃsena (mr)",
+  "an8.46:17.2": "muttacāgā → muttacāgī (s1-3), payatapāṇinī → payatapāṇi (bj) | payatapāṇī (s1-3, pts1, mr)",
+  "an8.46:21.1": "Uṭṭhāhikā → uṭṭhāyikā (mr)",
+  "an8.46:22.3": "Manāpā nāma te → manāpakāyikā (si, mr)"
 }

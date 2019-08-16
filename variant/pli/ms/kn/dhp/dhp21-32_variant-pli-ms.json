@@ -1,20 +1,8 @@
 {
-  "dhp21:1": [
-    "amatapadaṃ → amataṃ padaṃ (s1-3, mr)"
-  ],
-  "dhp22:1": [
-    "Evaṃ → etaṃ (bj, s1-3, km, pts1-2)"
-  ],
-  "dhp24:1": [
-    "satīmato → satimato (bj, s1-3, mr)"
-  ],
-  "dhp24:4": [
-    "Appamattassa → apamattassa (?)"
-  ],
-  "dhp27:2": [
-    "kāmaratisanthavaṃ → ... sandhavaṃ (mr)"
-  ],
-  "dhp28:5": [
-    "bhūmaṭṭhe → bhummaṭṭhe (bj, s1-3, pts1-2)"
-  ]
+  "dhp21:1": "amatapadaṃ → amataṃ padaṃ (s1-3, mr)",
+  "dhp22:1": "Evaṃ → etaṃ (bj, s1-3, km, pts1-2)",
+  "dhp24:1": "satīmato → satimato (bj, s1-3, mr)",
+  "dhp24:4": "Appamattassa → apamattassa (?)",
+  "dhp27:2": "kāmaratisanthavaṃ → ... sandhavaṃ (mr)",
+  "dhp28:5": "bhūmaṭṭhe → bhummaṭṭhe (bj, s1-3, pts1-2)"
 }

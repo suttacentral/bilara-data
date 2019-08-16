@@ -1,14 +1,6 @@
 {
-  "ja406:6.2": [
-    "pahūtadhanadhāriyaṃ → ... dhāniyaṃ (bj, pts1) | ... pāniyaṃ (s2, s3)"
-  ],
-  "ja406:6.3": [
-    "Pasāsanato → pasāsanito (bj, s2, s3) | pasāsanāto (pts1)"
-  ],
-  "ja406:10.3": [
-    "andhamahiṃsova → andhamahisova (bj, pts1)"
-  ],
-  "ja406:11.2": [
-    "āceramhi → ācāramhi (bj, pts1)"
-  ]
+  "ja406:6.2": "pahūtadhanadhāriyaṃ → ... dhāniyaṃ (bj, pts1) | ... pāniyaṃ (s2, s3)",
+  "ja406:6.3": "Pasāsanato → pasāsanito (bj, s2, s3) | pasāsanāto (pts1)",
+  "ja406:10.3": "andhamahiṃsova → andhamahisova (bj, pts1)",
+  "ja406:11.2": "āceramhi → ācāramhi (bj, pts1)"
 }

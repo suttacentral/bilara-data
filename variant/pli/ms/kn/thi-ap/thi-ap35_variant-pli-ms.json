@@ -1,17 +1,7 @@
 {
-  "thi-ap35:7.2": [
-    "hitāya janataṃ bahuṃ → janatāya hitaṃ bahuṃ (bj) | hitāya janataṃ sadā (s2, s3) | hitāya janasaṃsariṃ (pts1)"
-  ],
-  "thi-ap35:8.3": [
-    "loke → lokaṃ (s2, s3, pts1)"
-  ],
-  "thi-ap35:12.3": [
-    "narasaraṇo → narasaddūlo (bj, s2, s3) | varasaddūlo (pts1)"
-  ],
-  "thi-ap35:14.3": [
-    "Uppajji lokasaraṇo → vadataṃ varo (s2, s3) | ca dīpavaro (pts1)"
-  ],
-  "thi-ap35:14.4": [
-    "araṇo amataṅgato → sabbasattānamuttamo (bj, s2, s3, pts1)"
-  ]
+  "thi-ap35:7.2": "hitāya janataṃ bahuṃ → janatāya hitaṃ bahuṃ (bj) | hitāya janataṃ sadā (s2, s3) | hitāya janasaṃsariṃ (pts1)",
+  "thi-ap35:8.3": "loke → lokaṃ (s2, s3, pts1)",
+  "thi-ap35:12.3": "narasaraṇo → narasaddūlo (bj, s2, s3) | varasaddūlo (pts1)",
+  "thi-ap35:14.3": "Uppajji lokasaraṇo → vadataṃ varo (s2, s3) | ca dīpavaro (pts1)",
+  "thi-ap35:14.4": "araṇo amataṅgato → sabbasattānamuttamo (bj, s2, s3, pts1)"
 }

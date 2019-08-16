@@ -1,41 +1,15 @@
 {
-  "tha-ap23:5.3": [
-    "Ekākiyo → ekāyiko (s2, s3) | ekākiko (pts1, mr)"
-  ],
-  "tha-ap23:6.3": [
-    "Pavattaṃva supātāhaṃ → pavattapaṇḍupattāni (bj) | pavattañca supātāhaṃ (s2, s3) | pavattapaṇḍupattāhaṃ (pts1)"
-  ],
-  "tha-ap23:11.2": [
-    "yadā puttaṃ → sadā yuttaṃ (bj, pts1) | yadā yuttaṃ (s2) | dayā yuttaṃ (s3)"
-  ],
-  "tha-ap23:14.3": [
-    "Saddhādhuraṃ vahisi → saddhādhuraṃ jahasi (bj) | sīghaṃ dhuraṃ vahisi (s2, s3) | saddhādhuraṃ pāhisi (pts1)"
-  ],
-  "tha-ap23:16.4": [
-    "jīvihisi → jīvissasi (bj) | jīvihisī (s2, s3, pts1)"
-  ],
-  "tha-ap23:21.2": [
-    "jhāyati → jhāpeti (bj) | yāyati (s2, s3, pts1)"
-  ],
-  "tha-ap23:21.4": [
-    "jhāyissasi → jhāpessasi (bj) | yāyissati (s2, s3) | neva yāyasi (pts1)"
-  ],
-  "tha-ap23:29.1": [
-    "Sīharājāvasambhīto → chambhito (mr)"
-  ],
-  "tha-ap23:29.2": [
-    "dappito → dammito (mr)"
-  ],
-  "tha-ap23:29.3": [
-    "Lāsito → lasito (bj) | abhīto (s2, s3)"
-  ],
-  "tha-ap23:31.3": [
-    "Majjhanhikeva → majjhantikeva (bj, s2, s3) | majjhantikova (pts1)"
-  ],
-  "tha-ap23:34.4": [
-    "sannipātesahaṃ → sannipātetvāhaṃ (bj, pts1)"
-  ],
-  "tha-ap23:37.2": [
-    "asambhītova → achambhitova (mr)"
-  ]
+  "tha-ap23:5.3": "Ekākiyo → ekāyiko (s2, s3) | ekākiko (pts1, mr)",
+  "tha-ap23:6.3": "Pavattaṃva supātāhaṃ → pavattapaṇḍupattāni (bj) | pavattañca supātāhaṃ (s2, s3) | pavattapaṇḍupattāhaṃ (pts1)",
+  "tha-ap23:11.2": "yadā puttaṃ → sadā yuttaṃ (bj, pts1) | yadā yuttaṃ (s2) | dayā yuttaṃ (s3)",
+  "tha-ap23:14.3": "Saddhādhuraṃ vahisi → saddhādhuraṃ jahasi (bj) | sīghaṃ dhuraṃ vahisi (s2, s3) | saddhādhuraṃ pāhisi (pts1)",
+  "tha-ap23:16.4": "jīvihisi → jīvissasi (bj) | jīvihisī (s2, s3, pts1)",
+  "tha-ap23:21.2": "jhāyati → jhāpeti (bj) | yāyati (s2, s3, pts1)",
+  "tha-ap23:21.4": "jhāyissasi → jhāpessasi (bj) | yāyissati (s2, s3) | neva yāyasi (pts1)",
+  "tha-ap23:29.1": "Sīharājāvasambhīto → chambhito (mr)",
+  "tha-ap23:29.2": "dappito → dammito (mr)",
+  "tha-ap23:29.3": "Lāsito → lasito (bj) | abhīto (s2, s3)",
+  "tha-ap23:31.3": "Majjhanhikeva → majjhantikeva (bj, s2, s3) | majjhantikova (pts1)",
+  "tha-ap23:34.4": "sannipātesahaṃ → sannipātetvāhaṃ (bj, pts1)",
+  "tha-ap23:37.2": "asambhītova → achambhitova (mr)"
 }

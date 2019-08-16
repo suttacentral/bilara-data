@@ -1,23 +1,9 @@
 {
-  "ja398:5.3": [
-    "Maghadevasmiṃ → makhādevasmiṃ (bj, pts1) | māghadevasmiṃ (mr)"
-  ],
-  "ja398:6.3": [
-    "bhikkhā ca → bhakkhosi (s2, s3) | bhakkhāva (mr)"
-  ],
-  "ja398:8.1": [
-    "Laddhāya yakkhā → laddhāyaṃ yakkha (bj, s2, s3, pts1)"
-  ],
-  "ja398:8.4": [
-    "hehiti bhakkhite → hohiti khādite (bj, s2, s3, pts1)"
-  ],
-  "ja398:9.1": [
-    "Mameva → mamesa (bj, pts1)"
-  ],
-  "ja398:10.2": [
-    "gacchamādāya → gacchevādāya (bj, s2, s3, pts1)"
-  ],
-  "ja398:12.1": [
-    "Sutanujātakaṃ → sutanajātakaṃ (s2, s3) | sutanojātakaṃ (pts1)"
-  ]
+  "ja398:5.3": "Maghadevasmiṃ → makhādevasmiṃ (bj, pts1) | māghadevasmiṃ (mr)",
+  "ja398:6.3": "bhikkhā ca → bhakkhosi (s2, s3) | bhakkhāva (mr)",
+  "ja398:8.1": "Laddhāya yakkhā → laddhāyaṃ yakkha (bj, s2, s3, pts1)",
+  "ja398:8.4": "hehiti bhakkhite → hohiti khādite (bj, s2, s3, pts1)",
+  "ja398:9.1": "Mameva → mamesa (bj, pts1)",
+  "ja398:10.2": "gacchamādāya → gacchevādāya (bj, s2, s3, pts1)",
+  "ja398:12.1": "Sutanujātakaṃ → sutanajātakaṃ (s2, s3) | sutanojātakaṃ (pts1)"
 }

@@ -1,18 +1,7 @@
 {
-  "sn41.9:0.3": [
-    "9. Acelakassapasutta → acelasuttaṃ (bj)"
-  ],
-  "sn41.9:1.7": [
-    "uttari manussadhammā → uttarimanussadhammo (s1-3, km, pts1)"
-  ],
-  "sn41.9:1.11": [
-    "svākkhātatā → svākhyātatā (pts1)"
-  ],
-  "sn41.9:2.9": [
-    "bhagavato → bhagavatā (s1-3, km)"
-  ],
-  "sn41.9:2.13": [
-    "gihī odātavasano → gihī odātavasanā (bj)",
-    "adhigamissati → adhigamissanti (bj)"
-  ]
+  "sn41.9:0.3": "9. Acelakassapasutta → acelasuttaṃ (bj)",
+  "sn41.9:1.7": "uttari manussadhammā → uttarimanussadhammo (s1-3, km, pts1)",
+  "sn41.9:1.11": "svākkhātatā → svākhyātatā (pts1)",
+  "sn41.9:2.9": "bhagavato → bhagavatā (s1-3, km)",
+  "sn41.9:2.13": "gihī odātavasano → gihī odātavasanā (bj), adhigamissati → adhigamissanti (bj)"
 }

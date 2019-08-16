@@ -1,11 +1,5 @@
 {
-  "ja294:5.2": [
-    "saravantānamuttamo → pavadantānamuttamo (bj, pts1)"
-  ],
-  "ja294:6.1": [
-    "Kulaputtova jānāti → kulaputto pajānāti (s2, s3, mr)"
-  ],
-  "ja294:6.2": [
-    "kulaputtaṃ → kulaputte (bj, pts1)"
-  ]
+  "ja294:5.2": "saravantānamuttamo → pavadantānamuttamo (bj, pts1)",
+  "ja294:6.1": "Kulaputtova jānāti → kulaputto pajānāti (s2, s3, mr)",
+  "ja294:6.2": "kulaputtaṃ → kulaputte (bj, pts1)"
 }

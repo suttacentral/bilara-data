@@ -1,12 +1,5 @@
 {
-  "sn7.9:10.3": [
-    "phālo → loho (mr)",
-    "divasaṃsantatto → divasasantatto (bj, s1-3, km, pts1-2)"
-  ],
-  "sn7.9:13.2": [
-    "Ajjhattamevujjalayāmi → ajjhattameva jalayāmi (bj, s1-3, km, pts1)"
-  ],
-  "sn7.9:15.4": [
-    "Anallagattāva → anallīnagattāva (pts1, mr)"
-  ]
+  "sn7.9:10.3": "phālo → loho (mr), divasaṃsantatto → divasasantatto (bj, s1-3, km, pts1-2)",
+  "sn7.9:13.2": "Ajjhattamevujjalayāmi → ajjhattameva jalayāmi (bj, s1-3, km, pts1)",
+  "sn7.9:15.4": "Anallagattāva → anallīnagattāva (pts1, mr)"
 }

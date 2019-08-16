@@ -1,17 +1,7 @@
 {
-  "ud2.6:4.2": [
-    "bhoti → bhotiyā (s1-3, pts1, mr)"
-  ],
-  "ud2.6:5.1": [
-    "dīyati → diyyati (bj, mr)"
-  ],
-  "ud2.6:6.3": [
-    "ucchadditvāna → uggiritvāna (bj, s1-3, pts1) | ucchaditvā (s-a) | ucchaḍḍitvāna (mr)"
-  ],
-  "ud2.6:7.2": [
-    "tibbāhi → tippāhi (s1-3)"
-  ],
-  "ud2.6:10.4": [
-    "paṭibandhacitto → paṭibaddhacitto (bj, s1-3) | paṭibandharūpo (?)"
-  ]
+  "ud2.6:4.2": "bhoti → bhotiyā (s1-3, pts1, mr)",
+  "ud2.6:5.1": "dīyati → diyyati (bj, mr)",
+  "ud2.6:6.3": "ucchadditvāna → uggiritvāna (bj, s1-3, pts1) | ucchaditvā (s-a) | ucchaḍḍitvāna (mr)",
+  "ud2.6:7.2": "tibbāhi → tippāhi (s1-3)",
+  "ud2.6:10.4": "paṭibandhacitto → paṭibaddhacitto (bj, s1-3) | paṭibandharūpo (?)"
 }

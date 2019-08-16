@@ -1,9 +1,4 @@
 {
-  "an4.111:0.2": [
-    "kesīvaggo (s1-3)"
-  ],
-  "an4.111:1.2": [
-    "tvaṃ khosi → tvañca khvāsi (bj, s1-3, pts1)",
-    "paññāto assadammasārathīti → saññato assadammasārathi (bj, pts1) | saññāto assadammasārathi (s1-3, km)"
-  ]
+  "an4.111:0.2": "kesīvaggo (s1-3)",
+  "an4.111:1.2": "tvaṃ khosi → tvañca khvāsi (bj, s1-3, pts1), paññāto assadammasārathīti → saññato assadammasārathi (bj, pts1) | saññāto assadammasārathi (s1-3, km)"
 }

@@ -1,26 +1,10 @@
 {
-  "ja457:8.2": [
-    "Na arahatā → na arahati (bj, pts1) | na arahattā (s2, s3) | arahati (mr)"
-  ],
-  "ja457:10.3": [
-    "hañchati → haññati (bj, s2, s3) | haññiti (katthaci)"
-  ],
-  "ja457:11.1": [
-    "yuddhabalo adhamma → yuddhabalo'si'dhamma (si) | yuddhabalo'sa'dhamma (pts1)"
-  ],
-  "ja457:11.2": [
-    "vuḍḍhā → vaddhā (bj, pts1)"
-  ],
-  "ja457:13.2": [
-    "nihanitva → vihanitvā (mr)"
-  ],
-  "ja457:13.3": [
-    "vitto → citto (s2, s3)"
-  ],
-  "ja457:14.4": [
-    "vajanti te → vajanti (bj, pts1)"
-  ],
-  "ja457:16.1": [
-    "Dhammadevaputtajātakaṃ → dhammajātakaṃ (bj, pts1)"
-  ]
+  "ja457:8.2": "Na arahatā → na arahati (bj, pts1) | na arahattā (s2, s3) | arahati (mr)",
+  "ja457:10.3": "hañchati → haññati (bj, s2, s3) | haññiti (katthaci)",
+  "ja457:11.1": "yuddhabalo adhamma → yuddhabalo'si'dhamma (si) | yuddhabalo'sa'dhamma (pts1)",
+  "ja457:11.2": "vuḍḍhā → vaddhā (bj, pts1)",
+  "ja457:13.2": "nihanitva → vihanitvā (mr)",
+  "ja457:13.3": "vitto → citto (s2, s3)",
+  "ja457:14.4": "vajanti te → vajanti (bj, pts1)",
+  "ja457:16.1": "Dhammadevaputtajātakaṃ → dhammajātakaṃ (bj, pts1)"
 }

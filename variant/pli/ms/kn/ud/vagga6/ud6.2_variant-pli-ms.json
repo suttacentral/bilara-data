@@ -1,37 +1,13 @@
 {
-  "ud6.2:2.1": [
-    "Sattajaṭilasutta → jaṭilasuttaṃ (bj)"
-  ],
-  "ud6.2:4.1": [
-    "khārivividhamādāya → khārīvividhamādāya (s1-3) | khārīvidhamādāya (mr ^dn3#46 [Ambaṭṭhasutta/5. Catuapāyamukha])"
-  ],
-  "ud6.2:5.2": [
-    "pathaviyaṃ → paṭhaviyaṃ (bj, s1-3, pts1)"
-  ],
-  "ud6.2:6.1": [
-    "kho → ye ca kho (bj) | ye ca te (s1-3) | ye nu ke ci kho (pts1) | ye te (^sn3.11#1 [11. Sattajaṭilasutta]) | ye nu kho keci (?)"
-  ],
-  "ud6.2:6.4": [
-    "tesaṃ → etesaṃ (s1-3, pts1)",
-    "aññatare”ti → aññatarāti (bj, mr) | aññataroti (s1-3, pts1)"
-  ],
-  "ud6.2:8.2": [
-    "na ittaraṃ → na ittarena (bj, s1-3)"
-  ],
-  "ud6.2:9.2": [
-    "subhāsitañcidaṃ → subhāsitamidaṃ (^sn3.11#1 [11. Sattajaṭilasutta])"
-  ],
-  "ud6.2:10.1": [
-    "corā → carā (^sn3.11#1 [11. Sattajaṭilasutta])",
-    "gacchanti → āgacchanti (bj, s1-3, pts1)"
-  ],
-  "ud6.2:10.2": [
-    "osārissāmi → otarissāmi (bj, s1-3) | oyāyissāmi (bj-a, s-a) | osāpayissāmi (pts1 ^sn3.11#1 [11. Sattajaṭilasutta])"
-  ],
-  "ud6.2:10.3": [
-    "paricāressantī”ti → paricāriyanti (s1-3) | paricārissantīti (pts1)"
-  ],
-  "ud6.2:12.4": [
-    "vaṇiṃ → vaṇī (s1-3) | vāṇijjaṃ (pts1) | vāṇijaṃ (mr)"
-  ]
+  "ud6.2:2.1": "Sattajaṭilasutta → jaṭilasuttaṃ (bj)",
+  "ud6.2:4.1": "khārivividhamādāya → khārīvividhamādāya (s1-3) | khārīvidhamādāya (mr ^dn3#46 [Ambaṭṭhasutta/5. Catuapāyamukha])",
+  "ud6.2:5.2": "pathaviyaṃ → paṭhaviyaṃ (bj, s1-3, pts1)",
+  "ud6.2:6.1": "kho → ye ca kho (bj) | ye ca te (s1-3) | ye nu ke ci kho (pts1) | ye te (^sn3.11#1 [11. Sattajaṭilasutta]) | ye nu kho keci (?)",
+  "ud6.2:6.4": "tesaṃ → etesaṃ (s1-3, pts1), aññatare”ti → aññatarāti (bj, mr) | aññataroti (s1-3, pts1)",
+  "ud6.2:8.2": "na ittaraṃ → na ittarena (bj, s1-3)",
+  "ud6.2:9.2": "subhāsitañcidaṃ → subhāsitamidaṃ (^sn3.11#1 [11. Sattajaṭilasutta])",
+  "ud6.2:10.1": "corā → carā (^sn3.11#1 [11. Sattajaṭilasutta]), gacchanti → āgacchanti (bj, s1-3, pts1)",
+  "ud6.2:10.2": "osārissāmi → otarissāmi (bj, s1-3) | oyāyissāmi (bj-a, s-a) | osāpayissāmi (pts1 ^sn3.11#1 [11. Sattajaṭilasutta])",
+  "ud6.2:10.3": "paricāressantī”ti → paricāriyanti (s1-3) | paricārissantīti (pts1)",
+  "ud6.2:12.4": "vaṇiṃ → vaṇī (s1-3) | vāṇijjaṃ (pts1) | vāṇijaṃ (mr)"
 }

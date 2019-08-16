@@ -1,11 +1,5 @@
 {
-  "bv4:24.5": [
-    "daditvāna → cajitvā (bj) | cajitvāna (pts1-2)"
-  ],
-  "bv4:28.2": [
-    "agāraṃ ajjha so vasi → agāramajjhe ca so vasi (s2, s3)"
-  ],
-  "bv4:38.2": [
-    "asaṅkhobbhā → asaṅkhobhā (bj, pts1-2, c1)"
-  ]
+  "bv4:24.5": "daditvāna → cajitvā (bj) | cajitvāna (pts1-2)",
+  "bv4:28.2": "agāraṃ ajjha so vasi → agāramajjhe ca so vasi (s2, s3)",
+  "bv4:38.2": "asaṅkhobbhā → asaṅkhobhā (bj, pts1-2, c1)"
 }

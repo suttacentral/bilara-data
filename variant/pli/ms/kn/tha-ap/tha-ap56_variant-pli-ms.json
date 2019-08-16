@@ -1,18 +1,7 @@
 {
-  "tha-ap56:3.1": [
-    "4 Gandhodakiyattheraapadāna → gandhodakadāyakattherāpadānaṃ (s2, s3) | gandhodakattherāpadānaṃ (pts1)"
-  ],
-  "tha-ap56:6.2": [
-    "kālaṅkato → kālakato (bj, s2, s3, pts1)",
-    "ahaṃ → ahuṃ (bj)"
-  ],
-  "tha-ap56:7.1": [
-    "Aho buddhā aho dhammā → aho buddho aho dhammo (bj, s2, s3, c1) 19Th1.A:402 (415 piṭṭhe)"
-  ],
-  "tha-ap56:7.3": [
-    "Kaḷevaraṃ → kalebaraṃ (bj, pts1)"
-  ],
-  "tha-ap56:12.1": [
-    "gandhodakiyo → gandhodakadāyako (s2, s3)"
-  ]
+  "tha-ap56:3.1": "4 Gandhodakiyattheraapadāna → gandhodakadāyakattherāpadānaṃ (s2, s3) | gandhodakattherāpadānaṃ (pts1)",
+  "tha-ap56:6.2": "kālaṅkato → kālakato (bj, s2, s3, pts1), ahaṃ → ahuṃ (bj)",
+  "tha-ap56:7.1": "Aho buddhā aho dhammā → aho buddho aho dhammo (bj, s2, s3, c1) 19Th1.A:402 (415 piṭṭhe)",
+  "tha-ap56:7.3": "Kaḷevaraṃ → kalebaraṃ (bj, pts1)",
+  "tha-ap56:12.1": "gandhodakiyo → gandhodakadāyako (s2, s3)"
 }

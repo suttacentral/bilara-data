@@ -1,74 +1,25 @@
 {
-  "cnd11:5.3": [
-    "Ñāṇūpapannaṃ muni no vadanti → no muniṃ vadanti (bj, pts1 ^snp5.8#263 [Nandamāṇavapucchā])"
-  ],
-  "cnd11:5.4": [
-    "jīvitenūpapannaṃ → jīvikenūpapannaṃ (s1-3)"
-  ],
-  "cnd11:8.2": [
-    "samupapannaṃ → sampannaṃ (bj)"
-  ],
-  "cnd11:11.3": [
-    "Visenikatvā → viseniṃkatvā (mr)"
-  ],
-  "cnd11:16.1": [
-    "Pañcamaṃ → pañcamī (bj)"
-  ],
-  "cnd11:16.4": [
-    "aṭṭhamo → aṭṭhamā (bj)"
-  ],
-  "cnd11:17.2": [
-    "avajānati → avajānāti (c1)"
-  ],
-  "cnd11:17.3": [
-    "namuci te senā → esā te namuci senā (s1-3, mr)"
-  ],
-  "cnd11:18.1": [
-    "paṭisenikarā → viseniṃkatvā (mr)",
-    "vippaluggā → vippaluttā (s1-3)",
-    "tena → te (s1-3)"
-  ],
-  "cnd11:20.2": [
-    "Diṭṭhassutenāpi → diṭṭhena sutenapi (bj) | diṭṭhasutenāpi (s1-3)"
-  ],
-  "cnd11:25.1": [
-    "anekavidhakotūhalamaṅgalena → anekavidhavatakotuhalomaṅgalena (bj) | anekavidhavattakutūhalamaṅgalena (s1-3)"
-  ],
-  "cnd11:26.11": [
-    "yattā paṭiyattā → yatā paṭiyatā (bj, s1-3)"
-  ],
-  "cnd11:35.1": [
-    "anekavidhakotūhalamaṅgalena → anekavidhavatakotūhala ... (bj) | anekavidhavattakutūhala ... (s1-3)"
-  ],
-  "cnd11:40.1": [
-    "munī → muni (^snp5.8#267 [Nandamāṇavapucchā])"
-  ],
-  "cnd11:51.2": [
-    "anāsavāse → anāsavā ye (s1-3, mr)"
-  ],
-  "cnd11:52.2": [
-    "anabhāvaṃkatā → anabhāvakatā (bj) | anabhāvaṃgatā (si, s1-3)"
-  ],
-  "cnd11:55.6": [
-    "jānāti → pajānāti (si, s1-3)"
-  ],
-  "cnd11:57.5": [
-    "anabhāvaṃkatā → anabhāvakatā (bj) | anabhāvaṃgatā (si, s1-3)"
-  ],
-  "cnd11:63.1": [
-    "mahesi → mahesinoti mehesī (s1-3)"
-  ],
-  "cnd11:64.2": [
-    "suācikkhitaṃ → svācikkhitaṃ (bj, mr)"
-  ],
-  "cnd11:64.4": [
-    "upadhinissaggaṃ → upadhipaṭinissaggaṃ (bj) | upadhipaṭinissaggo (s1-3)",
-    "upadhipaṭippassaddhaṃ → upadhipaṭippassaddhiṃ (bj) | upadhipaṭipassaddhi (s1) | upadhipaṭippassaddhi (s2, s3)"
-  ],
-  "cnd11:67.4": [
-    "tīraṇapariññāya → tiraṇapariññāya (s1, s2)"
-  ],
-  "cnd11:68.2": [
-    "tīreti → tireti (s1, s2)"
-  ]
+  "cnd11:5.3": "Ñāṇūpapannaṃ muni no vadanti → no muniṃ vadanti (bj, pts1 ^snp5.8#263 [Nandamāṇavapucchā])",
+  "cnd11:5.4": "jīvitenūpapannaṃ → jīvikenūpapannaṃ (s1-3)",
+  "cnd11:8.2": "samupapannaṃ → sampannaṃ (bj)",
+  "cnd11:11.3": "Visenikatvā → viseniṃkatvā (mr)",
+  "cnd11:16.1": "Pañcamaṃ → pañcamī (bj)",
+  "cnd11:16.4": "aṭṭhamo → aṭṭhamā (bj)",
+  "cnd11:17.2": "avajānati → avajānāti (c1)",
+  "cnd11:17.3": "namuci te senā → esā te namuci senā (s1-3, mr)",
+  "cnd11:18.1": "paṭisenikarā → viseniṃkatvā (mr), vippaluggā → vippaluttā (s1-3), tena → te (s1-3)",
+  "cnd11:20.2": "Diṭṭhassutenāpi → diṭṭhena sutenapi (bj) | diṭṭhasutenāpi (s1-3)",
+  "cnd11:25.1": "anekavidhakotūhalamaṅgalena → anekavidhavatakotuhalomaṅgalena (bj) | anekavidhavattakutūhalamaṅgalena (s1-3)",
+  "cnd11:26.11": "yattā paṭiyattā → yatā paṭiyatā (bj, s1-3)",
+  "cnd11:35.1": "anekavidhakotūhalamaṅgalena → anekavidhavatakotūhala ... (bj) | anekavidhavattakutūhala ... (s1-3)",
+  "cnd11:40.1": "munī → muni (^snp5.8#267 [Nandamāṇavapucchā])",
+  "cnd11:51.2": "anāsavāse → anāsavā ye (s1-3, mr)",
+  "cnd11:52.2": "anabhāvaṃkatā → anabhāvakatā (bj) | anabhāvaṃgatā (si, s1-3)",
+  "cnd11:55.6": "jānāti → pajānāti (si, s1-3)",
+  "cnd11:57.5": "anabhāvaṃkatā → anabhāvakatā (bj) | anabhāvaṃgatā (si, s1-3)",
+  "cnd11:63.1": "mahesi → mahesinoti mehesī (s1-3)",
+  "cnd11:64.2": "suācikkhitaṃ → svācikkhitaṃ (bj, mr)",
+  "cnd11:64.4": "upadhinissaggaṃ → upadhipaṭinissaggaṃ (bj) | upadhipaṭinissaggo (s1-3), upadhipaṭippassaddhaṃ → upadhipaṭippassaddhiṃ (bj) | upadhipaṭipassaddhi (s1) | upadhipaṭippassaddhi (s2, s3)",
+  "cnd11:67.4": "tīraṇapariññāya → tiraṇapariññāya (s1, s2)",
+  "cnd11:68.2": "tīreti → tireti (s1, s2)"
 }

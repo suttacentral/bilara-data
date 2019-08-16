@@ -1,8 +1,4 @@
 {
-  "thag7.1:5.2": [
-    "māladhārī → mālābhārī (bj) | mālabhārī (s2, s3)"
-  ],
-  "thag7.1:6.4": [
-    "mhitapubbaṃ → mihitapubbaṃ (bj) | mitapubbam (s2, s3)"
-  ]
+  "thag7.1:5.2": "māladhārī → mālābhārī (bj) | mālabhārī (s2, s3)",
+  "thag7.1:6.4": "mhitapubbaṃ → mihitapubbaṃ (bj) | mitapubbam (s2, s3)"
 }

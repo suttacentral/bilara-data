@@ -1,17 +1,7 @@
 {
-  "tha-ap298:3.1": [
-    "6 Pādapūjakattheraapadāna → padapūjakattherāpadānaṃ (s2, s3)"
-  ],
-  "tha-ap298:5.1": [
-    "Upetaṃ tamahaṃ → upetopi tadā (s2, s3) | upetaṃ maṃ tadā (pts1) | upesiṃ tamahaṃ (?)"
-  ],
-  "tha-ap298:6.2": [
-    "pādaṃ → padaṃ (s2, s3) | pādam (pts1)"
-  ],
-  "tha-ap298:6.4": [
-    "pādapūjāyidaṃ → padapūjāyidaṃ (s2, s3)"
-  ],
-  "tha-ap298:8.1": [
-    "pādapūjako → padapūjako (s2, s3)"
-  ]
+  "tha-ap298:3.1": "6 Pādapūjakattheraapadāna → padapūjakattherāpadānaṃ (s2, s3)",
+  "tha-ap298:5.1": "Upetaṃ tamahaṃ → upetopi tadā (s2, s3) | upetaṃ maṃ tadā (pts1) | upesiṃ tamahaṃ (?)",
+  "tha-ap298:6.2": "pādaṃ → padaṃ (s2, s3) | pādam (pts1)",
+  "tha-ap298:6.4": "pādapūjāyidaṃ → padapūjāyidaṃ (s2, s3)",
+  "tha-ap298:8.1": "pādapūjako → padapūjako (s2, s3)"
 }

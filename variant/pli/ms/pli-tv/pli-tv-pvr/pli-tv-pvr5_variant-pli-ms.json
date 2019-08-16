@@ -1,17 +1,7 @@
 {
-  "pli-tv-pvr5:10.10": [
-    "Cha hetū → tayo kusalahetū (bj, s1-3) | kati hetūti nava hetū (pts1)"
-  ],
-  "pli-tv-pvr5:105.2": [
-    "vinibbhujitvā vinibbhujitvā → vinibbhujjitvā vinibbhujjitvā (mr)"
-  ],
-  "pli-tv-pvr5:106.6": [
-    "ca labbhā → na ca labbhā (bj, s1-3, mr)"
-  ],
-  "pli-tv-pvr5:141.1": [
-    "Sammanti na sammantivāro → sammati na sammati vāro (bj)"
-  ],
-  "pli-tv-pvr5:169.7": [
-    "medhakaṃ → medhagaṃ (mr)"
-  ]
+  "pli-tv-pvr5:10.10": "Cha hetū → tayo kusalahetū (bj, s1-3) | kati hetūti nava hetū (pts1)",
+  "pli-tv-pvr5:105.2": "vinibbhujitvā vinibbhujitvā → vinibbhujjitvā vinibbhujjitvā (mr)",
+  "pli-tv-pvr5:106.6": "ca labbhā → na ca labbhā (bj, s1-3, mr)",
+  "pli-tv-pvr5:141.1": "Sammanti na sammantivāro → sammati na sammati vāro (bj)",
+  "pli-tv-pvr5:169.7": "medhakaṃ → medhagaṃ (mr)"
 }

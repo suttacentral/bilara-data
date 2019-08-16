@@ -1,32 +1,12 @@
 {
-  "ja492:5.3": [
-    "vicariṃ → vipule (s2, s3, mr)"
-  ],
-  "ja492:6.3": [
-    "girīnajjo → giri nadiyo (bj, pts1) | girinajjo (s2, s3)"
-  ],
-  "ja492:8.1": [
-    "Aññampi → aññaṃ hi (bj, pts1) | aññañhi (s2, s3)"
-  ],
-  "ja492:9.1": [
-    "numhākaṃ → ko namhākaṃ (bj, pts1)"
-  ],
-  "ja492:9.3": [
-    "Duppadhaṃse → appadhaṃse (bj, pts1)"
-  ],
-  "ja492:11.1": [
-    "na vijjanti → nu vijjanti (mr)"
-  ],
-  "ja492:13.3": [
-    "migavadhāya → miga viriyaṃ (bj, pts1) | migaviriya (s2, s3)"
-  ],
-  "ja492:16.4": [
-    "patthaye → apatthave (pts1)"
-  ],
-  "ja492:18.4": [
-    "byagghe → vyagghe ca (bj, pts1) | byaggho na (s2, s3)"
-  ],
-  "ja492:20.2": [
-    "apasakkati → apavattati (bj, pts1)"
-  ]
+  "ja492:5.3": "vicariṃ → vipule (s2, s3, mr)",
+  "ja492:6.3": "girīnajjo → giri nadiyo (bj, pts1) | girinajjo (s2, s3)",
+  "ja492:8.1": "Aññampi → aññaṃ hi (bj, pts1) | aññañhi (s2, s3)",
+  "ja492:9.1": "numhākaṃ → ko namhākaṃ (bj, pts1)",
+  "ja492:9.3": "Duppadhaṃse → appadhaṃse (bj, pts1)",
+  "ja492:11.1": "na vijjanti → nu vijjanti (mr)",
+  "ja492:13.3": "migavadhāya → miga viriyaṃ (bj, pts1) | migaviriya (s2, s3)",
+  "ja492:16.4": "patthaye → apatthave (pts1)",
+  "ja492:18.4": "byagghe → vyagghe ca (bj, pts1) | byaggho na (s2, s3)",
+  "ja492:20.2": "apasakkati → apavattati (bj, pts1)"
 }

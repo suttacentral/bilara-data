@@ -1,14 +1,6 @@
 {
-  "snp4.8:3.1": [
-    "vādayanti → vādiyanti (bj, pts1) | vādisanti (si)"
-  ],
-  "snp4.8:8.3": [
-    "unnamatī ca → unnamaticca (bj) | uṇṇamatic (pts1) | uṇṇamatī (c1, c2)"
-  ],
-  "snp4.8:9.1": [
-    "unnatī → uṇṇati (pts1) | uṇṇatī (c1, c2)"
-  ],
-  "snp4.8:11.1": [
-    "vivādayanti → vivādiyanti (si, pts1)"
-  ]
+  "snp4.8:3.1": "vādayanti → vādiyanti (bj, pts1) | vādisanti (si)",
+  "snp4.8:8.3": "unnamatī ca → unnamaticca (bj) | uṇṇamatic (pts1) | uṇṇamatī (c1, c2)",
+  "snp4.8:9.1": "unnatī → uṇṇati (pts1) | uṇṇatī (c1, c2)",
+  "snp4.8:11.1": "vivādayanti → vivādiyanti (si, pts1)"
 }

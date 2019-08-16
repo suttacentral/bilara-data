@@ -1,35 +1,13 @@
 {
-  "snp4.12:4.2": [
-    "akkusaloti → akusaloti (si, s1-3, pts1)"
-  ],
-  "snp4.12:5.2": [
-    "Bālomako → bālo mago (bj, s1-3, pts1, mr)"
-  ],
-  "snp4.12:6.3": [
-    "parihīnapañño → koci nihīnapañño (bj, s1-3) | kocipi nihīnapañño (mr)"
-  ],
-  "snp4.12:7.1": [
-    "tathiyanti → tathivanti (s1-3, mr)"
-  ],
-  "snp4.12:8.2": [
-    "aññe → aññepi (s1-3 ^mnd12#37 [Cūḷabyūhasuttaniddesa]) | aññe ca (?)"
-  ],
-  "snp4.12:9.3": [
-    "te → nānāto (mr)"
-  ],
-  "snp4.12:14.1": [
-    "Atisāradiṭṭhiyā → atīsaraṃditthiyā (pts1) | atisāradiṭṭhiyāva (c1, c2)"
-  ],
-  "snp4.12:16.2": [
-    "suddhimakevalī te → suddhimakevali te (bj) | suddhimakevalīno (si, pts1)"
-  ],
-  "snp4.12:16.4": [
-    "tebhirattā → tyābhirattā (s1-3, mr)"
-  ],
-  "snp4.12:18.3": [
-    "medhagamāvaheyya → medhagaṃ āvaheyya (bj, s1-3) | medhakaṃ āvaheyya (pts1)"
-  ],
-  "snp4.12:19.2": [
-    "Uddhaṃsa → uddhaṃ so (bj, s1-3, pts1)"
-  ]
+  "snp4.12:4.2": "akkusaloti → akusaloti (si, s1-3, pts1)",
+  "snp4.12:5.2": "Bālomako → bālo mago (bj, s1-3, pts1, mr)",
+  "snp4.12:6.3": "parihīnapañño → koci nihīnapañño (bj, s1-3) | kocipi nihīnapañño (mr)",
+  "snp4.12:7.1": "tathiyanti → tathivanti (s1-3, mr)",
+  "snp4.12:8.2": "aññe → aññepi (s1-3 ^mnd12#37 [Cūḷabyūhasuttaniddesa]) | aññe ca (?)",
+  "snp4.12:9.3": "te → nānāto (mr)",
+  "snp4.12:14.1": "Atisāradiṭṭhiyā → atīsaraṃditthiyā (pts1) | atisāradiṭṭhiyāva (c1, c2)",
+  "snp4.12:16.2": "suddhimakevalī te → suddhimakevali te (bj) | suddhimakevalīno (si, pts1)",
+  "snp4.12:16.4": "tebhirattā → tyābhirattā (s1-3, mr)",
+  "snp4.12:18.3": "medhagamāvaheyya → medhagaṃ āvaheyya (bj, s1-3) | medhakaṃ āvaheyya (pts1)",
+  "snp4.12:19.2": "Uddhaṃsa → uddhaṃ so (bj, s1-3, pts1)"
 }

@@ -1,42 +1,15 @@
 {
-  "ja444:5.2": [
-    "ācariṃ → acariṃ (bj, pts1) | ācari (s2, s3)"
-  ],
-  "ja444:5.3": [
-    "mamedaṃ → mamayidaṃ (s2, s3) | mamāyidaṃ (pts1)"
-  ],
-  "ja444:5.5": [
-    "Akāmakovāpi → vāhi (pts1, mr)"
-  ],
-  "ja444:7.2": [
-    "adaṃsī → adaṃsi (bj) | aḍaṃsī (s2, s3) | aḍatthi (pts1)",
-    "sacarā → bilarā (bj) | biḷārā (s2, s3) | patarā (pts1)"
-  ],
-  "ja444:8.1": [
-    "dantāyeva → ye ca (s2, s3, mr)"
-  ],
-  "ja444:8.2": [
-    "natthākāmarūpā → anakāmarūpā (bj, s2, s3, pts1)"
-  ],
-  "ja444:9.2": [
-    "eḷamūgova bālo → eḷamūgo capalo (s2, s3, mr) | elamūgo va bālo (pts1)"
-  ],
-  "ja444:9.5": [
-    "Viññuppasatthañca satañca ṭhānaṃ → viññūpasatthañca satañca ṭhānaṃ (s2, s3, pts1) | viññūpasatthaṃ vasitaṃ ca ṭhānaṃ (mr)"
-  ],
-  "ja444:11.4": [
-    "antimagandhano → gandhino (bj, s2, s3, pts1, mr)"
-  ],
-  "ja444:12.4": [
-    "paricārayantā → paricārayantī (bj, pts1)"
-  ],
-  "ja444:13.6": [
-    "paddhacarāmhi → baddhacarāsmi (bj) | paṭṭhacarāmi (s2, s3) | baddhacarāmi (pts1) | paṭṭhacarāmhi (mr)"
-  ],
-  "ja444:14.1": [
-    "bhāsiṃ yamabhāsaneyyaṃ → bhāsissaṃ abhāsaneyyaṃ (bj, s2, s3, pts1) | bhāsissa'mabhāsaneyyaṃ (?)"
-  ],
-  "ja444:15.1": [
-    "Kaṇhadīpāyanajātakaṃ → maṇḍabyajātakaṃ (s2, s3, mr)"
-  ]
+  "ja444:5.2": "ācariṃ → acariṃ (bj, pts1) | ācari (s2, s3)",
+  "ja444:5.3": "mamedaṃ → mamayidaṃ (s2, s3) | mamāyidaṃ (pts1)",
+  "ja444:5.5": "Akāmakovāpi → vāhi (pts1, mr)",
+  "ja444:7.2": "adaṃsī → adaṃsi (bj) | aḍaṃsī (s2, s3) | aḍatthi (pts1), sacarā → bilarā (bj) | biḷārā (s2, s3) | patarā (pts1)",
+  "ja444:8.1": "dantāyeva → ye ca (s2, s3, mr)",
+  "ja444:8.2": "natthākāmarūpā → anakāmarūpā (bj, s2, s3, pts1)",
+  "ja444:9.2": "eḷamūgova bālo → eḷamūgo capalo (s2, s3, mr) | elamūgo va bālo (pts1)",
+  "ja444:9.5": "Viññuppasatthañca satañca ṭhānaṃ → viññūpasatthañca satañca ṭhānaṃ (s2, s3, pts1) | viññūpasatthaṃ vasitaṃ ca ṭhānaṃ (mr)",
+  "ja444:11.4": "antimagandhano → gandhino (bj, s2, s3, pts1, mr)",
+  "ja444:12.4": "paricārayantā → paricārayantī (bj, pts1)",
+  "ja444:13.6": "paddhacarāmhi → baddhacarāsmi (bj) | paṭṭhacarāmi (s2, s3) | baddhacarāmi (pts1) | paṭṭhacarāmhi (mr)",
+  "ja444:14.1": "bhāsiṃ yamabhāsaneyyaṃ → bhāsissaṃ abhāsaneyyaṃ (bj, s2, s3, pts1) | bhāsissa'mabhāsaneyyaṃ (?)",
+  "ja444:15.1": "Kaṇhadīpāyanajātakaṃ → maṇḍabyajātakaṃ (s2, s3, mr)"
 }

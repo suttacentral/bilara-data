@@ -1,17 +1,6 @@
 {
-  "an9.39:1.1": [
-    "samupabyūḷho → samupabbūḷho (bj, pts1)"
-  ],
-  "an9.39:1.2": [
-    "parājayiṃsu → parājiyiṃsu (bj, s1-3, pts1, mr)"
-  ],
-  "an9.39:1.3": [
-    "devā → devā bhītā (pts1)",
-    "apayiṃsuyeva → apayaṃsveva (bj) | apassiṃsveva (s1-3) | apayiṃsveva (pts1)",
-    "uttarenābhimukhā → uttarena mukhā (bj) | uttarābhimukhā (s1-3)",
-    "abhiyiṃsu → abhiyaṃsu (bj) | abhibhayiṃsu (s1-3)"
-  ],
-  "an9.39:2.7": [
-    "pana → puna (mr)"
-  ]
+  "an9.39:1.1": "samupabyūḷho → samupabbūḷho (bj, pts1)",
+  "an9.39:1.2": "parājayiṃsu → parājiyiṃsu (bj, s1-3, pts1, mr)",
+  "an9.39:1.3": "devā → devā bhītā (pts1), apayiṃsuyeva → apayaṃsveva (bj) | apassiṃsveva (s1-3) | apayiṃsveva (pts1), uttarenābhimukhā → uttarena mukhā (bj) | uttarābhimukhā (s1-3), abhiyiṃsu → abhiyaṃsu (bj) | abhibhayiṃsu (s1-3)",
+  "an9.39:2.7": "pana → puna (mr)"
 }

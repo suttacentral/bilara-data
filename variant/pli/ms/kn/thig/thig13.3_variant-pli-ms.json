@@ -1,14 +1,6 @@
 {
-  "thig13.3:7.4": [
-    "dhammajīvino → dhammajīvine (mr)"
-  ],
-  "thig13.3:12.1": [
-    "sakuṇiṃ → sakuṇaṃ (s2, s3)"
-  ],
-  "thig13.3:15.3": [
-    "nisumbhissaṃ → nisumbheyyaṃ (bj, s2, s3, pts1-2)"
-  ],
-  "thig13.3:24.2": [
-    "naṃ → taṃ (bj)"
-  ]
+  "thig13.3:7.4": "dhammajīvino → dhammajīvine (mr)",
+  "thig13.3:12.1": "sakuṇiṃ → sakuṇaṃ (s2, s3)",
+  "thig13.3:15.3": "nisumbhissaṃ → nisumbheyyaṃ (bj, s2, s3, pts1-2)",
+  "thig13.3:24.2": "naṃ → taṃ (bj)"
 }

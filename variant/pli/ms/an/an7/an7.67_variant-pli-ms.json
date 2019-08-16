@@ -1,12 +1,5 @@
 {
-  "an7.67:1.1": [
-    "suparikkhataṃ → suparikhataṃ (si) | suparikkhittaṃ (pts1, mr)"
-  ],
-  "an7.67:2.2": [
-    "gambhīranemā → gambhīranemi (mr)",
-    "asampavedhī → asampavedhi (s1, s2, pts1)"
-  ],
-  "an7.67:5.1": [
-    "jevanikañca → jevaniyañca (bj, pts1)"
-  ]
+  "an7.67:1.1": "suparikkhataṃ → suparikhataṃ (si) | suparikkhittaṃ (pts1, mr)",
+  "an7.67:2.2": "gambhīranemā → gambhīranemi (mr), asampavedhī → asampavedhi (s1, s2, pts1)",
+  "an7.67:5.1": "jevanikañca → jevaniyañca (bj, pts1)"
 }

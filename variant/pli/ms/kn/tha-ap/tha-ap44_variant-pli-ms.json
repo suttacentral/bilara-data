@@ -1,35 +1,13 @@
 {
-  "tha-ap44:3.1": [
-    "2 Soṇakoḷivisattheraapadāna → soṇakoṭikaṇṇattherāpadānaṃ (bj) | soṇakoṭiyavessattherāpadānaṃ (s2, s3) | koliyavessattherāpadānaṃ (pts1)"
-  ],
-  "tha-ap44:6.2": [
-    "subbataṃ → pupphakaṃ (mr)"
-  ],
-  "tha-ap44:9.2": [
-    "adāsi → akāsi (bj)"
-  ],
-  "tha-ap44:11.4": [
-    "kusalabbhave → kusale bhave (bj, s2, s3, pts1)"
-  ],
-  "tha-ap44:14.3": [
-    "Yasodharasanāmā → yasodhara samānā (si) | yasodharā samānā (pts1)"
-  ],
-  "tha-ap44:15.2": [
-    "Vaḍḍhetvā → cinitvā (bj, s2, s3) | vinditvā (pts1)"
-  ],
-  "tha-ap44:18.2": [
-    "pavarā ca sā → pavarāvayā (s2, s3) | pavarā mayā (pts1) | pavarā piyā (?)"
-  ],
-  "tha-ap44:21.4": [
-    "vasissare → saṃvasissare (bj, pts1)"
-  ],
-  "tha-ap44:22.2": [
-    "parikkhatā → purakkhatā (si, s2, s3, pts1, mr)"
-  ],
-  "tha-ap44:30.4": [
-    "anāsavo → ayaṃ gāthā bj potthake"
-  ],
-  "tha-ap44:33.1": [
-    "āyasmā soṇo koḷiviso → soṇo koṭikaṇṇo (bj, mr) | soṇo koṭiyavesso (s2, s3) | soṇo koḷiyavesso (pts1)"
-  ]
+  "tha-ap44:3.1": "2 Soṇakoḷivisattheraapadāna → soṇakoṭikaṇṇattherāpadānaṃ (bj) | soṇakoṭiyavessattherāpadānaṃ (s2, s3) | koliyavessattherāpadānaṃ (pts1)",
+  "tha-ap44:6.2": "subbataṃ → pupphakaṃ (mr)",
+  "tha-ap44:9.2": "adāsi → akāsi (bj)",
+  "tha-ap44:11.4": "kusalabbhave → kusale bhave (bj, s2, s3, pts1)",
+  "tha-ap44:14.3": "Yasodharasanāmā → yasodhara samānā (si) | yasodharā samānā (pts1)",
+  "tha-ap44:15.2": "Vaḍḍhetvā → cinitvā (bj, s2, s3) | vinditvā (pts1)",
+  "tha-ap44:18.2": "pavarā ca sā → pavarāvayā (s2, s3) | pavarā mayā (pts1) | pavarā piyā (?)",
+  "tha-ap44:21.4": "vasissare → saṃvasissare (bj, pts1)",
+  "tha-ap44:22.2": "parikkhatā → purakkhatā (si, s2, s3, pts1, mr)",
+  "tha-ap44:30.4": "anāsavo → ayaṃ gāthā bj potthake",
+  "tha-ap44:33.1": "āyasmā soṇo koḷiviso → soṇo koṭikaṇṇo (bj, mr) | soṇo koṭiyavesso (s2, s3) | soṇo koḷiyavesso (pts1)"
 }

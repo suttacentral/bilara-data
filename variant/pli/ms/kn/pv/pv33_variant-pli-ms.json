@@ -1,11 +1,5 @@
 {
-  "pv33:5.1": [
-    "vivasāne → vyavasāne (bj, pts2) | vivāsanena (pts1)"
-  ],
-  "pv33:14.2": [
-    "Dhuvaṃ payuttā → dhuvayuttā (bj)"
-  ],
-  "pv33:15.1": [
-    "Dutiyamigaluddakapetavatthu → dutiyamigaluddapetavatthu (s2, s3)"
-  ]
+  "pv33:5.1": "vivasāne → vyavasāne (bj, pts2) | vivāsanena (pts1)",
+  "pv33:14.2": "Dhuvaṃ payuttā → dhuvayuttā (bj)",
+  "pv33:15.1": "Dutiyamigaluddakapetavatthu → dutiyamigaluddapetavatthu (s2, s3)"
 }

@@ -1,15 +1,6 @@
 {
-  "pli-tv-bu-vb-pc51:1.5": [
-    "āsiviso → āsīviso (s1-3)"
-  ],
-  "pli-tv-bu-vb-pc51:1.16": [
-    "ambatitthassa → amba­tittha­kassa (bj, pts1) | ambatitthaṃ (s1-3)"
-  ],
-  "pli-tv-bu-vb-pc51:1.19": [
-    "padhūpāyi → padhūpāsi (s1-3, pts1, mr) ",
-    "Disvāna dummano → dukkhī dummano (bj, s1-3)"
-  ],
-  "pli-tv-bu-vb-pc51:1.49": [
-    "pahoti nāgena → deḍḍhubhenāpi (bj) | deḍḍubhenapi (s1-3)"
-  ]
+  "pli-tv-bu-vb-pc51:1.5": "āsiviso → āsīviso (s1-3)",
+  "pli-tv-bu-vb-pc51:1.16": "ambatitthassa → amba­tittha­kassa (bj, pts1) | ambatitthaṃ (s1-3)",
+  "pli-tv-bu-vb-pc51:1.19": "padhūpāyi → padhūpāsi (s1-3, pts1, mr) , Disvāna dummano → dukkhī dummano (bj, s1-3)",
+  "pli-tv-bu-vb-pc51:1.49": "pahoti nāgena → deḍḍhubhenāpi (bj) | deḍḍubhenapi (s1-3)"
 }

@@ -1,17 +1,7 @@
 {
-  "snp3.8:5.2": [
-    "pāto patanato → papatanā (bj, pts1)"
-  ],
-  "snp3.8:6.3": [
-    "bhedanapariyantā → bhedapariyantā (s1-3)"
-  ],
-  "snp3.8:9.4": [
-    "nīyati → niyyati (s1-3, pts1)"
-  ],
-  "snp3.8:15.3": [
-    "kālaṅkataṃ → kālakataṃ (bj, s1-3, pts1)"
-  ],
-  "snp3.8:20.2": [
-    "parinibbaye → parinibbuto (bj, mr)"
-  ]
+  "snp3.8:5.2": "pāto patanato → papatanā (bj, pts1)",
+  "snp3.8:6.3": "bhedanapariyantā → bhedapariyantā (s1-3)",
+  "snp3.8:9.4": "nīyati → niyyati (s1-3, pts1)",
+  "snp3.8:15.3": "kālaṅkataṃ → kālakataṃ (bj, s1-3, pts1)",
+  "snp3.8:20.2": "parinibbaye → parinibbuto (bj, mr)"
 }

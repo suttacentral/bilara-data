@@ -1,14 +1,6 @@
 {
-  "ja267:5.4": [
-    "jaheyya → jaheyyāti (pts1) | jahā'yye (?)"
-  ],
-  "ja267:6.2": [
-    "kuñjaraṃ saṭṭhihāyanaṃ → kuñjara saṭṭhihāyana (bj, pts1)"
-  ],
-  "ja267:7.2": [
-    "yamunāya → nammadāya (bj, pts1)"
-  ],
-  "ja267:8.1": [
-    "Kakkaṭakajātakaṃ → suvaṇṇakakkaṭakajātakaṃ (s2, s3) | kakkaṭajātakaṃ (pts1) | kuḷīrajātakaṃ (mr)"
-  ]
+  "ja267:5.4": "jaheyya → jaheyyāti (pts1) | jahā'yye (?)",
+  "ja267:6.2": "kuñjaraṃ saṭṭhihāyanaṃ → kuñjara saṭṭhihāyana (bj, pts1)",
+  "ja267:7.2": "yamunāya → nammadāya (bj, pts1)",
+  "ja267:8.1": "Kakkaṭakajātakaṃ → suvaṇṇakakkaṭakajātakaṃ (s2, s3) | kakkaṭajātakaṃ (pts1) | kuḷīrajātakaṃ (mr)"
 }

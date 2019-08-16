@@ -1,26 +1,10 @@
 {
-  "pli-tv-bu-vb-ss13:1.1.2": [
-    "nāma → nāma bhikkhū (si, mr) "
-  ],
-  "pli-tv-bu-vb-ss13:1.2.3": [
-    "purato → purato dhāvanti (bj, s1-3, pts1) "
-  ],
-  "pli-tv-bu-vb-ss13:1.2.5": [
-    "naccakiṃ → naccantiṃ (bj, s1-3) "
-  ],
-  "pli-tv-bu-vb-ss13:1.6.20": [
-    "rathassapi purato dhāvissantipi → purato dhāvissanti dhāvissantipi (bj, s1-3) hatthissapi purato dhāvissanti, assassapi purato dhāvissanti, rathassapi purato dhāvissantipi ādhāvissantipi "
-  ],
-  "pli-tv-bu-vb-ss13:1.7.3": [
-    "āpattiṃ → āpatti (bj, s1-3) "
-  ],
-  "pli-tv-bu-vb-ss13:1.8.1": [
-    "kīṭāgirismā → kīṭāgirismiṃ (bj) | kīṭāgirismi (si) | kiṭāgirismā (s1-3, pts1) "
-  ],
-  "pli-tv-bu-vb-ss13:1.8.12": [
-    "Alaṃ te → alante (bj, s1-3, pts1) "
-  ],
-  "pli-tv-bu-vb-ss13:2.1.8": [
-    "vā → veḷunā vā (bj, s1-3) "
-  ]
+  "pli-tv-bu-vb-ss13:1.1.2": "nāma → nāma bhikkhū (si, mr) ",
+  "pli-tv-bu-vb-ss13:1.2.3": "purato → purato dhāvanti (bj, s1-3, pts1) ",
+  "pli-tv-bu-vb-ss13:1.2.5": "naccakiṃ → naccantiṃ (bj, s1-3) ",
+  "pli-tv-bu-vb-ss13:1.6.20": "rathassapi purato dhāvissantipi → purato dhāvissanti dhāvissantipi (bj, s1-3) hatthissapi purato dhāvissanti, assassapi purato dhāvissanti, rathassapi purato dhāvissantipi ādhāvissantipi ",
+  "pli-tv-bu-vb-ss13:1.7.3": "āpattiṃ → āpatti (bj, s1-3) ",
+  "pli-tv-bu-vb-ss13:1.8.1": "kīṭāgirismā → kīṭāgirismiṃ (bj) | kīṭāgirismi (si) | kiṭāgirismā (s1-3, pts1) ",
+  "pli-tv-bu-vb-ss13:1.8.12": "Alaṃ te → alante (bj, s1-3, pts1) ",
+  "pli-tv-bu-vb-ss13:2.1.8": "vā → veḷunā vā (bj, s1-3) "
 }

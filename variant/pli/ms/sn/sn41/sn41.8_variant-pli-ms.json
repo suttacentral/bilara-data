@@ -1,14 +1,6 @@
 {
-  "sn41.8:0.3": [
-    "8. Nigaṇṭhanāṭaputtasutta → nigaṇṭhasuttaṃ (bj) | nigaṇṭho (pts1)"
-  ],
-  "sn41.8:1.1": [
-    "nāṭaputto → nātaputto (bj)"
-  ],
-  "sn41.8:2.3": [
-    "ulloketvā → sakaṃ parisaṃ ulloketvā (bj, pts1) | sakaṃ parisaṃ apaloketvā (si, s1-3, km) | oloketvā (bj-a, s-a)"
-  ],
-  "sn41.8:5.1": [
-    "Idāneva kho te → idāneva ca pana (s1-3, km, mr) | idāneva kho te pana (pts1)"
-  ]
+  "sn41.8:0.3": "8. Nigaṇṭhanāṭaputtasutta → nigaṇṭhasuttaṃ (bj) | nigaṇṭho (pts1)",
+  "sn41.8:1.1": "nāṭaputto → nātaputto (bj)",
+  "sn41.8:2.3": "ulloketvā → sakaṃ parisaṃ ulloketvā (bj, pts1) | sakaṃ parisaṃ apaloketvā (si, s1-3, km) | oloketvā (bj-a, s-a)",
+  "sn41.8:5.1": "Idāneva kho te → idāneva ca pana (s1-3, km, mr) | idāneva kho te pana (pts1)"
 }

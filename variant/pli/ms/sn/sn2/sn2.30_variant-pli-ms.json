@@ -1,20 +1,7 @@
 {
-  "sn2.30:1.3": [
-    "sahali → sahalī (bj, s1-3, km, pts1-2)",
-    "nīko → niṅko (bj, pts1) | niko (s1-3, km, pts2)",
-    "vegabbhari ca → veṭambarī ca (bj, s1-3, km, pts1-2)"
-  ],
-  "sn2.30:4.4": [
-    "Na hi nūna tādisaṃ karoti → naha nūna tādī pakaroti (bj, s1, s2, km, pts2) | nahi nūna tādī pakaroti (s3)"
-  ],
-  "sn2.30:5.1": [
-    "nāṭaputtaṃ → nātaputtaṃ (bj)"
-  ],
-  "sn2.30:10.1": [
-    "Sahācaritena → sahāravenāpi (si, pts2) | saha racitena (s1-3) | sagāravenāpi (pts1)",
-    "sigālo → siṅgālo (mr)"
-  ],
-  "sn2.30:17.2": [
-    "nakkhattānaṃva candimā → nakkhattānañca candimā (bj, s1-3, km, pts1-2)"
-  ]
+  "sn2.30:1.3": "sahali → sahalī (bj, s1-3, km, pts1-2), nīko → niṅko (bj, pts1) | niko (s1-3, km, pts2), vegabbhari ca → veṭambarī ca (bj, s1-3, km, pts1-2)",
+  "sn2.30:4.4": "Na hi nūna tādisaṃ karoti → naha nūna tādī pakaroti (bj, s1, s2, km, pts2) | nahi nūna tādī pakaroti (s3)",
+  "sn2.30:5.1": "nāṭaputtaṃ → nātaputtaṃ (bj)",
+  "sn2.30:10.1": "Sahācaritena → sahāravenāpi (si, pts2) | saha racitena (s1-3) | sagāravenāpi (pts1), sigālo → siṅgālo (mr)",
+  "sn2.30:17.2": "nakkhattānaṃva candimā → nakkhattānañca candimā (bj, s1-3, km, pts1-2)"
 }

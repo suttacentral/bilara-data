@@ -1,8 +1,4 @@
 {
-  "tha-ap519:4.2": [
-    "vasalo → cāvalo (bj, pts1) | accalo (s2, s3)"
-  ],
-  "tha-ap519:6.2": [
-    "katvāna añjaliṃ → katvānahantadā (s2, s3, pts1) | katvānahaṃ tadā (mr)"
-  ]
+  "tha-ap519:4.2": "vasalo → cāvalo (bj, pts1) | accalo (s2, s3)",
+  "tha-ap519:6.2": "katvāna añjaliṃ → katvānahantadā (s2, s3, pts1) | katvānahaṃ tadā (mr)"
 }

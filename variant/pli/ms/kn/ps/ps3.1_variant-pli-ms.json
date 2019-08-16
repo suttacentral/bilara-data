@@ -1,66 +1,23 @@
 {
-  "ps3.1:5.7": [
-    "asāmantapaññaṃ → assāmantapaññaṃ (s1-3, pts1)"
-  ],
-  "ps3.1:17.3": [
-    "asāmantapaññatāya → assāmantapaññatāya (s1-3, pts1)"
-  ],
-  "ps3.1:19.2": [
-    "phassanā → phusanā (mr)"
-  ],
-  "ps3.1:22.38": [
-    "Mahantaṃ ariyamaggaṃ → mahante ariyamagge (mr)"
-  ],
-  "ps3.1:22.42": [
-    "Mahantā abhiññāyo → mahantī abhiññāyo (bj) | mahābhiññāyo (mr)"
-  ],
-  "ps3.1:23.48": [
-    "Puthunānāariyamagge → ... maggesu (bj, s1-3, pts1, c1)"
-  ],
-  "ps3.1:23.54": [
-    "dhamme atikkamma → samatikkamma (s1-3, pts1)"
-  ],
-  "ps3.1:24.38": [
-    "Vipulaṃ ariyamaggaṃ → vipule ariyamagge (s1-3, c1)"
-  ],
-  "ps3.1:27.11": [
-    "paccekasambuddhassa → paccekabuddhassa (bj, s1-3, pts1, mr)"
-  ],
-  "ps3.1:28.2": [
-    "sañjanetā → sañjānetā (s1-3, pts1)",
-    "maggānugāmī → maggānugā (bj, s1-3)"
-  ],
-  "ps3.1:29.2": [
-    "taṃ → idaṃ padaṃ bj, s1-3, pts1 potthakesu"
-  ],
-  "ps3.1:29.3": [
-    "Atītaṃ anāgataṃ paccuppannaṃ → atītānāgatapaccuppannaṃ (s1-3)"
-  ],
-  "ps3.1:29.4": [
-    "sabbaṃ jānitabbaṃ → atthadhammaṃ jānitabbaṃ (s1-3, pts1) | sabbaṃ dhammaṃ jānitabbaṃ (mr)"
-  ],
-  "ps3.1:30.12": [
-    "sammā phusitānaṃ → sammā phussitānaṃ (bj) | suphussitānaṃ (s1-3, pts1, mr)"
-  ],
-  "ps3.1:31.3": [
-    "caritaṃ → cariyaṃ (s1-3)"
-  ],
-  "ps3.1:33.1": [
-    "vobhindantā → te bhindantā (s1-3, pts1, mr)"
-  ],
-  "ps3.1:33.2": [
-    "niddiṭṭhakāraṇā → niddiṭṭhikāraṇā (s1-3)"
-  ],
-  "ps3.1:34.64": [
-    "pathavī → paṭhavī (bj, s1-3, pts1)"
-  ],
-  "ps3.1:35.2": [
-    "samokkhāyanabahulo → sampekkhāyanabahulo (s1-3, pts1, mr)"
-  ],
-  "ps3.1:40.10": [
-    "jarāmaraṇanirodhe → jarāmaraṇaṃ rūpanirodhe (s1-3) | rūpanirodhe (pts1)"
-  ],
-  "ps3.1:42.4": [
-    "byantīkaroti → byantikaroti (pts1) | byantiṃ karoti (mr)"
-  ]
+  "ps3.1:5.7": "asāmantapaññaṃ → assāmantapaññaṃ (s1-3, pts1)",
+  "ps3.1:17.3": "asāmantapaññatāya → assāmantapaññatāya (s1-3, pts1)",
+  "ps3.1:19.2": "phassanā → phusanā (mr)",
+  "ps3.1:22.38": "Mahantaṃ ariyamaggaṃ → mahante ariyamagge (mr)",
+  "ps3.1:22.42": "Mahantā abhiññāyo → mahantī abhiññāyo (bj) | mahābhiññāyo (mr)",
+  "ps3.1:23.48": "Puthunānāariyamagge → ... maggesu (bj, s1-3, pts1, c1)",
+  "ps3.1:23.54": "dhamme atikkamma → samatikkamma (s1-3, pts1)",
+  "ps3.1:24.38": "Vipulaṃ ariyamaggaṃ → vipule ariyamagge (s1-3, c1)",
+  "ps3.1:27.11": "paccekasambuddhassa → paccekabuddhassa (bj, s1-3, pts1, mr)",
+  "ps3.1:28.2": "sañjanetā → sañjānetā (s1-3, pts1), maggānugāmī → maggānugā (bj, s1-3)",
+  "ps3.1:29.2": "taṃ → idaṃ padaṃ bj, s1-3, pts1 potthakesu",
+  "ps3.1:29.3": "Atītaṃ anāgataṃ paccuppannaṃ → atītānāgatapaccuppannaṃ (s1-3)",
+  "ps3.1:29.4": "sabbaṃ jānitabbaṃ → atthadhammaṃ jānitabbaṃ (s1-3, pts1) | sabbaṃ dhammaṃ jānitabbaṃ (mr)",
+  "ps3.1:30.12": "sammā phusitānaṃ → sammā phussitānaṃ (bj) | suphussitānaṃ (s1-3, pts1, mr)",
+  "ps3.1:31.3": "caritaṃ → cariyaṃ (s1-3)",
+  "ps3.1:33.1": "vobhindantā → te bhindantā (s1-3, pts1, mr)",
+  "ps3.1:33.2": "niddiṭṭhakāraṇā → niddiṭṭhikāraṇā (s1-3)",
+  "ps3.1:34.64": "pathavī → paṭhavī (bj, s1-3, pts1)",
+  "ps3.1:35.2": "samokkhāyanabahulo → sampekkhāyanabahulo (s1-3, pts1, mr)",
+  "ps3.1:40.10": "jarāmaraṇanirodhe → jarāmaraṇaṃ rūpanirodhe (s1-3) | rūpanirodhe (pts1)",
+  "ps3.1:42.4": "byantīkaroti → byantikaroti (pts1) | byantiṃ karoti (mr)"
 }

@@ -1,8 +1,4 @@
 {
-  "iti104:4.5": [
-    "anussaraṇampahaṃ → anussatimpahaṃ (s1-3)"
-  ],
-  "iti104:5.1": [
-    "Pāmojjakaraṇaṃ ṭhānaṃ → pāmojjakaraṇaṭṭhānaṃ (bj, s1-3) | pāmujjakaraṇaṃ ṭhānaṃ (pts1)"
-  ]
+  "iti104:4.5": "anussaraṇampahaṃ → anussatimpahaṃ (s1-3)",
+  "iti104:5.1": "Pāmojjakaraṇaṃ ṭhānaṃ → pāmojjakaraṇaṭṭhānaṃ (bj, s1-3) | pāmujjakaraṇaṃ ṭhānaṃ (pts1)"
 }

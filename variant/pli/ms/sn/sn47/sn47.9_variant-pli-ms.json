@@ -1,26 +1,9 @@
 {
-  "sn47.9:1.2": [
-    "veḷuvagāmake → beluvagāmake (bj, pts1) | veluvagāmake (s1-3, km)"
-  ],
-  "sn47.9:1.7": [
-    "upagacchi → upagañchi (bj, pts1)"
-  ],
-  "sn47.9:2.6": [
-    "paṭipaṇāmetvā → paṭippaṇāmetvā (bj, s1-3)"
-  ],
-  "sn47.9:3.1": [
-    "gilānā vuṭṭhito → gilānavuṭṭhito (saddanīti)",
-    "vihārapacchāyāyaṃ → vihārapacchāchāyāyaṃ (pts1)"
-  ],
-  "sn47.9:4.1": [
-    "paccāsīsati → paccāsiṃsati (bj, s1-3, km, pts1)"
-  ],
-  "sn47.9:4.11": [
-    "jajjarasakaṭaṃ → jarasakaṭaṃ (s1-3, pts1)",
-    "veḷamissakena → veḷumissakena (bj, s1-3, km) | vegamissakena (si) | vedhamissakena (pts1, mr) | vekhamissakena (mr)"
-  ],
-  "sn47.9:5.1": [
-    "phāsutaro → phāsutaraṃ (bahūsu)",
-    "tathāgatassa kāyo hoti → tathāgatassa hoti (bahūsu)"
-  ]
+  "sn47.9:1.2": "veḷuvagāmake → beluvagāmake (bj, pts1) | veluvagāmake (s1-3, km)",
+  "sn47.9:1.7": "upagacchi → upagañchi (bj, pts1)",
+  "sn47.9:2.6": "paṭipaṇāmetvā → paṭippaṇāmetvā (bj, s1-3)",
+  "sn47.9:3.1": "gilānā vuṭṭhito → gilānavuṭṭhito (saddanīti), vihārapacchāyāyaṃ → vihārapacchāchāyāyaṃ (pts1)",
+  "sn47.9:4.1": "paccāsīsati → paccāsiṃsati (bj, s1-3, km, pts1)",
+  "sn47.9:4.11": "jajjarasakaṭaṃ → jarasakaṭaṃ (s1-3, pts1), veḷamissakena → veḷumissakena (bj, s1-3, km) | vegamissakena (si) | vedhamissakena (pts1, mr) | vekhamissakena (mr)",
+  "sn47.9:5.1": "phāsutaro → phāsutaraṃ (bahūsu), tathāgatassa kāyo hoti → tathāgatassa hoti (bahūsu)"
 }

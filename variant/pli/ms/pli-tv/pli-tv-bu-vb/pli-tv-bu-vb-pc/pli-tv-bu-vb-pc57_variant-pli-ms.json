@@ -1,15 +1,6 @@
 {
-  "pli-tv-bu-vb-pc57:1.1": [
-    "samayena → atha kho (bj, s1-3)"
-  ],
-  "pli-tv-bu-vb-pc57:2.1.8": [
-    "gimhānanti → gimhānaṃ (itipi)"
-  ],
-  "pli-tv-bu-vb-pc57:3.1.11": [
-    "gimhānanti → gimhānaṃ (itipi)"
-  ],
-  "pli-tv-bu-vb-pc57:6.1.8": [
-    "nahāyeyya → nhāyeyya (s1-3, pts1)",
-    "orenaddhamāsaṃ → orenaḍḍhamāsaṃ (s1-3)"
-  ]
+  "pli-tv-bu-vb-pc57:1.1": "samayena → atha kho (bj, s1-3)",
+  "pli-tv-bu-vb-pc57:2.1.8": "gimhānanti → gimhānaṃ (itipi)",
+  "pli-tv-bu-vb-pc57:3.1.11": "gimhānanti → gimhānaṃ (itipi)",
+  "pli-tv-bu-vb-pc57:6.1.8": "nahāyeyya → nhāyeyya (s1-3, pts1), orenaddhamāsaṃ → orenaḍḍhamāsaṃ (s1-3)"
 }

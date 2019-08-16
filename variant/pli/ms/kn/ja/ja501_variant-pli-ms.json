@@ -1,47 +1,17 @@
 {
-  "ja501:5.2": [
-    "maraṇassa → maraṇā (s2, s3, pts1) | maraṇa (mr)"
-  ],
-  "ja501:6.1": [
-    "rohaṇa → rohanta (bj, pts1) | rohana (s2, s3)"
-  ],
-  "ja501:8.3": [
-    "baddhaṃ → bandhaṃ (s2, s3, mr)"
-  ],
-  "ja501:13.2": [
-    "luddarūpo → ruddarūpo (bj, pts1)"
-  ],
-  "ja501:13.4": [
-    "api → mapi (bj, s2, s3, pts1)"
-  ],
-  "ja501:14.2": [
-    "bhayaṭṭā → bhayaṭṭhā (pts1)"
-  ],
-  "ja501:20.1": [
-    "Kathaṃ tvaṃ pamokkho → kathaṃ pamokkho (bj, pts1) | kathaṃ te pamokkho (?)"
-  ],
-  "ja501:25.1": [
-    "avaca → avacā (bj, pts1)"
-  ],
-  "ja501:26.3": [
-    "Abajjhi taṃ → abajjhi tañca (bj, pts1) | abajjhi ta (s3)"
-  ],
-  "ja501:30.4": [
-    "abhihārituṃ → abhihārayuṃ (si) | abhihārayiṃ (s2, s3) | abhihārayaṃ (pts1)"
-  ],
-  "ja501:31.3": [
-    "Catussadañca → catuddasañca (bj) | caturassañca (s2, s3, mr)"
-  ],
-  "ja501:31.4": [
-    "umāpupphasarinnibhaṃ → ummāpupphasirinibhaṃ (bj) | ummāpupphasirinnibhaṃ (s2, s3, pts1, mr)"
-  ],
-  "ja501:33.1": [
-    "Kasivāṇijjā → kasī vaṇijjā (bj, pts1) | kasivaṇijjā (s2, s3)"
-  ],
-  "ja501:33.4": [
-    "akarī punāti → akarā punanti (bj, pts1)"
-  ],
-  "ja501:34.1": [
-    "Rohaṇamigajātakaṃ → rohantamigajātakaṃ (bj, pts1) | rohanamigajātakaṃ (s2, s3)"
-  ]
+  "ja501:5.2": "maraṇassa → maraṇā (s2, s3, pts1) | maraṇa (mr)",
+  "ja501:6.1": "rohaṇa → rohanta (bj, pts1) | rohana (s2, s3)",
+  "ja501:8.3": "baddhaṃ → bandhaṃ (s2, s3, mr)",
+  "ja501:13.2": "luddarūpo → ruddarūpo (bj, pts1)",
+  "ja501:13.4": "api → mapi (bj, s2, s3, pts1)",
+  "ja501:14.2": "bhayaṭṭā → bhayaṭṭhā (pts1)",
+  "ja501:20.1": "Kathaṃ tvaṃ pamokkho → kathaṃ pamokkho (bj, pts1) | kathaṃ te pamokkho (?)",
+  "ja501:25.1": "avaca → avacā (bj, pts1)",
+  "ja501:26.3": "Abajjhi taṃ → abajjhi tañca (bj, pts1) | abajjhi ta (s3)",
+  "ja501:30.4": "abhihārituṃ → abhihārayuṃ (si) | abhihārayiṃ (s2, s3) | abhihārayaṃ (pts1)",
+  "ja501:31.3": "Catussadañca → catuddasañca (bj) | caturassañca (s2, s3, mr)",
+  "ja501:31.4": "umāpupphasarinnibhaṃ → ummāpupphasirinibhaṃ (bj) | ummāpupphasirinnibhaṃ (s2, s3, pts1, mr)",
+  "ja501:33.1": "Kasivāṇijjā → kasī vaṇijjā (bj, pts1) | kasivaṇijjā (s2, s3)",
+  "ja501:33.4": "akarī punāti → akarā punanti (bj, pts1)",
+  "ja501:34.1": "Rohaṇamigajātakaṃ → rohantamigajātakaṃ (bj, pts1) | rohanamigajātakaṃ (s2, s3)"
 }

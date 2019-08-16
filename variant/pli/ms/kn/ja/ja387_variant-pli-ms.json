@@ -1,18 +1,7 @@
 {
-  "ja387:6.2": [
-    "anupubbaṃ → anupubba (s2, s3)"
-  ],
-  "ja387:8.4": [
-    "Sūciṃ → sūcī (pts1)",
-    "vikketumicchati → ... marahati (bj, s2, s3)"
-  ],
-  "ja387:9.3": [
-    "Ācariyāva jānanti → ācariyā pajānanti (s2, s3) | ācariyāva sañjānanti (pts1) | ācariyā sañjānanti (mr)"
-  ],
-  "ja387:9.4": [
-    "sukatadukkaṭaṃ → ... dukkataṃ (bj, pts1)"
-  ],
-  "ja387:10.1": [
-    "Imañce → imañca (bj, s2, s3, pts1)"
-  ]
+  "ja387:6.2": "anupubbaṃ → anupubba (s2, s3)",
+  "ja387:8.4": "Sūciṃ → sūcī (pts1), vikketumicchati → ... marahati (bj, s2, s3)",
+  "ja387:9.3": "Ācariyāva jānanti → ācariyā pajānanti (s2, s3) | ācariyāva sañjānanti (pts1) | ācariyā sañjānanti (mr)",
+  "ja387:9.4": "sukatadukkaṭaṃ → ... dukkataṃ (bj, pts1)",
+  "ja387:10.1": "Imañce → imañca (bj, s2, s3, pts1)"
 }

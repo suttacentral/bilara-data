@@ -1,80 +1,28 @@
 {
-  "thi-ap19:5.1": [
-    "jātisaṃsāraṃ → jātisaṃsārā (pts1)"
-  ],
-  "thi-ap19:7.1": [
-    "saṃsarantiyā → saṃsarantāya (bj) | saṃsarantā me (s2, s3, pts1)"
-  ],
-  "thi-ap19:7.2": [
-    "taṃ → me (s2, s3)"
-  ],
-  "thi-ap19:12.2": [
-    "jātiyāpi ca ekato → jātīsu bahuso mama (bj) | jātiyā cāpi ekato (s2, s3, pts1)"
-  ],
-  "thi-ap19:14.4": [
-    "khiḍḍo → vejjo (bj, pts1)"
-  ],
-  "thi-ap19:19.3": [
-    "sāvetvā → pakāsetvā (s2, s3)"
-  ],
-  "thi-ap19:20.1": [
-    "Iddhīsu → iddhiyā (bj, pts1)"
-  ],
-  "thi-ap19:22.3": [
-    "vimalaṃ → vipulaṃ (s2, s3, pts1)"
-  ],
-  "thi-ap19:23.2": [
-    "saṅgamaṃ te nidassitaṃ → sammukhā ca parammukhā (bj) | saṅgāmantena dassitaṃ (s2, s3) | saṅkamante nidassitaṃ (pts1)"
-  ],
-  "thi-ap19:25.2": [
-    "vārayantī → parivajjenti (bj) | paripācento (s2, s3, pts1)"
-  ],
-  "thi-ap19:32.1": [
-    "Parisāhi ca catūhi → parisāhi catūhi so (bj) | parisāhi catassohi (pts1)"
-  ],
-  "thi-ap19:32.2": [
-    "parivuto → sahito (bj) | pharate (s2, s3) | pareto (pts1)"
-  ],
-  "thi-ap19:37.4": [
-    "idamabravi → etadabraviṃ (bj, s2, s3, pts1)"
-  ],
-  "thi-ap19:40.2": [
-    "evaṃ patthesahaṃ tadā → tuṭṭhā evaṃ avocahaṃ (s2, s3) | tuṭṭhā eva patthesahaṃ (pts1) | evamahosahaṃ tadā (mr)"
-  ],
-  "thi-ap19:41.2": [
-    "patthe uttamamānasā → pattauttamamānasā (bj, s2, s3) | pattamuttamamānasā (pts1)"
-  ],
-  "thi-ap19:48.3": [
-    "cetasāva → ca teheva (s2, s3, pts1)"
-  ],
-  "thi-ap19:54.2": [
-    "bhikkhudāyikā → bhikkhudāsikā (bj, s2, s3) | bhikkhadāyikā (pts1)"
-  ],
-  "thi-ap19:54.4": [
-    "saṃghadāyikā → saṅghadāsikā (bj, s2, s3)"
-  ],
-  "thi-ap19:64.2": [
-    "sutavīrehi sokinī → sutavarehi sokinī (bj, s2, s3)"
-  ],
-  "thi-ap19:65.2": [
-    "bhattunopi ca → attanopica (s2, s3) | sutānakasakaṃ tadā (pts1)"
-  ],
-  "thi-ap19:71.3": [
-    "Rūpasobhaggasampannā → rūpasiriṃ anuppattā (s2, s3, pts1, c1)"
-  ],
-  "thi-ap19:71.4": [
-    "atisakkatā → abhisammatā (bj) | abhisakkatā ()"
-  ],
-  "thi-ap19:75.1": [
-    "pādapaṃ → bhikkhunī (bj, pts1, mr)"
-  ],
-  "thi-ap19:75.3": [
-    "Na cāpi te dutiyo atthi koci → na catthi te dutiyā vaṇṇadhātu (bj, pts1, mr) | na cāpi tuyhaṃ dutiyatthi koci (s2, s3)"
-  ],
-  "thi-ap19:76.1": [
-    "Sataṃ sahassānipi → sataṃ sahassānampi (pts1)"
-  ],
-  "thi-ap19:76.4": [
-    "tuvaṃ māra karissaseko → na māra bhāyāmi tavekikāpi (bj, mr) | māraṃ na bhāyāmi taṃ ekikāsiṃ (pts1)"
-  ]
+  "thi-ap19:5.1": "jātisaṃsāraṃ → jātisaṃsārā (pts1)",
+  "thi-ap19:7.1": "saṃsarantiyā → saṃsarantāya (bj) | saṃsarantā me (s2, s3, pts1)",
+  "thi-ap19:7.2": "taṃ → me (s2, s3)",
+  "thi-ap19:12.2": "jātiyāpi ca ekato → jātīsu bahuso mama (bj) | jātiyā cāpi ekato (s2, s3, pts1)",
+  "thi-ap19:14.4": "khiḍḍo → vejjo (bj, pts1)",
+  "thi-ap19:19.3": "sāvetvā → pakāsetvā (s2, s3)",
+  "thi-ap19:20.1": "Iddhīsu → iddhiyā (bj, pts1)",
+  "thi-ap19:22.3": "vimalaṃ → vipulaṃ (s2, s3, pts1)",
+  "thi-ap19:23.2": "saṅgamaṃ te nidassitaṃ → sammukhā ca parammukhā (bj) | saṅgāmantena dassitaṃ (s2, s3) | saṅkamante nidassitaṃ (pts1)",
+  "thi-ap19:25.2": "vārayantī → parivajjenti (bj) | paripācento (s2, s3, pts1)",
+  "thi-ap19:32.1": "Parisāhi ca catūhi → parisāhi catūhi so (bj) | parisāhi catassohi (pts1)",
+  "thi-ap19:32.2": "parivuto → sahito (bj) | pharate (s2, s3) | pareto (pts1)",
+  "thi-ap19:37.4": "idamabravi → etadabraviṃ (bj, s2, s3, pts1)",
+  "thi-ap19:40.2": "evaṃ patthesahaṃ tadā → tuṭṭhā evaṃ avocahaṃ (s2, s3) | tuṭṭhā eva patthesahaṃ (pts1) | evamahosahaṃ tadā (mr)",
+  "thi-ap19:41.2": "patthe uttamamānasā → pattauttamamānasā (bj, s2, s3) | pattamuttamamānasā (pts1)",
+  "thi-ap19:48.3": "cetasāva → ca teheva (s2, s3, pts1)",
+  "thi-ap19:54.2": "bhikkhudāyikā → bhikkhudāsikā (bj, s2, s3) | bhikkhadāyikā (pts1)",
+  "thi-ap19:54.4": "saṃghadāyikā → saṅghadāsikā (bj, s2, s3)",
+  "thi-ap19:64.2": "sutavīrehi sokinī → sutavarehi sokinī (bj, s2, s3)",
+  "thi-ap19:65.2": "bhattunopi ca → attanopica (s2, s3) | sutānakasakaṃ tadā (pts1)",
+  "thi-ap19:71.3": "Rūpasobhaggasampannā → rūpasiriṃ anuppattā (s2, s3, pts1, c1)",
+  "thi-ap19:71.4": "atisakkatā → abhisammatā (bj) | abhisakkatā ()",
+  "thi-ap19:75.1": "pādapaṃ → bhikkhunī (bj, pts1, mr)",
+  "thi-ap19:75.3": "Na cāpi te dutiyo atthi koci → na catthi te dutiyā vaṇṇadhātu (bj, pts1, mr) | na cāpi tuyhaṃ dutiyatthi koci (s2, s3)",
+  "thi-ap19:76.1": "Sataṃ sahassānipi → sataṃ sahassānampi (pts1)",
+  "thi-ap19:76.4": "tuvaṃ māra karissaseko → na māra bhāyāmi tavekikāpi (bj, mr) | māraṃ na bhāyāmi taṃ ekikāsiṃ (pts1)"
 }

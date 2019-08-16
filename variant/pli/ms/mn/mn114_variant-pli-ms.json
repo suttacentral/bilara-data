@@ -1,12 +1,5 @@
 {
-  "mn114:6.9": [
-    "Sabhāgato → sabhaggato (bahūsu)",
-    "parisāgato → parisaggato (bahūsu)"
-  ],
-  "mn114:7.14": [
-    "abyābajjhā → abyāpajjhā (bj, s1-3, km, pts1, mr)"
-  ],
-  "mn114:11.11": [
-    "Sabyābajjhaṃ → sabyāpajjhaṃ (bj, s2, s3, km, mr) | byāpajjhaṃ (s1) | savyāpajjhaṃ (pts1)"
-  ]
+  "mn114:6.9": "Sabhāgato → sabhaggato (bahūsu), parisāgato → parisaggato (bahūsu)",
+  "mn114:7.14": "abyābajjhā → abyāpajjhā (bj, s1-3, km, pts1, mr)",
+  "mn114:11.11": "Sabyābajjhaṃ → sabyāpajjhaṃ (bj, s2, s3, km, mr) | byāpajjhaṃ (s1) | savyāpajjhaṃ (pts1)"
 }

@@ -1,15 +1,6 @@
 {
-  "dn12:4.1": [
-    "rosikaṃ → bhesikaṃ (bj, pts1)"
-  ],
-  "dn12:5.1": [
-    "Evaṃ, bho”ti → evaṃ bhanteti (bj, s1-3, pts1)"
-  ],
-  "dn12:6.1": [
-    "rosikā → bhesikā (bj, pts1)"
-  ],
-  "dn12:6.2": [
-    "mayaṃ bhoto → mayaṃ bhante tava (bj, pts1)",
-    "avocumhā kho → avocumha bho (pts1)"
-  ]
+  "dn12:4.1": "rosikaṃ → bhesikaṃ (bj, pts1)",
+  "dn12:5.1": "Evaṃ, bho”ti → evaṃ bhanteti (bj, s1-3, pts1)",
+  "dn12:6.1": "rosikā → bhesikā (bj, pts1)",
+  "dn12:6.2": "mayaṃ bhoto → mayaṃ bhante tava (bj, pts1), avocumhā kho → avocumha bho (pts1)"
 }

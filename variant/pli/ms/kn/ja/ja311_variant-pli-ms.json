@@ -1,14 +1,6 @@
 {
-  "ja311:5.2": [
-    "supanena → supinena (bj, pts1, mr)"
-  ],
-  "ja311:5.3": [
-    "gahesuṃ → gahesu (s2, s3) | gaṇheyyuṃ (mr)"
-  ],
-  "ja311:6.1": [
-    "Yannu → nanu (s2, s3)"
-  ],
-  "ja311:7.5": [
-    "Appenti → accenti (s2, s3)"
-  ]
+  "ja311:5.2": "supanena → supinena (bj, pts1, mr)",
+  "ja311:5.3": "gahesuṃ → gahesu (s2, s3) | gaṇheyyuṃ (mr)",
+  "ja311:6.1": "Yannu → nanu (s2, s3)",
+  "ja311:7.5": "Appenti → accenti (s2, s3)"
 }

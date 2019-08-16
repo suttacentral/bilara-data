@@ -1,12 +1,5 @@
 {
-  "ud1.5:2.1": [
-    "Brāhmaṇasutta → therasuttaṃ (bj)"
-  ],
-  "ud1.5:3.3": [
-    "mahākaccāno → mahākaccāyano (bj, pts1, mr)",
-    "nando → ānando (bj, pts1)"
-  ],
-  "ud1.5:6.4": [
-    "ve → teva (si)"
-  ]
+  "ud1.5:2.1": "Brāhmaṇasutta → therasuttaṃ (bj)",
+  "ud1.5:3.3": "mahākaccāno → mahākaccāyano (bj, pts1, mr), nando → ānando (bj, pts1)",
+  "ud1.5:6.4": "ve → teva (si)"
 }

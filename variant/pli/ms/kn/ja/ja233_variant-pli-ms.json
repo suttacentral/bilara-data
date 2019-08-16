@@ -1,14 +1,6 @@
 {
-  "ja233:5.2": [
-    "mammamhi → mamasmi (mr)"
-  ],
-  "ja233:5.3": [
-    "suvāditena → savāditena (bj, s2, s3, pts1)"
-  ],
-  "ja233:6.4": [
-    "soriva suṃsumāro”ti → susumāro (mr)"
-  ],
-  "ja233:7.1": [
-    "Vikaṇṇajātakaṃ → vikaṇṇakajātakaṃ (bj, s2, s3, pts1)"
-  ]
+  "ja233:5.2": "mammamhi → mamasmi (mr)",
+  "ja233:5.3": "suvāditena → savāditena (bj, s2, s3, pts1)",
+  "ja233:6.4": "soriva suṃsumāro”ti → susumāro (mr)",
+  "ja233:7.1": "Vikaṇṇajātakaṃ → vikaṇṇakajātakaṃ (bj, s2, s3, pts1)"
 }

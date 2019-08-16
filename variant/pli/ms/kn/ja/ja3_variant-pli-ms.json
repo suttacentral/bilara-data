@@ -1,14 +1,6 @@
 {
-  "ja3:5.1": [
-    "Idha ce naṃ → idha ce hi naṃ (bj, pts1)"
-  ],
-  "ja3:5.2": [
-    "niyāmataṃ → niyāmakaṃ (s2, s3, mr)"
-  ],
-  "ja3:5.3": [
-    "anutappesi → anutapessasi (bj, pts1) | anutappissasi (?)"
-  ],
-  "ja3:6.1": [
-    "Serivavāṇijajātakaṃ → serivāvāṇijajātakaṃ (bj) | serivāṇijajātakaṃ (pts1)"
-  ]
+  "ja3:5.1": "Idha ce naṃ → idha ce hi naṃ (bj, pts1)",
+  "ja3:5.2": "niyāmataṃ → niyāmakaṃ (s2, s3, mr)",
+  "ja3:5.3": "anutappesi → anutapessasi (bj, pts1) | anutappissasi (?)",
+  "ja3:6.1": "Serivavāṇijajātakaṃ → serivāvāṇijajātakaṃ (bj) | serivāṇijajātakaṃ (pts1)"
 }

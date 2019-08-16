@@ -1,35 +1,13 @@
 {
-  "ud8.5:7.3": [
-    "aññatra tathāgatassā”ti → aññatra tathāgatenāti (bj)"
-  ],
-  "ud8.5:8.2": [
-    "pabāḷhā → bāḷhā (bj, s1-3, pts1)"
-  ],
-  "ud8.5:11.3": [
-    "Viriccamāno → virecamāno (^dn16#173 [Mahāparinibbānasutta/23. Kammāraputtacundavatthu]); viriñcamāno (?)"
-  ],
-  "ud8.5:13.4": [
-    "kukudhā → kakutthā (bj) | kukuṭā (s1-3) | kukuṭṭhā (pts1) | kakuṭṭhā (c1) | kakudhā (^dn16#176 [Mahāparinibbānasutta/24. Pānīyāharaṇa])"
-  ],
-  "ud8.5:13.5": [
-    "sītīkarissatī”ti → sītiṃ karissatīti (bj) | sītaṃ karissatīti (s1-3, pts1, mr)"
-  ],
-  "ud8.5:16.1": [
-    "apāyi → apāsi (bj, s1-3, pts1)"
-  ],
-  "ud8.5:18.2": [
-    "sātudakaṃ → sātodakaṃ (sabbattha)"
-  ],
-  "ud8.5:19.1": [
-    "Nhatvā ca pivitvā cudatāri → nahātvā pivitvā ca uttāri (s1-3) | nahātvā ca pivitvā ca udatāri (pts1) | nhatvā ca uttari (mr)"
-  ],
-  "ud8.5:19.6": [
-    "santhara → patthara (bj, pts1)"
-  ],
-  "ud8.5:20.2": [
-    "santhari → patthari (bj, s1-3, pts1)"
-  ],
-  "ud8.5:25.4": [
-    "sanibbuto”ti → sa nibbutoti (bj) | parinibbutoti (s1-3, pts1)"
-  ]
+  "ud8.5:7.3": "aññatra tathāgatassā”ti → aññatra tathāgatenāti (bj)",
+  "ud8.5:8.2": "pabāḷhā → bāḷhā (bj, s1-3, pts1)",
+  "ud8.5:11.3": "Viriccamāno → virecamāno (^dn16#173 [Mahāparinibbānasutta/23. Kammāraputtacundavatthu]); viriñcamāno (?)",
+  "ud8.5:13.4": "kukudhā → kakutthā (bj) | kukuṭā (s1-3) | kukuṭṭhā (pts1) | kakuṭṭhā (c1) | kakudhā (^dn16#176 [Mahāparinibbānasutta/24. Pānīyāharaṇa])",
+  "ud8.5:13.5": "sītīkarissatī”ti → sītiṃ karissatīti (bj) | sītaṃ karissatīti (s1-3, pts1, mr)",
+  "ud8.5:16.1": "apāyi → apāsi (bj, s1-3, pts1)",
+  "ud8.5:18.2": "sātudakaṃ → sātodakaṃ (sabbattha)",
+  "ud8.5:19.1": "Nhatvā ca pivitvā cudatāri → nahātvā pivitvā ca uttāri (s1-3) | nahātvā ca pivitvā ca udatāri (pts1) | nhatvā ca uttari (mr)",
+  "ud8.5:19.6": "santhara → patthara (bj, pts1)",
+  "ud8.5:20.2": "santhari → patthari (bj, s1-3, pts1)",
+  "ud8.5:25.4": "sanibbuto”ti → sa nibbutoti (bj) | parinibbutoti (s1-3, pts1)"
 }

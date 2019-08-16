@@ -1,11 +1,5 @@
 {
-  "tha-ap12:5.4": [
-    "anapāyinī → anupāyinī (s2, s3, mr)"
-  ],
-  "tha-ap12:18.4": [
-    "na hontupaṇidhimhi te → na honti parivimbhitā (s2, s3, pts1) | na honti paṇidhimhi te (mr)"
-  ],
-  "tha-ap12:21.4": [
-    "ṭhitā saddhammamācalā → ṭhito saddhammamācalo (bj) | ṭhitā saddhā mahapphalā (s2, s3) | ṭhito saṅgamamācalo (pts1)"
-  ]
+  "tha-ap12:5.4": "anapāyinī → anupāyinī (s2, s3, mr)",
+  "tha-ap12:18.4": "na hontupaṇidhimhi te → na honti parivimbhitā (s2, s3, pts1) | na honti paṇidhimhi te (mr)",
+  "tha-ap12:21.4": "ṭhitā saddhammamācalā → ṭhito saddhammamācalo (bj) | ṭhitā saddhā mahapphalā (s2, s3) | ṭhito saṅgamamācalo (pts1)"
 }

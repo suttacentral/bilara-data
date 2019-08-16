@@ -1,24 +1,9 @@
 {
-  "ps2.1:5.1": [
-    "arahattappattaṃ → arahattapattaṃ (bj) | arahattaṃ (s1-3) | arahattapattiṃ (pts1 15A4.170/1)"
-  ],
-  "ps2.1:6.3": [
-    "bahulīkaroti → bahuliṃ karoti (mr)"
-  ],
-  "ps2.1:6.4": [
-    "saññojanāni → saññojanā (bj)"
-  ],
-  "ps2.1:8.1": [
-    "yuganaddhaṃ → yuganandhaṃ (si, pts1)"
-  ],
-  "ps2.1:9.2": [
-    "ajjhattameva → ajjhattaññeva (si, s1-3, pts1, mr)"
-  ],
-  "ps2.1:22.3": [
-    "vosaggārammaṇatā → vossaggārammaṇatā (bj, s1-3, pts1, mr)"
-  ],
-  "ps2.1:51.1": [
-    "cittassa saṅkhepavikkhepaviggahitaṃ → cittassa saṅkhepaṃ vikkhepaṃ viggahitaṃ (s1-3) | cittasaṅkhepavikkhepaṃ avikkhepaṃ viggahitaṃ (pts1)",
-    "dasa ṭhāne sampajānātīti → dasaṭṭhāne (mānasaṃ kusalā) sampajānātīti (bj) | dasaṭṭhānehi sampajānātīti (s1-3) | dasaṭṭhānehi pajānātīti (pts1)"
-  ]
+  "ps2.1:5.1": "arahattappattaṃ → arahattapattaṃ (bj) | arahattaṃ (s1-3) | arahattapattiṃ (pts1 15A4.170/1)",
+  "ps2.1:6.3": "bahulīkaroti → bahuliṃ karoti (mr)",
+  "ps2.1:6.4": "saññojanāni → saññojanā (bj)",
+  "ps2.1:8.1": "yuganaddhaṃ → yuganandhaṃ (si, pts1)",
+  "ps2.1:9.2": "ajjhattameva → ajjhattaññeva (si, s1-3, pts1, mr)",
+  "ps2.1:22.3": "vosaggārammaṇatā → vossaggārammaṇatā (bj, s1-3, pts1, mr)",
+  "ps2.1:51.1": "cittassa saṅkhepavikkhepaviggahitaṃ → cittassa saṅkhepaṃ vikkhepaṃ viggahitaṃ (s1-3) | cittasaṅkhepavikkhepaṃ avikkhepaṃ viggahitaṃ (pts1), dasa ṭhāne sampajānātīti → dasaṭṭhāne (mānasaṃ kusalā) sampajānātīti (bj) | dasaṭṭhānehi sampajānātīti (s1-3) | dasaṭṭhānehi pajānātīti (pts1)"
 }

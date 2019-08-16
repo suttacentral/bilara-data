@@ -1,11 +1,5 @@
 {
-  "mn131:3.7": [
-    "Asaṃhīraṃ → asaṃhiraṃ (s1-3, km, mr)"
-  ],
-  "mn131:3.9": [
-    "kiccamātappaṃ → kiccaṃ ātappaṃ (bj, mr)"
-  ],
-  "mn131:3.16": [
-    "muni → munīti (bj, s1-3, km, pts1)"
-  ]
+  "mn131:3.7": "Asaṃhīraṃ → asaṃhiraṃ (s1-3, km, mr)",
+  "mn131:3.9": "kiccamātappaṃ → kiccaṃ ātappaṃ (bj, mr)",
+  "mn131:3.16": "muni → munīti (bj, s1-3, km, pts1)"
 }

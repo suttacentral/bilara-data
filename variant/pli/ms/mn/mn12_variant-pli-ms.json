@@ -1,52 +1,18 @@
 {
-  "mn12:2.2": [
-    "evaṃ → etaṃ (pts1, mr)",
-    "parisati → parisatiṃ (bj, pts1)"
-  ],
-  "mn12:2.3": [
-    "uttari → uttariṃ (pts1)"
-  ],
-  "mn12:23.2": [
-    "Etamahaṃ → etampahaṃ (bj, pts1)"
-  ],
-  "mn12:40.4": [
-    "sandacchāyo → saṇḍacchāyo (s1-3) | santacchāyo (mr)"
-  ],
-  "mn12:44.1": [
-    "caritā → caritvā (mr)"
-  ],
-  "mn12:44.2": [
-    "pavivitto sudaṃ → ­pavi­vittas­sudaṃ (bj, pts1)",
-    "lūkho sudaṃ → lūkhassudaṃ (bj, pts1)"
-  ],
-  "mn12:45.2": [
-    "pāyamānāya → pāyantiyā (mr)"
-  ],
-  "mn12:48.3": [
-    "sampatāmi → papatāmi (bj, s1-3, pts1)"
-  ],
-  "mn12:50.4": [
-    "antaraṭṭhakā himapātasamayā → antaraṭṭhake himapātasamaye (bj, pts1)"
-  ],
-  "mn12:50.7": [
-    "sosinno → sosīno (bj, s1, s2, pts1, mr) | so sino (s3) | sosindo (saddanīti)"
-  ],
-  "mn12:51.2": [
-    "gāmaṇḍalā → gomaṇḍalā (bahūsu)"
-  ],
-  "mn12:52.18": [
-    "samphuṭito → saṃphusito (s1-3) | sampuṭito (pts1) | saṃpuṭito (mr)"
-  ],
-  "mn12:57.3": [
-    "Na kho pana so → na kho paneso (bj, s1-3)"
-  ],
-  "mn12:59.3": [
-    "anāvuṭṭhapubbo → anāvutthapubbo (bj, pts1)"
-  ],
-  "mn12:62.7": [
-    "daḷhadhammā → daḷhadhammo (sabbattha)"
-  ],
-  "mn12:63.1": [
-    "Yaṃ kho taṃ → yaṃ kho panetaṃ (bj)"
-  ]
+  "mn12:2.2": "evaṃ → etaṃ (pts1, mr), parisati → parisatiṃ (bj, pts1)",
+  "mn12:2.3": "uttari → uttariṃ (pts1)",
+  "mn12:23.2": "Etamahaṃ → etampahaṃ (bj, pts1)",
+  "mn12:40.4": "sandacchāyo → saṇḍacchāyo (s1-3) | santacchāyo (mr)",
+  "mn12:44.1": "caritā → caritvā (mr)",
+  "mn12:44.2": "pavivitto sudaṃ → ­pavi­vittas­sudaṃ (bj, pts1), lūkho sudaṃ → lūkhassudaṃ (bj, pts1)",
+  "mn12:45.2": "pāyamānāya → pāyantiyā (mr)",
+  "mn12:48.3": "sampatāmi → papatāmi (bj, s1-3, pts1)",
+  "mn12:50.4": "antaraṭṭhakā himapātasamayā → antaraṭṭhake himapātasamaye (bj, pts1)",
+  "mn12:50.7": "sosinno → sosīno (bj, s1, s2, pts1, mr) | so sino (s3) | sosindo (saddanīti)",
+  "mn12:51.2": "gāmaṇḍalā → gomaṇḍalā (bahūsu)",
+  "mn12:52.18": "samphuṭito → saṃphusito (s1-3) | sampuṭito (pts1) | saṃpuṭito (mr)",
+  "mn12:57.3": "Na kho pana so → na kho paneso (bj, s1-3)",
+  "mn12:59.3": "anāvuṭṭhapubbo → anāvutthapubbo (bj, pts1)",
+  "mn12:62.7": "daḷhadhammā → daḷhadhammo (sabbattha)",
+  "mn12:63.1": "Yaṃ kho taṃ → yaṃ kho panetaṃ (bj)"
 }

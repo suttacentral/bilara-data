@@ -1,11 +1,5 @@
 {
-  "an10.71:0.3": [
-    "71. Ākaṅkhasutta → ākaṅkheyyasuttaṃ (bj)"
-  ],
-  "an10.71:6.1": [
-    "kālaṅkatā → kālakatā (bj, s1-3, km, pts1)"
-  ],
-  "an10.71:8.1": [
-    "tibbānaṃ → tippānaṃ (bj, s1-3, km, pts1)"
-  ]
+  "an10.71:0.3": "71. Ākaṅkhasutta → ākaṅkheyyasuttaṃ (bj)",
+  "an10.71:6.1": "kālaṅkatā → kālakatā (bj, s1-3, km, pts1)",
+  "an10.71:8.1": "tibbānaṃ → tippānaṃ (bj, s1-3, km, pts1)"
 }

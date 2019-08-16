@@ -1,53 +1,19 @@
 {
-  "ja483:5.1": [
-    "Āsīsetheva → āsiṃsetheva (bj, s2, s3, pts1)"
-  ],
-  "ja483:9.4": [
-    "maccamupabbajanti → maccumupabbajanti (bj, pts1) | maccumupapajjanti (s2, s3, mr)"
-  ],
-  "ja483:11.4": [
-    "vikkantamanujīvasi → vikkantaṃ jīvitaṃ labhi (mr)"
-  ],
-  "ja483:12.4": [
-    "ta migaṃ → tameva (s2, s3, mr)"
-  ],
-  "ja483:13.2": [
-    "naṃ → taṃ (s2, s3, mr)"
-  ],
-  "ja483:14.2": [
-    "naṃ → taṃ (mr)"
-  ],
-  "ja483:15.1": [
-    "pattiṃ → pattaṃ (s2, s3) | paṭṭiṃ (mr)"
-  ],
-  "ja483:15.3": [
-    "Nunno → nuṇṇo (bj, s2, s3) | tuṇṇo (mr)"
-  ],
-  "ja483:16.3": [
-    "katañca → pubbe ca kataṃ (mr)"
-  ],
-  "ja483:18.1": [
-    "rājā → rāja (bj, s2, s3, pts1)"
-  ],
-  "ja483:18.2": [
-    "sahāyakaṃ → sahāyakaṃ me (bj, pts1)"
-  ],
-  "ja483:18.3": [
-    "naravīraseṭṭha → naraviriyaseṭṭha (bj, pts1)"
-  ],
-  "ja483:18.4": [
-    "Gantā → gantvā (s2, s3, mr)"
-  ],
-  "ja483:19.4": [
-    "hañño mama pāṇado yo → hañño yo mamapāṇadassa (bj, pts1) | haññe mama pāṇadassa (s2, s3)"
-  ],
-  "ja483:21.2": [
-    "Rajjaṃ imaṃ dhammaguṇe → rajjampimaṃ cassa gaṇe (mr)"
-  ],
-  "ja483:22.2": [
-    "yācayogo bhavitvā → pāhunake karitvā (s2, s3) | yācayogo viditvā (mr)"
-  ],
-  "ja483:23.1": [
-    "Sarabhamigajātakaṃ → sarabhajātakaṃ (s2, s3)"
-  ]
+  "ja483:5.1": "Āsīsetheva → āsiṃsetheva (bj, s2, s3, pts1)",
+  "ja483:9.4": "maccamupabbajanti → maccumupabbajanti (bj, pts1) | maccumupapajjanti (s2, s3, mr)",
+  "ja483:11.4": "vikkantamanujīvasi → vikkantaṃ jīvitaṃ labhi (mr)",
+  "ja483:12.4": "ta migaṃ → tameva (s2, s3, mr)",
+  "ja483:13.2": "naṃ → taṃ (s2, s3, mr)",
+  "ja483:14.2": "naṃ → taṃ (mr)",
+  "ja483:15.1": "pattiṃ → pattaṃ (s2, s3) | paṭṭiṃ (mr)",
+  "ja483:15.3": "Nunno → nuṇṇo (bj, s2, s3) | tuṇṇo (mr)",
+  "ja483:16.3": "katañca → pubbe ca kataṃ (mr)",
+  "ja483:18.1": "rājā → rāja (bj, s2, s3, pts1)",
+  "ja483:18.2": "sahāyakaṃ → sahāyakaṃ me (bj, pts1)",
+  "ja483:18.3": "naravīraseṭṭha → naraviriyaseṭṭha (bj, pts1)",
+  "ja483:18.4": "Gantā → gantvā (s2, s3, mr)",
+  "ja483:19.4": "hañño mama pāṇado yo → hañño yo mamapāṇadassa (bj, pts1) | haññe mama pāṇadassa (s2, s3)",
+  "ja483:21.2": "Rajjaṃ imaṃ dhammaguṇe → rajjampimaṃ cassa gaṇe (mr)",
+  "ja483:22.2": "yācayogo bhavitvā → pāhunake karitvā (s2, s3) | yācayogo viditvā (mr)",
+  "ja483:23.1": "Sarabhamigajātakaṃ → sarabhajātakaṃ (s2, s3)"
 }

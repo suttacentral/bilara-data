@@ -1,11 +1,5 @@
 {
-  "tha-ap416:4.3": [
-    "Ukkoṭakaṃ randhayitvā → ukkoṭaṃ randhayitvāna (c1)"
-  ],
-  "tha-ap416:4.4": [
-    "madhumaṃsamhi → madhusappimhi (pts1) | madhuṃ maṃsamhi (mr)"
-  ],
-  "tha-ap416:11.1": [
-    "madhudānena → maṃsadānena (bj, pts1)"
-  ]
+  "tha-ap416:4.3": "Ukkoṭakaṃ randhayitvā → ukkoṭaṃ randhayitvāna (c1)",
+  "tha-ap416:4.4": "madhumaṃsamhi → madhusappimhi (pts1) | madhuṃ maṃsamhi (mr)",
+  "tha-ap416:11.1": "madhudānena → maṃsadānena (bj, pts1)"
 }

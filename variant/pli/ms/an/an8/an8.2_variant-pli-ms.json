@@ -1,12 +1,5 @@
 {
-  "an8.2:0.3": [
-    "2. Paññāsutta → ādibrahmacariyapaññāsuttaṃ (bj)"
-  ],
-  "an8.2:5.1": [
-    "sātthaṃ sabyañjanaṃ → satthā sabyañjanā (si) | sātthaṃ savyañjanaṃ (pts1)",
-    "dhātā → dhatā (bj, s1-3, km, pts1)"
-  ],
-  "an8.2:9.4": [
-    "piyattāya garuttāya → piyatāya garutāya (s1-3)"
-  ]
+  "an8.2:0.3": "2. Paññāsutta → ādibrahmacariyapaññāsuttaṃ (bj)",
+  "an8.2:5.1": "sātthaṃ sabyañjanaṃ → satthā sabyañjanā (si) | sātthaṃ savyañjanaṃ (pts1), dhātā → dhatā (bj, s1-3, km, pts1)",
+  "an8.2:9.4": "piyattāya garuttāya → piyatāya garutāya (s1-3)"
 }

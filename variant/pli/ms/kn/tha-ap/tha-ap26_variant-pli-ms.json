@@ -1,17 +1,7 @@
 {
-  "tha-ap26:9.4": [
-    "mārisāyaṃ → mārisassa (mr)"
-  ],
-  "tha-ap26:11.3": [
-    "Dibbasukhaṃ → dibbaṃ sukhaṃ (bj, pts1)"
-  ],
-  "tha-ap26:14.2": [
-    "dippante → dibbanti (mr)"
-  ],
-  "tha-ap26:20.1": [
-    "Saṅkittento ca → pakittentova (bj) | pakittente ca (s2, s3) | pakittento ca (pts1)"
-  ],
-  "tha-ap26:22.2": [
-    "tapassinā → vipassinā (bj, pts1)"
-  ]
+  "tha-ap26:9.4": "mārisāyaṃ → mārisassa (mr)",
+  "tha-ap26:11.3": "Dibbasukhaṃ → dibbaṃ sukhaṃ (bj, pts1)",
+  "tha-ap26:14.2": "dippante → dibbanti (mr)",
+  "tha-ap26:20.1": "Saṅkittento ca → pakittentova (bj) | pakittente ca (s2, s3) | pakittento ca (pts1)",
+  "tha-ap26:22.2": "tapassinā → vipassinā (bj, pts1)"
 }

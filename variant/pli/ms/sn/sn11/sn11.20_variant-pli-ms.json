@@ -1,15 +1,6 @@
 {
-  "sn11.20:0.3": [
-    "20. Saṅghavandanāsutta → tatiyasakkanamassanasuttaṃ (bj, s2, s3) | sakkanamassanasuttaṃ (3) (s1) | sakka-namassana (3) (pts1)"
-  ],
-  "sn11.20:5.2": [
-    "kumbhi → kumbhe (bj) | kumbhā (s1-3, km, pts1, mr) | kumbhī (pts2)",
-    "kaḷopiyaṃ → khalopiyaṃ (bj)"
-  ],
-  "sn11.20:5.3": [
-    "Paraniṭṭhitamesānā → paraniṭṭhitamesanā (s1-3, km, mr)"
-  ],
-  "sn11.20:10.1": [
-    "pana → vatapadena (bj, s1-3, km, pts2)"
-  ]
+  "sn11.20:0.3": "20. Saṅghavandanāsutta → tatiyasakkanamassanasuttaṃ (bj, s2, s3) | sakkanamassanasuttaṃ (3) (s1) | sakka-namassana (3) (pts1)",
+  "sn11.20:5.2": "kumbhi → kumbhe (bj) | kumbhā (s1-3, km, pts1, mr) | kumbhī (pts2), kaḷopiyaṃ → khalopiyaṃ (bj)",
+  "sn11.20:5.3": "Paraniṭṭhitamesānā → paraniṭṭhitamesanā (s1-3, km, mr)",
+  "sn11.20:10.1": "pana → vatapadena (bj, s1-3, km, pts2)"
 }

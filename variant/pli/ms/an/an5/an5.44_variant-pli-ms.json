@@ -1,29 +1,11 @@
 {
-  "an5.44:2.3": [
-    "sālapupphakaṃ → sālipupphakaṃ (mr)"
-  ],
-  "an5.44:3.3": [
-    "sampannakolakaṃ sūkaramaṃsaṃ → sampannasūkaramaṃsaṃ (bj) | sampannavarasūkaramaṃsaṃ (s1-3)"
-  ],
-  "an5.44:4.3": [
-    "nibbattatelakaṃ → nibaddhatelakaṃ (bj-a) | nibbaṭṭatelakaṃ (s-a) | nibbaddhatelakaṃ (pts1)"
-  ],
-  "an5.44:5.3": [
-    "vicitakāḷako → vigatakāḷako (s1-3, km, pts1) | vigatakālako (mr)"
-  ],
-  "an5.44:7.3": [
-    "kadalimigapavarapaccattharaṇo → kādalimigapavarapaccattharaṇo (bj)"
-  ],
-  "an5.44:8.2": [
-    "ujjubhūtesu → ujubhūtesu (s1-3, km, pts1)"
-  ],
-  "an5.44:8.3": [
-    "sayanamannapānaṃ → sayanamathannapānaṃ (bj, s1-3, km, pts1)"
-  ],
-  "an5.44:9.1": [
-    "anuggahītaṃ → anaggahītaṃ (bj)"
-  ],
-  "an5.44:11.2": [
-    "Kālaṅkato → kālakato (bj, s1-3, km, pts1)"
-  ]
+  "an5.44:2.3": "sālapupphakaṃ → sālipupphakaṃ (mr)",
+  "an5.44:3.3": "sampannakolakaṃ sūkaramaṃsaṃ → sampannasūkaramaṃsaṃ (bj) | sampannavarasūkaramaṃsaṃ (s1-3)",
+  "an5.44:4.3": "nibbattatelakaṃ → nibaddhatelakaṃ (bj-a) | nibbaṭṭatelakaṃ (s-a) | nibbaddhatelakaṃ (pts1)",
+  "an5.44:5.3": "vicitakāḷako → vigatakāḷako (s1-3, km, pts1) | vigatakālako (mr)",
+  "an5.44:7.3": "kadalimigapavarapaccattharaṇo → kādalimigapavarapaccattharaṇo (bj)",
+  "an5.44:8.2": "ujjubhūtesu → ujubhūtesu (s1-3, km, pts1)",
+  "an5.44:8.3": "sayanamannapānaṃ → sayanamathannapānaṃ (bj, s1-3, km, pts1)",
+  "an5.44:9.1": "anuggahītaṃ → anaggahītaṃ (bj)",
+  "an5.44:11.2": "Kālaṅkato → kālakato (bj, s1-3, km, pts1)"
 }

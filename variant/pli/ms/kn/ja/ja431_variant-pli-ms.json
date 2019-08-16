@@ -1,14 +1,6 @@
 {
-  "ja431:7.1": [
-    "Adu → ādu (bj, pts1)"
-  ],
-  "ja431:7.2": [
-    "sādhucintinī → sādhu cintanī (bj, pts1)"
-  ],
-  "ja431:12.1": [
-    "andhakārake → andhakaraṇe (bj, s2, s3, pts1)"
-  ],
-  "ja431:14.1": [
-    "Haritacajātakaṃ → hāritajātakaṃ (bj, pts1)"
-  ]
+  "ja431:7.1": "Adu → ādu (bj, pts1)",
+  "ja431:7.2": "sādhucintinī → sādhu cintanī (bj, pts1)",
+  "ja431:12.1": "andhakārake → andhakaraṇe (bj, s2, s3, pts1)",
+  "ja431:14.1": "Haritacajātakaṃ → hāritajātakaṃ (bj, pts1)"
 }

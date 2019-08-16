@@ -1,26 +1,10 @@
 {
-  "vv30:5.1": [
-    "pathaviṃ → paṭhaviṃ (bj, s2, s3, pts1-2)"
-  ],
-  "vv30:5.4": [
-    "sahindake → saindake (bj)"
-  ],
-  "vv30:7.3": [
-    "sīlasaṃyamaṃ → sīlasaññamaṃ (bj, s2, s3, pts1-2 ^vv48#3 [Ucchuvimānavatthu])"
-  ],
-  "vv30:7.4": [
-    "Kenūpapannā → kenupapannā (^vv48#3 [Ucchuvimānavatthu])"
-  ],
-  "vv30:8.1": [
-    "gāmaṃ → gāme (s2, mr)"
-  ],
-  "vv30:9.2": [
-    "avākiri → avākari (s2, s3, pts1, mr)"
-  ],
-  "vv30:10.1": [
-    "nvidaṃ → idaṃ (s2, s3, pts1)"
-  ],
-  "vv30:16.1": [
-    "Ucchudāyikāvimānaṃ → ucchuvimānaṃ (s2, s3)"
-  ]
+  "vv30:5.1": "pathaviṃ → paṭhaviṃ (bj, s2, s3, pts1-2)",
+  "vv30:5.4": "sahindake → saindake (bj)",
+  "vv30:7.3": "sīlasaṃyamaṃ → sīlasaññamaṃ (bj, s2, s3, pts1-2 ^vv48#3 [Ucchuvimānavatthu])",
+  "vv30:7.4": "Kenūpapannā → kenupapannā (^vv48#3 [Ucchuvimānavatthu])",
+  "vv30:8.1": "gāmaṃ → gāme (s2, mr)",
+  "vv30:9.2": "avākiri → avākari (s2, s3, pts1, mr)",
+  "vv30:10.1": "nvidaṃ → idaṃ (s2, s3, pts1)",
+  "vv30:16.1": "Ucchudāyikāvimānaṃ → ucchuvimānaṃ (s2, s3)"
 }

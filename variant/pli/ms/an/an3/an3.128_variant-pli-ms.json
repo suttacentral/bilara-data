@@ -1,19 +1,7 @@
 {
-  "an3.128:1.3": [
-    "goyogapilakkhasmiṃ → goyogamilakkhasmiṃ (s1-3, km, mr)",
-    "caramāno → caramānaṃ (mr)"
-  ],
-  "an3.128:2.1": [
-    "kho tvaṃ, bhikkhu → bhikkhu bhikkhu mā kho tvaṃ (bj, pts1)"
-  ],
-  "an3.128:2.2": [
-    "āmagandhena → āmagandhe (bj, s1-3, km, pts1)",
-    "nānvāssavissantīti → nānvassavissanti (pts1) | nānubandhissanti (mr)"
-  ],
-  "an3.128:8.2": [
-    "samathamattano → samamattano (bj, s1-3, km) | sammamattano (pts1)"
-  ],
-  "an3.128:8.3": [
-    "Pareti → care (s1-3) | careti (mr)"
-  ]
+  "an3.128:1.3": "goyogapilakkhasmiṃ → goyogamilakkhasmiṃ (s1-3, km, mr), caramāno → caramānaṃ (mr)",
+  "an3.128:2.1": "kho tvaṃ, bhikkhu → bhikkhu bhikkhu mā kho tvaṃ (bj, pts1)",
+  "an3.128:2.2": "āmagandhena → āmagandhe (bj, s1-3, km, pts1), nānvāssavissantīti → nānvassavissanti (pts1) | nānubandhissanti (mr)",
+  "an3.128:8.2": "samathamattano → samamattano (bj, s1-3, km) | sammamattano (pts1)",
+  "an3.128:8.3": "Pareti → care (s1-3) | careti (mr)"
 }

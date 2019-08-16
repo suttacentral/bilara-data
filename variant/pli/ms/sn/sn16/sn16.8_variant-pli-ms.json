@@ -1,9 +1,4 @@
 {
-  "sn16.8:1.1": [
-    "kalandakanivāpe → sāvatthiyaṃ (bj)"
-  ],
-  "sn16.8:7.7": [
-    "abhipatthanā → abhibhavanā (bj, pts1-2) | abhivānā (s1-3)",
-    "brahmacāriabhipatthanenā’ti → brahmacārābhibhavanenāti (bj, pts1-2) | brahmacārābhivānenāti (s1-3)"
-  ]
+  "sn16.8:1.1": "kalandakanivāpe → sāvatthiyaṃ (bj)",
+  "sn16.8:7.7": "abhipatthanā → abhibhavanā (bj, pts1-2) | abhivānā (s1-3), brahmacāriabhipatthanenā’ti → brahmacārābhibhavanenāti (bj, pts1-2) | brahmacārābhivānenāti (s1-3)"
 }

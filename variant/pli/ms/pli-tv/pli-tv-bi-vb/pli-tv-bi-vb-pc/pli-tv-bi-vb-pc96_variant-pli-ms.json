@@ -1,14 +1,6 @@
 {
-  "pli-tv-bi-vb-pc96:6.2": [
-    "asaṅkaccikā → asaṅkacchikā (s1-3, pts1)"
-  ],
-  "pli-tv-bi-vb-pc96:8.1": [
-    "asaṅkaccikā → asaṅkacchikā (s1-3, pts1)"
-  ],
-  "pli-tv-bi-vb-pc96:16.1": [
-    "10 Nandasikkhāpada → ^pi-tv-bu-vb-pc1#6 [Pācittiyā 1: Musāvādasikkhāpada] (1:50)"
-  ],
-  "pli-tv-bi-vb-pc96:18.3": [
-    "() → bj potthake tassuddānañca vagguddānañca"
-  ]
+  "pli-tv-bi-vb-pc96:6.2": "asaṅkaccikā → asaṅkacchikā (s1-3, pts1)",
+  "pli-tv-bi-vb-pc96:8.1": "asaṅkaccikā → asaṅkacchikā (s1-3, pts1)",
+  "pli-tv-bi-vb-pc96:16.1": "10 Nandasikkhāpada → ^pi-tv-bu-vb-pc1#6 [Pācittiyā 1: Musāvādasikkhāpada] (1:50)",
+  "pli-tv-bi-vb-pc96:18.3": "() → bj potthake tassuddānañca vagguddānañca"
 }

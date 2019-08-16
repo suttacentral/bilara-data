@@ -1,9 +1,4 @@
 {
-  "sn12.60:0.3": [
-    "60. Nidānasutta → nidāna (paṭiccasamuppāda) suttaṃ (bj)"
-  ],
-  "sn12.60:2.3": [
-    "kulagaṇṭhikajātā → guḷāguṇṭhikajātā (bj) | guḷīguṇṭhikajātā (s1-3, km) | guḷigandhikajātā (pts1-2)",
-    "muñjapabbajabhūtā → muñjababbajabhūtā (bj)"
-  ]
+  "sn12.60:0.3": "60. Nidānasutta → nidāna (paṭiccasamuppāda) suttaṃ (bj)",
+  "sn12.60:2.3": "kulagaṇṭhikajātā → guḷāguṇṭhikajātā (bj) | guḷīguṇṭhikajātā (s1-3, km) | guḷigandhikajātā (pts1-2), muñjapabbajabhūtā → muñjababbajabhūtā (bj)"
 }

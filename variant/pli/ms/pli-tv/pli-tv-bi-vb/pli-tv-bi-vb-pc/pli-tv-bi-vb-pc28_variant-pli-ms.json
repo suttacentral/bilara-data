@@ -1,12 +1,5 @@
 {
-  "pli-tv-bi-vb-pc28:6.2": [
-    "kumbhathūṇikānampi → kumbhathūnikānaṃpi (s1-3) | kumbhathuṇikānampi (mr)",
-    "sokajjhāyikānampi → sokasāyikānampi (bj)"
-  ],
-  "pli-tv-bi-vb-pc28:6.3": [
-    "parisati → parisatiṃ (bj)"
-  ],
-  "pli-tv-bi-vb-pc28:8.1": [
-    "agārikassa → āgārikassa (s1-3)"
-  ]
+  "pli-tv-bi-vb-pc28:6.2": "kumbhathūṇikānampi → kumbhathūnikānaṃpi (s1-3) | kumbhathuṇikānampi (mr), sokajjhāyikānampi → sokasāyikānampi (bj)",
+  "pli-tv-bi-vb-pc28:6.3": "parisati → parisatiṃ (bj)",
+  "pli-tv-bi-vb-pc28:8.1": "agārikassa → āgārikassa (s1-3)"
 }

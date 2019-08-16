@@ -1,12 +1,5 @@
 {
-  "an10.219:2.1": [
-    "catutthaṃ → catutthiṃ (?)"
-  ],
-  "an10.219:4.2": [
-    "ayaṃ → ce ayaṃ (s1-3)",
-    "api nu kho → api nu so (?)"
-  ],
-  "an10.219:6.7": [
-    "uttari → uttariṃ (bj, s1-3, pts1)"
-  ]
+  "an10.219:2.1": "catutthaṃ → catutthiṃ (?)",
+  "an10.219:4.2": "ayaṃ → ce ayaṃ (s1-3), api nu kho → api nu so (?)",
+  "an10.219:6.7": "uttari → uttariṃ (bj, s1-3, pts1)"
 }

@@ -1,26 +1,10 @@
 {
-  "tha-ap125:3.1": [
-    "3 Pāyasadāyakattheraapadāna → pāyāsadāyakattherāpadānaṃ (bj, s2, s3, pts1)"
-  ],
-  "tha-ap125:4.3": [
-    "Pavanā → padhāno (mr)"
-  ],
-  "tha-ap125:5.1": [
-    "Mahaccā → sahatthā (si, s2, s3, pts1, mr)"
-  ],
-  "tha-ap125:5.2": [
-    "pāyasaṃ → pāyāsaṃ (s2, s3, pts1, mr)"
-  ],
-  "tha-ap125:8.1": [
-    "devosi → buddhosi (s2, s3)"
-  ],
-  "tha-ap125:9.4": [
-    "mahāmuni → anuttaro (s2, s3)"
-  ],
-  "tha-ap125:10.4": [
-    "pāyasassa → pāyāsassa (bj, s2, s3, pts1, mr)"
-  ],
-  "tha-ap125:13.1": [
-    "pāyasadāyako → pāyāsadāyako (bj, s2, s3, pts1, mr)"
-  ]
+  "tha-ap125:3.1": "3 Pāyasadāyakattheraapadāna → pāyāsadāyakattherāpadānaṃ (bj, s2, s3, pts1)",
+  "tha-ap125:4.3": "Pavanā → padhāno (mr)",
+  "tha-ap125:5.1": "Mahaccā → sahatthā (si, s2, s3, pts1, mr)",
+  "tha-ap125:5.2": "pāyasaṃ → pāyāsaṃ (s2, s3, pts1, mr)",
+  "tha-ap125:8.1": "devosi → buddhosi (s2, s3)",
+  "tha-ap125:9.4": "mahāmuni → anuttaro (s2, s3)",
+  "tha-ap125:10.4": "pāyasassa → pāyāsassa (bj, s2, s3, pts1, mr)",
+  "tha-ap125:13.1": "pāyasadāyako → pāyāsadāyako (bj, s2, s3, pts1, mr)"
 }

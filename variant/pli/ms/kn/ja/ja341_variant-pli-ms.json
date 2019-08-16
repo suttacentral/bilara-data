@@ -1,20 +1,7 @@
 {
-  "ja341:5.3": [
-    "Sabbattha nāpītikarāpi → sabba'ttanāpītikarāpi (bj, s2, s3)",
-    "siyā → siyuṃ (s2, s3)"
-  ],
-  "ja341:6.1": [
-    "Yaṃ ve → yañca (s2, s3, mr)",
-    "kaṇḍarīkinnarānaṃ → kaṇḍari kinnarānaṃ (bj) | kinnarakinnarīnaṃ (s2, s3) | kinnarīkinnarānaṃ (mr)"
-  ],
-  "ja341:7.1": [
-    "bāvarikassa → pāvārikassa (bj)"
-  ],
-  "ja341:7.3": [
-    "Avācarī → accācarī (s2, s3) | anācari (mr)",
-    "paṭṭhavasānugassa → baddhavasānugassa (bj, s2, s3) | pattavasānugatassa (mr)"
-  ],
-  "ja341:9.1": [
-    "Kaṇḍarījātakaṃ → kinnarījātakaṃ (bj, mr) | kuṇḍalikajātakaṃ (s2, s3) | kaṇḍarijātakaṃ (pts1)"
-  ]
+  "ja341:5.3": "Sabbattha nāpītikarāpi → sabba'ttanāpītikarāpi (bj, s2, s3), siyā → siyuṃ (s2, s3)",
+  "ja341:6.1": "Yaṃ ve → yañca (s2, s3, mr), kaṇḍarīkinnarānaṃ → kaṇḍari kinnarānaṃ (bj) | kinnarakinnarīnaṃ (s2, s3) | kinnarīkinnarānaṃ (mr)",
+  "ja341:7.1": "bāvarikassa → pāvārikassa (bj)",
+  "ja341:7.3": "Avācarī → accācarī (s2, s3) | anācari (mr), paṭṭhavasānugassa → baddhavasānugassa (bj, s2, s3) | pattavasānugatassa (mr)",
+  "ja341:9.1": "Kaṇḍarījātakaṃ → kinnarījātakaṃ (bj, mr) | kuṇḍalikajātakaṃ (s2, s3) | kaṇḍarijātakaṃ (pts1)"
 }

@@ -1,11 +1,5 @@
 {
-  "iti100:2.1": [
-    "Brāhmaṇadhammayāgasutta → brāhmaṇasuttaṃ (bj)"
-  ],
-  "iti100:4.1": [
-    "payatapāṇi → payatapāṇī (bj, s1-3)"
-  ],
-  "iti100:9.2": [
-    "sabbabhūtānukampī → sabbasattānukampī (s1-3)"
-  ]
+  "iti100:2.1": "Brāhmaṇadhammayāgasutta → brāhmaṇasuttaṃ (bj)",
+  "iti100:4.1": "payatapāṇi → payatapāṇī (bj, s1-3)",
+  "iti100:9.2": "sabbabhūtānukampī → sabbasattānukampī (s1-3)"
 }

@@ -1,42 +1,15 @@
 {
-  "mnd4:7.2": [
-    "Cakkhuviññāṇaṃ → cakkhuviññāṇena (bj, s1-3, pts1)"
-  ],
-  "mnd4:21.4": [
-    "Asito → anissito (s1-3, pts1)"
-  ],
-  "mnd4:23.6": [
-    "cāṭakasakuṇaṃ → caṭakasakuṇaṃ (bj) | vātasakuṇaṃ (s1-3, pts1) | cāpasakuṇaṃ (mr)"
-  ],
-  "mnd4:23.9": [
-    "pakkhahataṃ → pakkhapādaṃ (mr)",
-    "byādhikaṃ → byādhitaṃ (bj)"
-  ],
-  "mnd4:25.3": [
-    "Samaṇamuṇḍikāputto → samaṇo maṇḍikāputto (bj, c1) | samaṇo muṇḍikāputto (pts1)"
-  ],
-  "mnd4:25.4": [
-    "gahapati → thapati (bj, s1-3, pts1)"
-  ],
-  "mnd4:30.3": [
-    "gāhaṃ jaho → gāhajaho (bj, s1-3, pts1) | attagāhaṃ jaho (mr)"
-  ],
-  "mnd4:33.4": [
-    "pamuñcaṃ → pamukhaṃ (bj, s1-3, pts1)"
-  ],
-  "mnd4:44.2": [
-    "yānīdhatthi → yānipatthi (bj, s1-3, pts1)"
-  ],
-  "mnd4:64.21": [
-    "phoṭayitvā → poṭhayitvā (bj) | photayitvā (pts1) | poṭayitvā (c1)"
-  ],
-  "mnd4:68.2": [
-    "Ñatvā va disvā va → ca disvā ca (bj, s1-3, pts1, c1)"
-  ],
-  "mnd4:70.4": [
-    "visiṭṭhaṃ → viseṭṭhaṃ (bj, s1-3, pts1)"
-  ],
-  "mnd4:71.4": [
-    "anabhāvaṃkatā → anabhāvakatā (bj) | anabhāvaṃgatā (s1-3, pts1)"
-  ]
+  "mnd4:7.2": "Cakkhuviññāṇaṃ → cakkhuviññāṇena (bj, s1-3, pts1)",
+  "mnd4:21.4": "Asito → anissito (s1-3, pts1)",
+  "mnd4:23.6": "cāṭakasakuṇaṃ → caṭakasakuṇaṃ (bj) | vātasakuṇaṃ (s1-3, pts1) | cāpasakuṇaṃ (mr)",
+  "mnd4:23.9": "pakkhahataṃ → pakkhapādaṃ (mr), byādhikaṃ → byādhitaṃ (bj)",
+  "mnd4:25.3": "Samaṇamuṇḍikāputto → samaṇo maṇḍikāputto (bj, c1) | samaṇo muṇḍikāputto (pts1)",
+  "mnd4:25.4": "gahapati → thapati (bj, s1-3, pts1)",
+  "mnd4:30.3": "gāhaṃ jaho → gāhajaho (bj, s1-3, pts1) | attagāhaṃ jaho (mr)",
+  "mnd4:33.4": "pamuñcaṃ → pamukhaṃ (bj, s1-3, pts1)",
+  "mnd4:44.2": "yānīdhatthi → yānipatthi (bj, s1-3, pts1)",
+  "mnd4:64.21": "phoṭayitvā → poṭhayitvā (bj) | photayitvā (pts1) | poṭayitvā (c1)",
+  "mnd4:68.2": "Ñatvā va disvā va → ca disvā ca (bj, s1-3, pts1, c1)",
+  "mnd4:70.4": "visiṭṭhaṃ → viseṭṭhaṃ (bj, s1-3, pts1)",
+  "mnd4:71.4": "anabhāvaṃkatā → anabhāvakatā (bj) | anabhāvaṃgatā (s1-3, pts1)"
 }

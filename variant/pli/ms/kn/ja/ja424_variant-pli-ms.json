@@ -1,11 +1,5 @@
 {
-  "ja424:6.4": [
-    "sunīhataṃ → sunībhataṃ (bj, s2, s3) | nībhataṃ (pts1) | sunibbhataṃ (mr)"
-  ],
-  "ja424:7.3": [
-    "vetaraṇiṃ → vettaraṇiṃ (mr)"
-  ],
-  "ja424:12.3": [
-    "Pubbeva hi pubbatareva santo → pubbe ca hi pubbatare ca santo (^sn1.33#1 [33. Sādhusutta])"
-  ]
+  "ja424:6.4": "sunīhataṃ → sunībhataṃ (bj, s2, s3) | nībhataṃ (pts1) | sunibbhataṃ (mr)",
+  "ja424:7.3": "vetaraṇiṃ → vettaraṇiṃ (mr)",
+  "ja424:12.3": "Pubbeva hi pubbatareva santo → pubbe ca hi pubbatare ca santo (^sn1.33#1 [33. Sādhusutta])"
 }

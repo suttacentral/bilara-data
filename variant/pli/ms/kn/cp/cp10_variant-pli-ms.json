@@ -1,14 +1,6 @@
 {
-  "cp10:6.4": [
-    "sāyaṃ pāto ca dissare → sāyaṃ pāto padissare (pts1-2, mr)"
-  ],
-  "cp10:10.4": [
-    "gavesisuṃ → gavesiyuṃ (si) | gavesiṃsuṃ (pts1) | gavesayyuṃ (mr)"
-  ],
-  "cp10:20.2": [
-    "dhamadhamāyati → dhumadhumāyati (bj) | dhūmam-āyati (pts1) | dhamamāyati (mr)"
-  ],
-  "cp10:31.1": [
-    "Dānapāraminiddeso niṭṭhito → dānapāramitā niṭṭhitā (bj)"
-  ]
+  "cp10:6.4": "sāyaṃ pāto ca dissare → sāyaṃ pāto padissare (pts1-2, mr)",
+  "cp10:10.4": "gavesisuṃ → gavesiyuṃ (si) | gavesiṃsuṃ (pts1) | gavesayyuṃ (mr)",
+  "cp10:20.2": "dhamadhamāyati → dhumadhumāyati (bj) | dhūmam-āyati (pts1) | dhamamāyati (mr)",
+  "cp10:31.1": "Dānapāraminiddeso niṭṭhito → dānapāramitā niṭṭhitā (bj)"
 }

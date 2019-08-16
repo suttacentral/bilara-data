@@ -1,15 +1,6 @@
 {
-  "ud8.10:6.2": [
-    "jātavedaso → jātavedassa (s1-3) | jātavedasso (pts1)"
-  ],
-  "ud8.10:12.2": [
-    "Chaṭṭhamavaggavaranti → chaṭṭhamavaggavaraṃ (bj, mr)",
-    "jaccandho → tu tamandho (mr)"
-  ],
-  "ud8.10:12.4": [
-    "Pāṭaligāmiyamaṭṭhamavaggo → pāṭaligāmavaraṭṭhamavaggo (bj, mr) | pāṭaligāmiyavaraṭṭhamavaggo (s1-3, km, pts1)"
-  ],
-  "ud8.10:13.4": [
-    "Addhā hi taṃ udānamitīdamāhu → addhā tamudānamitīdamāhu (bj) | saddhā hi taṃ udānantidamāhu (s1-3, km, pts1) | atthāyetaṃ udānamitimāhu (mr)"
-  ]
+  "ud8.10:6.2": "jātavedaso → jātavedassa (s1-3) | jātavedasso (pts1)",
+  "ud8.10:12.2": "Chaṭṭhamavaggavaranti → chaṭṭhamavaggavaraṃ (bj, mr), jaccandho → tu tamandho (mr)",
+  "ud8.10:12.4": "Pāṭaligāmiyamaṭṭhamavaggo → pāṭaligāmavaraṭṭhamavaggo (bj, mr) | pāṭaligāmiyavaraṭṭhamavaggo (s1-3, km, pts1)",
+  "ud8.10:13.4": "Addhā hi taṃ udānamitīdamāhu → addhā tamudānamitīdamāhu (bj) | saddhā hi taṃ udānantidamāhu (s1-3, km, pts1) | atthāyetaṃ udānamitimāhu (mr)"
 }

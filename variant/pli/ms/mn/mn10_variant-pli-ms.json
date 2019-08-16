@@ -1,31 +1,11 @@
 {
-  "mn10:4.3": [
-    "satova → sato (bj, s1-3, pts1)"
-  ],
-  "mn10:5.4": [
-    "Evampi kho → evampi (bj, s1-3, pts1)"
-  ],
-  "mn10:10.2": [
-    "nhāru → nahāru (bj, pts1) | nahārū (s1-3)",
-    "siṅghāṇikā lasikā muttan’ti → muttaṃ matthaluṅganti (mr)"
-  ],
-  "mn10:10.3": [
-    "putoḷi → mūtoḷī (bj, s1-3) | mutoḷī (pts1)"
-  ],
-  "mn10:12.3": [
-    "catumahāpathe → cātummahāpathe (bj, s1-3, pts1)"
-  ],
-  "mn10:16.1": [
-    "kulalehi vā khajjamānaṃ gijjhehi vā khajjamānaṃ kaṅkehi vā khajjamānaṃ sunakhehi vā khajjamānaṃ byagghehi vā khajjamānaṃ dīpīhi vā khajjamānaṃ siṅgālehi vā → kulalehi vā khajjamānaṃ gijjhehi vā khajjamānaṃ supāṇehi vā khajjamānaṃ sigālehi vā (sī1, pā1), gijjhehi vā khajjamānaṃ kulalalehi vā khajjamānaṃ suvāṇehi vā khajjamānaṃ siṇigālehi vā (syā1-3)"
-  ],
-  "mn10:24.1": [
-    "aññena phāsukaṭṭhikaṃ aññena piṭṭhiṭṭhikaṃ aññena khandhaṭṭhikaṃ → aññena piṭṭhikaṇṭakaṃ aññena ­piṭṭhi­kaṇ­ṭakaṭ­ṭhi­kaṃ aññena phāsukaṭṭhikaṃ aññena uraṭṭhikaṃ aññena bāhuṭṭhikaṃ aññena aṃsaṭṭhikaṃ (syā1-3), aññena kaṭaṭṭhikaṃ aññena piṭṭhikaṇṭakaṃ (pā1)",
-    "aññena gīvaṭṭhikaṃ aññena hanukaṭṭhikaṃ aññena dantaṭṭhikaṃ aññena sīsakaṭāhaṃ → aññena sīsakaṭāhaṃ (sī1)"
-  ],
-  "mn10:32.2": [
-    "sukhaṃ vā → sukhaṃ (bj, s1-3, pts1, mr)"
-  ],
-  "mn10:32.3": [
-    "Dukkhaṃ vā → dukkhaṃ (bj, s1-3, pts1, mr)"
-  ]
+  "mn10:4.3": "satova → sato (bj, s1-3, pts1)",
+  "mn10:5.4": "Evampi kho → evampi (bj, s1-3, pts1)",
+  "mn10:10.2": "nhāru → nahāru (bj, pts1) | nahārū (s1-3), siṅghāṇikā lasikā muttan’ti → muttaṃ matthaluṅganti (mr)",
+  "mn10:10.3": "putoḷi → mūtoḷī (bj, s1-3) | mutoḷī (pts1)",
+  "mn10:12.3": "catumahāpathe → cātummahāpathe (bj, s1-3, pts1)",
+  "mn10:16.1": "kulalehi vā khajjamānaṃ gijjhehi vā khajjamānaṃ kaṅkehi vā khajjamānaṃ sunakhehi vā khajjamānaṃ byagghehi vā khajjamānaṃ dīpīhi vā khajjamānaṃ siṅgālehi vā → kulalehi vā khajjamānaṃ gijjhehi vā khajjamānaṃ supāṇehi vā khajjamānaṃ sigālehi vā (sī1, pā1), gijjhehi vā khajjamānaṃ kulalalehi vā khajjamānaṃ suvāṇehi vā khajjamānaṃ siṇigālehi vā (syā1-3)",
+  "mn10:24.1": "aññena phāsukaṭṭhikaṃ aññena piṭṭhiṭṭhikaṃ aññena khandhaṭṭhikaṃ → aññena piṭṭhikaṇṭakaṃ aññena ­piṭṭhi­kaṇ­ṭakaṭ­ṭhi­kaṃ aññena phāsukaṭṭhikaṃ aññena uraṭṭhikaṃ aññena bāhuṭṭhikaṃ aññena aṃsaṭṭhikaṃ (syā1-3), aññena kaṭaṭṭhikaṃ aññena piṭṭhikaṇṭakaṃ (pā1), aññena gīvaṭṭhikaṃ aññena hanukaṭṭhikaṃ aññena dantaṭṭhikaṃ aññena sīsakaṭāhaṃ → aññena sīsakaṭāhaṃ (sī1)",
+  "mn10:32.2": "sukhaṃ vā → sukhaṃ (bj, s1-3, pts1, mr)",
+  "mn10:32.3": "Dukkhaṃ vā → dukkhaṃ (bj, s1-3, pts1, mr)"
 }

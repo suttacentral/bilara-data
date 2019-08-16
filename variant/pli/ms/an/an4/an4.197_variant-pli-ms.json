@@ -1,22 +1,8 @@
 {
-  "an4.197:0.3": [
-    "mallikāsuttaṃ (bj)"
-  ],
-  "an4.197:6.3": [
-    "Sā → so (s1-3)"
-  ],
-  "an4.197:6.4": [
-    "Issāmanikā → issāmanako (s1-3) | issamānikā (pts1)"
-  ],
-  "an4.197:6.6": [
-    "Sā → so (s1-3)",
-    "sā → so (s1-3)"
-  ],
-  "an4.197:11.2": [
-    "nūnāhaṃ → sā nūnāhaṃ (s1-3) | yaṃ nūnāhaṃ (pts1, mr)",
-    "aññaṃ jātiṃ → aññāya jātiyā (s1-3)"
-  ],
-  "an4.197:12.1": [
-    "aḍḍhā → aḍḍhā ca (bj, pts1, mr)"
-  ]
+  "an4.197:0.3": "mallikāsuttaṃ (bj)",
+  "an4.197:6.3": "Sā → so (s1-3)",
+  "an4.197:6.4": "Issāmanikā → issāmanako (s1-3) | issamānikā (pts1)",
+  "an4.197:6.6": "Sā → so (s1-3), sā → so (s1-3)",
+  "an4.197:11.2": "nūnāhaṃ → sā nūnāhaṃ (s1-3) | yaṃ nūnāhaṃ (pts1, mr), aññaṃ jātiṃ → aññāya jātiyā (s1-3)",
+  "an4.197:12.1": "aḍḍhā → aḍḍhā ca (bj, pts1, mr)"
 }

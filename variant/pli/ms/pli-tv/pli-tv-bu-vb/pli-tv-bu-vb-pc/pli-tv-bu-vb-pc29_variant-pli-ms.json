@@ -1,9 +1,4 @@
 {
-  "pli-tv-bu-vb-pc29:1.12": [
-    "kaṭamodakatissako → kaṭa­moraka­tissako (bj, pts1) | kata­moraka­tissako (s1-3)"
-  ],
-  "pli-tv-bu-vb-pc29:2.13": [
-    "gihisamārambhā → gihīsamārambhā (bj)",
-    "bhikkhuniparipācitaṃ → bhikkhunī … (bj, s1-3, pts1)"
-  ]
+  "pli-tv-bu-vb-pc29:1.12": "kaṭamodakatissako → kaṭa­moraka­tissako (bj, pts1) | kata­moraka­tissako (s1-3)",
+  "pli-tv-bu-vb-pc29:2.13": "gihisamārambhā → gihīsamārambhā (bj), bhikkhuniparipācitaṃ → bhikkhunī … (bj, s1-3, pts1)"
 }

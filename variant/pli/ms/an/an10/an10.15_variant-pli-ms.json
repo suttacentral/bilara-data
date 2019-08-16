@@ -1,17 +1,7 @@
 {
-  "an10.15:1.2": [
-    "Appamādo tesaṃ → tesaṃ dhammānaṃ (bj, pts1, mr)"
-  ],
-  "an10.15:2.1": [
-    "jaṅgalānaṃ → jaṅgamānaṃ (bj)"
-  ],
-  "an10.15:2.2": [
-    "Appamādo tesaṃ → tesaṃ dhammānaṃ (bj, pts1, mr)"
-  ],
-  "an10.15:7.1": [
-    "khuddarājāno → kuḍḍarājāno (bj, s3, pts1) | kuḍḍarājā (s1, s2) | kūṭarājāno (mr)"
-  ],
-  "an10.15:9.1": [
-    "abbhussakkamāno → abbhussukkamāno (bj, pts1)"
-  ]
+  "an10.15:1.2": "Appamādo tesaṃ → tesaṃ dhammānaṃ (bj, pts1, mr)",
+  "an10.15:2.1": "jaṅgalānaṃ → jaṅgamānaṃ (bj)",
+  "an10.15:2.2": "Appamādo tesaṃ → tesaṃ dhammānaṃ (bj, pts1, mr)",
+  "an10.15:7.1": "khuddarājāno → kuḍḍarājāno (bj, s3, pts1) | kuḍḍarājā (s1, s2) | kūṭarājāno (mr)",
+  "an10.15:9.1": "abbhussakkamāno → abbhussukkamāno (bj, pts1)"
 }

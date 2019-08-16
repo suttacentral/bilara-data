@@ -1,15 +1,6 @@
 {
-  "pli-tv-bu-vb-pc47:1.1.6": [
-    "catumāsaṃ → cātumāsaṃ (bj, s1-3, pts1)"
-  ],
-  "pli-tv-bu-vb-pc47:1.4.15": [
-    "Kālaṃ āharissathā”ti → kālaṃ harissathāti (bj, pts1) | kāle harissathāti (s1-3)"
-  ],
-  "pli-tv-bu-vb-pc47:1.4.34": [
-    "catumāsappaccayapavāraṇā → cātumā­sapaccaya ... (s1-3, pts1)",
-    "uttari → uttariṃ (bj, s1-3)"
-  ],
-  "pli-tv-bu-vb-pc47:2.2.1": [
-    "Na bhesajjena karaṇīyena → na bhesajjena karaṇīye (bj, s1-3) | na ­bhesaj­ja­karaṇī­yena (pts1)"
-  ]
+  "pli-tv-bu-vb-pc47:1.1.6": "catumāsaṃ → cātumāsaṃ (bj, s1-3, pts1)",
+  "pli-tv-bu-vb-pc47:1.4.15": "Kālaṃ āharissathā”ti → kālaṃ harissathāti (bj, pts1) | kāle harissathāti (s1-3)",
+  "pli-tv-bu-vb-pc47:1.4.34": "catumāsappaccayapavāraṇā → cātumā­sapaccaya ... (s1-3, pts1), uttari → uttariṃ (bj, s1-3)",
+  "pli-tv-bu-vb-pc47:2.2.1": "Na bhesajjena karaṇīyena → na bhesajjena karaṇīye (bj, s1-3) | na ­bhesaj­ja­karaṇī­yena (pts1)"
 }

@@ -1,28 +1,10 @@
 {
-  "sn4.25:1.1": [
-    "abhāsitvā → bhāsitvā (s1-3)",
-    "appaṭibhāno → appaṭibhāṇo (s1-3)"
-  ],
-  "sn4.25:1.2": [
-    "arati → aratī (s2, s3)",
-    "ragā → rāgā (s1-3)"
-  ],
-  "sn4.25:14.3": [
-    "Ekohaṃ → ekāhaṃ (bj, s1-3, km, pts1, mr)"
-  ],
-  "sn4.25:15.1": [
-    "arati → aratī (s2, s3) | arati ca (mr)"
-  ],
-  "sn4.25:16.3": [
-    "Kathaṃ jhāyiṃ → kathaṃ jhāyaṃ (s1-3, km, pts1-2) | kathajjhāyaṃ (mr)"
-  ],
-  "sn4.25:19.1": [
-    "ragā → rāgā (s1-3) | ragā ca (pts1-2, mr)"
-  ],
-  "sn4.25:23.2": [
-    "abhimatthatha → abhimanthatha (bj, pts2)"
-  ],
-  "sn4.25:24.1": [
-    "sirasūhacca → sirasi ūhacca (si) | sirasi ohacca (s1-3, km)"
-  ]
+  "sn4.25:1.1": "abhāsitvā → bhāsitvā (s1-3), appaṭibhāno → appaṭibhāṇo (s1-3)",
+  "sn4.25:1.2": "arati → aratī (s2, s3), ragā → rāgā (s1-3)",
+  "sn4.25:14.3": "Ekohaṃ → ekāhaṃ (bj, s1-3, km, pts1, mr)",
+  "sn4.25:15.1": "arati → aratī (s2, s3) | arati ca (mr)",
+  "sn4.25:16.3": "Kathaṃ jhāyiṃ → kathaṃ jhāyaṃ (s1-3, km, pts1-2) | kathajjhāyaṃ (mr)",
+  "sn4.25:19.1": "ragā → rāgā (s1-3) | ragā ca (pts1-2, mr)",
+  "sn4.25:23.2": "abhimatthatha → abhimanthatha (bj, pts2)",
+  "sn4.25:24.1": "sirasūhacca → sirasi ūhacca (si) | sirasi ohacca (s1-3, km)"
 }

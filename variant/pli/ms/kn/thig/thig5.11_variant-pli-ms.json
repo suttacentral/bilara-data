@@ -1,9 +1,4 @@
 {
-  "thig5.11:4.2": [
-    "māṇavā → mānavā (bj, pts1-2)"
-  ],
-  "thig5.11:8.5": [
-    "Purakkhatvā → purakkhitvā (s2, s3, pts1-2)",
-    "vihassāma → vihariyāma (bj) | viharissāma (s2, s3) | vihissāma (pts1-2)"
-  ]
+  "thig5.11:4.2": "māṇavā → mānavā (bj, pts1-2)",
+  "thig5.11:8.5": "Purakkhatvā → purakkhitvā (s2, s3, pts1-2), vihassāma → vihariyāma (bj) | viharissāma (s2, s3) | vihissāma (pts1-2)"
 }

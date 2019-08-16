@@ -1,14 +1,6 @@
 {
-  "tha-ap110:3.1": [
-    "8 Āsanupaṭṭhāhakattheraapadāna → āsanupaṭṭhāpakattherāpadānaṃ (bj) | āsanupaṭṭhāyakattherāpadānaṃ (s2, s3) | āsanūpaṭṭhāyakattherāpadānaṃ (pts1)"
-  ],
-  "tha-ap110:6.3": [
-    "Sannibbāpemi → sandiṭṭhāpemi (mr)"
-  ],
-  "tha-ap110:8.2": [
-    "sannibbāpaka → sanniṭṭho nāma (mr)"
-  ],
-  "tha-ap110:10.1": [
-    "āsanupaṭṭhāhako → āsanupaṭṭhāpakatthero (bj) | āsanupaṭṭhāyako (s2, s3) | āsanūpaṭṭhāyako (pts1)"
-  ]
+  "tha-ap110:3.1": "8 Āsanupaṭṭhāhakattheraapadāna → āsanupaṭṭhāpakattherāpadānaṃ (bj) | āsanupaṭṭhāyakattherāpadānaṃ (s2, s3) | āsanūpaṭṭhāyakattherāpadānaṃ (pts1)",
+  "tha-ap110:6.3": "Sannibbāpemi → sandiṭṭhāpemi (mr)",
+  "tha-ap110:8.2": "sannibbāpaka → sanniṭṭho nāma (mr)",
+  "tha-ap110:10.1": "āsanupaṭṭhāhako → āsanupaṭṭhāpakatthero (bj) | āsanupaṭṭhāyako (s2, s3) | āsanūpaṭṭhāyako (pts1)"
 }

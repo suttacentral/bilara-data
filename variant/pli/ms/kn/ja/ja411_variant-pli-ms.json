@@ -1,20 +1,8 @@
 {
-  "ja411:5.3": [
-    "susīma → susima (mr)"
-  ],
-  "ja411:6.3": [
-    "abhāṇiṃ → abhāsiṃ (mr)"
-  ],
-  "ja411:7.2": [
-    "hosi → hohi (bj) | hoti (mr)"
-  ],
-  "ja411:8.4": [
-    "Palobhayantīva → sā lobhayantīva (pts1)"
-  ],
-  "ja411:10.2": [
-    "sayāmi → passāmi (mr)"
-  ],
-  "ja411:10.4": [
-    "Na gahe rame → na gehe rame (bj) | gehe na rame (s2, s3, mr)"
-  ]
+  "ja411:5.3": "susīma → susima (mr)",
+  "ja411:6.3": "abhāṇiṃ → abhāsiṃ (mr)",
+  "ja411:7.2": "hosi → hohi (bj) | hoti (mr)",
+  "ja411:8.4": "Palobhayantīva → sā lobhayantīva (pts1)",
+  "ja411:10.2": "sayāmi → passāmi (mr)",
+  "ja411:10.4": "Na gahe rame → na gehe rame (bj) | gehe na rame (s2, s3, mr)"
 }

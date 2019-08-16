@@ -1,11 +1,5 @@
 {
-  "ja48:5.3": [
-    "vedabbaṃ → vedabbhaṃ (bj, pts1)"
-  ],
-  "ja48:5.4": [
-    "byasanamajjhagūti → byasanamajjhagunti (s2, s3)"
-  ],
-  "ja48:6.1": [
-    "Vedabbajātakaṃ → vedabbhajātakaṃ (bj, pts1)"
-  ]
+  "ja48:5.3": "vedabbaṃ → vedabbhaṃ (bj, pts1)",
+  "ja48:5.4": "byasanamajjhagūti → byasanamajjhagunti (s2, s3)",
+  "ja48:6.1": "Vedabbajātakaṃ → vedabbhajātakaṃ (bj, pts1)"
 }

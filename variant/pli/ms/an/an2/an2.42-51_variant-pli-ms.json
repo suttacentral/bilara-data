@@ -1,24 +1,9 @@
 {
-  "an2.42-51:0.2": [
-    "parisāvagga (pts1)"
-  ],
-  "an2.42-51:44.1.5": [
-    "bāhulikā → bāhullikā (s1-3, km, mr)"
-  ],
-  "an2.42-51:47.1.6": [
-    "kavitā → kavikatā (sabbattha)"
-  ],
-  "an2.42-51:48.1.8": [
-    "gathitā → gadhitā (s1-3, mr)",
-    "ajjhopannā → ajjhosānā (mr)"
-  ],
-  "an2.42-51:49.1.6": [
-    "() → (visamattā bhikkhave parisāya adhammakammāni pavattanti … vinayakammāni na dippanti.) (bj, s1-3, pts1)"
-  ],
-  "an2.42-51:49.2.3": [
-    "() → (samattā bhikkhave parisāya dhammakammāni pavattanti … avinayakammāni na dippanti.) (bj, s1-3, pts1)"
-  ],
-  "an2.42-51:51.1.7": [
-    "parāmāsā → parāmassa (bj, s1-3, pts1)"
-  ]
+  "an2.42-51:0.2": "parisāvagga (pts1)",
+  "an2.42-51:44.1.5": "bāhulikā → bāhullikā (s1-3, km, mr)",
+  "an2.42-51:47.1.6": "kavitā → kavikatā (sabbattha)",
+  "an2.42-51:48.1.8": "gathitā → gadhitā (s1-3, mr), ajjhopannā → ajjhosānā (mr)",
+  "an2.42-51:49.1.6": "() → (visamattā bhikkhave parisāya adhammakammāni pavattanti … vinayakammāni na dippanti.) (bj, s1-3, pts1)",
+  "an2.42-51:49.2.3": "() → (samattā bhikkhave parisāya dhammakammāni pavattanti … avinayakammāni na dippanti.) (bj, s1-3, pts1)",
+  "an2.42-51:51.1.7": "parāmāsā → parāmassa (bj, s1-3, pts1)"
 }

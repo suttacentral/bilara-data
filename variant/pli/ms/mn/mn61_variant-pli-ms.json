@@ -1,23 +1,9 @@
 {
-  "mn61:7.1": [
-    "urūḷhavā → ubbūḷhavā (bj, pts1) | uruḷhavā (s1-3)"
-  ],
-  "mn61:9.3": [
-    "dukkhudrayaṃ → dukkhudayaṃ (mr)"
-  ],
-  "mn61:9.6": [
-    "sasakkaṃ na karaṇīyaṃ → saṃsakkaṃ na ca karaṇīyaṃ (mr)"
-  ],
-  "mn61:14.2": [
-    "saṃvattati → saṃvatti (pts1)"
-  ],
-  "mn61:17.1": [
-    "manokammaṃ → manokamme (bj, s1-3, km, pts1)"
-  ],
-  "mn61:17.2": [
-    "saṃvattati → saṃvattatīti (si) | saṃvatti (pts1)"
-  ],
-  "mn61:17.6": [
-    "evarūpaṃ pana → evarūpe (bj, pts1) | evarūpe pana (s1-3, km)"
-  ]
+  "mn61:7.1": "urūḷhavā → ubbūḷhavā (bj, pts1) | uruḷhavā (s1-3)",
+  "mn61:9.3": "dukkhudrayaṃ → dukkhudayaṃ (mr)",
+  "mn61:9.6": "sasakkaṃ na karaṇīyaṃ → saṃsakkaṃ na ca karaṇīyaṃ (mr)",
+  "mn61:14.2": "saṃvattati → saṃvatti (pts1)",
+  "mn61:17.1": "manokammaṃ → manokamme (bj, s1-3, km, pts1)",
+  "mn61:17.2": "saṃvattati → saṃvattatīti (si) | saṃvatti (pts1)",
+  "mn61:17.6": "evarūpaṃ pana → evarūpe (bj, pts1) | evarūpe pana (s1-3, km)"
 }

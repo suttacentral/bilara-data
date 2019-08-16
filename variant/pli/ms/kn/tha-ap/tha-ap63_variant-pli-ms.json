@@ -1,17 +1,7 @@
 {
-  "tha-ap63:3.1": [
-    "1 Sakacintaniyattheraapadāna → sakacittaniyattherāpadānaṃ (si, s2, s3)"
-  ],
-  "tha-ap63:5.1": [
-    "pulinaṃ → veḷunā (si, pts1) | veḷinaṃ (s2, s3)"
-  ],
-  "tha-ap63:6.4": [
-    "pupphapūjāyidaṃ → thūpapūjāyidaṃ (bj, pts1)"
-  ],
-  "tha-ap63:7.4": [
-    "pupphapūjāyidaṃ → thūpapūjāyidaṃ (bj, pts1)"
-  ],
-  "tha-ap63:10.1": [
-    "sakacintaniyo → sakacittaniyo (si, s2, s3)"
-  ]
+  "tha-ap63:3.1": "1 Sakacintaniyattheraapadāna → sakacittaniyattherāpadānaṃ (si, s2, s3)",
+  "tha-ap63:5.1": "pulinaṃ → veḷunā (si, pts1) | veḷinaṃ (s2, s3)",
+  "tha-ap63:6.4": "pupphapūjāyidaṃ → thūpapūjāyidaṃ (bj, pts1)",
+  "tha-ap63:7.4": "pupphapūjāyidaṃ → thūpapūjāyidaṃ (bj, pts1)",
+  "tha-ap63:10.1": "sakacintaniyo → sakacittaniyo (si, s2, s3)"
 }

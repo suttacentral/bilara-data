@@ -1,14 +1,6 @@
 {
-  "tha-ap42:4.3": [
-    "lagetvā → laggetvā (bj, s2, s3) | laṅghitvā (si) | laṅghetvā (pts1)"
-  ],
-  "tha-ap42:6.2": [
-    "mama vassitā → mama nissitā (bj, pts1) | samavassikā (s2, s3)"
-  ],
-  "tha-ap42:6.4": [
-    "sadā → tadā (s2, s3, pts1)"
-  ],
-  "tha-ap42:14.6": [
-    "gāthā dvayadasasataṃ → gāthāyo dvādasasatanti (bj) | gāthādvayaṃ dasasataṃpica (s2, s3) | gāthā dvādasa sataṃti (pts1)"
-  ]
+  "tha-ap42:4.3": "lagetvā → laggetvā (bj, s2, s3) | laṅghitvā (si) | laṅghetvā (pts1)",
+  "tha-ap42:6.2": "mama vassitā → mama nissitā (bj, pts1) | samavassikā (s2, s3)",
+  "tha-ap42:6.4": "sadā → tadā (s2, s3, pts1)",
+  "tha-ap42:14.6": "gāthā dvayadasasataṃ → gāthāyo dvādasasatanti (bj) | gāthādvayaṃ dasasataṃpica (s2, s3) | gāthā dvādasa sataṃti (pts1)"
 }

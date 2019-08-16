@@ -1,8 +1,4 @@
 {
-  "ja325:8.3": [
-    "kittesi → kintesi (s2, s3, pts1)"
-  ],
-  "ja325:9.1": [
-    "Godharājajātakaṃ → godhajātakaṃ (bj, s2, s3, pts1)"
-  ]
+  "ja325:8.3": "kittesi → kintesi (s2, s3, pts1)",
+  "ja325:9.1": "Godharājajātakaṃ → godhajātakaṃ (bj, s2, s3, pts1)"
 }

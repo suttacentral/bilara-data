@@ -1,11 +1,5 @@
 {
-  "mil6.1.8:8.2": [
-    "jinasāsanadharapariyesanatopi → jinasāsanadhanapariyesanatopi (bj, pts1) | jinasāsanadhammapariyesanatopi (maku)"
-  ],
-  "mil6.1.8:10.1": [
-    "sukudhitampi → sukaṭhitampi (bj, pts1) | suuṭṭhitampi (maku)"
-  ],
-  "mil6.1.8:15.1": [
-    "Dussīlapañho → samaṇadussīlagihidussīlapañho (maku)"
-  ]
+  "mil6.1.8:8.2": "jinasāsanadharapariyesanatopi → jinasāsanadhanapariyesanatopi (bj, pts1) | jinasāsanadhammapariyesanatopi (maku)",
+  "mil6.1.8:10.1": "sukudhitampi → sukaṭhitampi (bj, pts1) | suuṭṭhitampi (maku)",
+  "mil6.1.8:15.1": "Dussīlapañho → samaṇadussīlagihidussīlapañho (maku)"
 }

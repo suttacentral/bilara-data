@@ -1,36 +1,13 @@
 {
-  "ja482:5.1": [
-    "Tassa → kassa (bj, pts1)"
-  ],
-  "ja482:5.3": [
-    "Yo → ko (bj, s2, s3, pts1)",
-    "migamakkhāti → ... makkhāsi (s2, s3, mr)"
-  ],
-  "ja482:8.1": [
-    "advejjhaṃ → adejjhaṃ (bj, pts1) | sarajjaṃ (mr)"
-  ],
-  "ja482:8.2": [
-    "sannayhupāgami → sandhāyupāgami (bj, pts1)"
-  ],
-  "ja482:10.3": [
-    "Soyaṃ → so hi (bj, s2, s3, pts1)"
-  ],
-  "ja482:14.3": [
-    "Hanāmi taṃ mittadubbhiṃ akiccakāriṃ → hanāmi mittaddu'makiccakāriṃ (bj, pts1)"
-  ],
-  "ja482:16.1": [
-    "sataṃ so → sataṃ'se (bj)"
-  ],
-  "ja482:16.2": [
-    "dubbhato → dubbhino (s2, s3) | dūbhato (pts1)"
-  ],
-  "ja482:21.2": [
-    "raṭṭhañcāpi vinassatu → mā maṃ janapado ahu (s2, s3)"
-  ],
-  "ja482:21.3": [
-    "Na tvevāhaṃ → na tveva miha (bj)"
-  ],
-  "ja482:22.1": [
-    "Rurumigarājajātakaṃ → rurumigajātakaṃ (bj, s2, s3) | rurujātakaṃ (pts1)"
-  ]
+  "ja482:5.1": "Tassa → kassa (bj, pts1)",
+  "ja482:5.3": "Yo → ko (bj, s2, s3, pts1), migamakkhāti → ... makkhāsi (s2, s3, mr)",
+  "ja482:8.1": "advejjhaṃ → adejjhaṃ (bj, pts1) | sarajjaṃ (mr)",
+  "ja482:8.2": "sannayhupāgami → sandhāyupāgami (bj, pts1)",
+  "ja482:10.3": "Soyaṃ → so hi (bj, s2, s3, pts1)",
+  "ja482:14.3": "Hanāmi taṃ mittadubbhiṃ akiccakāriṃ → hanāmi mittaddu'makiccakāriṃ (bj, pts1)",
+  "ja482:16.1": "sataṃ so → sataṃ'se (bj)",
+  "ja482:16.2": "dubbhato → dubbhino (s2, s3) | dūbhato (pts1)",
+  "ja482:21.2": "raṭṭhañcāpi vinassatu → mā maṃ janapado ahu (s2, s3)",
+  "ja482:21.3": "Na tvevāhaṃ → na tveva miha (bj)",
+  "ja482:22.1": "Rurumigarājajātakaṃ → rurumigajātakaṃ (bj, s2, s3) | rurujātakaṃ (pts1)"
 }

@@ -1,11 +1,5 @@
 {
-  "sn12.20:5.1": [
-    "paṭidhāvissati → paridhāvissati (bj)"
-  ],
-  "sn12.20:5.2": [
-    "ahosiṃ nu kho ahaṃ → nu khvāhaṃ (s1-3, km, pts1-2, mr)"
-  ],
-  "sn12.20:5.3": [
-    "upadhāvissati → apadhāvissati (mr)"
-  ]
+  "sn12.20:5.1": "paṭidhāvissati → paridhāvissati (bj)",
+  "sn12.20:5.2": "ahosiṃ nu kho ahaṃ → nu khvāhaṃ (s1-3, km, pts1-2, mr)",
+  "sn12.20:5.3": "upadhāvissati → apadhāvissati (mr)"
 }

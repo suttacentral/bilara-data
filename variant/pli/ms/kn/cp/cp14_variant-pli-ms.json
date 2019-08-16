@@ -1,11 +1,5 @@
 {
-  "cp14:5.2": [
-    "cūḷabodhi → cullabodhi (bj)"
-  ],
-  "cp14:11.1": [
-    "Tissā → tassā (bj, s2, s3, pts1-2)"
-  ],
-  "cp14:16.1": [
-    "Cūḷabodhicariyaṃ → cullabodhicariyaṃ (bj)"
-  ]
+  "cp14:5.2": "cūḷabodhi → cullabodhi (bj)",
+  "cp14:11.1": "Tissā → tassā (bj, s2, s3, pts1-2)",
+  "cp14:16.1": "Cūḷabodhicariyaṃ → cullabodhicariyaṃ (bj)"
 }

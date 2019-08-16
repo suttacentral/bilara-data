@@ -1,10 +1,4 @@
 {
-  "pli-tv-bu-vb-pc73:1.1.18": [
-    "bhiyyo → bhiyyoti (s1-3) ",
-    "uttari cassa → uttariṃ cassa (bj) | uttariñcassa (s1-3)"
-  ],
-  "pli-tv-bu-vb-pc73:1.1.19": [
-    "manasi karosī’ti → manasikarosīti (s1-3, pts1) ",
-    "aṭṭhiṃ katvā → aṭṭhikatvā (bj, s1-3, pts1, mr)"
-  ]
+  "pli-tv-bu-vb-pc73:1.1.18": "bhiyyo → bhiyyoti (s1-3) , uttari cassa → uttariṃ cassa (bj) | uttariñcassa (s1-3)",
+  "pli-tv-bu-vb-pc73:1.1.19": "manasi karosī’ti → manasikarosīti (s1-3, pts1) , aṭṭhiṃ katvā → aṭṭhikatvā (bj, s1-3, pts1, mr)"
 }

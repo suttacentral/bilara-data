@@ -1,11 +1,5 @@
 {
-  "tha-ap133:5.2": [
-    "vācāsabhimudīritaṃ → vācāsabhimudīrayiṃ (bj)"
-  ],
-  "tha-ap133:7.1": [
-    "Dhammavidhiṃ → dhamme vidhiṃ (bj, pts1)"
-  ],
-  "tha-ap133:10.2": [
-    "yasuggatā → samuggatā (s2, s3, pts1)"
-  ]
+  "tha-ap133:5.2": "vācāsabhimudīritaṃ → vācāsabhimudīrayiṃ (bj)",
+  "tha-ap133:7.1": "Dhammavidhiṃ → dhamme vidhiṃ (bj, pts1)",
+  "tha-ap133:10.2": "yasuggatā → samuggatā (s2, s3, pts1)"
 }

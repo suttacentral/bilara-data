@@ -1,69 +1,24 @@
 {
-  "pli-tv-pvr2.1:7.44": [
-    "dummaṅkūnaṃ → dummaṅkunīnaṃ (bj)"
-  ],
-  "pli-tv-pvr2.1:7.48": [
-    "Arahantiyo → arahantā (pts1, mr)"
-  ],
-  "pli-tv-pvr2.1:9.2": [
-    "sambalo tathā → uttiyo ceva sambalo (bj, s1-3)"
-  ],
-  "pli-tv-pvr2.1:41.1": [
-    "na paṭinissajjantiyā → nappaṭinissajjantiyā (bj, s1-3)"
-  ],
-  "pli-tv-pvr2.1:44.2": [
-    "viharitthā”ti → viharathāti (bj)"
-  ],
-  "pli-tv-pvr2.1:47.1": [
-    "gāmantaṃ → gāmantaraṃ (bj)"
-  ],
-  "pli-tv-pvr2.1:47.3": [
-    "kismiñci → kismici (bj)"
-  ],
-  "pli-tv-pvr2.1:73.1": [
-    "tirokuṭṭe → tirokuḍḍe vā tiropākāre vā (bj) | tirokuḍḍe (s1-3, pts1)"
-  ],
-  "pli-tv-pvr2.1:73.6": [
-    "Aññatarā bhikkhunī uccāraṃ → uccāraṃpi passāvaṃpi kheḷaṃpi saṅkāraṃpi vighāsaṃpi (s1-3) | uccārampi passāvampi saṅkārampi vighāsampi (pts1, mr)"
-  ],
-  "pli-tv-pvr2.1:81.1": [
-    "Rathikāya vā → rathiyā vā (bj, pts1) | rathiyāya vā (s1-3, mr)"
-  ],
-  "pli-tv-pvr2.1:89.1": [
-    "4.3 Nahānavagga → naggavagga (^pi-tv-bi-vb-pc21#1 [Pācittiyā 21: Naggasikkhāpada])"
-  ],
-  "pli-tv-pvr2.1:111.1": [
-    "Vassaṃvuṭṭhāya → vassaṃ vutthāya (bj, s1-3, pts1)"
-  ],
-  "pli-tv-pvr2.1:118.1": [
-    "paṭissuṇitvā → paṭissutvā (bj) | paṭisunitvā (pts1)",
-    "Bhikkhuniyā → bhikkhunīhi (bj, pts1)"
-  ],
-  "pli-tv-pvr2.1:132.6": [
-    "bhikkhusaṃghaṃ → bhikkhunīsaṅghe (bj, mr)"
-  ],
-  "pli-tv-pvr2.1:135.1": [
-    "rudhitaṃ → ruhitaṃ (bj, s1-3) | rūhitaṃ (pts1)"
-  ],
-  "pli-tv-pvr2.1:158.1": [
-    "sokāvāsaṃ → sokavassaṃ (bj) | sokāvassaṃ (s1-3)"
-  ],
-  "pli-tv-pvr2.1:177.1": [
-    "Asaṅkaccikāya → asaṅkacchikāya (s1-3, pts1)"
-  ],
-  "pli-tv-pvr2.1:185.3": [
-    "pavāraṇovādaṃ → vāso pavāraṇovādā (bj) | vase pavāraṇovādā (s1-3)"
-  ],
-  "pli-tv-pvr2.1:186.1": [
-    "Gabbhī → gabbhinī (bj, s1-3, pts1)"
-  ],
-  "pli-tv-pvr2.1:191.2": [
-    "cittagārakā → cittāgārakā (bj, pts1)"
-  ],
-  "pli-tv-pvr2.1:191.3": [
-    "Ārāmaṃ → ārāma (bj)"
-  ],
-  "pli-tv-pvr2.1:203.6": [
-    "sayaṃ buddhena desitāti → sambuddhena pakāsitāti (bj) | sayambuddhena desitāti (s1-3, pts1)"
-  ]
+  "pli-tv-pvr2.1:7.44": "dummaṅkūnaṃ → dummaṅkunīnaṃ (bj)",
+  "pli-tv-pvr2.1:7.48": "Arahantiyo → arahantā (pts1, mr)",
+  "pli-tv-pvr2.1:9.2": "sambalo tathā → uttiyo ceva sambalo (bj, s1-3)",
+  "pli-tv-pvr2.1:41.1": "na paṭinissajjantiyā → nappaṭinissajjantiyā (bj, s1-3)",
+  "pli-tv-pvr2.1:44.2": "viharitthā”ti → viharathāti (bj)",
+  "pli-tv-pvr2.1:47.1": "gāmantaṃ → gāmantaraṃ (bj)",
+  "pli-tv-pvr2.1:47.3": "kismiñci → kismici (bj)",
+  "pli-tv-pvr2.1:73.1": "tirokuṭṭe → tirokuḍḍe vā tiropākāre vā (bj) | tirokuḍḍe (s1-3, pts1)",
+  "pli-tv-pvr2.1:73.6": "Aññatarā bhikkhunī uccāraṃ → uccāraṃpi passāvaṃpi kheḷaṃpi saṅkāraṃpi vighāsaṃpi (s1-3) | uccārampi passāvampi saṅkārampi vighāsampi (pts1, mr)",
+  "pli-tv-pvr2.1:81.1": "Rathikāya vā → rathiyā vā (bj, pts1) | rathiyāya vā (s1-3, mr)",
+  "pli-tv-pvr2.1:89.1": "4.3 Nahānavagga → naggavagga (^pi-tv-bi-vb-pc21#1 [Pācittiyā 21: Naggasikkhāpada])",
+  "pli-tv-pvr2.1:111.1": "Vassaṃvuṭṭhāya → vassaṃ vutthāya (bj, s1-3, pts1)",
+  "pli-tv-pvr2.1:118.1": "paṭissuṇitvā → paṭissutvā (bj) | paṭisunitvā (pts1), Bhikkhuniyā → bhikkhunīhi (bj, pts1)",
+  "pli-tv-pvr2.1:132.6": "bhikkhusaṃghaṃ → bhikkhunīsaṅghe (bj, mr)",
+  "pli-tv-pvr2.1:135.1": "rudhitaṃ → ruhitaṃ (bj, s1-3) | rūhitaṃ (pts1)",
+  "pli-tv-pvr2.1:158.1": "sokāvāsaṃ → sokavassaṃ (bj) | sokāvassaṃ (s1-3)",
+  "pli-tv-pvr2.1:177.1": "Asaṅkaccikāya → asaṅkacchikāya (s1-3, pts1)",
+  "pli-tv-pvr2.1:185.3": "pavāraṇovādaṃ → vāso pavāraṇovādā (bj) | vase pavāraṇovādā (s1-3)",
+  "pli-tv-pvr2.1:186.1": "Gabbhī → gabbhinī (bj, s1-3, pts1)",
+  "pli-tv-pvr2.1:191.2": "cittagārakā → cittāgārakā (bj, pts1)",
+  "pli-tv-pvr2.1:191.3": "Ārāmaṃ → ārāma (bj)",
+  "pli-tv-pvr2.1:203.6": "sayaṃ buddhena desitāti → sambuddhena pakāsitāti (bj) | sayambuddhena desitāti (s1-3, pts1)"
 }

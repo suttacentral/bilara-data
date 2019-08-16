@@ -1,56 +1,20 @@
 {
-  "ja506:5.4": [
-    "mānusiṃ → mānusī (s2, s3, pts1, mr)"
-  ],
-  "ja506:9.2": [
-    "Hatthattamāgacchi → hatthattha māgañchi (bj) | hatthatthamāgacchi (s2, s3) | hatthattham āgañchi (pts1)"
-  ],
-  "ja506:11.1": [
-    "pañcadasiñca → paṇṇarasiñca (bj) | paṇṇarasiṃ ca (s2, s3) | pannarasiñca (pts1)"
-  ],
-  "ja506:12.3": [
-    "nārī → nāriyo (pts1)"
-  ],
-  "ja506:20.1": [
-    "Sacepi → sace hi (bj, pts1)"
-  ],
-  "ja506:21.2": [
-    "Saṃvaṭṭaye → saṃvaṭṭayaṃ (bj, pts1) | saṃvatteyya (s2, s3) | saṃvaṭṭeyya (mr)"
-  ],
-  "ja506:21.3": [
-    "samūlamuppate → ... mubbahe (bj, s2, s3, pts1, Ma-aka) | ... muṭṭhahe (mr)"
-  ],
-  "ja506:23.3": [
-    "Maṃkāraṇā → mama kāraṇā (bj, s2, s3, pts1)"
-  ],
-  "ja506:23.4": [
-    "jānituye → jānitāye (bj) | jānitave (s2, s3) | jānitaye (pts1)"
-  ],
-  "ja506:25.4": [
-    "gimhesu → gimhāsu (bj, s2, s3, pts1)"
-  ],
-  "ja506:28.1": [
-    "mudiṅgā → mutiṅgā (bj, pts1)"
-  ],
-  "ja506:32.4": [
-    "naccisuṃ → naccayuṃ (bj, pts1, mr)"
-  ],
-  "ja506:33.4": [
-    "Sāpassaye → sopassaye (mr)"
-  ],
-  "ja506:34.6": [
-    "patthayaṃ → kimatthiyaṃ (bj, s2, s3, pts1)"
-  ],
-  "ja506:36.2": [
-    "Āṭā → ādā (s2, s3) | adā (pts1)"
-  ],
-  "ja506:39.2": [
-    "Dibbā → dibyā (bj, s2, s3) | diviyā (pts1)"
-  ],
-  "ja506:40.2": [
-    "cāpi → vāpi (pts1)"
-  ],
-  "ja506:47.1": [
-    "ca → muttānañca (bj, s2, s3)"
-  ]
+  "ja506:5.4": "mānusiṃ → mānusī (s2, s3, pts1, mr)",
+  "ja506:9.2": "Hatthattamāgacchi → hatthattha māgañchi (bj) | hatthatthamāgacchi (s2, s3) | hatthattham āgañchi (pts1)",
+  "ja506:11.1": "pañcadasiñca → paṇṇarasiñca (bj) | paṇṇarasiṃ ca (s2, s3) | pannarasiñca (pts1)",
+  "ja506:12.3": "nārī → nāriyo (pts1)",
+  "ja506:20.1": "Sacepi → sace hi (bj, pts1)",
+  "ja506:21.2": "Saṃvaṭṭaye → saṃvaṭṭayaṃ (bj, pts1) | saṃvatteyya (s2, s3) | saṃvaṭṭeyya (mr)",
+  "ja506:21.3": "samūlamuppate → ... mubbahe (bj, s2, s3, pts1, Ma-aka) | ... muṭṭhahe (mr)",
+  "ja506:23.3": "Maṃkāraṇā → mama kāraṇā (bj, s2, s3, pts1)",
+  "ja506:23.4": "jānituye → jānitāye (bj) | jānitave (s2, s3) | jānitaye (pts1)",
+  "ja506:25.4": "gimhesu → gimhāsu (bj, s2, s3, pts1)",
+  "ja506:28.1": "mudiṅgā → mutiṅgā (bj, pts1)",
+  "ja506:32.4": "naccisuṃ → naccayuṃ (bj, pts1, mr)",
+  "ja506:33.4": "Sāpassaye → sopassaye (mr)",
+  "ja506:34.6": "patthayaṃ → kimatthiyaṃ (bj, s2, s3, pts1)",
+  "ja506:36.2": "Āṭā → ādā (s2, s3) | adā (pts1)",
+  "ja506:39.2": "Dibbā → dibyā (bj, s2, s3) | diviyā (pts1)",
+  "ja506:40.2": "cāpi → vāpi (pts1)",
+  "ja506:47.1": "ca → muttānañca (bj, s2, s3)"
 }

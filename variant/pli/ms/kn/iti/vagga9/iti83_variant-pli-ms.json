@@ -1,24 +1,9 @@
 {
-  "iti83:2.1": [
-    "Pañcapubbanimittasutta → pubbanimittasuttaṃ (bj)"
-  ],
-  "iti83:4.3": [
-    "anumodenti → anumodanti (bj, s1-3, pts1)"
-  ],
-  "iti83:10.1": [
-    "bhikkhu → bhikkhave (s1-3, pts1)"
-  ],
-  "iti83:11.2": [
-    "idaṃ kho → idaṃ kho pana (bj)",
-    "bhikkhu → bhikkhave (bj, s1-3, pts1)"
-  ],
-  "iti83:12.2": [
-    "bhikkhu → bhikkhave (bj, s1-3, pts1)"
-  ],
-  "iti83:18.4": [
-    "appamāṇaṃ → abyāpajjaṃ ()"
-  ],
-  "iti83:19.4": [
-    "nivesaya → nivesaye (si, pts1)"
-  ]
+  "iti83:2.1": "Pañcapubbanimittasutta → pubbanimittasuttaṃ (bj)",
+  "iti83:4.3": "anumodenti → anumodanti (bj, s1-3, pts1)",
+  "iti83:10.1": "bhikkhu → bhikkhave (s1-3, pts1)",
+  "iti83:11.2": "idaṃ kho → idaṃ kho pana (bj), bhikkhu → bhikkhave (bj, s1-3, pts1)",
+  "iti83:12.2": "bhikkhu → bhikkhave (bj, s1-3, pts1)",
+  "iti83:18.4": "appamāṇaṃ → abyāpajjaṃ ()",
+  "iti83:19.4": "nivesaya → nivesaye (si, pts1)"
 }

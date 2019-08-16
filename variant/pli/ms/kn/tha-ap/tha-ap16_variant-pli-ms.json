@@ -1,23 +1,9 @@
 {
-  "tha-ap16:3.1": [
-    "4 Cūḷapanthakattheraapadāna → cullapanthakattherāpadānaṃ (bj, s2, s3, pts1)"
-  ],
-  "tha-ap16:9.3": [
-    "dhārayantassa → dhārayantaṃ me (bj, mr) | dhārayato me (?)"
-  ],
-  "tha-ap16:13.3": [
-    "gottena → nāmena (bj, pts1, mr)"
-  ],
-  "tha-ap16:16.1": [
-    "Sohaṃ aṭṭhārasavasso → so aṭṭhārasavassohaṃ (s2, s3) | aṭṭhārasañca vassohaṃ (pts1, mr)"
-  ],
-  "tha-ap16:17.2": [
-    "ahuṃ → ahaṃ (s2, s3, pts1)"
-  ],
-  "tha-ap16:19.1": [
-    "Bhagavā tattha → athettha satthā (s2, s3, pts1)"
-  ],
-  "tha-ap16:24.1": [
-    "cūḷapanthako → cullapanthako (bj, s2, s3, pts1)"
-  ]
+  "tha-ap16:3.1": "4 Cūḷapanthakattheraapadāna → cullapanthakattherāpadānaṃ (bj, s2, s3, pts1)",
+  "tha-ap16:9.3": "dhārayantassa → dhārayantaṃ me (bj, mr) | dhārayato me (?)",
+  "tha-ap16:13.3": "gottena → nāmena (bj, pts1, mr)",
+  "tha-ap16:16.1": "Sohaṃ aṭṭhārasavasso → so aṭṭhārasavassohaṃ (s2, s3) | aṭṭhārasañca vassohaṃ (pts1, mr)",
+  "tha-ap16:17.2": "ahuṃ → ahaṃ (s2, s3, pts1)",
+  "tha-ap16:19.1": "Bhagavā tattha → athettha satthā (s2, s3, pts1)",
+  "tha-ap16:24.1": "cūḷapanthako → cullapanthako (bj, s2, s3, pts1)"
 }

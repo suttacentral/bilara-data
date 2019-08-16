@@ -1,23 +1,9 @@
 {
-  "ud3.7:2.1": [
-    "Sakkudānasutta → kassapasuttaṃ (bj)"
-  ],
-  "ud3.7:3.3": [
-    "hoti aññataraṃ → nisinno aññataraṃ (s1-3, mr)"
-  ],
-  "ud3.7:5.3": [
-    "Sujā → sujātā (s1-3, pts1, mr)"
-  ],
-  "ud3.7:5.4": [
-    "mā → māssu (bj)"
-  ],
-  "ud3.7:5.6": [
-    "pavisitvā → pavisetvā (mr)"
-  ],
-  "ud3.7:5.7": [
-    "anekarasabyañjano → anekasūparasabyañjano (bj, pts1)"
-  ],
-  "ud3.7:6.2": [
-    "paramadānaṃ → paramaṃ dānaṃ (pts1, mr)"
-  ]
+  "ud3.7:2.1": "Sakkudānasutta → kassapasuttaṃ (bj)",
+  "ud3.7:3.3": "hoti aññataraṃ → nisinno aññataraṃ (s1-3, mr)",
+  "ud3.7:5.3": "Sujā → sujātā (s1-3, pts1, mr)",
+  "ud3.7:5.4": "mā → māssu (bj)",
+  "ud3.7:5.6": "pavisitvā → pavisetvā (mr)",
+  "ud3.7:5.7": "anekarasabyañjano → anekasūparasabyañjano (bj, pts1)",
+  "ud3.7:6.2": "paramadānaṃ → paramaṃ dānaṃ (pts1, mr)"
 }

@@ -1,15 +1,6 @@
 {
-  "pli-tv-bi-vb-ss1:6.2": [
-    "udositaṃ → uddositaṃ (bj, s1-3, pts1)"
-  ],
-  "pli-tv-bi-vb-ss1:6.22": [
-    "pāpuṇāti → pāpuṇi (bj, s1-3)"
-  ],
-  "pli-tv-bi-vb-ss1:7.7": [
-    "api nāyyā → api nāyyo (si, mr) | apinvayyā (s1-3) | api nayyo (pts1)"
-  ],
-  "pli-tv-bi-vb-ss1:10.1": [
-    "kammakārena → kammakarena (bj, s1-3)",
-    "ussayavādikā → usuyyavādikā (s1-3)"
-  ]
+  "pli-tv-bi-vb-ss1:6.2": "udositaṃ → uddositaṃ (bj, s1-3, pts1)",
+  "pli-tv-bi-vb-ss1:6.22": "pāpuṇāti → pāpuṇi (bj, s1-3)",
+  "pli-tv-bi-vb-ss1:7.7": "api nāyyā → api nāyyo (si, mr) | apinvayyā (s1-3) | api nayyo (pts1)",
+  "pli-tv-bi-vb-ss1:10.1": "kammakārena → kammakarena (bj, s1-3), ussayavādikā → usuyyavādikā (s1-3)"
 }

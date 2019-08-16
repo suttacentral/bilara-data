@@ -1,72 +1,25 @@
 {
-  "ja514:6.2": [
-    "supinantenupajjhagā → ... nu'paccagā (bj, s2, s3, pts1)"
-  ],
-  "ja514:9.4": [
-    "mamatthe → mama te (pts1)"
-  ],
-  "ja514:13.4": [
-    "Supupphito → saṃpupphito (s2, s3)"
-  ],
-  "ja514:14.4": [
-    "aṭṭhasahassapādaṃ → ... poraṃ (mr)"
-  ],
-  "ja514:16.1": [
-    "tumūlaṃ → tumūla (s2, s3) | bhimūla (pts1, mr)"
-  ],
-  "ja514:19.2": [
-    "nhāna → nahāna (bj, pts1)"
-  ],
-  "ja514:19.3": [
-    "nhāyati → nahāyati (bj, pts1)"
-  ],
-  "ja514:20.1": [
-    "adūre → avidūre (s2, s3, mr)"
-  ],
-  "ja514:20.2": [
-    "mahodikā → mahodakā (s2, s3, mr)"
-  ],
-  "ja514:20.3": [
-    "bhamaragaṇānuciṇṇā → ... kiṇṇā (katthaci)"
-  ],
-  "ja514:21.1": [
-    "nahātuppalamālabhārī → nahāto uppalamālabhārī (bj, s2, s3, pts1)"
-  ],
-  "ja514:22.3": [
-    "Vituriyati → vituriya so (bj, s-a) | vitureyyati (pts1)"
-  ],
-  "ja514:28.2": [
-    "Sabbe ca → sabbeva (bj, s2, s3, pts1)",
-    "ninnaduṃ → ninnādu (s2, s3) | ninnādaṃ (mr)"
-  ],
-  "ja514:28.3": [
-    "raṇaṃ → cuṇṇaṃ (bj, pts1)"
-  ],
-  "ja514:29.1": [
-    "Vadhissametanti → vadhissamenanti (s2, s3)"
-  ],
-  "ja514:30.2": [
-    "paridahissati → paridahessati (bj, pts1) | paridhassati (katthaci)"
-  ],
-  "ja514:33.4": [
-    "atthoti ca maṃ → atthoti mamaṃ (s2, s3, mr)"
-  ],
-  "ja514:34.2": [
-    "pitūnañca → pitunnampi (pts1)"
-  ],
-  "ja514:37.1": [
-    "Bhayaṭṭitā → bhayadditā (bj, pts1)"
-  ],
-  "ja514:37.3": [
-    "Adisvāna → adisva (bj, pts1)"
-  ],
-  "ja514:38.1": [
-    "roditvāna → roditva (bj, pts1)"
-  ],
-  "ja514:41.1": [
-    "sa → ca (bj, s2, s3) | va (pts1)"
-  ],
-  "ja514:45.3": [
-    "homi → hosiṃ (bj, s2, s3, pts1)"
-  ]
+  "ja514:6.2": "supinantenupajjhagā → ... nu'paccagā (bj, s2, s3, pts1)",
+  "ja514:9.4": "mamatthe → mama te (pts1)",
+  "ja514:13.4": "Supupphito → saṃpupphito (s2, s3)",
+  "ja514:14.4": "aṭṭhasahassapādaṃ → ... poraṃ (mr)",
+  "ja514:16.1": "tumūlaṃ → tumūla (s2, s3) | bhimūla (pts1, mr)",
+  "ja514:19.2": "nhāna → nahāna (bj, pts1)",
+  "ja514:19.3": "nhāyati → nahāyati (bj, pts1)",
+  "ja514:20.1": "adūre → avidūre (s2, s3, mr)",
+  "ja514:20.2": "mahodikā → mahodakā (s2, s3, mr)",
+  "ja514:20.3": "bhamaragaṇānuciṇṇā → ... kiṇṇā (katthaci)",
+  "ja514:21.1": "nahātuppalamālabhārī → nahāto uppalamālabhārī (bj, s2, s3, pts1)",
+  "ja514:22.3": "Vituriyati → vituriya so (bj, s-a) | vitureyyati (pts1)",
+  "ja514:28.2": "Sabbe ca → sabbeva (bj, s2, s3, pts1), ninnaduṃ → ninnādu (s2, s3) | ninnādaṃ (mr)",
+  "ja514:28.3": "raṇaṃ → cuṇṇaṃ (bj, pts1)",
+  "ja514:29.1": "Vadhissametanti → vadhissamenanti (s2, s3)",
+  "ja514:30.2": "paridahissati → paridahessati (bj, pts1) | paridhassati (katthaci)",
+  "ja514:33.4": "atthoti ca maṃ → atthoti mamaṃ (s2, s3, mr)",
+  "ja514:34.2": "pitūnañca → pitunnampi (pts1)",
+  "ja514:37.1": "Bhayaṭṭitā → bhayadditā (bj, pts1)",
+  "ja514:37.3": "Adisvāna → adisva (bj, pts1)",
+  "ja514:38.1": "roditvāna → roditva (bj, pts1)",
+  "ja514:41.1": "sa → ca (bj, s2, s3) | va (pts1)",
+  "ja514:45.3": "homi → hosiṃ (bj, s2, s3, pts1)"
 }

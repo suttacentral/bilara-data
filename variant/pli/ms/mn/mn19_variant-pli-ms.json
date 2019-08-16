@@ -1,22 +1,8 @@
 {
-  "mn19:3.9": [
-    "pajahameva → pajjahameva (s1-3) | pajahāmeva (pts1)",
-    "byantameva → byanteva (bj, pts1)",
-    "vinodameva → vinodanameva (s1-3) | vinodemeva (pts1)"
-  ],
-  "mn19:8.9": [
-    "kilante → kilamante (mr)"
-  ],
-  "mn19:8.11": [
-    "sannisādemi ekodiṃ karomi → ekodi karomi (pts1)"
-  ],
-  "mn19:8.13": [
-    "ūhaññī’ti → ugghāṭīti (s1-3, mr) | ūhanīti (pts1)"
-  ],
-  "mn19:12.2": [
-    "etā → ete (mr)"
-  ],
-  "mn19:25.5": [
-    "anayabyasanaṃ → anayabyasanaṃ tanuttaṃ (bj, s1-3, pts1)"
-  ]
+  "mn19:3.9": "pajahameva → pajjahameva (s1-3) | pajahāmeva (pts1), byantameva → byanteva (bj, pts1), vinodameva → vinodanameva (s1-3) | vinodemeva (pts1)",
+  "mn19:8.9": "kilante → kilamante (mr)",
+  "mn19:8.11": "sannisādemi ekodiṃ karomi → ekodi karomi (pts1)",
+  "mn19:8.13": "ūhaññī’ti → ugghāṭīti (s1-3, mr) | ūhanīti (pts1)",
+  "mn19:12.2": "etā → ete (mr)",
+  "mn19:25.5": "anayabyasanaṃ → anayabyasanaṃ tanuttaṃ (bj, s1-3, pts1)"
 }

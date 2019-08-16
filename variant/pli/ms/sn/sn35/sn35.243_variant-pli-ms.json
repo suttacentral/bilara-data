@@ -1,31 +1,11 @@
 {
-  "sn35.243:0.3": [
-    "243. Avassutapariyāyasutta → avassuto (pts1)"
-  ],
-  "sn35.243:1.2": [
-    "santhāgāraṃ → saṇṭhāgāraṃ (s1-3) | sandhāgāraṃ (mr)",
-    "anajjhāvuṭṭhaṃ → anajjhāvutthaṃ (bj, s1-3, km)"
-  ],
-  "sn35.243:1.4": [
-    "acirakāritaṃ → acirakāritaṃ hoti (bj, mr)"
-  ],
-  "sn35.243:2.1": [
-    "sabbasanthariṃ → sabbasantharisanthataṃ (s1-3) | sabbasanthariṃ santhataṃ (mr)"
-  ],
-  "sn35.243:2.2": [
-    "sabbasantharisanthataṃ → sabbasanthariṃ santhataṃ (pts1, mr)"
-  ],
-  "sn35.243:4.10": [
-    "labhateva → labhatheva (s2, s3) | labhetha (mr)",
-    "labhati → labhetha (s3, mr)"
-  ],
-  "sn35.243:5.2": [
-    "labhetheva → labhetha (mr)"
-  ],
-  "sn35.243:5.18": [
-    "anadhibhū → anadhibhūto (s1-3, km, mr)"
-  ],
-  "sn35.243:7.17": [
-    "dhammādhibhū, adhibhū, anadhibhūto → anadhibhūto kehici kilesehi (mr)"
-  ]
+  "sn35.243:0.3": "243. Avassutapariyāyasutta → avassuto (pts1)",
+  "sn35.243:1.2": "santhāgāraṃ → saṇṭhāgāraṃ (s1-3) | sandhāgāraṃ (mr), anajjhāvuṭṭhaṃ → anajjhāvutthaṃ (bj, s1-3, km)",
+  "sn35.243:1.4": "acirakāritaṃ → acirakāritaṃ hoti (bj, mr)",
+  "sn35.243:2.1": "sabbasanthariṃ → sabbasantharisanthataṃ (s1-3) | sabbasanthariṃ santhataṃ (mr)",
+  "sn35.243:2.2": "sabbasantharisanthataṃ → sabbasanthariṃ santhataṃ (pts1, mr)",
+  "sn35.243:4.10": "labhateva → labhatheva (s2, s3) | labhetha (mr), labhati → labhetha (s3, mr)",
+  "sn35.243:5.2": "labhetheva → labhetha (mr)",
+  "sn35.243:5.18": "anadhibhū → anadhibhūto (s1-3, km, mr)",
+  "sn35.243:7.17": "dhammādhibhū, adhibhū, anadhibhūto → anadhibhūto kehici kilesehi (mr)"
 }

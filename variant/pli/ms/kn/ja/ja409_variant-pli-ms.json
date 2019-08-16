@@ -1,17 +1,7 @@
 {
-  "ja409:5.1": [
-    "daḷhadhammassa → daḷhadhammāya (bj, pts1)"
-  ],
-  "ja409:6.1": [
-    "Nūna rājā na jānāti → naha nūna rājā jānāti (bj, pts1)"
-  ],
-  "ja409:7.2": [
-    "aparāyinī → aparāyaṇī (?)"
-  ],
-  "ja409:7.3": [
-    "Tadā hi → tathā hi (pts1)"
-  ],
-  "ja409:11.1": [
-    "bhaddante → bhaddaṃ vo (bj, s2, s3, pts1)"
-  ]
+  "ja409:5.1": "daḷhadhammassa → daḷhadhammāya (bj, pts1)",
+  "ja409:6.1": "Nūna rājā na jānāti → naha nūna rājā jānāti (bj, pts1)",
+  "ja409:7.2": "aparāyinī → aparāyaṇī (?)",
+  "ja409:7.3": "Tadā hi → tathā hi (pts1)",
+  "ja409:11.1": "bhaddante → bhaddaṃ vo (bj, s2, s3, pts1)"
 }

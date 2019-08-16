@@ -1,15 +1,6 @@
 {
-  "mn106:2.5": [
-    "mārassesa → mārasseva (mr)"
-  ],
-  "mn106:3.11": [
-    "āneñjaṃ → ānejjaṃ (si) | āṇañjaṃ (pts1)"
-  ],
-  "mn106:4.4": [
-    "rūpaṃ sabbaṃ rūpaṃ cattāri → yaṃ kiñci rūpaṃ cattāri (bj, pts1)"
-  ],
-  "mn106:8.2": [
-    "kvacani → kvacini (bj-a, s1-3, km)",
-    "kiñcanatasmiṃ → kiñcanattasmiṃ (bj) | kiñcanatasmi (?)"
-  ]
+  "mn106:2.5": "mārassesa → mārasseva (mr)",
+  "mn106:3.11": "āneñjaṃ → ānejjaṃ (si) | āṇañjaṃ (pts1)",
+  "mn106:4.4": "rūpaṃ sabbaṃ rūpaṃ cattāri → yaṃ kiñci rūpaṃ cattāri (bj, pts1)",
+  "mn106:8.2": "kvacani → kvacini (bj-a, s1-3, km), kiñcanatasmiṃ → kiñcanattasmiṃ (bj) | kiñcanatasmi (?)"
 }

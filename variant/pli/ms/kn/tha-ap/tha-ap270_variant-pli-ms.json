@@ -1,11 +1,5 @@
 {
-  "tha-ap270:3.1": [
-    "8 Saḷalapupphiyattheraapadāna → salalapupphiyattherāpadānaṃ (bj) | salaḷapupphiyattherāpadānaṃ (s2, s3)"
-  ],
-  "tha-ap270:5.3": [
-    "saḷalaṃ → salala (bj) | salaḷaṃ (s2, s3)"
-  ],
-  "tha-ap270:8.1": [
-    "saḷalapupphiyo → salalapupphiyo (bj) | salaḷapupphiyo (s2, s3)"
-  ]
+  "tha-ap270:3.1": "8 Saḷalapupphiyattheraapadāna → salalapupphiyattherāpadānaṃ (bj) | salaḷapupphiyattherāpadānaṃ (s2, s3)",
+  "tha-ap270:5.3": "saḷalaṃ → salala (bj) | salaḷaṃ (s2, s3)",
+  "tha-ap270:8.1": "saḷalapupphiyo → salalapupphiyo (bj) | salaḷapupphiyo (s2, s3)"
 }

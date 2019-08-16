@@ -1,14 +1,6 @@
 {
-  "ud4.4:2.1": [
-    "Yakkhapahārasutta → juṇhasuttaṃ (bj)"
-  ],
-  "ud4.4:6.3": [
-    "apatāsi → avatthāsi (bj) | avaṭṭhāsi (pts1)"
-  ],
-  "ud4.4:8.2": [
-    "Yāva → yaṃ tvaṃ (bj, pts1, mr) | yaṃ (s1-3)"
-  ],
-  "ud4.4:9.2": [
-    "Yāva → yaṃ (s1-3)"
-  ]
+  "ud4.4:2.1": "Yakkhapahārasutta → juṇhasuttaṃ (bj)",
+  "ud4.4:6.3": "apatāsi → avatthāsi (bj) | avaṭṭhāsi (pts1)",
+  "ud4.4:8.2": "Yāva → yaṃ tvaṃ (bj, pts1, mr) | yaṃ (s1-3)",
+  "ud4.4:9.2": "Yāva → yaṃ (s1-3)"
 }

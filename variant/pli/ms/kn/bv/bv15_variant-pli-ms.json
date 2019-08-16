@@ -1,14 +1,6 @@
 {
-  "bv15:2.1": [
-    "15 Piyadassībuddhavaṃsa → piyadassibuddhavaṃso (pts1-2)"
-  ],
-  "bv15:11.2": [
-    "brāhmaṇo → māṇavo (s2, s3, km, mr)"
-  ],
-  "bv15:13.3": [
-    "Saraṇe pañca sīle ca → saraṇaṃ pañcasīlañca (bj, pts1-2)"
-  ],
-  "bv15:30.1": [
-    "Piyadassissa bhagavato vaṃso → piyadassibuddhavaṃso (s2, s3)"
-  ]
+  "bv15:2.1": "15 Piyadassībuddhavaṃsa → piyadassibuddhavaṃso (pts1-2)",
+  "bv15:11.2": "brāhmaṇo → māṇavo (s2, s3, km, mr)",
+  "bv15:13.3": "Saraṇe pañca sīle ca → saraṇaṃ pañcasīlañca (bj, pts1-2)",
+  "bv15:30.1": "Piyadassissa bhagavato vaṃso → piyadassibuddhavaṃso (s2, s3)"
 }

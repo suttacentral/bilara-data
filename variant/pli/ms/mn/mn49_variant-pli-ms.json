@@ -1,17 +1,7 @@
 {
-  "mn49:5.2": [
-    "sajitā → sajjitā (bj, s1-3, km, mr) | sañjitā (si, pts1)"
-  ],
-  "mn49:9.4": [
-    "vattate → vattatī (bj, s1-3, km, pts1)"
-  ],
-  "mn49:9.5": [
-    "Paroparañca → parovarañca (bj)"
-  ],
-  "mn49:26.1": [
-    "Handa carahi → handa ca hi (bj, pts1)"
-  ],
-  "mn49:26.9": [
-    "saddañca me sossanti → saddañca me suyyanti (s1-3) | saddameva suyyanti (mr)"
-  ]
+  "mn49:5.2": "sajitā → sajjitā (bj, s1-3, km, mr) | sañjitā (si, pts1)",
+  "mn49:9.4": "vattate → vattatī (bj, s1-3, km, pts1)",
+  "mn49:9.5": "Paroparañca → parovarañca (bj)",
+  "mn49:26.1": "Handa carahi → handa ca hi (bj, pts1)",
+  "mn49:26.9": "saddañca me sossanti → saddañca me suyyanti (s1-3) | saddameva suyyanti (mr)"
 }

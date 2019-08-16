@@ -1,26 +1,10 @@
 {
-  "tha-ap35:3.1": [
-    "3 Mahākaccānattheraapadāna → mahākaccāyanattherāpadānaṃ (s2, s3)"
-  ],
-  "tha-ap35:4.3": [
-    "Silāsanaṃ → silāpaṭaṃ (s2, s3) | sīhāsanaṃ (pts1, mr)"
-  ],
-  "tha-ap35:5.2": [
-    "vāḷabījaniṃ → vāḷavījaniṃ (bj) | vālavījaniṃ (s2, s3, pts1)"
-  ],
-  "tha-ap35:6.1": [
-    "bhummā → bhūmā (mr)"
-  ],
-  "tha-ap35:8.3": [
-    "Bhikkhusaṃghaparibyūḷho → ... paribbūḷho (bj, pts1) | ... paribyuḷho (s2, s3)"
-  ],
-  "tha-ap35:16.1": [
-    "Saṃkhittapucchitaṃ → saṃkhittaṃ pucchitaṃ (s2, s3, pts1, mr)"
-  ],
-  "tha-ap35:16.4": [
-    "Ajjhāsayaṃ → ajjhāsaṃ (bj, pts1) | abbhāsaṃ (mr)"
-  ],
-  "tha-ap35:21.1": [
-    "mahākaccāno → mahākaccāyano (s2, s3)"
-  ]
+  "tha-ap35:3.1": "3 Mahākaccānattheraapadāna → mahākaccāyanattherāpadānaṃ (s2, s3)",
+  "tha-ap35:4.3": "Silāsanaṃ → silāpaṭaṃ (s2, s3) | sīhāsanaṃ (pts1, mr)",
+  "tha-ap35:5.2": "vāḷabījaniṃ → vāḷavījaniṃ (bj) | vālavījaniṃ (s2, s3, pts1)",
+  "tha-ap35:6.1": "bhummā → bhūmā (mr)",
+  "tha-ap35:8.3": "Bhikkhusaṃghaparibyūḷho → ... paribbūḷho (bj, pts1) | ... paribyuḷho (s2, s3)",
+  "tha-ap35:16.1": "Saṃkhittapucchitaṃ → saṃkhittaṃ pucchitaṃ (s2, s3, pts1, mr)",
+  "tha-ap35:16.4": "Ajjhāsayaṃ → ajjhāsaṃ (bj, pts1) | abbhāsaṃ (mr)",
+  "tha-ap35:21.1": "mahākaccāno → mahākaccāyano (s2, s3)"
 }

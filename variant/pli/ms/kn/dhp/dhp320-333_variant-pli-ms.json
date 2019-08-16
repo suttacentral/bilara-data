@@ -1,17 +1,7 @@
 {
-  "dhp322:2": [
-    "ca → ājānīyāva (s1, s2) | ājānīyā vā (pts1)"
-  ],
-  "dhp322:3": [
-    "Kuñjarā ca → kuñjarāva (s1, s2) | kuñjarā vā (pts1)"
-  ],
-  "dhp324:1": [
-    "Dhanapālo → dhanapālako (bj, s1-3, km, pts1-2)"
-  ],
-  "dhp324:2": [
-    "Kaṭukabhedano → kaṭukappabhedano (bj, s1-3, pts1) | kaṭukapabhedano (pts2)"
-  ],
-  "dhp324:4": [
-    "Sumarati → susarati (mr)"
-  ]
+  "dhp322:2": "ca → ājānīyāva (s1, s2) | ājānīyā vā (pts1)",
+  "dhp322:3": "Kuñjarā ca → kuñjarāva (s1, s2) | kuñjarā vā (pts1)",
+  "dhp324:1": "Dhanapālo → dhanapālako (bj, s1-3, km, pts1-2)",
+  "dhp324:2": "Kaṭukabhedano → kaṭukappabhedano (bj, s1-3, pts1) | kaṭukapabhedano (pts2)",
+  "dhp324:4": "Sumarati → susarati (mr)"
 }

@@ -1,11 +1,5 @@
 {
-  "tha-ap507:3.1": [
-    "5 Pādaphaliyattheraapadāna → vāraphaliyattherāpadānaṃ (bj) | cāraphaliyattherāpadānaṃ (s2, s3) | pāraphaliyattherāpadānaṃ (pts1)"
-  ],
-  "tha-ap507:4.4": [
-    "Pādaphalaṃ adāsahaṃ → vāraphalamadāsahaṃ (bj) | cāraphalamadāsahaṃ (s2, s3) | pāraphalam (pts1) | bādāmañca (?)"
-  ],
-  "tha-ap507:9.1": [
-    "pādaphaliyo → vāraphaliyo (bj) | cāraphaliyo (s2, s3) | pāraphaliyo (pts1)"
-  ]
+  "tha-ap507:3.1": "5 Pādaphaliyattheraapadāna → vāraphaliyattherāpadānaṃ (bj) | cāraphaliyattherāpadānaṃ (s2, s3) | pāraphaliyattherāpadānaṃ (pts1)",
+  "tha-ap507:4.4": "Pādaphalaṃ adāsahaṃ → vāraphalamadāsahaṃ (bj) | cāraphalamadāsahaṃ (s2, s3) | pāraphalam (pts1) | bādāmañca (?)",
+  "tha-ap507:9.1": "pādaphaliyo → vāraphaliyo (bj) | cāraphaliyo (s2, s3) | pāraphaliyo (pts1)"
 }

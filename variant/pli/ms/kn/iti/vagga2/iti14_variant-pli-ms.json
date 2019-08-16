@@ -1,12 +1,5 @@
 {
-  "iti14:4.1": [
-    "yena → yenevaṃ (?)",
-    "avijjānīvaraṇaṃ → avijjānīvaraṇena (?)"
-  ],
-  "iti14:5.2": [
-    "yenevaṃ → yeneva (si, pts1, mr)"
-  ],
-  "iti14:6.2": [
-    "tamokhandhaṃ → tamokkhandhaṃ (bj, s1-3)"
-  ]
+  "iti14:4.1": "yena → yenevaṃ (?), avijjānīvaraṇaṃ → avijjānīvaraṇena (?)",
+  "iti14:5.2": "yenevaṃ → yeneva (si, pts1, mr)",
+  "iti14:6.2": "tamokhandhaṃ → tamokkhandhaṃ (bj, s1-3)"
 }

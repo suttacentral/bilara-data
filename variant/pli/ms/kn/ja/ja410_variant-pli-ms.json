@@ -1,8 +1,4 @@
 {
-  "ja410:5.1": [
-    "paccuḍḍeti → paccudeti (bj, s2, s3, pts1) | paccuṭṭheti (mr)"
-  ],
-  "ja410:6.2": [
-    "allasiṅgaṃva vacchito → allapiṅkaṃva chijjito (bj, pts1) | allapītaṃva vicchito (s2) | allapitaṃva vicchito (s3)"
-  ]
+  "ja410:5.1": "paccuḍḍeti → paccudeti (bj, s2, s3, pts1) | paccuṭṭheti (mr)",
+  "ja410:6.2": "allasiṅgaṃva vacchito → allapiṅkaṃva chijjito (bj, pts1) | allapītaṃva vicchito (s2) | allapitaṃva vicchito (s3)"
 }

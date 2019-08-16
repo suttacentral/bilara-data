@@ -1,14 +1,6 @@
 {
-  "vv32:5.2": [
-    "Accimatī → accimukhī (bj) | acchimutī (s2, s3, pts1) | acchimatī (mr)"
-  ],
-  "vv32:6.4": [
-    "bravi → bruvī (bj)"
-  ],
-  "vv32:10.1": [
-    "daharā apāpikā → daharāsa'pāpikā (bj) | daharā apāvikā (s2, s3)"
-  ],
-  "vv32:13.3": [
-    "pacaritva → paricarāma (s2, s3) | pacaritvāna (mr)"
-  ]
+  "vv32:5.2": "Accimatī → accimukhī (bj) | acchimutī (s2, s3, pts1) | acchimatī (mr)",
+  "vv32:6.4": "bravi → bruvī (bj)",
+  "vv32:10.1": "daharā apāpikā → daharāsa'pāpikā (bj) | daharā apāvikā (s2, s3)",
+  "vv32:13.3": "pacaritva → paricarāma (s2, s3) | pacaritvāna (mr)"
 }

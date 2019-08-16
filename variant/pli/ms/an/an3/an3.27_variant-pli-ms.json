@@ -1,11 +1,4 @@
 {
-  "an3.27:1.12": [
-    "daṃsati → ḍaṃsati (s1-3) | ḍassati (pts1)"
-  ],
-  "an3.27:2.4": [
-    "duṭṭhāruko → duṭṭhārukā (bj)",
-    "kaṭhalāya → kaṭhalena (bj)",
-    "ghaṭṭito → ghaṭṭitā (bj)",
-    "āsavaṃ deti → assandati (bj)"
-  ]
+  "an3.27:1.12": "daṃsati → ḍaṃsati (s1-3) | ḍassati (pts1)",
+  "an3.27:2.4": "duṭṭhāruko → duṭṭhārukā (bj), kaṭhalāya → kaṭhalena (bj), ghaṭṭito → ghaṭṭitā (bj), āsavaṃ deti → assandati (bj)"
 }

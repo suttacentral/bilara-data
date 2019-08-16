@@ -1,35 +1,13 @@
 {
-  "tha-ap500:3.1": [
-    "8 Pulinathūpiyattheraapadāna → puḷinathūpiyattherāpadānaṃ (s2, s3, pts1)"
-  ],
-  "tha-ap500:13.1": [
-    "pulinaṃ → puline (si, pts1) | puḷine (s2, s3)"
-  ],
-  "tha-ap500:14.1": [
-    "Sāyaṃ pātaṃ → sāyapātaṃ (c1)"
-  ],
-  "tha-ap500:19.2": [
-    "tidive → tidase (bj, pts1)"
-  ],
-  "tha-ap500:21.1": [
-    "Soṇṇakiṅkaṇipupphānaṃ → tesaṃ kiṅkaṇipupphānaṃ (bj, s2, s3) | tesaṃ kiṅkhanipupphānaṃ (pts1)"
-  ],
-  "tha-ap500:21.4": [
-    "maṃ → me (mr)"
-  ],
-  "tha-ap500:24.4": [
-    "sādhakā → sārakā (s2, s3) | sārikā (pts1) | sāratā (mr)"
-  ],
-  "tha-ap500:30.3": [
-    "Sāyaṃ pātaṃ → sāyapātaṃ (pts1, c1)"
-  ],
-  "tha-ap500:32.1": [
-    "Saha disvānahaṃ → samā disvānahaṃ (s2, s3) | pasādetvānahaṃ (mr)"
-  ],
-  "tha-ap500:37.2": [
-    "sabbasaṅgātigo → sabbasaṅgātito (c1)"
-  ],
-  "tha-ap500:41.1": [
-    "pulinathūpiyo → puḷinathūpiyo (s2, s3)"
-  ]
+  "tha-ap500:3.1": "8 Pulinathūpiyattheraapadāna → puḷinathūpiyattherāpadānaṃ (s2, s3, pts1)",
+  "tha-ap500:13.1": "pulinaṃ → puline (si, pts1) | puḷine (s2, s3)",
+  "tha-ap500:14.1": "Sāyaṃ pātaṃ → sāyapātaṃ (c1)",
+  "tha-ap500:19.2": "tidive → tidase (bj, pts1)",
+  "tha-ap500:21.1": "Soṇṇakiṅkaṇipupphānaṃ → tesaṃ kiṅkaṇipupphānaṃ (bj, s2, s3) | tesaṃ kiṅkhanipupphānaṃ (pts1)",
+  "tha-ap500:21.4": "maṃ → me (mr)",
+  "tha-ap500:24.4": "sādhakā → sārakā (s2, s3) | sārikā (pts1) | sāratā (mr)",
+  "tha-ap500:30.3": "Sāyaṃ pātaṃ → sāyapātaṃ (pts1, c1)",
+  "tha-ap500:32.1": "Saha disvānahaṃ → samā disvānahaṃ (s2, s3) | pasādetvānahaṃ (mr)",
+  "tha-ap500:37.2": "sabbasaṅgātigo → sabbasaṅgātito (c1)",
+  "tha-ap500:41.1": "pulinathūpiyo → puḷinathūpiyo (s2, s3)"
 }

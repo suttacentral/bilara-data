@@ -1,17 +1,6 @@
 {
-  "sn55.25:0.3": [
-    "25. Dutiyasaraṇānisakkasutta → dutiyasarakānisuttaṃ (bj) | sarakāni or saraṇāni 2 (pts1)"
-  ],
-  "sn55.25:10.1": [
-    "dubbhūmaṃ → dubbhūmiṃ (bj, s1-3) | dubbhūmi (pts1)",
-    "asukhasayitāni → asukhāpassayitāni (mr)",
-    "ca na sammā → devo pana sammā (s1-3, km) | devo na sammā (mr)"
-  ],
-  "sn55.25:10.4": [
-    "durakkhāto → durākkhāto (s1-3) | dvākkhāto (pts1, mr)"
-  ],
-  "sn55.25:11.1": [
-    "sukhettaṃ → sukkhettaṃ (s1-3)",
-    "devo cassa (s1-3, km, mr)"
-  ]
+  "sn55.25:0.3": "25. Dutiyasaraṇānisakkasutta → dutiyasarakānisuttaṃ (bj) | sarakāni or saraṇāni 2 (pts1)",
+  "sn55.25:10.1": "dubbhūmaṃ → dubbhūmiṃ (bj, s1-3) | dubbhūmi (pts1), asukhasayitāni → asukhāpassayitāni (mr), ca na sammā → devo pana sammā (s1-3, km) | devo na sammā (mr)",
+  "sn55.25:10.4": "durakkhāto → durākkhāto (s1-3) | dvākkhāto (pts1, mr)",
+  "sn55.25:11.1": "sukhettaṃ → sukkhettaṃ (s1-3), devo cassa (s1-3, km, mr)"
 }

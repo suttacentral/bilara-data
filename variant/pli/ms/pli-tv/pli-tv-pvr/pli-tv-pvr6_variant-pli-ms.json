@@ -1,17 +1,7 @@
 {
-  "pli-tv-pvr6:9.4": [
-    "natthi tattha āpatti → na katamā āpatti (pts1) | na katamā āpattiyo (mr)"
-  ],
-  "pli-tv-pvr6:27.1": [
-    "Upasampadūposatho → upasampaduposathaṃ (s1-3)"
-  ],
-  "pli-tv-pvr6:27.2": [
-    "Vassūpanāyikapavāraṇā → vassūpanā pavāraṇā (s1-3) | vassupanāyikapavāraṇā (pts1)"
-  ],
-  "pli-tv-pvr6:28.1": [
-    "Kosambakkhandhakaṃ → kosambikkhandhakaṃ (s1-3, pts1)"
-  ],
-  "pli-tv-pvr6:28.4": [
-    "Saṃghabhedaṃ samācāro → saṅghabhedasamācarā (s1-3)"
-  ]
+  "pli-tv-pvr6:9.4": "natthi tattha āpatti → na katamā āpatti (pts1) | na katamā āpattiyo (mr)",
+  "pli-tv-pvr6:27.1": "Upasampadūposatho → upasampaduposathaṃ (s1-3)",
+  "pli-tv-pvr6:27.2": "Vassūpanāyikapavāraṇā → vassūpanā pavāraṇā (s1-3) | vassupanāyikapavāraṇā (pts1)",
+  "pli-tv-pvr6:28.1": "Kosambakkhandhakaṃ → kosambikkhandhakaṃ (s1-3, pts1)",
+  "pli-tv-pvr6:28.4": "Saṃghabhedaṃ samācāro → saṅghabhedasamācarā (s1-3)"
 }

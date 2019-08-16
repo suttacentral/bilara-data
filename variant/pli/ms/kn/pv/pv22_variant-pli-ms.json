@@ -1,14 +1,6 @@
 {
-  "pv22:5.1": [
-    "atidīghā → ahū dīghā (mr)"
-  ],
-  "pv22:5.2": [
-    "yāvabhūmāvalambare → yāva bhummāvalambare (s2, s3) | yāva bhūmyā'valambare (?)"
-  ],
-  "pv22:7.2": [
-    "himavantato → himavantāva (mr)"
-  ],
-  "pv22:10.1": [
-    "uttaro nāma → putto me bhante uttaro (pts1, mr)"
-  ]
+  "pv22:5.1": "atidīghā → ahū dīghā (mr)",
+  "pv22:5.2": "yāvabhūmāvalambare → yāva bhummāvalambare (s2, s3) | yāva bhūmyā'valambare (?)",
+  "pv22:7.2": "himavantato → himavantāva (mr)",
+  "pv22:10.1": "uttaro nāma → putto me bhante uttaro (pts1, mr)"
 }

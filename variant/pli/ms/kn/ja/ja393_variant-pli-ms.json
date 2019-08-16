@@ -1,21 +1,8 @@
 {
-  "ja393:6.1": [
-    "Sukassa → suvassa (pts1)"
-  ],
-  "ja393:7.3": [
-    "Ucchiṭṭhabhojino → ... bhojanā (mr)"
-  ],
-  "ja393:8.2": [
-    "mejjhāraññe → majjharaññe (s2, s3) | majjheraññe (mr)"
-  ],
-  "ja393:10.2": [
-    "aññassa vā → aññassa ca (bj, s2, s3) | aññasseva (pts1)",
-    "vanibbino → vaṇibbino (bj, s2, s3)"
-  ],
-  "ja393:10.3": [
-    "Datvāva → datvāna (bj, pts1, mr)"
-  ],
-  "ja393:11.1": [
-    "Vighāsādajātakaṃ → vighāsajātakaṃ (bj, pts1)"
-  ]
+  "ja393:6.1": "Sukassa → suvassa (pts1)",
+  "ja393:7.3": "Ucchiṭṭhabhojino → ... bhojanā (mr)",
+  "ja393:8.2": "mejjhāraññe → majjharaññe (s2, s3) | majjheraññe (mr)",
+  "ja393:10.2": "aññassa vā → aññassa ca (bj, s2, s3) | aññasseva (pts1), vanibbino → vaṇibbino (bj, s2, s3)",
+  "ja393:10.3": "Datvāva → datvāna (bj, pts1, mr)",
+  "ja393:11.1": "Vighāsādajātakaṃ → vighāsajātakaṃ (bj, pts1)"
 }

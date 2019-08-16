@@ -1,20 +1,8 @@
 {
-  "mil7.1:6.1": [
-    "Gadrabhassa → ghorassarassa (bj, pts1) | ghorasarassa gadrabhassa (maku)"
-  ],
-  "mil7.1:22.1": [
-    "Nāvālagganakassa → nāvālakanakassa (bj, pts1)"
-  ],
-  "mil7.1:23.1": [
-    "Kūpassa → kupakassa (maku) | kūpakassa (mr)"
-  ],
-  "mil7.1:62.1": [
-    "Thanasitadārakassa → thanapītadārakabālakassa (maku)"
-  ],
-  "mil7.1:63.1": [
-    "Cittakadharakummassa → cittakathalakummassa (mr)"
-  ],
-  "mil7.1:73.1": [
-    "Kāḷāyasassa → kālāyassa (maku) | kāḷahaṃsassa (mr)"
-  ]
+  "mil7.1:6.1": "Gadrabhassa → ghorassarassa (bj, pts1) | ghorasarassa gadrabhassa (maku)",
+  "mil7.1:22.1": "Nāvālagganakassa → nāvālakanakassa (bj, pts1)",
+  "mil7.1:23.1": "Kūpassa → kupakassa (maku) | kūpakassa (mr)",
+  "mil7.1:62.1": "Thanasitadārakassa → thanapītadārakabālakassa (maku)",
+  "mil7.1:63.1": "Cittakadharakummassa → cittakathalakummassa (mr)",
+  "mil7.1:73.1": "Kāḷāyasassa → kālāyassa (maku) | kāḷahaṃsassa (mr)"
 }

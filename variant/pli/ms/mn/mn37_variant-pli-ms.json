@@ -1,27 +1,10 @@
 {
-  "mn37:7.1": [
-    "tūriyasatehi → turiyasatehi (bj, s1-3, km, pts1)"
-  ],
-  "mn37:8.2": [
-    "savanāyā”ti → savaṇāyāti (bj)"
-  ],
-  "mn37:8.6": [
-    "samupabyūḷho → samupabbūḷho (bj, pts1) | samūpabbūḷho (si) | samūpabyuḷho (s1-3, km)"
-  ],
-  "mn37:9.3": [
-    "disvā → daṭṭhā (bj) | diṭṭhā (si, pts1, mr)"
-  ],
-  "mn37:11.4": [
-    "abhisaṅkhāsi → abhisaṅkhāreti (s1-3, km) | abhisaṅkhāresi (mr)"
-  ],
-  "mn37:14.6": [
-    "suladdhaṃ te, mārisa → etthantare pāṭho syā1, sī, pā1 potthakesu"
-  ],
-  "mn37:15.2": [
-    "bhagavā ahu → ahunaññeva (si, km) | āhunaññeva (s1-3) | ahu taññeva (pts1)",
-    "bhāsitā”ti → bhāsitā (bj) | abhāsitthāti (pts1, mr)"
-  ],
-  "mn37:15.17": [
-    "bhāsitā”ti → abhāsitthāti (mr)"
-  ]
+  "mn37:7.1": "tūriyasatehi → turiyasatehi (bj, s1-3, km, pts1)",
+  "mn37:8.2": "savanāyā”ti → savaṇāyāti (bj)",
+  "mn37:8.6": "samupabyūḷho → samupabbūḷho (bj, pts1) | samūpabbūḷho (si) | samūpabyuḷho (s1-3, km)",
+  "mn37:9.3": "disvā → daṭṭhā (bj) | diṭṭhā (si, pts1, mr)",
+  "mn37:11.4": "abhisaṅkhāsi → abhisaṅkhāreti (s1-3, km) | abhisaṅkhāresi (mr)",
+  "mn37:14.6": "suladdhaṃ te, mārisa → etthantare pāṭho syā1, sī, pā1 potthakesu",
+  "mn37:15.2": "bhagavā ahu → ahunaññeva (si, km) | āhunaññeva (s1-3) | ahu taññeva (pts1), bhāsitā”ti → bhāsitā (bj) | abhāsitthāti (pts1, mr)",
+  "mn37:15.17": "bhāsitā”ti → abhāsitthāti (mr)"
 }

@@ -1,67 +1,23 @@
 {
-  "snp1.3:5.3": [
-    "santhave → sandhave (mr)"
-  ],
-  "snp1.3:6.3": [
-    "Vaṃsakkaḷīrova → vaṃsakaḷīrova (bj) | vaṃsākaḷīro va (s1-3, km, pts1)"
-  ],
-  "snp1.3:7.1": [
-    "abaddho → abandho (s1-3, km)"
-  ],
-  "snp1.3:12.2": [
-    "Sañchinnapatto → saṃsīnapatto (bj, pts1)"
-  ],
-  "snp1.3:14.4": [
-    "mātaṅgaraññeva nāgo → khaggavisāṇakappo (bj, pts1)"
-  ],
-  "snp1.3:16.3": [
-    "Saṅghaṭṭamānāni → saṅghaṭṭayantāni ()"
-  ],
-  "snp1.3:17.1": [
-    "dutīyena → dutiyena (sabbattha)"
-  ],
-  "snp1.3:20.2": [
-    "ḍaṃsasarīsape → ḍaṃsasiriṃsape (bj, s1-3, km, pts1)"
-  ],
-  "snp1.3:20.3": [
-    "abhisambhavitvā → abhibbhavitvā (^tha-ap2#27 [Paccekabuddhaapadāna])"
-  ],
-  "snp1.3:21.3": [
-    "viharaṃ → vihare (bj, pts1)"
-  ],
-  "snp1.3:22.2": [
-    "phassaye → phussaye (s1-3)"
-  ],
-  "snp1.3:24.3": [
-    "Nirāsayo → nirāsāso (mr)"
-  ],
-  "snp1.3:27.3": [
-    "Vibhūsanaṭṭhānā → vibhūsaṭṭhānā ()"
-  ],
-  "snp1.3:28.2": [
-    "bandhavāni → bandhavāni ca (pts1)"
-  ],
-  "snp1.3:29.3": [
-    "matīmā → mutīmā (bj, pts1, c1) | matimā (s1-3) | matimā ()"
-  ],
-  "snp1.3:30.1": [
-    "Sandālayitvāna → sandāḷayitvāna (bj) | sandālayitvā (pts1) | padālayitvāna (mr)"
-  ],
-  "snp1.3:32.2": [
-    "Sañchannapatto → sañchinnapatto (s1-3) | saṃchinnapatto (pts1) | pacchinnapatto (mr)",
-    "pārichatto → pārichattako ()"
-  ],
-  "snp1.3:33.3": [
-    "appaṭibaddhacitto → appaṭibandhacitto (mr)"
-  ],
-  "snp1.3:34.3": [
-    "chetva → chetvā (bj, s1-3, pts1, mr)",
-    "sinehadosaṃ → snehadosaṃ (bj, mr)"
-  ],
-  "snp1.3:38.2": [
-    "Aneḷamūgo → anelamūgo (bj, s1-3, pts1, mr)"
-  ],
-  "snp1.3:39.3": [
-    "alippamāno → alimpamāno (si, s1-3, mr)"
-  ]
+  "snp1.3:5.3": "santhave → sandhave (mr)",
+  "snp1.3:6.3": "Vaṃsakkaḷīrova → vaṃsakaḷīrova (bj) | vaṃsākaḷīro va (s1-3, km, pts1)",
+  "snp1.3:7.1": "abaddho → abandho (s1-3, km)",
+  "snp1.3:12.2": "Sañchinnapatto → saṃsīnapatto (bj, pts1)",
+  "snp1.3:14.4": "mātaṅgaraññeva nāgo → khaggavisāṇakappo (bj, pts1)",
+  "snp1.3:16.3": "Saṅghaṭṭamānāni → saṅghaṭṭayantāni ()",
+  "snp1.3:17.1": "dutīyena → dutiyena (sabbattha)",
+  "snp1.3:20.2": "ḍaṃsasarīsape → ḍaṃsasiriṃsape (bj, s1-3, km, pts1)",
+  "snp1.3:20.3": "abhisambhavitvā → abhibbhavitvā (^tha-ap2#27 [Paccekabuddhaapadāna])",
+  "snp1.3:21.3": "viharaṃ → vihare (bj, pts1)",
+  "snp1.3:22.2": "phassaye → phussaye (s1-3)",
+  "snp1.3:24.3": "Nirāsayo → nirāsāso (mr)",
+  "snp1.3:27.3": "Vibhūsanaṭṭhānā → vibhūsaṭṭhānā ()",
+  "snp1.3:28.2": "bandhavāni → bandhavāni ca (pts1)",
+  "snp1.3:29.3": "matīmā → mutīmā (bj, pts1, c1) | matimā (s1-3) | matimā ()",
+  "snp1.3:30.1": "Sandālayitvāna → sandāḷayitvāna (bj) | sandālayitvā (pts1) | padālayitvāna (mr)",
+  "snp1.3:32.2": "Sañchannapatto → sañchinnapatto (s1-3) | saṃchinnapatto (pts1) | pacchinnapatto (mr), pārichatto → pārichattako ()",
+  "snp1.3:33.3": "appaṭibaddhacitto → appaṭibandhacitto (mr)",
+  "snp1.3:34.3": "chetva → chetvā (bj, s1-3, pts1, mr), sinehadosaṃ → snehadosaṃ (bj, mr)",
+  "snp1.3:38.2": "Aneḷamūgo → anelamūgo (bj, s1-3, pts1, mr)",
+  "snp1.3:39.3": "alippamāno → alimpamāno (si, s1-3, mr)"
 }

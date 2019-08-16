@@ -1,23 +1,9 @@
 {
-  "snp1.1:3.1": [
-    "Yo → yo ve (s1-3)"
-  ],
-  "snp1.1:3.2": [
-    "osadhehi → osathehi (s1-3) | osadhebhi (mr)"
-  ],
-  "snp1.1:3.4": [
-    "jiṇṇamivattacaṃ → jiṇṇamiva tacaṃ (bj, s1-3, km, pts1) | jiṇṇamivā tacaṃ (?)"
-  ],
-  "snp1.1:4.2": [
-    "saroruhaṃ → sareruhaṃ (mr)"
-  ],
-  "snp1.1:7.2": [
-    "pupphamivā → pupphamiva (bahūsu)"
-  ],
-  "snp1.1:8.2": [
-    "Itibhavābhavatañca → itibbhavābhavatañca (mr)"
-  ],
-  "snp1.1:11.2": [
-    "ñatva → ñatvā (s1-3, pts1, mr)"
-  ]
+  "snp1.1:3.1": "Yo → yo ve (s1-3)",
+  "snp1.1:3.2": "osadhehi → osathehi (s1-3) | osadhebhi (mr)",
+  "snp1.1:3.4": "jiṇṇamivattacaṃ → jiṇṇamiva tacaṃ (bj, s1-3, km, pts1) | jiṇṇamivā tacaṃ (?)",
+  "snp1.1:4.2": "saroruhaṃ → sareruhaṃ (mr)",
+  "snp1.1:7.2": "pupphamivā → pupphamiva (bahūsu)",
+  "snp1.1:8.2": "Itibhavābhavatañca → itibbhavābhavatañca (mr)",
+  "snp1.1:11.2": "ñatva → ñatvā (s1-3, pts1, mr)"
 }

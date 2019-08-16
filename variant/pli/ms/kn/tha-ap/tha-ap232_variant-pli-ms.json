@@ -1,11 +1,5 @@
 {
-  "tha-ap232:3.1": [
-    "10 Ekavandaniyattheraapadāna → ekavandiyattherāpadānaṃ (bj, pts1)"
-  ],
-  "tha-ap232:10.1": [
-    "Ālambaṇadāyakavaggo → ālambanadāyakavaggo (bj, s2, s3, pts1)"
-  ],
-  "tha-ap232:12.3": [
-    "aṅkolaṃ → vakula (s2, s3) | caṅkolaṃ (pts1) | bakuḷaṃ (mr)"
-  ]
+  "tha-ap232:3.1": "10 Ekavandaniyattheraapadāna → ekavandiyattherāpadānaṃ (bj, pts1)",
+  "tha-ap232:10.1": "Ālambaṇadāyakavaggo → ālambanadāyakavaggo (bj, s2, s3, pts1)",
+  "tha-ap232:12.3": "aṅkolaṃ → vakula (s2, s3) | caṅkolaṃ (pts1) | bakuḷaṃ (mr)"
 }

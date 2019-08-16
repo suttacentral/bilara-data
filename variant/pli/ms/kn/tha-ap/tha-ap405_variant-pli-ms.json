@@ -1,50 +1,18 @@
 {
-  "tha-ap405:4.4": [
-    "vissakammena → visukammena (si, s2, s3, mr)"
-  ],
-  "tha-ap405:5.1": [
-    "me → maṃ (bj)"
-  ],
-  "tha-ap405:6.3": [
-    "sugatapattaṃ → sugatappattaṃ (bj) | sugataṃ pattaṃ (si) | subhakaṃ pattaṃ (pts1)"
-  ],
-  "tha-ap405:6.4": [
-    "sappitelaṃ apūrayiṃ → sappitelena pūrayiṃ (bj) | sappitelamapūrayiṃ (pts1) | sappitelassa'pūrayiṃ (?)"
-  ],
-  "tha-ap405:7.4": [
-    "bhiyyo → bhīyo (bj) | bhīyyo (pts1)"
-  ],
-  "tha-ap405:10.4": [
-    "arahattaṃ bhavissati → arahā tvaṃ bhavissasi (bj, pts1) | arahattaṃ gamissati (s2, s3)"
-  ],
-  "tha-ap405:11.1": [
-    "Vissattho → vissaṭṭho (s2, s3, pts1) | visaṭṭho (mr)"
-  ],
-  "tha-ap405:15.4": [
-    "jambumaṇḍassa → jambusaṇḍassa (bj, pts1) | jambūmaṇḍassa (s2, s3)"
-  ],
-  "tha-ap405:17.2": [
-    "cajitvā → catvāna (si, mr) | datvāna (s2, s3, pts1)"
-  ],
-  "tha-ap405:20.4": [
-    "viññāpitaṃ → viññāpitā (?)"
-  ],
-  "tha-ap405:22.1": [
-    "Aho buddhā aho dhammā → aho buddho aho dhammo (bj)"
-  ],
-  "tha-ap405:23.4": [
-    "hessati → essati (bj) | hissati (s2, s3, mr)"
-  ],
-  "tha-ap405:24.2": [
-    "kariyantassa → kārayantassa (s2, s3) | kayiraṃtassa (pts1) | āharantassa (mr)"
-  ],
-  "tha-ap405:24.3": [
-    "Mama nibbattavatthānaṃ → mayā nivatthavatthānam (pts1)"
-  ],
-  "tha-ap405:25.4": [
-    "upanidhiṃ → upanidhaṃ (si, s2, s3, mr) | upanīyaṃ (pts1)"
-  ],
-  "tha-ap405:27.3": [
-    "Bojjhaṅgabhojano → ... janano (s2, s3, mr)"
-  ]
+  "tha-ap405:4.4": "vissakammena → visukammena (si, s2, s3, mr)",
+  "tha-ap405:5.1": "me → maṃ (bj)",
+  "tha-ap405:6.3": "sugatapattaṃ → sugatappattaṃ (bj) | sugataṃ pattaṃ (si) | subhakaṃ pattaṃ (pts1)",
+  "tha-ap405:6.4": "sappitelaṃ apūrayiṃ → sappitelena pūrayiṃ (bj) | sappitelamapūrayiṃ (pts1) | sappitelassa'pūrayiṃ (?)",
+  "tha-ap405:7.4": "bhiyyo → bhīyo (bj) | bhīyyo (pts1)",
+  "tha-ap405:10.4": "arahattaṃ bhavissati → arahā tvaṃ bhavissasi (bj, pts1) | arahattaṃ gamissati (s2, s3)",
+  "tha-ap405:11.1": "Vissattho → vissaṭṭho (s2, s3, pts1) | visaṭṭho (mr)",
+  "tha-ap405:15.4": "jambumaṇḍassa → jambusaṇḍassa (bj, pts1) | jambūmaṇḍassa (s2, s3)",
+  "tha-ap405:17.2": "cajitvā → catvāna (si, mr) | datvāna (s2, s3, pts1)",
+  "tha-ap405:20.4": "viññāpitaṃ → viññāpitā (?)",
+  "tha-ap405:22.1": "Aho buddhā aho dhammā → aho buddho aho dhammo (bj)",
+  "tha-ap405:23.4": "hessati → essati (bj) | hissati (s2, s3, mr)",
+  "tha-ap405:24.2": "kariyantassa → kārayantassa (s2, s3) | kayiraṃtassa (pts1) | āharantassa (mr)",
+  "tha-ap405:24.3": "Mama nibbattavatthānaṃ → mayā nivatthavatthānam (pts1)",
+  "tha-ap405:25.4": "upanidhiṃ → upanidhaṃ (si, s2, s3, mr) | upanīyaṃ (pts1)",
+  "tha-ap405:27.3": "Bojjhaṅgabhojano → ... janano (s2, s3, mr)"
 }

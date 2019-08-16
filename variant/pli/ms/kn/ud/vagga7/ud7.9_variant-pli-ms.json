@@ -1,11 +1,5 @@
 {
-  "ud7.9:3.2": [
-    "thūṇaṃ → thūnaṃ (bj, s1-3, pts1)"
-  ],
-  "ud7.9:3.5": [
-    "() → (atha kho te thūṇeyyakā brāhmaṇagahapatikā) (?)"
-  ],
-  "ud7.9:6.6": [
-    "vissandanto → visandanto (s1-3) | vissando (mr)"
-  ]
+  "ud7.9:3.2": "thūṇaṃ → thūnaṃ (bj, s1-3, pts1)",
+  "ud7.9:3.5": "() → (atha kho te thūṇeyyakā brāhmaṇagahapatikā) (?)",
+  "ud7.9:6.6": "vissandanto → visandanto (s1-3) | vissando (mr)"
 }

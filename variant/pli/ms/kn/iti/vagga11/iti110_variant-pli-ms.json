@@ -1,17 +1,7 @@
 {
-  "iti110:4.2": [
-    "byantīkaroti → vyantikaroti (pts1) | byantiṃ karoti (mr)"
-  ],
-  "iti110:4.3": [
-    "anottāpī → anottappī (sabbattha)"
-  ],
-  "iti110:8.3": [
-    "ottāpī → ottappī (sabbattha)"
-  ],
-  "iti110:13.1": [
-    "Kummaggaṃ paṭipanno → kummaggappaṭipanno (^an4.11#1 [11. Carasutta])"
-  ],
-  "iti110:14.1": [
-    "ca caraṃ vā tiṭṭhaṃ vā → yo caraṃ vātha tiṭṭhaṃ vā (bj, mr) | yo caraṃ vā yadi vā tiṭṭhaṃ (s1-3) | yo caraṃ vā yo tiṭṭhaṃ vā (pts1)"
-  ]
+  "iti110:4.2": "byantīkaroti → vyantikaroti (pts1) | byantiṃ karoti (mr)",
+  "iti110:4.3": "anottāpī → anottappī (sabbattha)",
+  "iti110:8.3": "ottāpī → ottappī (sabbattha)",
+  "iti110:13.1": "Kummaggaṃ paṭipanno → kummaggappaṭipanno (^an4.11#1 [11. Carasutta])",
+  "iti110:14.1": "ca caraṃ vā tiṭṭhaṃ vā → yo caraṃ vātha tiṭṭhaṃ vā (bj, mr) | yo caraṃ vā yadi vā tiṭṭhaṃ (s1-3) | yo caraṃ vā yo tiṭṭhaṃ vā (pts1)"
 }

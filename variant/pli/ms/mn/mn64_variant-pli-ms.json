@@ -1,17 +1,7 @@
 {
-  "mn64:3.4": [
-    "Anusetvevassa → anuseti tvevassa (bj, s1-3, pts1)"
-  ],
-  "mn64:8.5": [
-    "gacchissāmī’ti → gacchāmīti (bj, pts1)"
-  ],
-  "mn64:8.7": [
-    "yesaṃ kesañci → yassa kassaci (sabbattha)"
-  ],
-  "mn64:9.4": [
-    "paṭivāpeti → paṭipāpeti (s1-3) | patiṭṭhāpeti (mr)"
-  ],
-  "mn64:16.2": [
-    "Ettha kho panesāhaṃ → ettha kho tesāhaṃ (bj, s1-3, km, pts1)"
-  ]
+  "mn64:3.4": "Anusetvevassa → anuseti tvevassa (bj, s1-3, pts1)",
+  "mn64:8.5": "gacchissāmī’ti → gacchāmīti (bj, pts1)",
+  "mn64:8.7": "yesaṃ kesañci → yassa kassaci (sabbattha)",
+  "mn64:9.4": "paṭivāpeti → paṭipāpeti (s1-3) | patiṭṭhāpeti (mr)",
+  "mn64:16.2": "Ettha kho panesāhaṃ → ettha kho tesāhaṃ (bj, s1-3, km, pts1)"
 }

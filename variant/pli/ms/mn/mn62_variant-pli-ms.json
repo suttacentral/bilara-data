@@ -1,21 +1,8 @@
 {
-  "mn62:4.1": [
-    "najja → ko nujja (s1-3, km)"
-  ],
-  "mn62:8.2": [
-    "nhāru → nahāru (bj, km, pts1) | nhārū (s1-3)"
-  ],
-  "mn62:8.3": [
-    "pathavīdhātu → paṭhavīdhātu (bj, s1-3, km, pts1)"
-  ],
-  "mn62:11.5": [
-    "koṭṭhāsayā → koṭṭhasayā (bj, s1-3, pts1)"
-  ],
-  "mn62:12.5": [
-    "maṃsalohitehi upādinnaṃ → ākāsagataṃ upādinnaṃ (bj) | ajjhattaṃ upādiṇṇaṃ (s1) | ajjhattaṃ upādinnaṃ (s2, s3) | ākāsagataṃ upādiṇṇaṃ (pts1)",
-    "adhobhāgaṃ → adhobhāgā (bj, s1-3, km, pts1)"
-  ],
-  "mn62:25.2": [
-    "satova → sato (bj, s1, s2, km, pts1)"
-  ]
+  "mn62:4.1": "najja → ko nujja (s1-3, km)",
+  "mn62:8.2": "nhāru → nahāru (bj, km, pts1) | nhārū (s1-3)",
+  "mn62:8.3": "pathavīdhātu → paṭhavīdhātu (bj, s1-3, km, pts1)",
+  "mn62:11.5": "koṭṭhāsayā → koṭṭhasayā (bj, s1-3, pts1)",
+  "mn62:12.5": "maṃsalohitehi upādinnaṃ → ākāsagataṃ upādinnaṃ (bj) | ajjhattaṃ upādiṇṇaṃ (s1) | ajjhattaṃ upādinnaṃ (s2, s3) | ākāsagataṃ upādiṇṇaṃ (pts1), adhobhāgaṃ → adhobhāgā (bj, s1-3, km, pts1)",
+  "mn62:25.2": "satova → sato (bj, s1, s2, km, pts1)"
 }

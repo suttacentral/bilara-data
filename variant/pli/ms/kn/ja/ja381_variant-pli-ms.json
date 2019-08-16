@@ -1,11 +1,5 @@
 {
-  "ja381:8.1": [
-    "apanandassa → aparaṇṇassa (bj, s2, s3, pts1)"
-  ],
-  "ja381:8.4": [
-    "agā → gato (bj)"
-  ],
-  "ja381:10.3": [
-    "Atisīmacaro → atisīmaṃ caro (bj, s2, s3, mr)"
-  ]
+  "ja381:8.1": "apanandassa → aparaṇṇassa (bj, s2, s3, pts1)",
+  "ja381:8.4": "agā → gato (bj)",
+  "ja381:10.3": "Atisīmacaro → atisīmaṃ caro (bj, s2, s3, mr)"
 }

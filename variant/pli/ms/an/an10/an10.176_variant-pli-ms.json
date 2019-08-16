@@ -1,50 +1,17 @@
 {
-  "an10.176:1.4": [
-    "kassa no tvaṃ, cunda, soceyyāni rocesī”ti → soceyyāni roceyyāsīti (bj)"
-  ],
-  "an10.176:1.5": [
-    "sevālamālikā → sevālamālakā (s1-3, pts1)"
-  ],
-  "an10.176:2.2": [
-    "sāvakaṃ → sāvake (bj, s1-3, mr)"
-  ],
-  "an10.176:2.3": [
-    "kālasseva → sakālasseva (s1-3)",
-    "uṭṭhahantova → uṭṭhahanto (s1-3) | vuṭṭhahantova (pts1, mr)"
-  ],
-  "an10.176:6.2": [
-    "sabbapāṇabhūtesu → pāṇabhūtesu (s1-3, mr)"
-  ],
-  "an10.176:8.1": [
-    "mātāpiturakkhitā → s1-3, pts1 potthakesu",
-    "gottarakkhitā → bj, s1-3, pts1 potthakesu"
-  ],
-  "an10.176:10.2": [
-    "so ajānaṃ vā ahaṃ jānāmīti, jānaṃ vā ahaṃ na jānāmīti, apassaṃ vā ahaṃ passāmīti, passaṃ vā ahaṃ na passāmīti → pā1, ka-ma"
-  ],
-  "an10.176:11.1": [
-    "bhettā → bhedātā (mr)"
-  ],
-  "an10.176:14.2": [
-    "abhijjhātā → abhijjhitā (bj, s1-3, mr)"
-  ],
-  "an10.176:15.1": [
-    "vinassantu vā mā vā ahesun’ti → mā vā ahesuṃ iti vāti (bj, pts1, mr)"
-  ],
-  "an10.176:16.2": [
-    "sukaṭadukkaṭānaṃ → sukatadukkatānaṃ (s1-3)"
-  ],
-  "an10.176:17.1": [
-    "akusalakammapathā → akusalā kammapathā (?)"
-  ],
-  "an10.176:22.3": [
-    "asucīyeva → asucicceva (s1-3) | asuciyeva (pts1)"
-  ],
-  "an10.176:23.1": [
-    "vā → yā ca (mr)",
-    "duggatiyo → duggati hoti (s1-3, mr)"
-  ],
-  "an10.176:44.1": [
-    "sugatiyo”ti → sugati hoti (s1-3, mr)"
-  ]
+  "an10.176:1.4": "kassa no tvaṃ, cunda, soceyyāni rocesī”ti → soceyyāni roceyyāsīti (bj)",
+  "an10.176:1.5": "sevālamālikā → sevālamālakā (s1-3, pts1)",
+  "an10.176:2.2": "sāvakaṃ → sāvake (bj, s1-3, mr)",
+  "an10.176:2.3": "kālasseva → sakālasseva (s1-3), uṭṭhahantova → uṭṭhahanto (s1-3) | vuṭṭhahantova (pts1, mr)",
+  "an10.176:6.2": "sabbapāṇabhūtesu → pāṇabhūtesu (s1-3, mr)",
+  "an10.176:8.1": "mātāpiturakkhitā → s1-3, pts1 potthakesu, gottarakkhitā → bj, s1-3, pts1 potthakesu",
+  "an10.176:10.2": "so ajānaṃ vā ahaṃ jānāmīti, jānaṃ vā ahaṃ na jānāmīti, apassaṃ vā ahaṃ passāmīti, passaṃ vā ahaṃ na passāmīti → pā1, ka-ma",
+  "an10.176:11.1": "bhettā → bhedātā (mr)",
+  "an10.176:14.2": "abhijjhātā → abhijjhitā (bj, s1-3, mr)",
+  "an10.176:15.1": "vinassantu vā mā vā ahesun’ti → mā vā ahesuṃ iti vāti (bj, pts1, mr)",
+  "an10.176:16.2": "sukaṭadukkaṭānaṃ → sukatadukkatānaṃ (s1-3)",
+  "an10.176:17.1": "akusalakammapathā → akusalā kammapathā (?)",
+  "an10.176:22.3": "asucīyeva → asucicceva (s1-3) | asuciyeva (pts1)",
+  "an10.176:23.1": "vā → yā ca (mr), duggatiyo → duggati hoti (s1-3, mr)",
+  "an10.176:44.1": "sugatiyo”ti → sugati hoti (s1-3, mr)"
 }

@@ -1,136 +1,40 @@
 {
-  "cnd5:5.3": [
-    "brūsi → brūhi (s1-3)"
-  ],
-  "cnd5:6.2": [
-    "pettivisayaloko → pittivisayaloko (s1-3, pts1)"
-  ],
-  "cnd5:6.4": [
-    "ovuto → ophuṭo (s1-3, pts1)"
-  ],
-  "cnd5:7.2": [
-    "padānupubbatāpetaṃ → padānupubbatāmetaṃ (s1-3) | padānupubbakametaṃ (pts1)"
-  ],
-  "cnd5:9.2": [
-    "paññapesi → paññapehi (s1-3) | paññāpesi (mr)",
-    "uttānīkarosi → uttānīkarohi (s1-3) | uttāniṃ karosi (mr)"
-  ],
-  "cnd5:13.2": [
-    "apaccavekkhaṇā → apaccavekkhanā (bj, s1-3, pts1)"
-  ],
-  "cnd5:15.8": [
-    "bhaggakaṇḍakoti → bhaggakaṇṭhakoti (bj) | bhaggakaṇṭakoti (s1, s3)"
-  ],
-  "cnd5:15.13": [
-    "araññavanapatthāni → araññe vanapatthāni (bj)",
-    "manussarāhasseyyakāni → manussarāhaseyyakāni (bj, s1-3)"
-  ],
-  "cnd5:15.16": [
-    "arūpasamāpattīnanti → āruppa ... (bj, pts1)"
-  ],
-  "cnd5:16.8": [
-    "pañcasu kāmaguṇesu vā cittassa → pañcasuvā kāmagunesuvā cittassa (bj) | pañcasu kāmaguṇesu cittassa (s1) | pañcasu vā kāmaguṇesu cittassa (s2, s3)",
-    "vosaggo → vossaggo (bahūsu)",
-    "anaṭṭhitakiriyatā → anaṭṭhitatā (s1-3) | aniṭṭhitakiriyatā (mr)"
-  ],
-  "cnd5:17.2": [
-    "nandī → nandi (bj, s1-3, pts1)",
-    "paligedho → paḷigedho (bj)",
-    "suttaṃ visaṭā → sottaṃ visatā (s1-3) | sattā visatā (pts1)",
-    "santhavo → sandhavo (mr)",
-    "āsīsanā → āsiṃsanā (bj, s1-3, pts1)",
-    "sādhukamyatā → sādukamyatā (bj) | asādhukammatā (pts1)"
-  ],
-  "cnd5:18.2": [
-    "gabbhaṭṭhitimūlakaṃ → gabbheṭhitimūlakaṃ (s1-3, mr)",
-    "ḍāho → ḍaho (bj, s1-3)",
-    "rakhasā → rakkhasā (mr)",
-    "lohitapittaṃ → lohitaṃ pittaṃ (s1-3, pts1)"
-  ],
-  "cnd5:20.4": [
-    "pidhiyyare → pithīyare (bj) | pithiyyare (s1-3) | pidhīyare (c1)"
-  ],
-  "cnd5:28.1": [
-    "vibhajitāni → vibhattāni (mr)",
-    "seyyathidaṃ → seyyathīdaṃ (bj, s1-3, pts1)"
-  ],
-  "cnd5:29.2": [
-    "paṭissati → patissati (bj)"
-  ],
-  "cnd5:34.2": [
-    "bhūrī → bhūri (mr)"
-  ],
-  "cnd5:36.4": [
-    "vivarāhi vibhajāhi → vivarehi vibhajehi (mr)"
-  ],
-  "cnd5:40.3": [
-    "yācasi → āyācasi (bj, s2, s3) | ayācasi (s1)",
-    "ajjhesasi → ajjhesi (pts1, mr)"
-  ],
-  "cnd5:42.3": [
-    "pariyādiyanavacanametaṃ → pariyādāyavacanametaṃ (s1-3, pts1, mr)"
-  ],
-  "cnd5:45.2": [
-    "sekhā → sekkhā (s1-3, mr)"
-  ],
-  "cnd5:46.10": [
-    "saṅkhātā → saṅkhātāni (bj, s2, s3)"
-  ],
-  "cnd5:47.1": [
-    "Tesaṃ cāyaṃ → tesa'yaṃ (bj) | tesaṃ yāyaṃ (mr)",
-    "pacchimako → pacchimakoṭi (bj)"
-  ],
-  "cnd5:49.3": [
-    "Khuddako → khuddakopi (bj, s1-3, pts1)",
-    "mahanto → mahantopi (bj, s1-3, pts1)"
-  ],
-  "cnd5:51.13": [
-    "vīriyaṃ → viriyaṃ (bj, s1-3, pts1)"
-  ],
-  "cnd5:52.1": [
-    "iriyaṃ → iriyaṃ ti"
-  ],
-  "cnd5:55.5": [
-    "pāvuraṇā → pāpuraṇā (bj, s1-3)",
-    "gāmanigamarājadhāniyo → ... rājaṭhāniyo (mr)"
-  ],
-  "cnd5:56.1": [
-    "ramaṇīyaṭṭhena → idaṃ padaṃ bj, s1-3 potthakesu natthi; ^mnd1#2 [Kāmasuttaniddesa]"
-  ],
-  "cnd5:59.5": [
-    "palibundheyya → paḷibuddheyya (bj) | palibujjheyya (s1-3)",
-    "anajjhosanno → anajjhāpanno (bj, c1) | anajjhopanno (s1-3)"
-  ],
-  "cnd5:60.31": [
-    "byantīkareyya → byantiṃ kareyya (mr)",
-    "ārato → ārato assa (bj, mr)"
-  ],
-  "cnd5:62.16": [
-    "addhuvato → adhuvato (mr)"
-  ],
-  "cnd5:64.2": [
-    "cakkhu ceva → cakkhuñceva (bj, mr)"
-  ],
-  "cnd5:64.3": [
-    "anabhāvaṃkato → anabhāvakato (bj) | anabhāvaṅgato (s1-3)"
-  ],
-  "cnd5:66.2": [
-    "satiparibandhānaṃ → satipaṭipakkhānaṃ (bj, s1-3)",
-    "asammuṭṭhattā → appamuṭṭhattā (bj, s1-3)"
-  ],
-  "cnd5:68.3": [
-    "ānāpānassatiyā → ānāpānasatiyā (bj)"
-  ],
-  "cnd5:68.7": [
-    "samupapanno → sampanno (mr)"
-  ],
-  "cnd5:68.10": [
-    "ponobhavikā → ponobbhavikā (s1-3, mr)"
-  ],
-  "cnd5:69.1": [
-    "Pajjena katena → pajjotakatena (si, mr)"
-  ],
-  "cnd5:70.1": [
-    "samiñjeyya → sammiñjeyya (bj, s1-3, pts1)"
-  ]
+  "cnd5:5.3": "brūsi → brūhi (s1-3)",
+  "cnd5:6.2": "pettivisayaloko → pittivisayaloko (s1-3, pts1)",
+  "cnd5:6.4": "ovuto → ophuṭo (s1-3, pts1)",
+  "cnd5:7.2": "padānupubbatāpetaṃ → padānupubbatāmetaṃ (s1-3) | padānupubbakametaṃ (pts1)",
+  "cnd5:9.2": "paññapesi → paññapehi (s1-3) | paññāpesi (mr), uttānīkarosi → uttānīkarohi (s1-3) | uttāniṃ karosi (mr)",
+  "cnd5:13.2": "apaccavekkhaṇā → apaccavekkhanā (bj, s1-3, pts1)",
+  "cnd5:15.8": "bhaggakaṇḍakoti → bhaggakaṇṭhakoti (bj) | bhaggakaṇṭakoti (s1, s3)",
+  "cnd5:15.13": "araññavanapatthāni → araññe vanapatthāni (bj), manussarāhasseyyakāni → manussarāhaseyyakāni (bj, s1-3)",
+  "cnd5:15.16": "arūpasamāpattīnanti → āruppa ... (bj, pts1)",
+  "cnd5:16.8": "pañcasu kāmaguṇesu vā cittassa → pañcasuvā kāmagunesuvā cittassa (bj) | pañcasu kāmaguṇesu cittassa (s1) | pañcasu vā kāmaguṇesu cittassa (s2, s3), vosaggo → vossaggo (bahūsu), anaṭṭhitakiriyatā → anaṭṭhitatā (s1-3) | aniṭṭhitakiriyatā (mr)",
+  "cnd5:17.2": "nandī → nandi (bj, s1-3, pts1), paligedho → paḷigedho (bj), suttaṃ visaṭā → sottaṃ visatā (s1-3) | sattā visatā (pts1), santhavo → sandhavo (mr), āsīsanā → āsiṃsanā (bj, s1-3, pts1), sādhukamyatā → sādukamyatā (bj) | asādhukammatā (pts1)",
+  "cnd5:18.2": "gabbhaṭṭhitimūlakaṃ → gabbheṭhitimūlakaṃ (s1-3, mr), ḍāho → ḍaho (bj, s1-3), rakhasā → rakkhasā (mr), lohitapittaṃ → lohitaṃ pittaṃ (s1-3, pts1)",
+  "cnd5:20.4": "pidhiyyare → pithīyare (bj) | pithiyyare (s1-3) | pidhīyare (c1)",
+  "cnd5:28.1": "vibhajitāni → vibhattāni (mr), seyyathidaṃ → seyyathīdaṃ (bj, s1-3, pts1)",
+  "cnd5:29.2": "paṭissati → patissati (bj)",
+  "cnd5:34.2": "bhūrī → bhūri (mr)",
+  "cnd5:36.4": "vivarāhi vibhajāhi → vivarehi vibhajehi (mr)",
+  "cnd5:40.3": "yācasi → āyācasi (bj, s2, s3) | ayācasi (s1), ajjhesasi → ajjhesi (pts1, mr)",
+  "cnd5:42.3": "pariyādiyanavacanametaṃ → pariyādāyavacanametaṃ (s1-3, pts1, mr)",
+  "cnd5:45.2": "sekhā → sekkhā (s1-3, mr)",
+  "cnd5:46.10": "saṅkhātā → saṅkhātāni (bj, s2, s3)",
+  "cnd5:47.1": "Tesaṃ cāyaṃ → tesa'yaṃ (bj) | tesaṃ yāyaṃ (mr), pacchimako → pacchimakoṭi (bj)",
+  "cnd5:49.3": "Khuddako → khuddakopi (bj, s1-3, pts1), mahanto → mahantopi (bj, s1-3, pts1)",
+  "cnd5:51.13": "vīriyaṃ → viriyaṃ (bj, s1-3, pts1)",
+  "cnd5:52.1": "iriyaṃ → iriyaṃ ti",
+  "cnd5:55.5": "pāvuraṇā → pāpuraṇā (bj, s1-3), gāmanigamarājadhāniyo → ... rājaṭhāniyo (mr)",
+  "cnd5:56.1": "ramaṇīyaṭṭhena → idaṃ padaṃ bj, s1-3 potthakesu natthi; ^mnd1#2 [Kāmasuttaniddesa]",
+  "cnd5:59.5": "palibundheyya → paḷibuddheyya (bj) | palibujjheyya (s1-3), anajjhosanno → anajjhāpanno (bj, c1) | anajjhopanno (s1-3)",
+  "cnd5:60.31": "byantīkareyya → byantiṃ kareyya (mr), ārato → ārato assa (bj, mr)",
+  "cnd5:62.16": "addhuvato → adhuvato (mr)",
+  "cnd5:64.2": "cakkhu ceva → cakkhuñceva (bj, mr)",
+  "cnd5:64.3": "anabhāvaṃkato → anabhāvakato (bj) | anabhāvaṅgato (s1-3)",
+  "cnd5:66.2": "satiparibandhānaṃ → satipaṭipakkhānaṃ (bj, s1-3), asammuṭṭhattā → appamuṭṭhattā (bj, s1-3)",
+  "cnd5:68.3": "ānāpānassatiyā → ānāpānasatiyā (bj)",
+  "cnd5:68.7": "samupapanno → sampanno (mr)",
+  "cnd5:68.10": "ponobhavikā → ponobbhavikā (s1-3, mr)",
+  "cnd5:69.1": "Pajjena katena → pajjotakatena (si, mr)",
+  "cnd5:70.1": "samiñjeyya → sammiñjeyya (bj, s1-3, pts1)"
 }

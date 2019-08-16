@@ -1,35 +1,13 @@
 {
-  "ja467:8.2": [
-    "gavāssaṃ → gavassaṃ (mr)"
-  ],
-  "ja467:8.3": [
-    "Datvā ca → datvāpi (bj, s2, s3) | datvā vā (pts1)"
-  ],
-  "ja467:8.4": [
-    "vidvā → viddhā (s2, s3)"
-  ],
-  "ja467:9.3": [
-    "atittarūpo → atittirūpo (mr)"
-  ],
-  "ja467:10.4": [
-    "sutittā → tittā (bj, s2, s3, pts1)"
-  ],
-  "ja467:11.1": [
-    "tittinaṃ → tittīnaṃ (s2, s3)"
-  ],
-  "ja467:12.1": [
-    "kāmānaṃ → kāmāni (bj, s2, s3, pts1)"
-  ],
-  "ja467:13.3": [
-    "cajati → jahati (s2, s3, mr)"
-  ],
-  "ja467:14.2": [
-    "sahassiyo → sahassiyā (?)"
-  ],
-  "ja467:16.1": [
-    "Bhadrako → bhaddo (bj) | bhaddako (pts1)"
-  ],
-  "ja467:16.3": [
-    "imaṃ taṇhaṃ → yo taṇhaṃ (bj, s2, s3)"
-  ]
+  "ja467:8.2": "gavāssaṃ → gavassaṃ (mr)",
+  "ja467:8.3": "Datvā ca → datvāpi (bj, s2, s3) | datvā vā (pts1)",
+  "ja467:8.4": "vidvā → viddhā (s2, s3)",
+  "ja467:9.3": "atittarūpo → atittirūpo (mr)",
+  "ja467:10.4": "sutittā → tittā (bj, s2, s3, pts1)",
+  "ja467:11.1": "tittinaṃ → tittīnaṃ (s2, s3)",
+  "ja467:12.1": "kāmānaṃ → kāmāni (bj, s2, s3, pts1)",
+  "ja467:13.3": "cajati → jahati (s2, s3, mr)",
+  "ja467:14.2": "sahassiyo → sahassiyā (?)",
+  "ja467:16.1": "Bhadrako → bhaddo (bj) | bhaddako (pts1)",
+  "ja467:16.3": "imaṃ taṇhaṃ → yo taṇhaṃ (bj, s2, s3)"
 }

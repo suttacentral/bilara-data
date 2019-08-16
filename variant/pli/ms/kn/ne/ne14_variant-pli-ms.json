@@ -1,32 +1,12 @@
 {
-  "ne14:7.1": [
-    "nandī → nandi (bj, pts1)"
-  ],
-  "ne14:7.3": [
-    "vuddhi → vuḍḍhi (bj) | buddhi (mr)"
-  ],
-  "ne14:12.4": [
-    "Cakkhu → cakkhuṃ (pts1, mr)"
-  ],
-  "ne14:12.7": [
-    "Yampidaṃ → yamidaṃ (si, mr)"
-  ],
-  "ne14:13.6": [
-    "mano anicco”ti → aniccan\\ti"
-  ],
-  "ne14:15.1": [
-    "vikīḷaniyaṃ → vikīḷanikaṃ (bj, mr) | vikilanikaṃ (pts1)"
-  ],
-  "ne14:26.4": [
-    "Abhindi → abhidā (bj, mr) | abhida (pts1)"
-  ],
-  "ne14:30.3": [
-    "Upadhibandhano → upadhisambandhano (bj)"
-  ],
-  "ne14:30.5": [
-    "viya → asiri viya (si) | āsīri viya (mr) | sassatoriva (^ud7.10#1 [Utenasutta])"
-  ],
-  "ne14:32.2": [
-    "Nayidha → na idha (bj, pts1, mr)"
-  ]
+  "ne14:7.1": "nandī → nandi (bj, pts1)",
+  "ne14:7.3": "vuddhi → vuḍḍhi (bj) | buddhi (mr)",
+  "ne14:12.4": "Cakkhu → cakkhuṃ (pts1, mr)",
+  "ne14:12.7": "Yampidaṃ → yamidaṃ (si, mr)",
+  "ne14:13.6": "mano anicco”ti → aniccan\\ti",
+  "ne14:15.1": "vikīḷaniyaṃ → vikīḷanikaṃ (bj, mr) | vikilanikaṃ (pts1)",
+  "ne14:26.4": "Abhindi → abhidā (bj, mr) | abhida (pts1)",
+  "ne14:30.3": "Upadhibandhano → upadhisambandhano (bj)",
+  "ne14:30.5": "viya → asiri viya (si) | āsīri viya (mr) | sassatoriva (^ud7.10#1 [Utenasutta])",
+  "ne14:32.2": "Nayidha → na idha (bj, pts1, mr)"
 }

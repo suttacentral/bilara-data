@@ -1,20 +1,8 @@
 {
-  "tha-ap431:3.1": [
-    "9 Sovaṇṇakiṅkaṇiyattheraapadāna → soṇṇakiṃkaṇiyattherāpadānaṃ (s2, s3) | sovaṇṇakiṅkhaniyattherāpadānaṃ (pts1)"
-  ],
-  "tha-ap431:7.2": [
-    "sahatthena → sahasena (s2, s3) | sahassena (pts1) | pasādena (mr)"
-  ],
-  "tha-ap431:11.1": [
-    "Saṭṭhituriyasahassāni → saṭṭhī turiya ... (s2, s3) | saṭṭhiṃ turiya ... (pts1) | saṭṭhitūriya ... (mr)"
-  ],
-  "tha-ap431:11.4": [
-    "vajjanti → vagguṃ nadanti (bj) | vadati (pts1)"
-  ],
-  "tha-ap431:16.2": [
-    "asaṅkhataṃ sududdasaṃ → gambhīraṃ duddasaṃ padaṃ (s2, s3)"
-  ],
-  "tha-ap431:21.1": [
-    "sovaṇṇakiṅkaṇiyo → soṇṇakiṃkaṇiyo (s2, s3) | sovaṇṇakiṅkhaniyo (pts1)"
-  ]
+  "tha-ap431:3.1": "9 Sovaṇṇakiṅkaṇiyattheraapadāna → soṇṇakiṃkaṇiyattherāpadānaṃ (s2, s3) | sovaṇṇakiṅkhaniyattherāpadānaṃ (pts1)",
+  "tha-ap431:7.2": "sahatthena → sahasena (s2, s3) | sahassena (pts1) | pasādena (mr)",
+  "tha-ap431:11.1": "Saṭṭhituriyasahassāni → saṭṭhī turiya ... (s2, s3) | saṭṭhiṃ turiya ... (pts1) | saṭṭhitūriya ... (mr)",
+  "tha-ap431:11.4": "vajjanti → vagguṃ nadanti (bj) | vadati (pts1)",
+  "tha-ap431:16.2": "asaṅkhataṃ sududdasaṃ → gambhīraṃ duddasaṃ padaṃ (s2, s3)",
+  "tha-ap431:21.1": "sovaṇṇakiṅkaṇiyo → soṇṇakiṃkaṇiyo (s2, s3) | sovaṇṇakiṅkhaniyo (pts1)"
 }

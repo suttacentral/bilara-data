@@ -1,49 +1,17 @@
 {
-  "dn17:1.3.8": [
-    "iddhā ceva hoti phītā ca → iddhā ceva ahosi phītā ca (s1-3, km) | iddhā ceva phītā ca (pts1)"
-  ],
-  "dn17:1.4.2": [
-    "lohitaṅkamayo → lohitaṅgamayo (mr) | lohitakamayo (byākaraṇesu)"
-  ],
-  "dn17:1.6.10": [
-    "khamanīyo → kamanīyo (bj, pts1) | kammaniyo (s1-3, km)"
-  ],
-  "dn17:1.8.3": [
-    "pavatti → pavattati (s1-3, km, mr)",
-    "anvadeva → anudeva (s1-3, km)"
-  ],
-  "dn17:1.15.2": [
-    "mānusivaṇṇaṃ → mānusaṃ vaṇṇaṃ (bj, pts1) | mānussīvaṇṇaṃ (s1-3, km)"
-  ],
-  "dn17:1.15.7": [
-    "aticari → aticārī (bj, s1-3, km, pts1) | aticarī (mr)"
-  ],
-  "dn17:1.21.12": [
-    "catutthiyā → catutthāya (s1-3, km, pts1)"
-  ],
-  "dn17:1.23.9": [
-    "annaṭṭhikassa → annatthikassa (bj, s1-3, km, pts1)"
-  ],
-  "dn17:1.25.1": [
-    "vissakammaṃ → visukammaṃ (mr)"
-  ],
-  "dn17:1.29.5": [
-    "sukusalehi → kusalehi (si, s1-3, km, pts1)"
-  ],
-  "dn17:1.29.8": [
-    "duddikkho → dudikkho (pts1)"
-  ],
-  "dn17:1.33.1": [
-    "pokkharaṇiyā rājā mahāsudassano ‘ye → ye kho panānanda (s1-3, km, pts1, mr)"
-  ],
-  "dn17:2.12.2": [
-    "puñchitvā → pamajjitvā (bj, s1-3, km, pts1) | puñjitvā (mr)"
-  ],
-  "dn17:2.13.4": [
-    "kumārakīḷaṃ → … kīḷitaṃ (bj, mr) | … kīḷikaṃ (pts1)"
-  ],
-  "dn17:2.13.7": [
-    "brahmacariyaṃ cari → brahmacariyaṃ ācari (s1-3, km) | brahma­cari­ya­macari (mr)",
-    "gihibhūto → gihībhūto (bj, pts1) | gīhibhūto (km)"
-  ]
+  "dn17:1.3.8": "iddhā ceva hoti phītā ca → iddhā ceva ahosi phītā ca (s1-3, km) | iddhā ceva phītā ca (pts1)",
+  "dn17:1.4.2": "lohitaṅkamayo → lohitaṅgamayo (mr) | lohitakamayo (byākaraṇesu)",
+  "dn17:1.6.10": "khamanīyo → kamanīyo (bj, pts1) | kammaniyo (s1-3, km)",
+  "dn17:1.8.3": "pavatti → pavattati (s1-3, km, mr), anvadeva → anudeva (s1-3, km)",
+  "dn17:1.15.2": "mānusivaṇṇaṃ → mānusaṃ vaṇṇaṃ (bj, pts1) | mānussīvaṇṇaṃ (s1-3, km)",
+  "dn17:1.15.7": "aticari → aticārī (bj, s1-3, km, pts1) | aticarī (mr)",
+  "dn17:1.21.12": "catutthiyā → catutthāya (s1-3, km, pts1)",
+  "dn17:1.23.9": "annaṭṭhikassa → annatthikassa (bj, s1-3, km, pts1)",
+  "dn17:1.25.1": "vissakammaṃ → visukammaṃ (mr)",
+  "dn17:1.29.5": "sukusalehi → kusalehi (si, s1-3, km, pts1)",
+  "dn17:1.29.8": "duddikkho → dudikkho (pts1)",
+  "dn17:1.33.1": "pokkharaṇiyā rājā mahāsudassano ‘ye → ye kho panānanda (s1-3, km, pts1, mr)",
+  "dn17:2.12.2": "puñchitvā → pamajjitvā (bj, s1-3, km, pts1) | puñjitvā (mr)",
+  "dn17:2.13.4": "kumārakīḷaṃ → … kīḷitaṃ (bj, mr) | … kīḷikaṃ (pts1)",
+  "dn17:2.13.7": "brahmacariyaṃ cari → brahmacariyaṃ ācari (s1-3, km) | brahma­cari­ya­macari (mr), gihibhūto → gihībhūto (bj, pts1) | gīhibhūto (km)"
 }

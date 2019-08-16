@@ -1,17 +1,7 @@
 {
-  "thi-ap40:3.1": [
-    "10 Pesalātherīapadāna → selātheriyāpadānaṃ (s2, s3) | selātherīapadānaṃ (pts1)"
-  ],
-  "thi-ap40:5.3": [
-    "taṃ → naṃ (s2, s3)"
-  ],
-  "thi-ap40:11.2": [
-    "saccatthāni → sabbatthāni (s2, s3, mr)"
-  ],
-  "thi-ap40:18.1": [
-    "pesalā → selā (s2, s3, pts1)"
-  ],
-  "thi-ap40:20.1": [
-    "Khattiyāvaggo → khattiyakaññāvaggo (s2, s3)"
-  ]
+  "thi-ap40:3.1": "10 Pesalātherīapadāna → selātheriyāpadānaṃ (s2, s3) | selātherīapadānaṃ (pts1)",
+  "thi-ap40:5.3": "taṃ → naṃ (s2, s3)",
+  "thi-ap40:11.2": "saccatthāni → sabbatthāni (s2, s3, mr)",
+  "thi-ap40:18.1": "pesalā → selā (s2, s3, pts1)",
+  "thi-ap40:20.1": "Khattiyāvaggo → khattiyakaññāvaggo (s2, s3)"
 }

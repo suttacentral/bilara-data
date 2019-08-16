@@ -1,11 +1,5 @@
 {
-  "ja359:5.1": [
-    "haripāda → mahāmiga (bj, s2, s3, pts1)"
-  ],
-  "ja359:5.2": [
-    "mahāmiga → harīpada (bj, s2, s3) | haripada (pts1)"
-  ],
-  "ja359:8.2": [
-    "Bhāsantiṃ mānusiṃ migiṃ → bhāsantī mānusiṃ migī (ṭīkā)"
-  ]
+  "ja359:5.1": "haripāda → mahāmiga (bj, s2, s3, pts1)",
+  "ja359:5.2": "mahāmiga → harīpada (bj, s2, s3) | haripada (pts1)",
+  "ja359:8.2": "Bhāsantiṃ mānusiṃ migiṃ → bhāsantī mānusiṃ migī (ṭīkā)"
 }

@@ -1,11 +1,5 @@
 {
-  "tha-ap487:6.4": [
-    "paṭisanthāraṃ → paṭisantharaṃ (bj, s2, s3, pts1) | paṭisandhāraṃ (mr)"
-  ],
-  "tha-ap487:10.2": [
-    "namhi → nāpi (bj)"
-  ],
-  "tha-ap487:22.2": [
-    "bhave → yoniyo (s2, s3) | yoniso (pts1)"
-  ]
+  "tha-ap487:6.4": "paṭisanthāraṃ → paṭisantharaṃ (bj, s2, s3, pts1) | paṭisandhāraṃ (mr)",
+  "tha-ap487:10.2": "namhi → nāpi (bj)",
+  "tha-ap487:22.2": "bhave → yoniyo (s2, s3) | yoniso (pts1)"
 }

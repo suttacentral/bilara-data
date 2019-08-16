@@ -1,14 +1,6 @@
 {
-  "ja285:5.3": [
-    "Haññāma → hañchema (bj, pts1) | hañchāma (?)"
-  ],
-  "ja285:6.1": [
-    "Yāvatā maṇiṃ ghaṃsāma → yāva yāva nighaṃsāma (bj, pts1) | yavatā maṇi ghaṃsāma (s2, s3)"
-  ],
-  "ja285:7.2": [
-    "vimalo → vipulo (mr)"
-  ],
-  "ja285:8.1": [
-    "Maṇisūkarajātakaṃ → maṇighaṃsajātakaṃ (mr)"
-  ]
+  "ja285:5.3": "Haññāma → hañchema (bj, pts1) | hañchāma (?)",
+  "ja285:6.1": "Yāvatā maṇiṃ ghaṃsāma → yāva yāva nighaṃsāma (bj, pts1) | yavatā maṇi ghaṃsāma (s2, s3)",
+  "ja285:7.2": "vimalo → vipulo (mr)",
+  "ja285:8.1": "Maṇisūkarajātakaṃ → maṇighaṃsajātakaṃ (mr)"
 }

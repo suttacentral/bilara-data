@@ -1,18 +1,7 @@
 {
-  "mn2:0.2": [
-    "Sabbāsavasutta → sabbā­sava­saṃ­vara­suttaṃ (s1-3)"
-  ],
-  "mn2:8.1": [
-    "assa → vāssa (bj, s1-3, pts1)"
-  ],
-  "mn2:14.2": [
-    "ca → cāti (bj, s1-3, pts1)"
-  ],
-  "mn2:18.2": [
-    "tibbānaṃ → tippānaṃ (bj, s1-3, pts1)"
-  ],
-  "mn2:22.2": [
-    "acchecchi → acchejji (mr)",
-    "vivattayi → vāvattayi (bj, pts1)"
-  ]
+  "mn2:0.2": "Sabbāsavasutta → sabbā­sava­saṃ­vara­suttaṃ (s1-3)",
+  "mn2:8.1": "assa → vāssa (bj, s1-3, pts1)",
+  "mn2:14.2": "ca → cāti (bj, s1-3, pts1)",
+  "mn2:18.2": "tibbānaṃ → tippānaṃ (bj, s1-3, pts1)",
+  "mn2:22.2": "acchecchi → acchejji (mr), vivattayi → vāvattayi (bj, pts1)"
 }

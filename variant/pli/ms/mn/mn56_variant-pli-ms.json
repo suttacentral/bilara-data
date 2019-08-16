@@ -1,51 +1,18 @@
 {
-  "mn56:0.2": [
-    "Upālisutta → upāli­vāda­suttaṃ (s1-3)"
-  ],
-  "mn56:2.1": [
-    "nāṭaputto → nātaputto (bj, pts1)"
-  ],
-  "mn56:2.4": [
-    "kho, tapassi → dīghatapassī (s1) | dīghatapassi (s2, s3, km, mr)"
-  ],
-  "mn56:7.2": [
-    "dīghatapassī → tapassī (bj, pts1)"
-  ],
-  "mn56:7.9": [
-    "nipphoṭeyya → nicchodeyya (bj) | nicchādeyya (si, pts1, mr) | nippoṭheyya (s2, s3, km) | niccoṭeyya (mr)",
-    "vālaṃ → thālaṃ (s1-3, mr)"
-  ],
-  "mn56:11.8": [
-    "“Manasi karohi, gahapati → gahapati gahapati (sī1, pā1), gahapati gahapati manasikarohi (syā1-3, kaṃ), gahapati manasi karohi (ka-ma)"
-  ],
-  "mn56:13.27": [
-    "majjhāraññaṃ → mejjhāraññaṃ (bj, s1-3, km, pts1)"
-  ],
-  "mn56:18.1": [
-    "anupubbiṃ kathaṃ → ānupubbīkathaṃ (bj) | anupubbikathaṃ (s1-3, km, mr) | ānupubbikathaṃ (pts1)"
-  ],
-  "mn56:24.2": [
-    "sammajjitvā → pamajjitvā (bj, pts1) | saṃmajjitvā (s1-3)"
-  ],
-  "mn56:29.7": [
-    "Vesamantarassa → vessantarassa (bj, pts1)"
-  ],
-  "mn56:29.18": [
-    "pabhāsakassa → pabhāsakarassa (bj, s1-3, pts1)"
-  ],
-  "mn56:29.29": [
-    "Paṭimantakassa → paṭimantassa (mr)"
-  ],
-  "mn56:29.35": [
-    "Nhātakassa → nahātakassa (bj, pts1) | ṇhātakassa (s1)"
-  ],
-  "mn56:29.45": [
-    "Samuggatassa → sammaggatassa (bj, s1-3, pts1)"
-  ],
-  "mn56:29.47": [
-    "hitassa → appahīnassa (bj, pts1) | appabhītassa (s1-3)"
-  ],
-  "mn56:31.1": [
-    "uggacchīti → uggañchi (bj) | uggañchīti (s1-3, pts1)"
-  ]
+  "mn56:0.2": "Upālisutta → upāli­vāda­suttaṃ (s1-3)",
+  "mn56:2.1": "nāṭaputto → nātaputto (bj, pts1)",
+  "mn56:2.4": "kho, tapassi → dīghatapassī (s1) | dīghatapassi (s2, s3, km, mr)",
+  "mn56:7.2": "dīghatapassī → tapassī (bj, pts1)",
+  "mn56:7.9": "nipphoṭeyya → nicchodeyya (bj) | nicchādeyya (si, pts1, mr) | nippoṭheyya (s2, s3, km) | niccoṭeyya (mr), vālaṃ → thālaṃ (s1-3, mr)",
+  "mn56:11.8": "“Manasi karohi, gahapati → gahapati gahapati (sī1, pā1), gahapati gahapati manasikarohi (syā1-3, kaṃ), gahapati manasi karohi (ka-ma)",
+  "mn56:13.27": "majjhāraññaṃ → mejjhāraññaṃ (bj, s1-3, km, pts1)",
+  "mn56:18.1": "anupubbiṃ kathaṃ → ānupubbīkathaṃ (bj) | anupubbikathaṃ (s1-3, km, mr) | ānupubbikathaṃ (pts1)",
+  "mn56:24.2": "sammajjitvā → pamajjitvā (bj, pts1) | saṃmajjitvā (s1-3)",
+  "mn56:29.7": "Vesamantarassa → vessantarassa (bj, pts1)",
+  "mn56:29.18": "pabhāsakassa → pabhāsakarassa (bj, s1-3, pts1)",
+  "mn56:29.29": "Paṭimantakassa → paṭimantassa (mr)",
+  "mn56:29.35": "Nhātakassa → nahātakassa (bj, pts1) | ṇhātakassa (s1)",
+  "mn56:29.45": "Samuggatassa → sammaggatassa (bj, s1-3, pts1)",
+  "mn56:29.47": "hitassa → appahīnassa (bj, pts1) | appabhītassa (s1-3)",
+  "mn56:31.1": "uggacchīti → uggañchi (bj) | uggañchīti (s1-3, pts1)"
 }

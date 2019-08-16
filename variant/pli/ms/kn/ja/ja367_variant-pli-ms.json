@@ -1,14 +1,6 @@
 {
-  "ja367:5.1": [
-    "sāḷiyachāpoti → sāliya ... (s2, s3, pts1) | sāḷika ... (?)"
-  ],
-  "ja367:6.1": [
-    "Ahantāra → ahananta (bj, pts1) | ahantara (s2, s3) | aharanta (?)"
-  ],
-  "ja367:7.1": [
-    "Ahantāra → ahananta (bj, s2, s3, pts1) | aharanta (?)"
-  ],
-  "ja367:10.1": [
-    "Sāḷiyajātakaṃ → sāliyajātakaṃ (s2, s3, mr)"
-  ]
+  "ja367:5.1": "sāḷiyachāpoti → sāliya ... (s2, s3, pts1) | sāḷika ... (?)",
+  "ja367:6.1": "Ahantāra → ahananta (bj, pts1) | ahantara (s2, s3) | aharanta (?)",
+  "ja367:7.1": "Ahantāra → ahananta (bj, s2, s3, pts1) | aharanta (?)",
+  "ja367:10.1": "Sāḷiyajātakaṃ → sāliyajātakaṃ (s2, s3, mr)"
 }

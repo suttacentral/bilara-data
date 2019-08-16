@@ -1,12 +1,5 @@
 {
-  "sn16.6:2.2": [
-    "bhaṇḍañca → bhaṇḍuñca (bj)",
-    "abhijikañca → ābhiñjikañca (bj, pts1-2, mr) | ābhijjikañca (s1-3, km)"
-  ],
-  "sn16.6:5.2": [
-    "yathābāle yathāmūḷhe yathāakusale → yathā bāle yathā mūḷhe yathā akusale (bj, pts1-2) | yathābālaṃ yathāmūḷhaṃ yathāakusalaṃ (?)"
-  ],
-  "sn16.6:6.3": [
-    "taṃ vo mayaṃ → mayaṃ accayaṃ (bj, s1-3)"
-  ]
+  "sn16.6:2.2": "bhaṇḍañca → bhaṇḍuñca (bj), abhijikañca → ābhiñjikañca (bj, pts1-2, mr) | ābhijjikañca (s1-3, km)",
+  "sn16.6:5.2": "yathābāle yathāmūḷhe yathāakusale → yathā bāle yathā mūḷhe yathā akusale (bj, pts1-2) | yathābālaṃ yathāmūḷhaṃ yathāakusalaṃ (?)",
+  "sn16.6:6.3": "taṃ vo mayaṃ → mayaṃ accayaṃ (bj, s1-3)"
 }

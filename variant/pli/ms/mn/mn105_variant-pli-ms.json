@@ -1,43 +1,15 @@
 {
-  "mn105:5.3": [
-    "adhimānenapi → adhimānena (?)"
-  ],
-  "mn105:5.6": [
-    "desessan’ti → deseyyanti (pts1, mr)"
-  ],
-  "mn105:8.3": [
-    "upaṭṭhāpeti → upaṭṭhapeti (bj, s1-3, km, pts1)"
-  ],
-  "mn105:15.1": [
-    "chaḍḍeyya → chaddeyya (?)"
-  ],
-  "mn105:15.3": [
-    "bhatte → vante (si) | bhutte (mr)"
-  ],
-  "mn105:17.2": [
-    "anabhāvaṃkate → anabhāvakate (bj, pts1) | anabhāvaṅgate (s2, s3, km)"
-  ],
-  "mn105:18.4": [
-    "atathaṃ samānaṃ → atathaṃ sa mānaṃ (bj) | atthaṃ samānaṃ (s1-3, km, pts1)",
-    "Evaṃmāni → evaṃ mānī (bj, pts1, mr) | evamādi (s1-3, km)"
-  ],
-  "mn105:19.6": [
-    "Saupādisesoti → anupādisesoti (s1-3, km, pts1)",
-    "jānamāno → maññamāno (bj, pts1)"
-  ],
-  "mn105:19.7": [
-    "saupādiseso → anupādiseso (s1-3, km, pts1)"
-  ],
-  "mn105:19.12": [
-    "vaṇasāropī’ti → vaṇassāropīti (mr)"
-  ],
-  "mn105:25.8": [
-    "asu ca → asuci (s1-3, km, pts1)"
-  ],
-  "mn105:30.1": [
-    "āsīviso → āsiviso (s1, mr)"
-  ],
-  "mn105:30.4": [
-    "dajjā → yuñjeyya (bj, mr)"
-  ]
+  "mn105:5.3": "adhimānenapi → adhimānena (?)",
+  "mn105:5.6": "desessan’ti → deseyyanti (pts1, mr)",
+  "mn105:8.3": "upaṭṭhāpeti → upaṭṭhapeti (bj, s1-3, km, pts1)",
+  "mn105:15.1": "chaḍḍeyya → chaddeyya (?)",
+  "mn105:15.3": "bhatte → vante (si) | bhutte (mr)",
+  "mn105:17.2": "anabhāvaṃkate → anabhāvakate (bj, pts1) | anabhāvaṅgate (s2, s3, km)",
+  "mn105:18.4": "atathaṃ samānaṃ → atathaṃ sa mānaṃ (bj) | atthaṃ samānaṃ (s1-3, km, pts1), Evaṃmāni → evaṃ mānī (bj, pts1, mr) | evamādi (s1-3, km)",
+  "mn105:19.6": "Saupādisesoti → anupādisesoti (s1-3, km, pts1), jānamāno → maññamāno (bj, pts1)",
+  "mn105:19.7": "saupādiseso → anupādiseso (s1-3, km, pts1)",
+  "mn105:19.12": "vaṇasāropī’ti → vaṇassāropīti (mr)",
+  "mn105:25.8": "asu ca → asuci (s1-3, km, pts1)",
+  "mn105:30.1": "āsīviso → āsiviso (s1, mr)",
+  "mn105:30.4": "dajjā → yuñjeyya (bj, mr)"
 }

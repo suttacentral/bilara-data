@@ -1,14 +1,6 @@
 {
-  "ja297:5.4": [
-    "karissati → sarissati (mr)"
-  ],
-  "ja297:6.4": [
-    "idaṃ → no idha (bj, s2, s3, pts1)"
-  ],
-  "ja297:7.2": [
-    "nikkhañcussīsakohitaṃ → nikkhamussīsake kataṃ (bj, pts1) | nikkhañcussīsake kataṃ (s2, s3)"
-  ],
-  "ja297:7.4": [
-    "dhanikā piyā”ti → dhanakāmikāti (bj) | dhanakāmiyāti (s2, s3, pts1)"
-  ]
+  "ja297:5.4": "karissati → sarissati (mr)",
+  "ja297:6.4": "idaṃ → no idha (bj, s2, s3, pts1)",
+  "ja297:7.2": "nikkhañcussīsakohitaṃ → nikkhamussīsake kataṃ (bj, pts1) | nikkhañcussīsake kataṃ (s2, s3)",
+  "ja297:7.4": "dhanikā piyā”ti → dhanakāmikāti (bj) | dhanakāmiyāti (s2, s3, pts1)"
 }

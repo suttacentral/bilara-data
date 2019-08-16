@@ -1,14 +1,6 @@
 {
-  "sn14.31:0.3": [
-    "31. Pubbesambodhasutta → pubbasuttaṃ (bj) | pubbe (pts1-2)"
-  ],
-  "sn14.31:2.3": [
-    "yaṃ → yā (si)"
-  ],
-  "sn14.31:3.1": [
-    "abhisambuddhoti → abhisambuddho (bj, s1-3, km)"
-  ],
-  "sn14.31:4.3": [
-    "vimutti → cetovimutti (bj, pts1-2, mr)"
-  ]
+  "sn14.31:0.3": "31. Pubbesambodhasutta → pubbasuttaṃ (bj) | pubbe (pts1-2)",
+  "sn14.31:2.3": "yaṃ → yā (si)",
+  "sn14.31:3.1": "abhisambuddhoti → abhisambuddho (bj, s1-3, km)",
+  "sn14.31:4.3": "vimutti → cetovimutti (bj, pts1-2, mr)"
 }

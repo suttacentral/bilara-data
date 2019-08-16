@@ -1,12 +1,5 @@
 {
-  "mil6.3.11:12.3": [
-    "tattha → idaṃ padadvayaṃ bj, maku, pts1 potthakesu"
-  ],
-  "mil6.3.11:14.2": [
-    "hetaṃ → hitaṃ (bj) | hidaṃ (maku, pts1)",
-    "pahaṃsayati tusayati → pahaṃsati tussati (bj) | pahaṃsīyati kuhīyati (si, pts1) | hāsayati kuhiyati (maku)"
-  ],
-  "mil6.3.11:15.1": [
-    "pahaṃsayati tusayati → pahaṃsati tussati (bj) | pahaṃsīyati kuhīyati (si, pts1) | hāsayati kuhiyati (maku)"
-  ]
+  "mil6.3.11:12.3": "tattha → idaṃ padadvayaṃ bj, maku, pts1 potthakesu",
+  "mil6.3.11:14.2": "hetaṃ → hitaṃ (bj) | hidaṃ (maku, pts1), pahaṃsayati tusayati → pahaṃsati tussati (bj) | pahaṃsīyati kuhīyati (si, pts1) | hāsayati kuhiyati (maku)",
+  "mil6.3.11:15.1": "pahaṃsayati tusayati → pahaṃsati tussati (bj) | pahaṃsīyati kuhīyati (si, pts1) | hāsayati kuhiyati (maku)"
 }
