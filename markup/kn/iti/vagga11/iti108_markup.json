@@ -1,0 +1,23 @@
+{
+  "iti108:1.1": "<section class='sutta' id='iti108'><article><div class='hgroup'><p class='division'>{}</p>",
+  "iti108:2.1": "<h1>{}</h1></div>",
+  "iti108:3.1": "<p>{}</p>",
+  "iti108:4.1": "<p>{}",
+  "iti108:4.2": "{}",
+  "iti108:4.3": "{}",
+  "iti108:4.4": "{}",
+  "iti108:4.5": "{}",
+  "iti108:4.6": "{}",
+  "iti108:4.7": "{}",
+  "iti108:4.8": "{}</p>",
+  "iti108:5.1": "<blockquote class='gatha'><p>{}<br>",
+  "iti108:5.2": "{}<br>",
+  "iti108:5.3": "{}<br>",
+  "iti108:5.4": "{}</p>",
+  "iti108:6.1": "<p>{}<br>",
+  "iti108:6.2": "{}<br>",
+  "iti108:6.3": "{}<br>",
+  "iti108:6.4": "{}</p></blockquote>",
+  "iti108:7.1": "<p>{}</p>",
+  "iti108:8.1": "<p class='endsection'>{}"
+}
