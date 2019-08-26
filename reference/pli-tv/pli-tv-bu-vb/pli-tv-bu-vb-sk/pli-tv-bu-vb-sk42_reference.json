@@ -1,7 +1,7 @@
 {
-  "pli-tv-bu-vb-sk42:6.1": "sc1",
-  "pli-tv-bu-vb-sk42:7.1": "sc2",
-  "pli-tv-bu-vb-sk42:8.1": "sc3",
-  "pli-tv-bu-vb-sk42:9.1": "sc4",
-  "pli-tv-bu-vb-sk42:10.1": "sc5"
+  "pli-tv-bu-vb-sk42:6.1": "sc1, pts-cs-sk.42, ms-pa1894",
+  "pli-tv-bu-vb-sk42:7.1": "sc2, ms-pa1895",
+  "pli-tv-bu-vb-sk42:8.1": "sc3, ms-pa1896",
+  "pli-tv-bu-vb-sk42:9.1": "sc4, ms-pa1897",
+  "pli-tv-bu-vb-sk42:10.1": "sc5, ms-pa1898"
 }

@@ -1,0 +1,5 @@
+{
+  "pli-tv-pvr2.7:5.1": "sc1",
+  "pli-tv-pvr2.7:6.1": "sc2, pts-vp-pli5.81",
+  "pli-tv-pvr2.7:7.1": "sc3"
+}
