@@ -1,0 +1,17 @@
+{
+  "ja80:1.1": "<section class='sutta' id='ja80'><article><div class='hgroup'><p class='division'>{}</p>",
+  "ja80:2.1": "<p>{}</p>",
+  "ja80:3.1": "<p>{}</p>",
+  "ja80:4.1": "<h1>{}</h1></div>",
+  "ja80:5.1": "<blockquote class='gatha'><p>{}<br>",
+  "ja80:5.2": "{}<br>",
+  "ja80:5.3": "{}<br>",
+  "ja80:5.4": "{}</p></blockquote>",
+  "ja80:6.1": "<p class='endsutta'>{}<br>",
+  "ja80:6.2": "{}</p>",
+  "ja80:7.1": "<p class='uddana-intro'>{}</p>",
+  "ja80:8.1": "<blockquote class='uddanagatha'><p>{}<br>",
+  "ja80:8.2": "{}<br>",
+  "ja80:8.3": "{}<br>",
+  "ja80:8.4": "{}"
+}

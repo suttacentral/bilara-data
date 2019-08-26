@@ -1,0 +1,11 @@
+{
+  "ja146:1.1": "<section class='sutta' id='ja146'><article><div class='hgroup'><p class='division'>{}</p>",
+  "ja146:2.1": "<p>{}</p>",
+  "ja146:3.1": "<p>{}</p>",
+  "ja146:4.1": "<h1>{}</h1></div>",
+  "ja146:5.1": "<blockquote class='gatha'><p>{}<br>",
+  "ja146:5.2": "{}<br>",
+  "ja146:5.3": "{}<br>",
+  "ja146:5.4": "{}</p></blockquote>",
+  "ja146:6.1": "<p class='endsutta'>{}"
+}

@@ -1,0 +1,20 @@
+{
+  "pli-tv-bu-vb-sk60:1.1": "<header><p class='collection'>{}</p>",
+  "pli-tv-bu-vb-sk60:2.1": "<p class='division'>{}</p>",
+  "pli-tv-bu-vb-sk60:3.1": "<p class='kanda'>{}</p>",
+  "pli-tv-bu-vb-sk60:4.1": "<p class='vagga'>{}</p>",
+  "pli-tv-bu-vb-sk60:5.1": "<h1>{}</h1></header>",
+  "x.0": "<section class='vinaya-anapatti'><h2>{}</h2>",
+  "pli-tv-bu-vb-sk60:6.1": "<p>{}",
+  "pli-tv-bu-vb-sk60:6.2": "{}</p></section>",
+  "pli-tv-bu-vb-sk60:7.1": "<p class='rule'>{}</p></section>",
+  "pli-tv-bu-vb-sk60:8.1": "<dl><dt>{}</dt>",
+  "pli-tv-bu-vb-sk60:8.2": "<dd>{}</dd></dl>",
+  "pli-tv-bu-vb-sk60:9.1": "<hr><p>{}",
+  "pli-tv-bu-vb-sk60:9.2": "{}</p></section>",
+  "pli-tv-bu-vb-sk60:10.1": "<p>{}",
+  "pli-tv-bu-vb-sk60:10.2)": "{}",
+  "pli-tv-bu-vb-sk60:10.2": "{}</p></section>",
+  "pli-tv-bu-vb-sk60:11.1": "<p class='endsutta'>{}</p>",
+  "pli-tv-bu-vb-sk60:11.2": "<p class='endvagga'>{}</p>"
+}

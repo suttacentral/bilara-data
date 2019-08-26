@@ -1,9 +1,8 @@
 {
-  "pli-tv-bi-vb-as1-7:5.1": "sc1,  pts-vp-pli4.351",
-  "pli-tv-bi-vb-as1-7:6.1": "sc2",
-  "pli-tv-bi-vb-as1-7:7.1": "sc3",
-  "pli-tv-bi-vb-as1-7:8.1": "sc4",
-  "pli-tv-bi-vb-as1-7:9.1": "sc5",
-  "pli-tv-bi-vb-as1-7:10.1": "sc6",
-  "pli-tv-bi-vb-as1-7:11.1": "sc7"
+  "pli-tv-bi-vb-as1-7:5.1": "sc1, pts-vp-pli4.351, pts-vp-pli4.351, pts-vp-en3.426, ms-pa3579",
+  "pli-tv-bi-vb-as1-7:7.1": "sc3, ms-pa3581",
+  "pli-tv-bi-vb-as1-7:8.1": "sc4, ms-pa3582",
+  "pli-tv-bi-vb-as1-7:9.1": "sc5, ms-pa3583",
+  "pli-tv-bi-vb-as1-7:10.1": "sc6, ms-pa3584",
+  "pli-tv-bi-vb-as1-7:11.1": "sc7, ms-pa3585"
 }

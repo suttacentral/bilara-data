@@ -1,0 +1,11 @@
+{
+  "pli-tv-bi-vb-pc2:6.1": "sc1, pts-vp-pli4.260, pts-cs-Bi-Pc.2.1, pts-vp-en3.247, ms-pa2579",
+  "pli-tv-bi-vb-pc2:6.2": "pts-vp-pli4.260",
+  "pli-tv-bi-vb-pc2:7.1": "sc2, ms-pa2580",
+  "pli-tv-bi-vb-pc2:8.1": "sc3, ms-pa2581",
+  "pli-tv-bi-vb-pc2:9.1": "sc4, pts-cs-Bi-Pc.2.2, ms-pa2582",
+  "pli-tv-bi-vb-pc2:10.1": "sc5, ms-pa2583",
+  "pli-tv-bi-vb-pc2:11.1": "sc6, ms-pa2584",
+  "pli-tv-bi-vb-pc2:12.1": "sc7, ms-pa2585",
+  "pli-tv-bi-vb-pc2:13.1": "sc8, ms-pa2586"
+}

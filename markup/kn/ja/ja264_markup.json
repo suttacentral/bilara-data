@@ -1,0 +1,19 @@
+{
+  "ja264:1.1": "<section class='sutta' id='ja264'><article><div class='hgroup'><p class='division'>{}</p>",
+  "ja264:2.1": "<p>{}</p>",
+  "ja264:3.1": "<p>{}</p>",
+  "ja264:4.1": "<h1>{}</h1></div>",
+  "ja264:5.1": "<blockquote class='gatha'><p>{}<br>",
+  "ja264:5.2": "{}<br>",
+  "ja264:5.3": "{}<br>",
+  "ja264:5.4": "{}</p>",
+  "ja264:6.1": "<p>{}<br>",
+  "ja264:6.2": "{}<br>",
+  "ja264:6.3": "{}<br>",
+  "ja264:6.4": "{}</p>",
+  "ja264:7.1": "<p>{}<br>",
+  "ja264:7.2": "{}<br>",
+  "ja264:7.3": "{}<br>",
+  "ja264:7.4": "{}</p></blockquote>",
+  "ja264:8.1": "<p class='endsutta'>{}"
+}
