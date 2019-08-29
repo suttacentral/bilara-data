@@ -4,7 +4,6 @@
   "pli-tv-bu-vb-pc62:0.3": "The chapter on offenses entailing confession",
   "pli-tv-bu-vb-pc62:0.4": "The sub-chapter on containing living beings",
   "pli-tv-bu-vb-pc62:0.5": "62. The training rule on containing living beings",
-  "x.0": "Non-offenses",
   "pli-tv-bu-vb-pc62:1.1": "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery.",
   "pli-tv-bu-vb-pc62:1.2": "At that time the monks from the group of six used water that they knew contained living beings.",
   "pli-tv-bu-vb-pc62:1.3": "The monks of few desires complained and criticized them,",
@@ -25,11 +24,12 @@
   "pli-tv-bu-vb-pc62:2.1.8": "If he uses it, knowing that it contains living beings and knowing that they will die if the water is used, he commits an offense entailing confession.",
   "pli-tv-bu-vb-pc62:2.1.9": "If it contains living beings, and he perceives it as containing living beings, and he uses it, he commits an offense entailing confession.",
   "pli-tv-bu-vb-pc62:2.2.1": "If it contains living beings, but he is unsure if it does, and he uses it, he commits an offense of wrong conduct.",
-  "pli-tv-bu-vb-pc62:2.2.2": "If it contains living beings, but he does not perceive it as containing living beings, and he uses it, there is no offense.",
+  "pli-tv-bu-vb-pc62:2.2.2": "If it contains living beings, but he perceives it as not containing living beings, and he uses it, there is no offense.",
   "pli-tv-bu-vb-pc62:2.2.3": "If it does not contain living beings, but he perceives that it does, he commits an offense of wrong conduct.",
   "pli-tv-bu-vb-pc62:2.2.4": "If it does not contain living beings, but he is unsure of it, he commits an offense of wrong conduct.",
-  "pli-tv-bu-vb-pc62:2.2.5": "If it does not contain living beings, and he does not perceive that it does, there is no offense.",
+  "pli-tv-bu-vb-pc62:2.2.5": "If it does not contain living beings, and he perceives that it does not, there is no offense.",
   "pli-tv-bu-vb-pc62:2.3.1": "There is no offense:",
   "pli-tv-bu-vb-pc62:2.3.2": "if he is the first offender.",
-  "pli-tv-bu-vb-pc62:2.3.3": "The second rule, the training rule on containing living beings, is finished."
+  "pli-tv-bu-vb-pc62:2.3.3": "The second rule, the training rule on containing living beings, is finished.",
+  "x.0": "Non-offenses"
 }
