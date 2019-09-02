@@ -37,6 +37,8 @@
   "pli-tv-bi-vb-pc26:12.3": "<hr><p>{}",
   "pli-tv-bi-vb-pc26:12.4": "{}</p></section>",
   "pli-tv-bi-vb-pc26:13.1": "<p>{}",
+  "pli-tv-bi-vb-pc26:13.2": "{} ",
+  "pli-tv-bi-vb-pc26:13.3": "{} ",
   "pli-tv-bi-vb-pc26:13.4": "{}</p></section>",
   "pli-tv-bi-vb-pc26:14.1": "<p class='endsutta'>{}</p>"
 }

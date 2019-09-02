@@ -8,6 +8,14 @@
   "pli-tv-bu-vb-pc80:2.1.7": "sc6, ms-pa1416",
   "pli-tv-bu-vb-pc80:2.1.11": "sc7, pts-cs80.2.2, ms-pa1417",
   "pli-tv-bu-vb-pc80:2.3.1": "sc8, pts-cs80.2.3, ms-pa1418",
+  "pli-tv-bu-vb-pc80:2.3.2": "pts-vp-en3.63",
+  "pli-tv-bu-vb-pc80:2.3.3": "pts-vp-en3.63",
+  "pli-tv-bu-vb-pc80:2.3.4": "pts-vp-en3.63",
+  "pli-tv-bu-vb-pc80:2.3.5": "pts-vp-en3.63",
+  "pli-tv-bu-vb-pc80:2.3.6": "pts-vp-en3.63",
+  "pli-tv-bu-vb-pc80:2.3.7": "pts-vp-en3.63",
+  "pli-tv-bu-vb-pc80:2.3.8": "pts-vp-en3.63",
+  "pli-tv-bu-vb-pc80:2.3.9": "pts-vp-en3.63",
   "pli-tv-bu-vb-pc80:2.3.10": "pts-vp-en3.63",
   "pli-tv-bu-vb-pc80:2.3.11": "sc9, ms-pa1419"
 }

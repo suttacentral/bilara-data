@@ -40,6 +40,7 @@
   "pli-tv-bi-vb-np2:11.2": "{}",
   "pli-tv-bi-vb-np2:11.3": "{}</p>",
   "pli-tv-bi-vb-np2:11.4": "<p>{}",
+  "pli-tv-bi-vb-np2:11.5": "<span class='pe'>{}</span></p>",
   "pli-tv-bi-vb-np2:11.6": "<article class='kamma'><p>{}",
   "pli-tv-bi-vb-np2:11.7": "{}",
   "pli-tv-bi-vb-np2:11.8": "{}",
@@ -51,6 +52,9 @@
   "pli-tv-bi-vb-np2:12.5": "{}",
   "pli-tv-bi-vb-np2:12.6": "{}</p></section>",
   "pli-tv-bi-vb-np2:13.1": "<p>{}",
+  "pli-tv-bi-vb-np2:13.2": "{} ",
+  "pli-tv-bi-vb-np2:13.3": "{} ",
+  "pli-tv-bi-vb-np2:13.4": "{} ",
   "pli-tv-bi-vb-np2:13.5": "{}</p></section>",
   "pli-tv-bi-vb-np2:14.1": "<p class='endsutta'>{}</p>"
 }

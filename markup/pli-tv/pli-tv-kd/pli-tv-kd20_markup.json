@@ -1060,6 +1060,7 @@
   "pli-tv-kd20:27.4.32": "<p class='rule'>{}",
   "pli-tv-kd20:27.4.33": "{}",
   "pli-tv-kd20:27.4.34": "{}</p>",
+  "pli-tv-kd20:27.4.35": "<p class='end'>{}</p>",
   "pli-tv-kd20:27.4.36": "<p class='endsutta'>{}<br>",
   "pli-tv-kd20:28.1.1": "{}</p>",
   "pli-tv-kd20:28.1.2": "<section class='uddana'><p>{}</p>",

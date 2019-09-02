@@ -29,6 +29,9 @@
   "pli-tv-bi-vb-pc93:12.1": "<dt>{}</dt>",
   "pli-tv-bi-vb-pc93:12.2": "<dd>{}</dd></dl></section>",
   "pli-tv-bi-vb-pc93:13.1": "<section class='vinaya-anapatti'><p>{}",
+  "pli-tv-bi-vb-pc93:13.2": "{} ",
+  "pli-tv-bi-vb-pc93:13.3": "{} ",
+  "pli-tv-bi-vb-pc93:13.4": "{} ",
   "pli-tv-bi-vb-pc93:13.5": "{}</p></section>",
   "pli-tv-bi-vb-pc93:14.1": "<p class='endsutta'>{}</p>"
 }

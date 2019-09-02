@@ -25,6 +25,12 @@
   "pli-tv-bu-vb-sk1:11.1": "<p>{}",
   "pli-tv-bu-vb-sk1:11.2": "{}</p></section>",
   "pli-tv-bu-vb-sk1:12.1": "<p>{}",
+  "pli-tv-bu-vb-sk1:12.2": "{} ",
+  "pli-tv-bu-vb-sk1:12.3": "{} ",
+  "pli-tv-bu-vb-sk1:12.4": "{} ",
+  "pli-tv-bu-vb-sk1:12.5": "{} ",
+  "pli-tv-bu-vb-sk1:12.6": "{} ",
+  "pli-tv-bu-vb-sk1:12.7": "{} ",
   "pli-tv-bu-vb-sk1:12.8": "{}</p></section>",
   "pli-tv-bu-vb-sk1:13.1": "<p class='endsutta'>{}</p>"
 }

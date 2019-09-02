@@ -75,6 +75,8 @@
   "pli-tv-bi-vb-pj7:21.2": "{}</p>",
   "pli-tv-bi-vb-pj7:22.1": "<p>{}",
   "pli-tv-bi-vb-pj7:22.2": "{}</p></article>",
+  "pli-tv-bi-vb-pj7:23.1": "<p>{} ",
+  "pli-tv-bi-vb-pj7:23.2": "{} ",
   "pli-tv-bi-vb-pj7:23.3": "{}</p></dd>",
   "pli-tv-bi-vb-pj7:24.1": "<dt>{}</dt>",
   "pli-tv-bi-vb-pj7:24.2": "<dd>{}</dd>",
@@ -90,6 +92,8 @@
   "pli-tv-bi-vb-pj7:28.2": "{}",
   "pli-tv-bi-vb-pj7:28.3": "{}</p></section>",
   "pli-tv-bi-vb-pj7:29.1": "<p>{}",
+  "pli-tv-bi-vb-pj7:29.2": "{} ",
+  "pli-tv-bi-vb-pj7:29.3": "{} ",
   "pli-tv-bi-vb-pj7:29.4": "{}",
   "pli-tv-bi-vb-pj7:29.5": "{}</p></section>",
   "pli-tv-bi-vb-pj7:30.1": "<p class='endsutta'>{}</p>"

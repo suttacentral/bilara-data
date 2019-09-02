@@ -8,6 +8,11 @@
   "pli-tv-bu-vb-pc53:2.2.4": "sc5, ms-pa1042",
   "pli-tv-bu-vb-pc53:2.2.8": "sc6, ms-pa1043",
   "pli-tv-bu-vb-pc53:2.3.1": "sc7, pts-vp-pli4.113, pts-cs53.2.3, pts-vp-en2.392, ms-pa1044",
+  "pli-tv-bu-vb-pc53:2.3.2": "pts-vp-pli4.113",
+  "pli-tv-bu-vb-pc53:2.3.3": "pts-vp-pli4.113",
+  "pli-tv-bu-vb-pc53:2.3.4": "pts-vp-pli4.113",
+  "pli-tv-bu-vb-pc53:2.3.5": "pts-vp-pli4.113",
+  "pli-tv-bu-vb-pc53:2.3.6": "pts-vp-pli4.113",
   "pli-tv-bu-vb-pc53:2.3.7": "pts-vp-pli4.113",
   "pli-tv-bu-vb-pc53:2.3.8": "sc8, ms-pa1045"
 }

@@ -34,6 +34,10 @@
   "pli-tv-bu-vb-pc87:2.1.16": "<p>{}</p>",
   "pli-tv-bu-vb-pc87:2.1.17": "<p>{}</p></section>",
   "pli-tv-bu-vb-pc87:2.2.1": "<p>{}",
+  "pli-tv-bu-vb-pc87:2.2.2": "{} ",
+  "pli-tv-bu-vb-pc87:2.2.3": "{} ",
+  "pli-tv-bu-vb-pc87:2.2.4": "{} ",
+  "pli-tv-bu-vb-pc87:2.2.5": "{} ",
   "pli-tv-bu-vb-pc87:2.2.6": "{}</p></section>",
   "pli-tv-bu-vb-pc87:2.2.7": "<p class='endsutta'>{}</p>"
 }

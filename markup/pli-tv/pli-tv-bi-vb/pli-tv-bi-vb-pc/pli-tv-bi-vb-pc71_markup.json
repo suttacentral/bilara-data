@@ -44,6 +44,9 @@
   "pli-tv-bi-vb-pc71:12.5": "{}",
   "pli-tv-bi-vb-pc71:12.6": "{}</p></section>",
   "pli-tv-bi-vb-pc71:13.1": "<p>{}",
+  "pli-tv-bi-vb-pc71:13.2": "{} ",
+  "pli-tv-bi-vb-pc71:13.3": "{} ",
+  "pli-tv-bi-vb-pc71:13.4": "{} ",
   "pli-tv-bi-vb-pc71:13.5": "{}</p></section>",
   "pli-tv-bi-vb-pc71:14.1": "<p class='endsutta'>{}</p>"
 }

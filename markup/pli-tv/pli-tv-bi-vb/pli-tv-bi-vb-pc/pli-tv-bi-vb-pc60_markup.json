@@ -58,6 +58,9 @@
   "pli-tv-bi-vb-pc60:11.11": "{}",
   "pli-tv-bi-vb-pc60:11.12": "{}</p></section>",
   "pli-tv-bi-vb-pc60:12.1": "<p>{}",
+  "pli-tv-bi-vb-pc60:12.2": "{} ",
+  "pli-tv-bi-vb-pc60:12.3": "{} ",
+  "pli-tv-bi-vb-pc60:12.4": "{} ",
   "pli-tv-bi-vb-pc60:12.5": "{}</p></section>",
   "pli-tv-bi-vb-pc60:13.1": "<p class='endsutta'>{}</p>",
   "pli-tv-bi-vb-pc60:13.2": "<p class='endvagga'>{}</p>"

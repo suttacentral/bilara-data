@@ -7,10 +7,16 @@
   "x.0": "<section class='vinaya-anapatti'><h2>{}</h2>",
   "pli-tv-bu-vb-sk6:6.1": "<p>{}",
   "pli-tv-bu-vb-sk6:6.2": "{}</p></section>",
+  "pli-tv-bu-vb-sk6:7.1": "<section class='patimokkha'><h2>{}</h2>",
   "pli-tv-bu-vb-sk6:7.2": "<p class='rule'>{}</p>",
   "pli-tv-bu-vb-sk6:8.1": "<p>{}",
   "pli-tv-bu-vb-sk6:8.2": "{}</p></section>",
   "pli-tv-bu-vb-sk6:9.1": "<p>{}",
+  "pli-tv-bu-vb-sk6:9.2": "{} ",
+  "pli-tv-bu-vb-sk6:9.3": "{} ",
+  "pli-tv-bu-vb-sk6:9.4": "{} ",
+  "pli-tv-bu-vb-sk6:9.5": "{} ",
+  "pli-tv-bu-vb-sk6:9.6": "{} ",
   "pli-tv-bu-vb-sk6:9.7": "{}</p></section>",
   "pli-tv-bu-vb-sk6:10.1": "<p class='endsutta'>{}</p>"
 }

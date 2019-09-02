@@ -1,6 +1,7 @@
 {
   "pli-tv-kd7:1.1.1": "sc1, pts-vp-pli1.253, pts-cs-Kd.7.1.1, pts-vp-pli1.253, pts-vp-en4.351, ms-pa31388",
   "pli-tv-kd7:1.1.5": "pts-vp-en4.352",
+  "pli-tv-kd7:1.1.6": "pts-vp-en4.352",
   "pli-tv-kd7:1.2.1": "pts-cs-Kd.7.1.2",
   "pli-tv-kd7:1.2.2": "sc2, pts-vp-pli1.254, ms-pa31389",
   "pli-tv-kd7:1.2.7": "pts-vp-pli1.254",

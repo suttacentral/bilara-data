@@ -29,6 +29,7 @@
   "pli-tv-bi-vb-pc25:9.4": "<dd>{}</dd>",
   "pli-tv-bi-vb-pc25:10.1": "<dt>{}</dt>",
   "pli-tv-bi-vb-pc25:10.2": "<dd>{}</dd></dl></section>",
+  "pli-tv-bi-vb-pc25:11.1": "<section class='vinaya-cakka'><h2>{}</h2>",
   "pli-tv-bi-vb-pc25:11.2": "<p>{}",
   "pli-tv-bi-vb-pc25:11.3": "{}",
   "pli-tv-bi-vb-pc25:11.4": "{}</p>",
@@ -37,6 +38,12 @@
   "pli-tv-bi-vb-pc25:12.3": "{}",
   "pli-tv-bi-vb-pc25:12.4": "{}</p></section>",
   "pli-tv-bi-vb-pc25:13.1": "<p>{}",
+  "pli-tv-bi-vb-pc25:13.2": "{} ",
+  "pli-tv-bi-vb-pc25:13.3": "{} ",
+  "pli-tv-bi-vb-pc25:13.4": "{} ",
+  "pli-tv-bi-vb-pc25:13.5": "{} ",
+  "pli-tv-bi-vb-pc25:13.6": "{} ",
+  "pli-tv-bi-vb-pc25:13.7": "{} ",
   "pli-tv-bi-vb-pc25:13.8": "{}</p></section>",
   "pli-tv-bi-vb-pc25:14.1": "<p class='endsutta'>{}</p>"
 }

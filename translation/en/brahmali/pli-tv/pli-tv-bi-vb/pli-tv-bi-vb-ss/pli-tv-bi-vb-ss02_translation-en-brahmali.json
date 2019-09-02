@@ -3,6 +3,7 @@
   "pli-tv-bi-vb-ss2:2.1": "The nuns’ rules and their analysis",
   "pli-tv-bi-vb-ss2:3.1": "The chapter on offenses entailing suspension",
   "pli-tv-bi-vb-ss2:4.1": "2. The training rule on giving the full ordination to criminals",
+  "x.0": "Non-offenses",
   "pli-tv-bi-vb-ss2:5.1": "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery.",
   "pli-tv-bi-vb-ss2:5.2": "At that time in Vesālī the wife of a certain Licchavī man was unfaithful.",
   "pli-tv-bi-vb-ss2:5.3": "He said to her,",
@@ -91,7 +92,10 @@
   "pli-tv-bi-vb-ss2:25.5": "If she is not a criminal, but the nun is unsure of it, she commits an offense of wrong conduct.",
   "pli-tv-bi-vb-ss2:25.6": "If she is not a criminal, and the nun does not perceive her as a criminal, there is no offense.",
   "pli-tv-bi-vb-ss2:26.1": "There is no offense:",
+  "pli-tv-bi-vb-ss2:26.2": "if she gives her the full ordination without knowing that she is a criminal;",
+  "pli-tv-bi-vb-ss2:26.3": "if she gives her the full ordination after getting permission;",
+  "pli-tv-bi-vb-ss2:26.4": "if she gives her the full ordination when it is allowable;",
+  "pli-tv-bi-vb-ss2:26.5": "if she is insane;",
   "pli-tv-bi-vb-ss2:26.6": "if she is the first offender.",
-  "pli-tv-bi-vb-ss2:27.1": "The second offense entailing suspension is finished.",
-  "x.0": "Non-offenses"
+  "pli-tv-bi-vb-ss2:27.1": "The second offense entailing suspension is finished."
 }

@@ -30,6 +30,9 @@
   "pli-tv-bi-vb-pc42:12.1": "<dt>{}</dt>",
   "pli-tv-bi-vb-pc42:12.2": "<dd>{}</dd></dl></section>",
   "pli-tv-bi-vb-pc42:13.1": "<p>{}",
+  "pli-tv-bi-vb-pc42:13.2": "{} ",
+  "pli-tv-bi-vb-pc42:13.3": "{} ",
+  "pli-tv-bi-vb-pc42:13.4": "{} ",
   "pli-tv-bi-vb-pc42:13.5": "{}</p></section>",
   "pli-tv-bi-vb-pc42:14.1": "<p class='endsutta'>{}</p>"
 }

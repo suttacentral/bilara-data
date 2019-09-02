@@ -26,6 +26,8 @@
   "pli-tv-bi-vb-pc20:9.4": "{}",
   "pli-tv-bi-vb-pc20:9.5": "{}</p></section>",
   "pli-tv-bi-vb-pc20:10.1": "<p>{}",
+  "pli-tv-bi-vb-pc20:10.2": "{} ",
+  "pli-tv-bi-vb-pc20:10.3": "{} ",
   "pli-tv-bi-vb-pc20:10.4": "{}</p></section>",
   "pli-tv-bi-vb-pc20:11.1": "<p class='endsutta'>{}</p>",
   "pli-tv-bi-vb-pc20:11.2": "<p class='endvagga'>{}</p>"
