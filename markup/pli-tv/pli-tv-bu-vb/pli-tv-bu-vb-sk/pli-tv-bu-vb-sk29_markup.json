@@ -10,9 +10,9 @@
   "pli-tv-bu-vb-sk29:7.1": "<section class='patimokkha'><h2>{}</h2>",
   "pli-tv-bu-vb-sk29:8.1": "<dl><dt>{}</dt>",
   "pli-tv-bu-vb-sk29:8.2": "<dd>{}</dd></dl>",
-  "pli-tv-bu-vb-sk29:8.4": "<hr><p>{}",
-  "pli-tv-bu-vb-sk29:8.5": "{}</p></section>",
+  "pli-tv-bu-vb-sk29:8.3": "<hr><p>{}",
+  "pli-tv-bu-vb-sk29:8.4": "{}</p></section>",
   "pli-tv-bu-vb-sk29:9.1": "<p>{}",
-  "pli-tv-bu-vb-sk29:9.2": "{}</p></section>",
+  "pli-tv-bu-vb-sk29:9.13": "{}</p></section>",
   "pli-tv-bu-vb-sk29:10.1": "<p class='endsutta'>{}</p>"
 }

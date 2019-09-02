@@ -10,13 +10,13 @@
   "pli-tv-bi-vb-pc93:6.4": "{}</p>",
   "pli-tv-bi-vb-pc93:7.1": "<p>{}",
   "pli-tv-bi-vb-pc93:7.2": "{}",
+  "pli-tv-bi-vb-pc93:7.3": "{}",
   "pli-tv-bi-vb-pc93:7.4": "{}",
   "pli-tv-bi-vb-pc93:7.5": "{}",
   "pli-tv-bi-vb-pc93:7.6": "{}",
   "pli-tv-bi-vb-pc93:7.7": "{}",
   "pli-tv-bi-vb-pc93:7.8": "{}",
-  "pli-tv-bi-vb-pc93:7.9": "{}",
-  "pli-tv-bi-vb-pc93:7.10": "{}</p></section>",
+  "pli-tv-bi-vb-pc93:7.9": "{}</p></section>",
   "pli-tv-bi-vb-pc93:8.1": "<section class='patimokkha'><p class='rule'>{}</p></section>",
   "pli-tv-bi-vb-pc93:9.1": "<section class='vinaya-pada'><dl><dt>{}</dt>",
   "pli-tv-bi-vb-pc93:9.2": "<dd>{}</dd>",
@@ -29,6 +29,6 @@
   "pli-tv-bi-vb-pc93:12.1": "<dt>{}</dt>",
   "pli-tv-bi-vb-pc93:12.2": "<dd>{}</dd></dl></section>",
   "pli-tv-bi-vb-pc93:13.1": "<section class='vinaya-anapatti'><p>{}",
-  "pli-tv-bi-vb-pc93:13.2": "{}</p></section>",
+  "pli-tv-bi-vb-pc93:13.5": "{}</p></section>",
   "pli-tv-bi-vb-pc93:14.1": "<p class='endsutta'>{}</p>"
 }
