@@ -1,9 +1,9 @@
 {
   "pli-tv-bu-vb-pc31:1.1": "sc1, pts-vp-pli4.70, pts-cs-bu-pc31.1, pts-vp-en.2.303, ms2V_664",
   "pli-tv-bu-vb-pc31:1.15": "sc2, ms2V_665",
-  "pli-tv-bu-vb-pc31:1.19": "pts-vp-en.2.304",
-  "pli-tv-bu-vb-pc31:1.25": "sc3, ms2V_666",
-  "pli-tv-bu-vb-pc31:1.26": "sc4, ms2V_667",
+  "pli-tv-bu-vb-pc31:1.18": "pts-vp-en.2.304",
+  "pli-tv-bu-vb-pc31:1.24": "sc3, ms2V_666",
+  "pli-tv-bu-vb-pc31:1.25": "sc4, ms2V_667",
   "pli-tv-bu-vb-pc31:2.1": "sc5, pts-cs-bu-pc31.2, ms2V_668",
   "pli-tv-bu-vb-pc31:2.9": "ms2V_669",
   "pli-tv-bu-vb-pc31:2.11": "sc6",

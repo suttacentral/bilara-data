@@ -7,11 +7,11 @@
   "x.0": "<section class='vinaya-anapatti'><h2>{}</h2>",
   "pli-tv-bu-vb-sk30:6.1": "<p>{}",
   "pli-tv-bu-vb-sk30:6.2": "{}</p></section>",
-  "pli-tv-bu-vb-sk30:7.1": "<p class='rule'>{}</p>",
+  "pli-tv-bu-vb-sk30:7.2": "<p class='rule'>{}</p>",
   "pli-tv-bu-vb-sk30:8.1": "<p>{}",
   "pli-tv-bu-vb-sk30:8.2": "{}</p></section>",
   "pli-tv-bu-vb-sk30:9.1": "<p>{}",
-  "pli-tv-bu-vb-sk30:9.2": "{}</p></section>",
+  "pli-tv-bu-vb-sk30:9.4": "{}</p></section>",
   "pli-tv-bu-vb-sk30:10.1": "<p class='endsutta'>{}</p>",
   "pli-tv-bu-vb-sk30:10.2": "<p class='endvagga'>{}</p>"
 }

@@ -26,7 +26,7 @@
   "pli-tv-bi-vb-pc40:10.2": "<dd>{}</dd></dl>",
   "pli-tv-bi-vb-pc40:11.1": "<hr><p>{}</p></section>",
   "pli-tv-bi-vb-pc40:12.1": "<p>{}",
-  "pli-tv-bi-vb-pc40:12.2": "{}</p></section>",
+  "pli-tv-bi-vb-pc40:12.7": "{}</p></section>",
   "pli-tv-bi-vb-pc40:13.1": "<p class='endsutta'>{}</p>",
   "pli-tv-bi-vb-pc40:13.2": "<p class='endvagga'>{}</p>"
 }
