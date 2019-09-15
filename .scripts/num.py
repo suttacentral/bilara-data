@@ -56,7 +56,7 @@ class Num:
 
     def __init__(self, value):
         if isinstance(value, str):
-            m = regex.match(r'(\d+)(?:-(\d+))?([a-z]*)', value)
+            m = regex.match(r'(\d+)(?:-(\d+))?(\^?[a-z]*)', value)
             
             self.start = int(m[1])
             self.end = int(m[2]) if m[2] else self.start
@@ -81,14 +81,10 @@ class Num:
             return self.start == other_num.start and self.end == other_num.end and self.suffix == other_num.suffix
 
     def __gt__(self, other):
-        if self.start == other.start:
-            return self.suffix > other.suffix
-        return self.start > other.end
-
+        return bilarasortkey(str(self)) > bilarasortkey(str(other))
+    
     def __lt__(self, other):
-        if self.start == other.start:
-            return self.suffix < other.suffix
-        return self.start < other.end
+        return bilarasortkey(str(self)) < bilarasortkey(str(other))
 
     def __add__(self, other_num):
         return Num(self.end + int(other_num))
@@ -160,10 +156,10 @@ class DottedNum:
         return self.nums == other.nums
 
     def __gt__(self, other):
-        return bilarasortkey(self) > bilarasortkey(other)
+        return bilarasortkey(str(self)) > bilarasortkey(str(other))
     
     def __lt__(self, other):
-        return bilarasortkey(self) < bilarasortkey(other)
+        return bilarasortkey(str(self)) < bilarasortkey(str(other))
 
 
     def __getitem__(self, i):
@@ -219,13 +215,18 @@ class DottedNum:
             return False
         return True
                 
-
+    def differs_by_last_num(self, other):
+        if self.nums[:-1] == other.nums[:-1]:
+            if  self[-1] != other[-1]:
+                return True
+        return False
 
     def make_one_greater(self, previous):
-        if self == previous:
-            if self.nums[-1].is_range():
-                raise ValueError(f'Unable to automatically fix range {self}')
-            self.nums[-1].set_numeric(previous[-1]+1)
+        if self.nums[-1].is_range():
+            raise ValueError(f'Unable to automatically fix range {self}')
+        self.nums = previous.nums[::]
+        self.nums[-1].set_numeric(previous[-1]+1)
+
 
 def is_logical_progression(previous_num, num):
 

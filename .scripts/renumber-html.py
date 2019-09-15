@@ -9,110 +9,121 @@ import lxml.html
 
 from common import bilarasortkey
 
+from num import DottedNum
 
-        
+def renumber_segments_anew(root, uid, numbering_basis, segment_id_mapping):
+    elements = root.cssselect('a[data-uid]')
 
+    last_num = DottedNum('0.0')
 
-def iter_segments(root):
-    for element in root.cssselect('a[data-uid]'):
-        segment_id = element.get('data-uid')
-        if ':' not in segment_id:
-            print(f'Malformed segment_id: {segment_id}')
-            continue
-        yield element
-
-def renumber_zeros(root):
-    i = 1
-    for element in iter_segments(root):
-        segment_id = element.get('data-uid')
-        uid, num = segment_id.split(':')
-        
-        if num.startswith('0'):
-            element.set('data-uid', f'{uid}:0.{i}')
-            i += 1
-        else:
-            return i > 1
-
-
-
-        
-def renumber_segments(root, segment_id_mapping, problems):
-    segments = root.cssselect('a[data-uid]')
-
-    for i, segment in enumerate(segments):
-        segment_id = segment.get('data-uid')
-
-        uid, nums = segment_id.split(':')
-
-        if nums.startswith('0.'):
-            for e in segment.iterancestors():
-                if e.tag == 'header':
-                    break
-                else:
-                    problems.append('segment_id starts with 0 but is not in header')
-        
-
-
-
-def renumber_segments(root, segment_id_mapping):
     changed = False
-    last_nums = None
-    for element in iter_segments(root):
-        segment_id = element.get('data-uid')
-        uid, num = element.get('data-uid').split(':')
-        
-        
-        nums = num.split('.')
-        
-        if last_nums and len(last_nums) in {2, 3} and len(last_nums) == len(nums):
-            should_be_1 = False
 
-            if nums[:-1] == last_nums[:-1]:
-                m = regex.match(r'(\d+)([a-z]*)', last_nums[-1])
-                last_num, last_alpha = m[1], m[2]
-                m = regex.match(r'(\d+)([a-z]*)', nums[-1])
-                num, alpha = m[1], m[2]
+    dashed = regex.search(r'\d-\d', uid)
 
-                if alpha:
-                    continue
-                if should_be_1:
-                    new_num = '1'
+    for i, e in enumerate(elements):
+        ref = e.get('data-ref')
+        
+            
+        segment_id = old_segment_id = e.get('data-uid')
+        if '^' in segment_id or segment_id[-1].isalpha():
+            continue
+        num = None
+        if numbering_basis == 'pts-cs':
+            cs_ref = None
+            if ref:
+                m = regex.search(r'pts-cs.*?((\d+(?:-\d+)?\.?)*)(,|$)', ref)
+                if m:
+                    cs_ref = m[1]
+            if cs_ref:
+                parts = cs_ref.split('.')
+                if not dashed and len(parts) > 1:
+                    num = DottedNum('.'.join(parts[1:]) + '.1')
+                elif dashed and len(parts) > 0:
+                    num = DottedNum(cs_ref + '.1')
                 else:
-                    new_num = str(int(last_num) + 1)
-                if new_num != nums[-1]:
-                    nums[-1] = new_num
-                    new_segment_id = f'{uid}:{".".join(nums)}'
-                    if segment_id != new_segment_id:
-                        print(f'Replace: {segment_id} -> {new_segment_id}')
-                        element.set('data-uid', new_segment_id)
-                        segment_id_mapping[segment_id].append(new_segment_id)
-                        changed = True
-        last_nums = nums
+                    num = DottedNum('1.1')
+        elif numbering_basis == 'sc':
+            if ref:
+                m = regex.search(r'sc((\d+\.?)+)(,|$)', ref)
+                if m:
+                    sc_ref = m[1]
+                    num = DottedNum(sc_ref + '.1')
+        
+        if num is None:
+            num = DottedNum()
+            num.make_one_greater(last_num)
+        segment_id = segment_id.split(':')[0] + ':' + str(num)
+        last_num = num
+
+        if segment_id != old_segment_id:
+            e.set('data-uid', segment_id)
+            segment_id_mapping[old_segment_id].append(segment_id)
+            changed = True
+    
+    return changed
+        
+
+        
+
+def renumber_rootless(root):
+    elements = root.cssselect('a[data-uid]')
+
+    changed = False
+
+    data = []
+    for i, e in enumerate(elements):
+        segment_id = old_segment_id = e.get('data-uid')
+        root_e = get_root_e_create_if_needed(e)
+        root_text = root_e.text_content().strip()
+        if root_text:
+            last_normal_id = segment_id
+            last_normal_i = i
+            continue
+        
+        is_heading = False
+        for parent in e.iterancestors():
+            if parent.tag in {'h1','h2','h3','h4','h5','h6', 'header'} or 'hgroup' in parent.get('class', ''):
+                is_heading = True
+                break
+        
+        char = chr(ord('a') + (i - last_normal_i - 1))
+        if not is_heading:
+            segment_id = last_normal_id + char
+        else:
+            next_normal_segment_id = None
+            for j in range(i + 1, len(elements)):
+                if get_root_e_create_if_needed(elements[j]).text_content().strip():
+                    next_normal_segment_id = elements[j].get('data-uid')
+                    break
+            
+            if next_normal_segment_id:
+                segment_id = next_normal_segment_id + '^' + char
+
+        if segment_id != old_segment_id:
+            e.set('data-uid', segment_id)
+            changed = True
+    
     return changed
             
+
+        
+
+    
+
             
             
+def get_root_e_create_if_needed(e):
+    try:
+        root_e = next(e.iter('i'))
+    except StopIteration:
+        root_e = lxml.html.fromstring('<i></i> ')
+        e.insert(0, root_e)
+    return root_e
+
+
             
 problems = {}
 
-def compare_order(a, b):
-    nums_a = [l[1] for l in a]
-    nums_b = [l[1] for l in b]
-    if nums_a == nums_b:
-        return False
-    problems[a[0][0]] = (nums_a, nums_b)
-    for i, j in zip(nums_a, nums_b):
-        if i != j:
-            print(f'{a[0][0]}: Sort Mismatch {i} != {j}')
-            return
-
-
-
-def check_ordering(segment_ids, file):
-    
-    compare_order(segment_ids, sorted(segment_ids, key=bilarasortkey))
-    compare_order(segment_ids, sorted(reversed(segment_ids), key=bilarasortkey))
-    
 
 def compare_strings(a, b, pattern, file):
     strings = []
@@ -135,35 +146,30 @@ segment_id_mapping = defaultdict(list)
 noact = False
 HTML_DIR = pathlib.Path('./html')
 for file in sorted(HTML_DIR.glob('**/*.html')):
-    print(f'Processing {str(file)}')
+    print(str(file))
     with file.open('r') as f:
         original_string = f.read()
+
+    if 'pts-cs' in original_string:
+        numbering_basis = 'pts-cs'
+    elif '"sc' in original_string:
+        numbering_basis = 'sc'
+    else:
+        numbering_basis = None
+        print('No numbering basis found for {file.name}')
+        continue
+        
     root = lxml.html.fromstring(original_string)
 
     changed = False
     
     
-    changed = renumber_segments(root, segment_id_mapping) or changed 
-    
-    seen = set()
+    changed = renumber_segments_anew(root, file.stem, numbering_basis, segment_id_mapping) or changed 
+    changed = renumber_rootless(root) or changed
 
-    segment_ids = []
-    for element in iter_segments(root):
-        segment_id = element.get('data-uid')
-        if segment_id in seen:
-            print(f'{uid} is not unqiue')
-        uid, num = segment_id.split(':')
-        segment_ids.append((uid, num))
-    
-    
-    check_ordering(segment_ids, file)
+    segment_ids = [e.get('data-uid').split(':') for e in root.cssselect('a[data-uid]')]
     
     file_uid = regex.sub(r'(\D)(0+)', r'\1', file.stem)
-    nums = []
-    last_nums = None
-    for uid, segment_id in segment_ids:
-        if file_uid != uid:
-            print(f'Mismatched UID: {uid} in {file_uid}')
     
     if not noact and changed:
         with file.open('w') as f:
