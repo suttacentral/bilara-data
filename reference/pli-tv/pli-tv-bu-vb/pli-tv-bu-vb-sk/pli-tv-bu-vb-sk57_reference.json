@@ -1,16 +1,16 @@
 {
-  "pli-tv-bu-vb-sk57:6.3": "sc1, pts-cs-sk.57.1, ms-pa1972",
-  "pli-tv-bu-vb-sk57:7.1": "sc2, ms-pa1973",
+  "pli-tv-bu-vb-sk57:6.3": "sc1, pts-cs57.1, ms2V_1972",
+  "pli-tv-bu-vb-sk57:7.1": "sc2, ms2V_1973",
   "pli-tv-bu-vb-sk57:7.4": "pts-vp-en3.141",
-  "pli-tv-bu-vb-sk57:8.2": "sc3, ms-pa1974",
-  "pli-tv-bu-vb-sk57:9.1": "sc4, ms-pa1975",
-  "pli-tv-bu-vb-sk57:10.2": "sc5, pts-vp-pli4.200, pts-cs-sk.57.2, ms-pa1976",
+  "pli-tv-bu-vb-sk57:8.2": "sc3, ms2V_1974",
+  "pli-tv-bu-vb-sk57:9.1": "sc4, ms2V_1975",
+  "pli-tv-bu-vb-sk57:10.2": "sc5, pts-vp-pli4.200, pts-cs57.2, ms2V_1976",
   "pli-tv-bu-vb-sk57:10.3": "pts-vp-pli4.200",
-  "pli-tv-bu-vb-sk57:11.1": "sc6, ms-pa1977",
-  "pli-tv-bu-vb-sk57:12.1": "sc7, ms-pa1978",
-  "pli-tv-bu-vb-sk57:13.1": "sc8, ms-pa1979",
-  "pli-tv-bu-vb-sk57:14.1": "sc9, ms-pa1980",
-  "pli-tv-bu-vb-sk57:15.1": "sc10, pts-vp-en3.142, ms-pa1981",
-  "pli-tv-bu-vb-sk57:16.1": "sc11, ms-pa1982",
-  "pli-tv-bu-vb-sk57:17.1": "sc12, ms-pa1983"
+  "pli-tv-bu-vb-sk57:11.1": "sc6, ms2V_1977",
+  "pli-tv-bu-vb-sk57:12.1": "sc7, ms2V_1978",
+  "pli-tv-bu-vb-sk57:13.1": "sc8, ms2V_1979",
+  "pli-tv-bu-vb-sk57:14.1": "sc9, ms2V_1980",
+  "pli-tv-bu-vb-sk57:15.1": "sc10, pts-vp-en3.142, ms2V_1981",
+  "pli-tv-bu-vb-sk57:16.1": "sc11, ms2V_1982",
+  "pli-tv-bu-vb-sk57:17.1": "sc12, ms2V_1983"
 }

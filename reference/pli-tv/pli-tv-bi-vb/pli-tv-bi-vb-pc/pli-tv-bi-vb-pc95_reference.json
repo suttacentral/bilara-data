@@ -1,10 +1,10 @@
 {
-  "pli-tv-bi-vb-pc95:6.1": "sc1, pts-cs-Bi-Pc.95.1, pts-vp-en3.415, ms-pa3509",
-  "pli-tv-bi-vb-pc95:7.1": "sc2, ms-pa3510",
-  "pli-tv-bi-vb-pc95:8.1": "sc3, pts-cs-Bi-Pc.95.2.1, ms-pa3511",
-  "pli-tv-bi-vb-pc95:9.1": "sc4, ms-pa3512",
-  "pli-tv-bi-vb-pc95:10.1": "sc5, pts-cs-Bi-Pc.95.2.2, ms-pa3513, pts-vp-en3.416",
-  "pli-tv-bi-vb-pc95:11.1": "sc6, ms-pa3514",
-  "pli-tv-bi-vb-pc95:12.1": "sc7, pts-cs-Bi-Pc.95.2.3, ms-pa3515",
-  "pli-tv-bi-vb-pc95:13.1": "sc8, ms-pa3516"
+  "pli-tv-bi-vb-pc95:6.1": "sc1, pts-cs95.1, pts-vp-en3.415, ms2V_3509",
+  "pli-tv-bi-vb-pc95:7.1": "sc2, ms2V_3510",
+  "pli-tv-bi-vb-pc95:8.1": "sc3, pts-cs95.2.1, ms2V_3511",
+  "pli-tv-bi-vb-pc95:9.1": "sc4, ms2V_3512",
+  "pli-tv-bi-vb-pc95:10.1": "sc5, pts-cs95.2.2, ms2V_3513, pts-vp-en3.416",
+  "pli-tv-bi-vb-pc95:11.1": "sc6, ms2V_3514",
+  "pli-tv-bi-vb-pc95:12.1": "sc7, pts-cs95.2.3, ms2V_3515",
+  "pli-tv-bi-vb-pc95:13.1": "sc8, ms2V_3516"
 }
