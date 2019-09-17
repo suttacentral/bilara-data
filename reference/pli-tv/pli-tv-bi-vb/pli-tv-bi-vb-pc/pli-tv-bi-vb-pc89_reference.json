@@ -1,9 +1,9 @@
 {
-  "pli-tv-bi-vb-pc89:6.1": "sc1, pts-cs-Bi-Pc.89.1, pts-vp-en3.408, ms-pa3476",
-  "pli-tv-bi-vb-pc89:7.1": "sc2, ms-pa3477",
-  "pli-tv-bi-vb-pc89:8.1": "sc3, ms-pa3478",
-  "pli-tv-bi-vb-pc89:9.1": "sc4, pts-cs-Bi-Pc.89.2.1, ms-pa3479",
-  "pli-tv-bi-vb-pc89:10.1": "sc5, ms-pa3480",
-  "pli-tv-bi-vb-pc89:11.1": "sc6, pts-cs-Bi-Pc.89.2.2, ms-pa3481",
-  "pli-tv-bi-vb-pc89:12.1": "sc7, ms-pa3482"
+  "pli-tv-bi-vb-pc89:6.1": "sc1, pts-cs-Bi-Pc.89.1, pts-vp-en3.408, ms2V_3476",
+  "pli-tv-bi-vb-pc89:7.1": "sc2, ms2V_3477",
+  "pli-tv-bi-vb-pc89:8.1": "sc3, ms2V_3478",
+  "pli-tv-bi-vb-pc89:9.1": "sc4, pts-cs-Bi-Pc.89.2.1, ms2V_3479",
+  "pli-tv-bi-vb-pc89:10.1": "sc5, ms2V_3480",
+  "pli-tv-bi-vb-pc89:11.1": "sc6, pts-cs-Bi-Pc.89.2.2, ms2V_3481",
+  "pli-tv-bi-vb-pc89:12.1": "sc7, ms2V_3482"
 }
