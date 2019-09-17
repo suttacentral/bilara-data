@@ -1,21 +1,20 @@
 {
-    "sujato": {
-        "type": "translator",
-        "name": "Sujato Bhikkhu",
-        "root_lang": "pli",
-        "root_edition": "ms"
-    },
-    "brahmali": {
-        "type": "translator",
-        "name": "Brahmali Bhikkhu",
-        "root_lang": "pli",
-        "root_edition": "ms"
-    },
-    "xtest": {
-	"type": "translator",
-	"name": "Test Project",
-	"root_lang": "pli",
-	"root_edition": "ms"
-    }
-
+  "sujato": {
+    "type": "translator",
+    "name": "Sujato Bhikkhu",
+    "root_lang": "pli",
+    "root_edition": "ms"
+  },
+  "brahmali": {
+    "type": "translator",
+    "name": "Brahmali Bhikkhu",
+    "root_lang": "pli",
+    "root_edition": "ms"
+  },
+  "xtest": {
+    "type": "translator",
+    "name": "Test Project",
+    "root_lang": "pli",
+    "root_edition": "ms"
+  }
 }
