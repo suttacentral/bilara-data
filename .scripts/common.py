@@ -1,5 +1,10 @@
 import regex
+import pathlib
 
+repo_dir = pathlib.Path(__file__).parent.parent
+
+def iter_json_files():
+    yield from sorted(repo_dir.glob('[!_.]*/**/[!_]*.json'), key=lambda f: humansortkey(str(f)))
 
 def numericsortkey(string, _split=regex.compile(r'(\d+)').split):
     # if regex.fullmatch('\d+', s) then int(s) is valid, and vice-verca.
