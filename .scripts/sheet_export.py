@@ -50,7 +50,7 @@ def yield_rows(muid_strings, file_uid_mapping):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Export Spreadsheet")
     parser.add_argument('uid', nargs='+', help='One or more sutta UID to export')
-    parser.add_argument('out', default='', help='Output file, default is {uid}.ods')
+    parser.add_argument('out', help='Output file')
     parser.add_argument('--include', default='', help='Filter by MUID. Comma seperated, + for and\nexample: "root,translation+en"')
     parser.add_argument('--exclude', default='', help='Filter by MUID. Comma seperated')
     args = parser.parse_args()
