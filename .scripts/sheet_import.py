@@ -47,7 +47,7 @@ if __name__ == '__main__':
                         segment_uid = segment_id.split(':')[0]
                         segment_uid_to_file_mapping[muids][segment_uid] = file
         
-        raise ValueError(f'Could not find file for {uid}_{muids}')
+        raise ValueError('Could not find file for {}_{}'.format(uids, muids))
 
 
     for uid, group in groupby(rows, lambda row: row['segment_id'].split(':')[0]):
@@ -68,7 +68,7 @@ if __name__ == '__main__':
                 continue
             file = get_file(uid, field)
             if not file:
-                print(f'ERROR: Could not find file for {uid}_{field}', file=sys.stderr)
+                print('ERROR: Could not find file for {}_{}'.format(uid, field), file=sys.stderr)
                 continue
 
             with file.open('r') as f:
@@ -90,7 +90,7 @@ if __name__ == '__main__':
                 value = str(value) if isinstance(value, int) else value
                 old_value = str(old_value) if isinstance(value, int) else old_value
                 if not args.quiet and old_value != value:
-                    print(f'{uid}_{field}:{segment_id}: {old_value} -> {value}')
+                    print('{uid}_{field}:{segment_id}: {old_value} -> {value}'.format(**locals()))
                 merged_data[segment_id] = value
 
             with file.open('w') as f:

@@ -1,3 +1,5 @@
+import sys
+import json
 import regex
 import pathlib
 
@@ -60,6 +62,33 @@ def print_name_if_needed(file, _seen=set()):
     if file not in _seen:
         print(file)
     _seen.add(file)
+
+class bcolors:
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
+
+def json_load(file):
+    try:
+        with file.open('r') as f:
+            return json.load(f)
+    except json.decoder.JSONDecodeError as e:
+        lineno = e.lineno
+        colno = e.colno
+        with file.open('r') as f:
+            lines = f.readlines()
+        
+        print('{}JSONDecodeError{}: {}'.format(bcolors.FAIL, bcolors.ENDC, file), file=sys.stderr)
+        for i in range(lineno-2, lineno):
+            if i >= 0:
+                print(bcolors.OKGREEN+bcolors.BOLD, str(i).rjust(6), bcolors.ENDC, '  ', lines[i], sep='', end='', file=sys.stderr)
+        print(' '*(colno + 7), '^', sep='', file=sys.stderr)
+        print(bcolors.FAIL, e.msg, bcolors.ENDC, sep='', file=sys.stderr)
 
 if __name__ == '__main__':
     import doctest
