@@ -6,8 +6,9 @@ import pyexcel
 import regex
 import sys
 
-from common import iter_json_files, repo_dir, bilarasortkey
 
+
+from common import iter_json_files, repo_dir, bilarasortkey, json_load, bcolors
 
 def muid_sort_key(string):
     if string.startswith('root'):
@@ -32,8 +33,11 @@ def yield_rows(muid_strings, file_uid_mapping):
         for muid_string in muid_strings:
             if muid_string in file_mapping:
                 file = file_mapping[muid_string]
-                with file.open('r') as f:
-                    file_data = json.load(f)
+                
+                try:
+                    file_data = json_load(file)
+                except json.decoder.JSONDecodeError:
+                    exit(1)
                 
                 i = field_mapping[muid_string]
                 for segment_id, value in file_data.items():
@@ -67,11 +71,14 @@ if __name__ == '__main__':
 
     file_uid_mapping = {}
     for file in iter_json_files():
-        str(file.relative_to(repo_dir))
+        
+        
         uid, muids_string = file.stem.split('_')
 
         if not (uid in uids or any(part in uids for part in file.parent.parts)):
             continue
+            
+        print('Reading {}'.format(str(file.relative_to(repo_dir))))
 
         muids = frozenset(muids_string.split('-'))
         if include_filter:
@@ -93,7 +100,7 @@ if __name__ == '__main__':
         file_uid_mapping[uid][muids_string] = file
     
     if not file_uid_mapping:
-        print(f'No matches for {",".join(args.uid)}', file=sys.stderr)
+        print('No matches for {}'.format(",".join(args.uid)), file=sys.stderr)
         exit(1)
         
     muid_strings = set()
