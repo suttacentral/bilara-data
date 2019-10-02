@@ -1,2 +1,1 @@
-# sutta-translation
-German sutta translations
+# bilara-data

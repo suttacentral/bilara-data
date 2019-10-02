@@ -1,0 +1,10 @@
+{
+  "snp1.5:3.1": "sc1,  vns83,  vnp83",
+  "snp1.5:4.1": "sc2,  vns84,  vnp84,  pts17",
+  "snp1.5:5.1": "sc3,  vns85,  vnp85",
+  "snp1.5:6.1": "sc4,  vns86,  vnp86",
+  "snp1.5:7.1": "sc5,  vns87,  vnp87",
+  "snp1.5:8.1": "sc6,  vns88,  vnp88",
+  "snp1.5:9.1": "sc7,  vns89,  vnp89",
+  "snp1.5:10.1": "sc8,  vns90,  vnp90,  pts18"
+}

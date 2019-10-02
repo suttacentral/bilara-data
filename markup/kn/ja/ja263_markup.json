@@ -1,0 +1,19 @@
+{
+  "ja263:1.1": "<section class='sutta' id='ja263'><article><div class='hgroup'><p class='division'>{}</p>",
+  "ja263:2.1": "<p>{}</p>",
+  "ja263:3.1": "<p>{}</p>",
+  "ja263:4.1": "<h1>{}</h1></div>",
+  "ja263:5.1": "<blockquote class='gatha'><p>{}<br>",
+  "ja263:5.2": "{}<br>",
+  "ja263:5.3": "{}<br>",
+  "ja263:5.4": "{}</p>",
+  "ja263:6.1": "<p>{}<br>",
+  "ja263:6.2": "{}<br>",
+  "ja263:6.3": "{}<br>",
+  "ja263:6.4": "{}</p>",
+  "ja263:7.1": "<p>{}<br>",
+  "ja263:7.2": "{}<br>",
+  "ja263:7.3": "{}<br>",
+  "ja263:7.4": "{}</p></blockquote>",
+  "ja263:8.1": "<p class='endsutta'>{}"
+}
