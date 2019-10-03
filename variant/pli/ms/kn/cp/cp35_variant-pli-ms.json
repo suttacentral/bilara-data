@@ -1,6 +1,6 @@
 {
-  "cp35:5.3": "Gāmaṇḍalā → gomaṇḍalā (bj, pts2) | gāmamaṇḍalā (s2, s3)",
-  "cp35:13.3": "āsiṃ → āsi (si, s2, s3)",
-  "cp35:13.6": "vutthaṃ → vuttaṃ (si, s2, s3, pts1)",
-  "cp35:14.2": "sampattī ca bahubbidhā → sampatti ca bahuvidhā (bj) | sampattiñca bahūvidhaṃ (s2, s3) | sampattī ca bahū vidhā (pts1-2) | sampattiṃ ca bahuvidhaṃ (mr)"
+  "cp35:5.3": "Gāmaṇḍalā → gomaṇḍalā (bj, pts-vp-pli2ed) | gāmamaṇḍalā (sya1ed, sya2ed)",
+  "cp35:13.3": "āsiṃ → āsi (si, sya1ed, sya2ed)",
+  "cp35:13.6": "vutthaṃ → vuttaṃ (si, sya1ed, sya2ed, pts-vp-pli1ed)",
+  "cp35:14.2": "pts-vp-pli1ed, pts-vp-pli2ed) | sampattiṃ ca bahuvidhaṃ (mr)"
 }

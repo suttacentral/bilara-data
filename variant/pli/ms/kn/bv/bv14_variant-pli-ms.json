@@ -1,10 +1,10 @@
 {
-  "bv14:6.1": "Desente → desento (s2, s3, km)",
-  "bv14:6.2": "lokanāyake → sujāto lokanāyako (s2, s3, km)",
-  "bv14:7.3": "Sattatiṃsasatasahassānaṃ → sattatiṃsasahassānaṃ (bj, pts1-2) | sattattiṃsasatasahassānaṃ (s2, s3)",
-  "bv14:17.1": "buddho → tadā (s2, s3, km)",
+  "bv14:6.1": "Desente → desento (sya1ed, sya2ed, km)",
+  "bv14:6.2": "lokanāyake → sujāto lokanāyako (sya1ed, sya2ed, km)",
+  "bv14:7.3": "pts-vp-pli1ed, pts-vp-pli2ed) | sattattiṃsasatasahassānaṃ (sya1ed, sya2ed)",
+  "bv14:17.1": "buddho → tadā (sya1ed, sya2ed, km)",
   "bv14:27.1": "Sudassano sudevo ca → sudassano ca devo ca (bj)",
-  "bv14:29.1": "ghanakkhandho → ghanaruciro (bj, pts2, mr)",
-  "bv14:36.4": "cittitaṃ → cittakaṃ (s2, s3, km) | vicitaṃ (pts1)",
-  "bv14:38.3": "Tattheva tassa cetiyo → tattheva cetiyo satthu (s2, s3, km)"
+  "bv14:29.1": "ghanakkhandho → ghanaruciro (bj, pts-vp-pli2ed, mr)",
+  "bv14:36.4": "cittitaṃ → cittakaṃ (sya1ed, sya2ed, km) | vicitaṃ (pts-vp-pli1ed)",
+  "bv14:38.3": "Tattheva tassa cetiyo → tattheva cetiyo satthu (sya1ed, sya2ed, km)"
 }

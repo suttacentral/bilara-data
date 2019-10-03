@@ -1,8 +1,8 @@
 {
   "ja420:5.1": "Bhusamhi → bhusa hi (bj) | bhusampi (mr)",
-  "ja420:8.3": "Avaṇṇasaṃyutā → ... saṃyuttā (bj, s2, s3, pts1) | ... yuttāva (mr)",
-  "ja420:12.2": "Ṭhitamariyavattī → ... vatti (bj) | ... vutti (s2, s3, mr)",
-  "ja420:12.3": "anuppīḷa pasāsamediniṃ → anuppīḷa pasāsa medaniṃ (s2, s3) | anuppīḷaṃ sahasamedaniṃ (mr)",
-  "ja420:13.1": "sunītena → suvinītena (pts1)",
-  "ja420:13.4": "megho salilena medinin”ti → medaninti (s2, s3, mr)"
+  "ja420:8.3": "Avaṇṇasaṃyutā → ... saṃyuttā (bj, sya1ed, sya2ed, pts-vp-pli1ed) | ... yuttāva (mr)",
+  "ja420:12.2": "Ṭhitamariyavattī → ... vatti (bj) | ... vutti (sya1ed, sya2ed, mr)",
+  "ja420:12.3": "anuppīḷa pasāsamediniṃ → anuppīḷa pasāsa medaniṃ (sya1ed, sya2ed) | anuppīḷaṃ sahasamedaniṃ (mr)",
+  "ja420:13.1": "sunītena → suvinītena (pts-vp-pli1ed)",
+  "ja420:13.4": "megho salilena medinin”ti → medaninti (sya1ed, sya2ed, mr)"
 }

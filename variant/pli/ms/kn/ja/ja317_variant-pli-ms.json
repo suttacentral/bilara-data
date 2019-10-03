@@ -1,7 +1,7 @@
 {
-  "ja317:5.1": "Mataṃ mataṃ evaṃ → matamatameva (bj, s2, s3, pts1)",
-  "ja317:5.3": "Sabbepi → sabbeva (bj, s2, s3, pts1)",
-  "ja317:6.3": "Samhi → yamhi (s2, s3) | asmiṃ (pts1, mr)",
-  "ja317:8.1": "Dhuttā ca soṇḍā → dhuttā soṇḍā (bj, pts1) | dhuttā soṇḍā ca (s2, s3)",
-  "ja317:8.2": "bālā sūrā ayogino → bālā sūrā vīrā ayogino (pts1)"
+  "ja317:5.1": "Mataṃ mataṃ evaṃ → matamatameva (bj, sya1ed, sya2ed, pts-vp-pli1ed)",
+  "ja317:5.3": "Sabbepi → sabbeva (bj, sya1ed, sya2ed, pts-vp-pli1ed)",
+  "ja317:6.3": "Samhi → yamhi (sya1ed, sya2ed) | asmiṃ (pts-vp-pli1ed, mr)",
+  "ja317:8.1": "Dhuttā ca soṇḍā → dhuttā soṇḍā (bj, pts-vp-pli1ed) | dhuttā soṇḍā ca (sya1ed, sya2ed)",
+  "ja317:8.2": "bālā sūrā ayogino → bālā sūrā vīrā ayogino (pts-vp-pli1ed)"
 }

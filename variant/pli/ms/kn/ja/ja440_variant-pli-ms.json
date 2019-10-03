@@ -1,9 +1,9 @@
 {
-  "ja440:9.1": "kodhe vā → kodhe ca (bj) | kodheva (pts1)",
-  "ja440:9.3": "tvaṃ passasi → sampassasi (bj, pts1) | sammasasi (s2, s3)",
-  "ja440:11.1": "pharusā → paṭhamā (pts1, bj -nissya)",
+  "ja440:9.1": "kodhe vā → kodhe ca (bj) | kodheva (pts-vp-pli1ed)",
+  "ja440:9.3": "tvaṃ passasi → sampassasi (bj, pts-vp-pli1ed) | sammasasi (sya1ed, sya2ed)",
+  "ja440:11.1": "pharusā → paṭhamā (pts-vp-pli1ed, bj -nissya)",
   "ja440:11.4": "paramā gati → parāmasati (mr)",
-  "ja440:12.1": "sāhasākārā → sahasākārā (bj, pts1)",
-  "ja440:13.1": "Snehasaṅgathitā → saṅgantitā (s2) | saṅgadhitā (mr)",
-  "ja440:15.5": "mā → na (s2, s3, pts1)"
+  "ja440:12.1": "sāhasākārā → sahasākārā (bj, pts-vp-pli1ed)",
+  "ja440:13.1": "Snehasaṅgathitā → saṅgantitā (sya1ed) | saṅgadhitā (mr)",
+  "ja440:15.5": "mā → na (sya1ed, sya2ed, pts-vp-pli1ed)"
 }

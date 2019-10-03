@@ -1,10 +1,10 @@
 {
-  "ja442:6.1": "Subbhū → subbhā (s2, s3) | subbhu (pts1) | subhmā (mr)",
-  "ja442:6.4": "Saddhāvittā → saddhācittā (bj, pts1, mr)",
-  "ja442:7.1": "disvāna → disva (bj, pts1)",
-  "ja442:7.2": "sukhamāsisāno → sukhamāsasāno (bj, s2, s3, pts1) | sukhamāsisamāno (mr)",
-  "ja442:11.1": "yiṭṭhañca hutañca → yiṭṭhaṃva hutaṃva (bj, pts1)",
-  "ja442:11.3": "subbhamu → subbhu (bj) | subbhā (s2, s3) | subbhuru (pts1), suvilaggamajjhe → suvilākamajjhe (bj, s2, s3) | vilākamajjhe (pts1) | suvilātamajjhe (mr)",
-  "ja442:12.3": "upāhanāni → upāhanāhi (bj, pts1)",
-  "ja442:13.3": "na hettha → na hatthi (pts1)"
+  "ja442:6.1": "Subbhū → subbhā (sya1ed, sya2ed) | subbhu (pts-vp-pli1ed) | subhmā (mr)",
+  "ja442:6.4": "Saddhāvittā → saddhācittā (bj, pts-vp-pli1ed, mr)",
+  "ja442:7.1": "disvāna → disva (bj, pts-vp-pli1ed)",
+  "ja442:7.2": "sukhamāsisāno → sukhamāsasāno (bj, sya1ed, sya2ed, pts-vp-pli1ed) | sukhamāsisamāno (mr)",
+  "ja442:11.1": "yiṭṭhañca hutañca → yiṭṭhaṃva hutaṃva (bj, pts-vp-pli1ed)",
+  "ja442:11.3": "subbhamu → subbhu (bj) | subbhā (sya1ed, sya2ed) | subbhuru (pts-vp-pli1ed), suvilaggamajjhe → suvilākamajjhe (bj, sya1ed, sya2ed) | vilākamajjhe (pts-vp-pli1ed) | suvilātamajjhe (mr)",
+  "ja442:12.3": "upāhanāni → upāhanāhi (bj, pts-vp-pli1ed)",
+  "ja442:13.3": "na hettha → na hatthi (pts-vp-pli1ed)"
 }

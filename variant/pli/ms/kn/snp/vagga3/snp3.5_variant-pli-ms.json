@@ -1,7 +1,7 @@
 {
-  "snp3.5:6.3": "agahaṃ → agihaṃ (bj, pts1) | agehaṃ (mr)",
-  "snp3.5:6.4": "dānapati → dānapatī (bj, s1-3, pts1)",
-  "snp3.5:6.5": "puññapekkho → puññapekho (bj, pts1, mr)",
-  "snp3.5:9.1": "asattā → alaggā (s1-3)",
+  "snp3.5:6.3": "agahaṃ → agihaṃ (bj, pts-vp-pli1ed) | agehaṃ (mr)",
+  "snp3.5:6.4": "dānapati → dānapatī (bj, sya-all, pts-vp-pli1ed)",
+  "snp3.5:6.5": "puññapekkho → puññapekho (bj, pts-vp-pli1ed, mr)",
+  "snp3.5:9.1": "asattā → alaggā (sya-all)",
   "snp3.5:28.2": "Kenattanā gacchati → kenatthenā gacchati (mr)"
 }

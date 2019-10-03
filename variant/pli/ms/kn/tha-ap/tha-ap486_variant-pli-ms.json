@@ -1,11 +1,11 @@
 {
-  "tha-ap486:3.1": "4 Ñāṇathavikattheraapadāna → ñāṇatthavikattherāpadānaṃ (bj, s2, s3)",
-  "tha-ap486:7.2": "saṃsati → bhāsati (bj) | sāsati (s2, s3, pts1)",
-  "tha-ap486:12.3": "Parāyaṇo → parāyano (s2, s3, c1)",
-  "tha-ap486:15.1": "theve → have (bj, pts1) | bhave (s2, s3, mr)",
-  "tha-ap486:15.2": "sāgaruttame → sāgaruttamo (bj, s2, s3, pts1)",
-  "tha-ap486:16.1": "Tuladaṇḍe → tulāmaṇḍale (bj) | tulamaṇḍale (pts1)",
-  "tha-ap486:16.2": "mahiṃ → mahi (s2, s3) | mahī (pts1)",
-  "tha-ap486:30.2": "ñāṇamathaviṃ ahaṃ → ... mabhithomayiṃ (bj) | ... mabhithomahaṃ (s2, s3, pts1)",
-  "tha-ap486:34.1": "ñāṇathaviko → ñāṇatthaviko (bj, s2, s3, pts1)"
+  "tha-ap486:3.1": "4 Ñāṇathavikattheraapadāna → ñāṇatthavikattherāpadānaṃ (bj, sya1ed, sya2ed)",
+  "tha-ap486:7.2": "saṃsati → bhāsati (bj) | sāsati (sya1ed, sya2ed, pts-vp-pli1ed)",
+  "tha-ap486:12.3": "Parāyaṇo → parāyano (sya1ed, sya2ed, csp1ed)",
+  "tha-ap486:15.1": "theve → have (bj, pts-vp-pli1ed) | bhave (sya1ed, sya2ed, mr)",
+  "tha-ap486:15.2": "sāgaruttame → sāgaruttamo (bj, sya1ed, sya2ed, pts-vp-pli1ed)",
+  "tha-ap486:16.1": "Tuladaṇḍe → tulāmaṇḍale (bj) | tulamaṇḍale (pts-vp-pli1ed)",
+  "tha-ap486:16.2": "mahiṃ → mahi (sya1ed, sya2ed) | mahī (pts-vp-pli1ed)",
+  "tha-ap486:30.2": "ñāṇamathaviṃ ahaṃ → ... mabhithomayiṃ (bj) | ... mabhithomahaṃ (sya1ed, sya2ed, pts-vp-pli1ed)",
+  "tha-ap486:34.1": "ñāṇathaviko → ñāṇatthaviko (bj, sya1ed, sya2ed, pts-vp-pli1ed)"
 }

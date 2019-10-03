@@ -1,11 +1,11 @@
 {
-  "vv36:6.1": "kambukāyūradhare → kā kambukeyuradhare (bj) | kakambukāyuradhare (s2, pts1) | kā kambukāyuradhare (s3, pts2)",
-  "vv36:6.3": "Hemajālakasañchanne → ... pacchanne (bj, pts2)",
-  "vv36:7.1": "lohitaṅgamayā → lohitaṅkamayā (bj, s2, s3)",
-  "vv36:7.3": "sahalohitaṅgā → saha lohitaṅkā (bj, s3, pts2) | sahalohitakā (s2, pts1)",
-  "vv36:9.1": "vaggu → vaggū (s2, s3)",
-  "vv36:9.2": "nānāratanacittito → nānāratanacittaṅgo (s2, s3)",
-  "vv36:10.2": "tvaṃ → yattha (si, s2, s3, mr)",
-  "vv36:11.1": "maṇisoṇṇacittitaṃ → ... cittaṃ (s2, s3, pts1-2) | ... vicittaṃ (mr)",
+  "vv36:6.1": "kambukāyūradhare → kā kambukeyuradhare (bj) | kakambukāyuradhare (sya1ed, pts-vp-pli1ed) | kā kambukāyuradhare (sya2ed, pts-vp-pli2ed)",
+  "vv36:6.3": "Hemajālakasañchanne → ... pacchanne (bj, pts-vp-pli2ed)",
+  "vv36:7.1": "lohitaṅgamayā → lohitaṅkamayā (bj, sya1ed, sya2ed)",
+  "vv36:7.3": "sahalohitaṅgā → saha lohitaṅkā (bj, sya2ed, pts-vp-pli2ed) | sahalohitakā (sya1ed, pts-vp-pli1ed)",
+  "vv36:9.1": "vaggu → vaggū (sya1ed, sya2ed)",
+  "vv36:9.2": "nānāratanacittito → nānāratanacittaṅgo (sya1ed, sya2ed)",
+  "vv36:10.2": "tvaṃ → yattha (si, sya1ed, sya2ed, mr)",
+  "vv36:11.1": "pts-vp-pli1ed, pts-vp-pli2ed) | ... vicittaṃ (mr)",
   "vv36:11.2": "channaṃ → sañchannaṃ (mr)"
 }

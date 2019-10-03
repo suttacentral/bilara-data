@@ -1,7 +1,7 @@
 {
-  "cp19:5.2": "Kapilāyaṃ → kampilāyaṃ (bj) | kappilāyaṃ (s2, s3, pts1)",
-  "cp19:5.3": "jayaddiso → jayadiso (s2, s3)",
-  "cp19:12.4": "parittāsaṃ → paritāsaṃ (bj, pts2)",
-  "cp19:14.3": "pakkakālamaññāya → supakkakālamaññāya (s2, s3) | sampattakālamaññāya (pts1)",
-  "cp19:16.1": "Alīnasattucariyaṃ → jayadisacariyaṃ (s2, s3) | jayaddisacariyaṃ (pts1) | alīnasattacariyaṃ (pts2)"
+  "cp19:5.2": "Kapilāyaṃ → kampilāyaṃ (bj) | kappilāyaṃ (sya1ed, sya2ed, pts-vp-pli1ed)",
+  "cp19:5.3": "jayaddiso → jayadiso (sya1ed, sya2ed)",
+  "cp19:12.4": "parittāsaṃ → paritāsaṃ (bj, pts-vp-pli2ed)",
+  "cp19:14.3": "pakkakālamaññāya → supakkakālamaññāya (sya1ed, sya2ed) | sampattakālamaññāya (pts-vp-pli1ed)",
+  "cp19:16.1": "Alīnasattucariyaṃ → jayadisacariyaṃ (sya1ed, sya2ed) | jayaddisacariyaṃ (pts-vp-pli1ed) | alīnasattacariyaṃ (pts-vp-pli2ed)"
 }

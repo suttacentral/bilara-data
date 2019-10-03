@@ -1,15 +1,15 @@
 {
-  "ja477:5.3": "hāpito → hāsito (bj, s2, s3)",
+  "ja477:5.3": "hāpito → hāsito (bj, sya1ed, sya2ed)",
   "ja477:7.3": "brahme → brahmaṃ (mr)",
-  "ja477:9.1": "paṭisevittho → patisevittho (bj, pts1) | paṭisevittha (s2, s3, mr)",
+  "ja477:9.1": "paṭisevittho → patisevittho (bj, pts-vp-pli1ed) | paṭisevittha (sya1ed, sya2ed, mr)",
   "ja477:9.3": "Paṅke ca mā visīdittho → paṅko ca mā visiyittho (mr)",
-  "ja477:11.3": "Manuñño → manuññā (bj, s2, s3, pts1)",
-  "ja477:11.4": "sādu → madhu (bj, s2, s3), khuddarasūpamo → ... rasūpamā (bj, s2, s3, pts1)",
-  "ja477:13.2": "ca → eso (bj) | esova (s2, s3, pts1)",
-  "ja477:14.1": "Sasatthā → mahantā (s2, s3, mr)",
-  "ja477:15.3": "Āsīvisoti → āsīviso so (bj, pts1)",
-  "ja477:16.1": "ca → yaṃ (bj, pts1)",
-  "ja477:17.2": "pānatthaṃ → pānattho (s2, s3, pts1)",
-  "ja477:18.1": "kirāṭañca → kirāsañca (bj, s2, s3) | kirāsaṃ vā (pts1)",
-  "ja477:19.1": "Cūḷanāradajātakaṃ → cullanāradajātakaṃ (bj, pts1) | cullanāradakassapajātakaṃ (s2, s3)"
+  "ja477:11.3": "Manuñño → manuññā (bj, sya1ed, sya2ed, pts-vp-pli1ed)",
+  "ja477:11.4": "sādu → madhu (bj, sya1ed, sya2ed), khuddarasūpamo → ... rasūpamā (bj, sya1ed, sya2ed, pts-vp-pli1ed)",
+  "ja477:13.2": "ca → eso (bj) | esova (sya1ed, sya2ed, pts-vp-pli1ed)",
+  "ja477:14.1": "Sasatthā → mahantā (sya1ed, sya2ed, mr)",
+  "ja477:15.3": "Āsīvisoti → āsīviso so (bj, pts-vp-pli1ed)",
+  "ja477:16.1": "ca → yaṃ (bj, pts-vp-pli1ed)",
+  "ja477:17.2": "pānatthaṃ → pānattho (sya1ed, sya2ed, pts-vp-pli1ed)",
+  "ja477:18.1": "kirāṭañca → kirāsañca (bj, sya1ed, sya2ed) | kirāsaṃ vā (pts-vp-pli1ed)",
+  "ja477:19.1": "Cūḷanāradajātakaṃ → cullanāradajātakaṃ (bj, pts-vp-pli1ed) | cullanāradakassapajātakaṃ (sya1ed, sya2ed)"
 }

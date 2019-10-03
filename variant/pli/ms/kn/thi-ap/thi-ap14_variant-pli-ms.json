@@ -1,10 +1,10 @@
 {
-  "thi-ap14:4.2": "bālikā → mālikā (s2, s3, pts1)",
-  "thi-ap14:6.1": "Gonakāvikatikāhi → goṇakacittakādīhi (bj, s2, s3)",
-  "thi-ap14:7.4": "cevettha mehiti → cettha upaṭṭhito (bj) | cevatthamehiti (s2, s3) | cevatthameti taṃ (pts1)",
-  "thi-ap14:13.4": "susaṇṭhitā → susanthatā (bj) | susanthato (pts1)",
+  "thi-ap14:4.2": "bālikā → mālikā (sya1ed, sya2ed, pts-vp-pli1ed)",
+  "thi-ap14:6.1": "Gonakāvikatikāhi → goṇakacittakādīhi (bj, sya1ed, sya2ed)",
+  "thi-ap14:7.4": "cevettha mehiti → cettha upaṭṭhito (bj) | cevatthamehiti (sya1ed, sya2ed) | cevatthameti taṃ (pts-vp-pli1ed)",
+  "thi-ap14:13.4": "susaṇṭhitā → susanthatā (bj) | susanthato (pts-vp-pli1ed)",
   "thi-ap14:16.4": "ekāsanassidaṃ phalaṃ → ekāsanaphalaṃ idaṃ (sabbattha)",
-  "thi-ap14:18.3": "Uccākulīnā → uccākulikā (s2, s3, pts1, mr)",
-  "thi-ap14:20.2": "celāpikā → kheḷāsikā (bj) | celāvakā (s2, s3) | celāvikā (pts1)",
-  "thi-ap14:21.4": "ekāsanassidaṃ phalaṃ → aññā ramenti maṃ sadā. (s2, s3) | ... ekāsanaphalaṃ idam (pts1)"
+  "thi-ap14:18.3": "Uccākulīnā → uccākulikā (sya1ed, sya2ed, pts-vp-pli1ed, mr)",
+  "thi-ap14:20.2": "celāpikā → kheḷāsikā (bj) | celāvakā (sya1ed, sya2ed) | celāvikā (pts-vp-pli1ed)",
+  "thi-ap14:21.4": "ekāsanassidaṃ phalaṃ → aññā ramenti maṃ sadā. (sya1ed, sya2ed) | ... ekāsanaphalaṃ idam (pts-vp-pli1ed)"
 }

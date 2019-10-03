@@ -1,10 +1,10 @@
 {
-  "tha-ap54:3.1": "2 Sataraṃsittheraapadāna → sataraṃsikattherāpadānaṃ (bj, pts1) | sataraṃsiyattherāpadānaṃ (s2, s3)",
+  "tha-ap54:3.1": "2 Sataraṃsittheraapadāna → sataraṃsikattherāpadānaṃ (bj, pts-vp-pli1ed) | sataraṃsiyattherāpadānaṃ (sya1ed, sya2ed)",
   "tha-ap54:4.1": "Ubbiddhaṃ → ucciyaṃ (bj)",
-  "tha-ap54:7.1": "Mahāsamuddovakkhubbho → ' ... kkhobho (bj) | ... kkhobbho (pts1)",
+  "tha-ap54:7.1": "Mahāsamuddovakkhubbho → ' ... kkhobho (bj) | ... kkhobbho (pts-vp-pli1ed)",
   "tha-ap54:7.3": "Migarājāvasambhīto → ... chambhito (mr)",
   "tha-ap54:9.1": "Yenāyaṃ → yenāhaṃ (mr)",
-  "tha-ap54:10.3": "Vivaṭṭacchado → vivattacchaddo (bj) | vivattachaddo (pts1)",
-  "tha-ap54:16.1": "sataraṃsi → sataraṃsiyo (bj, s2, s3, pts1)",
-  "tha-ap54:17.1": "Sataraṃsittherassāpadānaṃ → sataraṃsikat ... (bj, pts1) | sataraṃsiyattherassa ... (s2, s3)"
+  "tha-ap54:10.3": "Vivaṭṭacchado → vivattacchaddo (bj) | vivattachaddo (pts-vp-pli1ed)",
+  "tha-ap54:16.1": "sataraṃsi → sataraṃsiyo (bj, sya1ed, sya2ed, pts-vp-pli1ed)",
+  "tha-ap54:17.1": "Sataraṃsittherassāpadānaṃ → sataraṃsikat ... (bj, pts-vp-pli1ed) | sataraṃsiyattherassa ... (sya1ed, sya2ed)"
 }

@@ -1,10 +1,10 @@
 {
   "tha-ap537:9.1": "Nānācittehi → nānāvaṇṇehi (bj)",
   "tha-ap537:9.2": "sasāvakaṃ → mahāvīraṃ (mr)",
-  "tha-ap537:10.2": "karuṇekarasāsayo → karuṇo karuṇālayo (s2, s3)",
-  "tha-ap537:12.2": "ekāvatthasumānasaṃ → ekavattaṃ sumānasaṃ (bj, s2, s3, mr) | ekavattasumānasaṃ (pts1)",
-  "tha-ap537:12.4": "vicittakathikattanaṃ → vicittakathikatthadaṃ (si, pts1)",
-  "tha-ap537:17.1": "bhavābhave → bhavākāse (bj, pts1)",
-  "tha-ap537:19.3": "sapāṇaṃ → saṃpāṇaṃ (bj, pts1) | sappāṇaṃ (s2, s3)",
-  "tha-ap537:21.2": "tathetare ca → catare ca tassovādaṃ (s2, s3) | tassovādena (pts1) | citare ca tassovādaṃ (mr)"
+  "tha-ap537:10.2": "karuṇekarasāsayo → karuṇo karuṇālayo (sya1ed, sya2ed)",
+  "tha-ap537:12.2": "ekāvatthasumānasaṃ → ekavattaṃ sumānasaṃ (bj, sya1ed, sya2ed, mr) | ekavattasumānasaṃ (pts-vp-pli1ed)",
+  "tha-ap537:12.4": "vicittakathikattanaṃ → vicittakathikatthadaṃ (si, pts-vp-pli1ed)",
+  "tha-ap537:17.1": "bhavābhave → bhavākāse (bj, pts-vp-pli1ed)",
+  "tha-ap537:19.3": "sapāṇaṃ → saṃpāṇaṃ (bj, pts-vp-pli1ed) | sappāṇaṃ (sya1ed, sya2ed)",
+  "tha-ap537:21.2": "tathetare ca → catare ca tassovādaṃ (sya1ed, sya2ed) | tassovādena (pts-vp-pli1ed) | citare ca tassovādaṃ (mr)"
 }

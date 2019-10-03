@@ -1,15 +1,15 @@
 {
-  "thi-ap32:3.1": "2 Caturāsītibhikkhunīsahassaapadāna → brāhmaṇakaññābhikkhunīnaṃ apadānaṃ (bj) | cuturāsītisahassabrāhmaṇakaññātherīnamapadānaṃ (s2, s3) | caturāsītiṃ brāhmaṇakaññā bhikkhunī sahassāni apadānaṃ (pts1)",
-  "thi-ap32:4.2": "brāhmaññakulasambhavā → brāhmaṇakulasambhavā (s2, s3, mr) | brahmaññākulasambhavā (pts1)",
-  "thi-ap32:6.2": "sabbadassāvino → saccadassāvino (bj, pts1)",
-  "thi-ap32:7.3": "Tumhaṃ → tvayi (bj, pts1)",
-  "thi-ap32:8.3": "Pekkhato no → lakkhaṇā ca (s2, s3)",
-  "thi-ap32:11.4": "anujānātha → anujānimha (s2, s3, pts1, mr)",
-  "thi-ap32:26.3": "Oruddhe → oratīre (s2, s3)",
-  "thi-ap32:28.3": "Tassa setuṃ vihārañca → tassa setuvihāre ca (bj) | tesu setuvihāresu (si) | tassa setū vihāre ca (pts1)",
-  "thi-ap32:33.4": "jaṭilassa mahāmuni → byākāsi mahāmuni (s2, s3)",
-  "thi-ap32:39.2": "kittiñca sakkataṃ → kittisukhaṃ piyaṃ (s2, s3) | kittitasakkatā (pts1)",
-  "thi-ap32:41.3": "Cikkhallabhūmimasuciṃ → cikkhallaṃ bhūmiṃ gamanaṃ (s2, s3)",
-  "thi-ap32:42.4": "pubbakammaphalena no → pubbakammaphalaṃ tato (pts1)",
-  "thi-ap32:43.4": "vītarāgā bhavāmase → natthi dāni punabbhavo (s2, s3, pts1)"
+  "thi-ap32:3.1": "2 Caturāsītibhikkhunīsahassaapadāna → brāhmaṇakaññābhikkhunīnaṃ apadānaṃ (bj) | cuturāsītisahassabrāhmaṇakaññātherīnamapadānaṃ (sya1ed, sya2ed) | caturāsītiṃ brāhmaṇakaññā bhikkhunī sahassāni apadānaṃ (pts-vp-pli1ed)",
+  "thi-ap32:4.2": "brāhmaññakulasambhavā → brāhmaṇakulasambhavā (sya1ed, sya2ed, mr) | brahmaññākulasambhavā (pts-vp-pli1ed)",
+  "thi-ap32:6.2": "sabbadassāvino → saccadassāvino (bj, pts-vp-pli1ed)",
+  "thi-ap32:7.3": "Tumhaṃ → tvayi (bj, pts-vp-pli1ed)",
+  "thi-ap32:8.3": "Pekkhato no → lakkhaṇā ca (sya1ed, sya2ed)",
+  "thi-ap32:11.4": "anujānātha → anujānimha (sya1ed, sya2ed, pts-vp-pli1ed, mr)",
+  "thi-ap32:26.3": "Oruddhe → oratīre (sya1ed, sya2ed)",
+  "thi-ap32:28.3": "Tassa setuṃ vihārañca → tassa setuvihāre ca (bj) | tesu setuvihāresu (si) | tassa setū vihāre ca (pts-vp-pli1ed)",
+  "thi-ap32:33.4": "jaṭilassa mahāmuni → byākāsi mahāmuni (sya1ed, sya2ed)",
+  "thi-ap32:39.2": "kittiñca sakkataṃ → kittisukhaṃ piyaṃ (sya1ed, sya2ed) | kittitasakkatā (pts-vp-pli1ed)",
+  "thi-ap32:41.3": "Cikkhallabhūmimasuciṃ → cikkhallaṃ bhūmiṃ gamanaṃ (sya1ed, sya2ed)",
+  "thi-ap32:42.4": "pubbakammaphalena no → pubbakammaphalaṃ tato (pts-vp-pli1ed)",
+  "thi-ap32:43.4": "vītarāgā bhavāmase → natthi dāni punabbhavo (sya1ed, sya2ed, pts-vp-pli1ed)"
 }

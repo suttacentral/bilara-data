@@ -1,10 +1,10 @@
 {
-  "ud1.10:4.1": "assa → assasi (s1-3, mr)",
-  "ud1.10:5.1": "ke → ko (bj) | kho ke (pts1), samāpannā → samāpanno (bj)",
-  "ud1.10:12.2": "adhipatitvā → adhipātetvā (bj, s1-3, pts1) | adhipātitvā (mr)",
-  "ud1.10:13.1": "kālaṅkataṃ → kālakataṃ (bj, s1-3, km)",
+  "ud1.10:4.1": "assa → assasi (sya-all, mr)",
+  "ud1.10:5.1": "ke → ko (bj) | kho ke (pts-vp-pli1ed), samāpannā → samāpanno (bj)",
+  "ud1.10:12.2": "adhipatitvā → adhipātetvā (bj, sya-all, pts-vp-pli1ed) | adhipātitvā (mr)",
+  "ud1.10:13.1": "kālaṅkataṃ → kālakataṃ (bj, sya-all, km)",
   "ud1.10:17.1": "attanāvedi → ... vedī (bj) | ... vedhī (mr)",
   "ud1.10:21.1": "Tayo bodhī ca huṃhuṅko → tayo ca bodhi nigrodho (sabbattha)",
-  "ud1.10:21.2": "brāhmaṇā → te therā (bj, s1-3, pts1) | thero (mr)",
-  "ud1.10:21.3": "Aja → pāvāya (bj, s1-3) | pāṭalī (pts1) | pāvā (mr)"
+  "ud1.10:21.2": "brāhmaṇā → te therā (bj, sya-all, pts-vp-pli1ed) | thero (mr)",
+  "ud1.10:21.3": "Aja → pāvāya (bj, sya-all) | pāṭalī (pts-vp-pli1ed) | pāvā (mr)"
 }

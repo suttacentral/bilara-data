@@ -1,11 +1,11 @@
 {
   "ja475:5.1": "Kuṭhārihattho → kudhārihattho (mr)",
-  "ja475:6.1": "Isso → iso (si) | īso (s2, s3, pts1)",
-  "ja475:7.3": "Rukkho ca → rukkhova (bj, pts1)",
-  "ja475:12.1": "Issassa → imassa (si, mr), upakkhandhamhā → upakhandhamhā (bj, pts1, mr)",
-  "ja475:12.3": "pasāresi → pariharesi (bj, s2, s3, pts1)",
-  "ja475:14.1": "Iccevaṃ → icceva (bj, pts1)",
+  "ja475:6.1": "Isso → iso (si) | īso (sya1ed, sya2ed, pts-vp-pli1ed)",
+  "ja475:7.3": "Rukkho ca → rukkhova (bj, pts-vp-pli1ed)",
+  "ja475:12.1": "Issassa → imassa (si, mr), upakkhandhamhā → upakhandhamhā (bj, pts-vp-pli1ed, mr)",
+  "ja475:12.3": "pasāresi → pariharesi (bj, sya1ed, sya2ed, pts-vp-pli1ed)",
+  "ja475:14.1": "Iccevaṃ → icceva (bj, pts-vp-pli1ed)",
   "ja475:16.1": "bhaddaṃ vo → bhaddante (mr)",
-  "ja475:16.3": "vivadatha → māvivadittha (bj, s2, s3, pts1)",
-  "ja475:17.1": "Sāmaggimeva → sāmagyameva (s2, s3, mr)"
+  "ja475:16.3": "vivadatha → māvivadittha (bj, sya1ed, sya2ed, pts-vp-pli1ed)",
+  "ja475:17.1": "Sāmaggimeva → sāmagyameva (sya1ed, sya2ed, mr)"
 }

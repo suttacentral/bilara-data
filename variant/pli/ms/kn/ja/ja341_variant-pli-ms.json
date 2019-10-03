@@ -1,7 +1,7 @@
 {
-  "ja341:5.3": "Sabbattha nāpītikarāpi → sabba'ttanāpītikarāpi (bj, s2, s3), siyā → siyuṃ (s2, s3)",
-  "ja341:6.1": "Yaṃ ve → yañca (s2, s3, mr), kaṇḍarīkinnarānaṃ → kaṇḍari kinnarānaṃ (bj) | kinnarakinnarīnaṃ (s2, s3) | kinnarīkinnarānaṃ (mr)",
+  "ja341:5.3": "Sabbattha nāpītikarāpi → sabba'ttanāpītikarāpi (bj, sya1ed, sya2ed), siyā → siyuṃ (sya1ed, sya2ed)",
+  "ja341:6.1": "Yaṃ ve → yañca (sya1ed, sya2ed, mr), kaṇḍarīkinnarānaṃ → kaṇḍari kinnarānaṃ (bj) | kinnarakinnarīnaṃ (sya1ed, sya2ed) | kinnarīkinnarānaṃ (mr)",
   "ja341:7.1": "bāvarikassa → pāvārikassa (bj)",
-  "ja341:7.3": "Avācarī → accācarī (s2, s3) | anācari (mr), paṭṭhavasānugassa → baddhavasānugassa (bj, s2, s3) | pattavasānugatassa (mr)",
-  "ja341:9.1": "Kaṇḍarījātakaṃ → kinnarījātakaṃ (bj, mr) | kuṇḍalikajātakaṃ (s2, s3) | kaṇḍarijātakaṃ (pts1)"
+  "ja341:7.3": "Avācarī → accācarī (sya1ed, sya2ed) | anācari (mr), paṭṭhavasānugassa → baddhavasānugassa (bj, sya1ed, sya2ed) | pattavasānugatassa (mr)",
+  "ja341:9.1": "Kaṇḍarījātakaṃ → kinnarījātakaṃ (bj, mr) | kuṇḍalikajātakaṃ (sya1ed, sya2ed) | kaṇḍarijātakaṃ (pts-vp-pli1ed)"
 }

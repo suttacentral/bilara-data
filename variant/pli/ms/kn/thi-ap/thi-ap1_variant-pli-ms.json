@@ -1,12 +1,12 @@
 {
-  "thi-ap1:6.2": "navanivesanamhi → navanivesamhi (bj, pts1) | nivesamhi (s2, s3)",
+  "thi-ap1:6.2": "navanivesanamhi → navanivesamhi (bj, pts-vp-pli1ed) | nivesamhi (sya1ed, sya2ed)",
   "thi-ap1:7.2": "satānañca satakkhattuṃ → satāni ca sattakkhattuṃ (mr)",
-  "thi-ap1:8.3": "Sattaratanamahesī → sattaratanassa mahesī (bj, s2, s3, pts1)",
-  "thi-ap1:9.1": "Idha sañcitakusalā → tattha sañcitaṃ kusalaṃ (s2, s3) | idha sañcitā kusalaṃ (pts1)",
-  "thi-ap1:14.2": "sukhedhitā → sukhe ṭhitā (s2, s3, pts1)",
-  "thi-ap1:15.4": "agāreva vataṃ → agāreva vattaṃ (s2, s3)",
-  "thi-ap1:17.1": "yāmamagaṃ → yāmāsaggaṃ (s2, s3)",
-  "thi-ap1:21.2": "Tammūlaṃ sāsane khamaṃ → tammūlaṃ sā ca sāsane khanti (bj, mr) | taṃ mūlaṃ sā ca sāsane khanti (pts1)",
-  "thi-ap1:21.4": "nibbānaṃ → nibbutaṃ (s2, s3)",
-  "thi-ap1:23.2": "buddhaseṭṭhassa → mama buddhassa (pts1, c1)"
+  "thi-ap1:8.3": "Sattaratanamahesī → sattaratanassa mahesī (bj, sya1ed, sya2ed, pts-vp-pli1ed)",
+  "thi-ap1:9.1": "Idha sañcitakusalā → tattha sañcitaṃ kusalaṃ (sya1ed, sya2ed) | idha sañcitā kusalaṃ (pts-vp-pli1ed)",
+  "thi-ap1:14.2": "sukhedhitā → sukhe ṭhitā (sya1ed, sya2ed, pts-vp-pli1ed)",
+  "thi-ap1:15.4": "agāreva vataṃ → agāreva vattaṃ (sya1ed, sya2ed)",
+  "thi-ap1:17.1": "yāmamagaṃ → yāmāsaggaṃ (sya1ed, sya2ed)",
+  "thi-ap1:21.2": "Tammūlaṃ sāsane khamaṃ → tammūlaṃ sā ca sāsane khanti (bj, mr) | taṃ mūlaṃ sā ca sāsane khanti (pts-vp-pli1ed)",
+  "thi-ap1:21.4": "nibbānaṃ → nibbutaṃ (sya1ed, sya2ed)",
+  "thi-ap1:23.2": "buddhaseṭṭhassa → mama buddhassa (pts-vp-pli1ed, csp1ed)"
 }

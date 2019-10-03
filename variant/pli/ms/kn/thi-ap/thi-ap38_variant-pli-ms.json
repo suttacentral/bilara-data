@@ -1,11 +1,11 @@
 {
   "thi-ap38:3.1": "8 Puṇṇikātherīapadāna → puṇṇāpadānaṃ (bj)",
-  "thi-ap38:10.4": "vācādosabhayaṭṭitā → vācārosabhayaṭṭitā (s2, s3)",
-  "thi-ap38:12.4": "rundhantaṃ → nudantaṃ (s2, s3) | niddhantaṃ (pts1), katapāpakaṃ → kammapāpakaṃ (s2, s3)",
-  "thi-ap38:13.1": "vuḍḍho daharo vā → yo vuḍḍho daharo vāpi (bj) | yo vuḍḍho daharo cāpi (s2, s3) | yo ca vuddho daharo vā (pts1)",
+  "thi-ap38:10.4": "vācādosabhayaṭṭitā → vācārosabhayaṭṭitā (sya1ed, sya2ed)",
+  "thi-ap38:12.4": "rundhantaṃ → nudantaṃ (sya1ed, sya2ed) | niddhantaṃ (pts-vp-pli1ed), katapāpakaṃ → kammapāpakaṃ (sya1ed, sya2ed)",
+  "thi-ap38:13.1": "vuḍḍho daharo vā → yo vuḍḍho daharo vāpi (bj) | yo vuḍḍho daharo cāpi (sya1ed, sya2ed) | yo ca vuddho daharo vā (pts-vp-pli1ed)",
   "thi-ap38:13.3": "Dakābhisiñcanā → dakābhisocanā (), sopi → bhoti (bj, mr)",
-  "thi-ap38:14.3": "sutvā → ñatvā (bj), sa saṃviggo → susaṃviggo (s2, s3) | sasaṃviggo (pts1)",
-  "thi-ap38:16.1": "tatonujānetvā → tato anumodetvā (bj) | tatonumodetvā (s2, s3) | tato 'numānetvā (pts1)",
-  "thi-ap38:20.4": "vinassati → panassati (s2, s3, pts1)",
+  "thi-ap38:14.3": "sutvā → ñatvā (bj), sa saṃviggo → susaṃviggo (sya1ed, sya2ed) | sasaṃviggo (pts-vp-pli1ed)",
+  "thi-ap38:16.1": "tatonujānetvā → tato anumodetvā (bj) | tatonumodetvā (sya1ed, sya2ed) | tato 'numānetvā (pts-vp-pli1ed)",
+  "thi-ap38:20.4": "vinassati → panassati (sya1ed, sya2ed, pts-vp-pli1ed)",
   "thi-ap38:24.1": "puṇṇikā → puṇṇā (bj)"
 }

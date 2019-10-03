@@ -1,6 +1,6 @@
 {
-  "tha-ap13:4.2": "dvipaduttame → dipaduttame (bj, s2, pts1) | dīpaduttame (s3)",
-  "tha-ap13:7.2": "yojanaṃ āsi → yojanāsiṃsu (s2, s3, pts1, mr)",
-  "tha-ap13:8.1": "Sataṃ → satta (s2, s3, pts1)",
-  "tha-ap13:12.1": "Catunnavutito → catunavute ito (bj, s2, s3, pts1)"
+  "tha-ap13:4.2": "dvipaduttame → dipaduttame (bj, sya1ed, pts-vp-pli1ed) | dīpaduttame (sya2ed)",
+  "tha-ap13:7.2": "yojanaṃ āsi → yojanāsiṃsu (sya1ed, sya2ed, pts-vp-pli1ed, mr)",
+  "tha-ap13:8.1": "Sataṃ → satta (sya1ed, sya2ed, pts-vp-pli1ed)",
+  "tha-ap13:12.1": "Catunnavutito → catunavute ito (bj, sya1ed, sya2ed, pts-vp-pli1ed)"
 }

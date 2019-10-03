@@ -1,10 +1,10 @@
 {
-  "ja464:5.1": "Luddhānaṃ → khuddānaṃ (bj, s2, s3, pts1)",
-  "ja464:7.1": "Cirānuvutthampi → cirānuvuṭṭhampi (s2, s3, mr)",
-  "ja464:7.2": "bhattuṃ → santaṃ (bj, s2, s3, pts1)",
-  "ja464:12.4": "bādhaye → bandhaye (s2, s3, mr)",
+  "ja464:5.1": "Luddhānaṃ → khuddānaṃ (bj, sya1ed, sya2ed, pts-vp-pli1ed)",
+  "ja464:7.1": "Cirānuvutthampi → cirānuvuṭṭhampi (sya1ed, sya2ed, mr)",
+  "ja464:7.2": "bhattuṃ → santaṃ (bj, sya1ed, sya2ed, pts-vp-pli1ed)",
+  "ja464:12.4": "bādhaye → bandhaye (sya1ed, sya2ed, mr)",
   "ja464:13.4": "velā tāsaṃ na vijjati → imissā gāthāya pubbaddhāparaddhaṃ vipariyāyena dissati (mr)",
-  "ja464:15.3": "niccayato → niccayatto (bj, pts1)",
-  "ja464:15.4": "sabbabhāvo → saccabhāvo (s2, s3)",
-  "ja464:17.1": "Cūḷakuṇālajātakaṃ → cullakuṇālajātakaṃ (s2, s3, pts1)"
+  "ja464:15.3": "niccayato → niccayatto (bj, pts-vp-pli1ed)",
+  "ja464:15.4": "sabbabhāvo → saccabhāvo (sya1ed, sya2ed)",
+  "ja464:17.1": "Cūḷakuṇālajātakaṃ → cullakuṇālajātakaṃ (sya1ed, sya2ed, pts-vp-pli1ed)"
 }

@@ -1,8 +1,8 @@
 {
-  "mn124:0.2": "Bākulasutta → bakkulasuttaṃ (bj, pts1) | bak­kula­the­raccha­riyab­bhūta­suttaṃ (s1, s2) | bak­kulat­the­raccha­riyab­bhūta­suttaṃ (s3)",
-  "mn124:1.2": "bākulo → bakkulo (bj, s1-3, km, pts1)",
-  "mn124:3.8": "() → (imehi pana te āvuso bakkula asītiyā vassehi katikkhattuṃ kāmasaññā uppannapubbāti.) (bj, pts1)",
-  "mn124:11-15.3": "kathine → kaṭhine (bj, s1-3, km, pts1)",
-  "mn124:11-15.4": "vicāritā → byāpāritā (bj, pts1) | sāditā (s1-3)",
-  "mn124:40.1": "avāpuraṇaṃ → apāpuraṇaṃ (bj, s1-3, km, pts1)"
+  "mn124:0.2": "Bākulasutta → bakkulasuttaṃ (bj, pts-vp-pli1ed) | bakkulatheracchariyabbhūtasuttaṃ (cck, sya1ed) | bakkulattheracchariyabbhūtasuttaṃ (sya2ed)",
+  "mn124:1.2": "bākulo → bakkulo (bj, sya-all, km, pts-vp-pli1ed)",
+  "mn124:3.8": "() → (imehi pana te āvuso bakkula asītiyā vassehi katikkhattuṃ kāmasaññā uppannapubbāti.) (bj, pts-vp-pli1ed)",
+  "mn124:11-15.3": "kathine → kaṭhine (bj, sya-all, km, pts-vp-pli1ed)",
+  "mn124:11-15.4": "vicāritā → byāpāritā (bj, pts-vp-pli1ed) | sāditā (sya-all)",
+  "mn124:40.1": "avāpuraṇaṃ → apāpuraṇaṃ (bj, sya-all, km, pts-vp-pli1ed)"
 }

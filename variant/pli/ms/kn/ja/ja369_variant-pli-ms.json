@@ -1,7 +1,7 @@
 {
-  "ja369:5.3": "ohacca → ūhacca (pts1) | uhacca (mr)",
-  "ja369:8.2": "aṭṭhāhipi ca → aṭṭhakābhi (bj) | aṭṭhābhi cāpi (s2, s3, mr)",
-  "ja369:9.1": "Uparivisālā duppūrā → uparivisālaṃ duppūraṃ (pts1)",
-  "ja369:9.2": "icchā visaṭagāminī → icchā visadagāminī (bj) | icchāvisaṭagāminiṃ (pts1)",
-  "ja369:10.1": "Mittavindakajātakaṃ → mittavindukajātakaṃ (s2, s3) | mittavindajātakaṃ (pts1)"
+  "ja369:5.3": "ohacca → ūhacca (pts-vp-pli1ed) | uhacca (mr)",
+  "ja369:8.2": "aṭṭhāhipi ca → aṭṭhakābhi (bj) | aṭṭhābhi cāpi (sya1ed, sya2ed, mr)",
+  "ja369:9.1": "Uparivisālā duppūrā → uparivisālaṃ duppūraṃ (pts-vp-pli1ed)",
+  "ja369:9.2": "icchā visaṭagāminī → icchā visadagāminī (bj) | icchāvisaṭagāminiṃ (pts-vp-pli1ed)",
+  "ja369:10.1": "Mittavindakajātakaṃ → mittavindukajātakaṃ (sya1ed, sya2ed) | mittavindajātakaṃ (pts-vp-pli1ed)"
 }

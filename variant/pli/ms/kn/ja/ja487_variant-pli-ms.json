@@ -1,14 +1,14 @@
 {
-  "ja487:5.2": "Dummakkharūpā → dummudharūpā (bj, mr) | dummukharūpā (pts1), mantaṃ jappanti → yeme japanti (bj, pts1) | ye mantaṃ japanti (s2, s3) | ye'me jappanti mante (^ja377#3 [Setaketujātaka])",
-  "ja487:6.1": "karetha → karotha (bj, pts1) | kareyya (s2, s3) | katvāna (^ja377#4 [Setaketujātaka])",
-  "ja487:6.4": "pamucce → pamuñce (s2, s3, pts1)",
-  "ja487:8.3": "Kittiñhi → kittiñca (s2, s3)",
-  "ja487:8.4": "puṇāti → puṇoti (bj) | puṇeti (s2, s3 ^ja377#6 [Setaketujātaka]) | puneti (pts1)",
+  "ja487:5.2": "Dummakkharūpā → dummudharūpā (bj, mr) | dummukharūpā (pts-vp-pli1ed), mantaṃ jappanti → yeme japanti (bj, pts-vp-pli1ed) | ye mantaṃ japanti (sya1ed, sya2ed) | ye'me jappanti mante (^ja377#3 [Setaketujātaka])",
+  "ja487:6.1": "karetha → karotha (bj, pts-vp-pli1ed) | kareyya (sya1ed, sya2ed) | katvāna (^ja377#4 [Setaketujātaka])",
+  "ja487:6.4": "pamucce → pamuñce (sya1ed, sya2ed, pts-vp-pli1ed)",
+  "ja487:8.3": "Kittiñhi → kittiñca (sya1ed, sya2ed)",
+  "ja487:8.4": "puṇāti → puṇoti (bj) | puṇeti (sya1ed, sya2ed ^ja377#6 [Setaketujātaka]) | puneti (pts-vp-pli1ed)",
   "ja487:9.3": "bhoto → bhoti (mr)",
-  "ja487:9.4": "sottiyākulavaṃsako → sotthiyākulavaṃsako (bj, pts1) | sotthiyakulavaṃsato (s2, s3)",
-  "ja487:13.1": "so → bho (s2, s3, mr)",
-  "ja487:15.6": "seyyotha → seyyova (bj, pts1)",
-  "ja487:18.3": "Panatthaṃ → pasatthaṃ (s2, s3) | panaṭṭhaṃ (pts1) | pasaṭṭhaṃ (mr)",
-  "ja487:20.1": "Evameva → evamevaṃ (pts1)",
-  "ja487:20.3": "sajātiṃ pamuñcanti → na tesaṃ jātiṃ pucchanti (bj, s2, s3, pts1) | na tesaṃ jāti sujjhati (mr)"
+  "ja487:9.4": "sottiyākulavaṃsako → sotthiyākulavaṃsako (bj, pts-vp-pli1ed) | sotthiyakulavaṃsato (sya1ed, sya2ed)",
+  "ja487:13.1": "so → bho (sya1ed, sya2ed, mr)",
+  "ja487:15.6": "seyyotha → seyyova (bj, pts-vp-pli1ed)",
+  "ja487:18.3": "Panatthaṃ → pasatthaṃ (sya1ed, sya2ed) | panaṭṭhaṃ (pts-vp-pli1ed) | pasaṭṭhaṃ (mr)",
+  "ja487:20.1": "Evameva → evamevaṃ (pts-vp-pli1ed)",
+  "ja487:20.3": "sajātiṃ pamuñcanti → na tesaṃ jātiṃ pucchanti (bj, sya1ed, sya2ed, pts-vp-pli1ed) | na tesaṃ jāti sujjhati (mr)"
 }

@@ -1,10 +1,10 @@
 {
-  "tha-ap485:4.1": "Ogayha yaṃ → ogayhāhaṃ (bj, pts1) | oggayhāhaṃ (s2, s3)",
-  "tha-ap485:4.4": "ghāsahetu → asanahetu (s2, s3)",
-  "tha-ap485:5.3": "Rattambaradharo → rattakambaladharo (s2, s3)",
+  "tha-ap485:4.1": "Ogayha yaṃ → ogayhāhaṃ (bj, pts-vp-pli1ed) | oggayhāhaṃ (sya1ed, sya2ed)",
+  "tha-ap485:4.4": "ghāsahetu → asanahetu (sya1ed, sya2ed)",
+  "tha-ap485:5.3": "Rattambaradharo → rattakambaladharo (sya1ed, sya2ed)",
   "tha-ap485:7.4": "muḷālibhi → muḷālikaṃ (^tha-ap560#4 [Bhaddajittheraapadāna])",
-  "tha-ap485:10.1": "hotu → hohi (bj, s2, s3, pts1, mr)",
-  "tha-ap485:12.3": "lagetvāna → laggitvāna (s2, s3, mr)",
-  "tha-ap485:16.3": "Sāyaṃ pātaṃ → sāyapātaṃ (bj, pts1, c1)",
+  "tha-ap485:10.1": "hotu → hohi (bj, sya1ed, sya2ed, pts-vp-pli1ed, mr)",
+  "tha-ap485:12.3": "lagetvāna → laggitvāna (sya1ed, sya2ed, mr)",
+  "tha-ap485:16.3": "Sāyaṃ pātaṃ → sāyapātaṃ (bj, pts-vp-pli1ed, csp1ed)",
   "tha-ap485:19.2": "bhisaṃ → bhikkhaṃ (sabbattha)"
 }

@@ -1,9 +1,9 @@
 {
-  "ja453:5.3": "asmiñca → asmiṃva (pts1)",
-  "ja453:6.2": "Sarīsapā → siriṃsapā (bj, s2, s3, pts1)",
-  "ja453:8.1": "sahāyamitte → sahāyamatte (bj, pts1)",
-  "ja453:8.3": "matīmā → mutīmā (bj, pts1)",
+  "ja453:5.3": "asmiñca → asmiṃva (pts-vp-pli1ed)",
+  "ja453:6.2": "Sarīsapā → siriṃsapā (bj, sya1ed, sya2ed, pts-vp-pli1ed)",
+  "ja453:8.1": "sahāyamitte → sahāyamatte (bj, pts-vp-pli1ed)",
+  "ja453:8.3": "matīmā → mutīmā (bj, pts-vp-pli1ed)",
   "ja453:10.2": "pajātā → sajātā (mr)",
-  "ja453:11.1": "bhūtapati → bhūtapatī (bj, s2, s3, pts1)",
-  "ja453:14.2": "sukhudrayāni → sukhindriyāni (pts1)"
+  "ja453:11.1": "bhūtapati → bhūtapatī (bj, sya1ed, sya2ed, pts-vp-pli1ed)",
+  "ja453:14.2": "sukhudrayāni → sukhindriyāni (pts-vp-pli1ed)"
 }

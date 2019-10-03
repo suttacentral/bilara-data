@@ -1,9 +1,9 @@
 {
-  "ja462:6.2": "adu → ādu (bj, pts1) | ādū (s2, s3)",
-  "ja462:8.1": "Na rājaputta usūyāmi → na rājaputta usuyyāmi (bj, pts1) | na rājaputta ussuyyāmi (s2, s3) | rājaputta nussuyyāmi (mr)",
-  "ja462:9.3": "manusāsanti → samanusāsanti (bj) | samanussāsanti (s2, s3) | samaṇā anusāsanti (pts1)",
-  "ja462:11.3": "Tesaṃ → tesu (pts1)",
-  "ja462:11.4": "niviṭṭhaṃ → nibaddhaṃ (bj, pts1)",
-  "ja462:14.3": "cāsi → cāpi (bj, pts1)",
-  "ja462:14.4": "ñātinaṃ → ñātīnaṃ (bj, s2, s3)"
+  "ja462:6.2": "adu → ādu (bj, pts-vp-pli1ed) | ādū (sya1ed, sya2ed)",
+  "ja462:8.1": "Na rājaputta usūyāmi → na rājaputta usuyyāmi (bj, pts-vp-pli1ed) | na rājaputta ussuyyāmi (sya1ed, sya2ed) | rājaputta nussuyyāmi (mr)",
+  "ja462:9.3": "manusāsanti → samanusāsanti (bj) | samanussāsanti (sya1ed, sya2ed) | samaṇā anusāsanti (pts-vp-pli1ed)",
+  "ja462:11.3": "Tesaṃ → tesu (pts-vp-pli1ed)",
+  "ja462:11.4": "niviṭṭhaṃ → nibaddhaṃ (bj, pts-vp-pli1ed)",
+  "ja462:14.3": "cāsi → cāpi (bj, pts-vp-pli1ed)",
+  "ja462:14.4": "ñātinaṃ → ñātīnaṃ (bj, sya1ed, sya2ed)"
 }

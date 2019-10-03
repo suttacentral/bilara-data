@@ -1,7 +1,7 @@
 {
-  "tha-ap5:10.2": "iva → sālarājāva (bj, s2, s3, pts1) | kiṃsuko viya (si)",
-  "tha-ap5:15.4": "dasa → disodisaṃ (s2, s3)",
-  "tha-ap5:20.3": "Rammaṇaṃ → rammakaṃ (bj, s2, s3, pts1)",
-  "tha-ap5:22.4": "laṅkataṃ → taṃ tadā (bj, pts1) | satatā (s2, s3) | saṅkaraṃ (?)",
-  "tha-ap5:24.2": "puna devattanaṃ gato → puna devattataṃ gato (s2, s3, pts1) | punapi devataṅgato (mr)"
+  "tha-ap5:10.2": "iva → sālarājāva (bj, sya1ed, sya2ed, pts-vp-pli1ed) | kiṃsuko viya (si)",
+  "tha-ap5:15.4": "dasa → disodisaṃ (sya1ed, sya2ed)",
+  "tha-ap5:20.3": "Rammaṇaṃ → rammakaṃ (bj, sya1ed, sya2ed, pts-vp-pli1ed)",
+  "tha-ap5:22.4": "laṅkataṃ → taṃ tadā (bj, pts-vp-pli1ed) | satatā (sya1ed, sya2ed) | saṅkaraṃ (?)",
+  "tha-ap5:24.2": "puna devattanaṃ gato → puna devattataṃ gato (sya1ed, sya2ed, pts-vp-pli1ed) | punapi devataṅgato (mr)"
 }

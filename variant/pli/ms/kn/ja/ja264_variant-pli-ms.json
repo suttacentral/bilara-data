@@ -1,8 +1,8 @@
 {
   "ja264:5.1": "Panādo → paṇādo (bj)",
-  "ja264:5.3": "soḷasubbedho → soḷasapabbedho (bj, pts1)",
-  "ja264:5.4": "uddhamāhu → uccamāhu (bj, s2, s3, pts1)",
-  "ja264:6.1": "Sahassakaṇḍo → sahassakaṇḍaṃ (bj), satageṇḍu → satabheṇḍuṃ (bj) | satabhedo (pts1)",
+  "ja264:5.3": "soḷasubbedho → soḷasapabbedho (bj, pts-vp-pli1ed)",
+  "ja264:5.4": "uddhamāhu → uccamāhu (bj, sya1ed, sya2ed, pts-vp-pli1ed)",
+  "ja264:6.1": "Sahassakaṇḍo → sahassakaṇḍaṃ (bj), satageṇḍu → satabheṇḍuṃ (bj) | satabhedo (pts-vp-pli1ed)",
   "ja264:7.1": "Evametaṃ → evameva (mr)",
   "ja264:8.1": "Mahāpanādajātakaṃ → mahāpaṇādajātakaṃ (bj)"
 }

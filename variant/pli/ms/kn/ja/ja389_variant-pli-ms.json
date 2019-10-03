@@ -1,7 +1,7 @@
 {
-  "ja389:9.1": "disvāna → disvā (bj) | disva (pts1)",
-  "ja389:10.2": "visamāvamāmi → visamācamāmi (bj, pts1, mr)",
-  "ja389:11.2": "Paṭibandhako → paṭibaddhako (bj, s2, s3, pts1), hohiti → hoti hi (s2, s3)",
-  "ja389:12.4": "satthā”ti → tatthāti (pts1)",
-  "ja389:13.1": "Suvaṇṇakakkaṭajātakaṃ → suvaṇṇakakkaṭakajātakaṃ (bj, s2, s3, pts1)"
+  "ja389:9.1": "disvāna → disvā (bj) | disva (pts-vp-pli1ed)",
+  "ja389:10.2": "visamāvamāmi → visamācamāmi (bj, pts-vp-pli1ed, mr)",
+  "ja389:11.2": "Paṭibandhako → paṭibaddhako (bj, sya1ed, sya2ed, pts-vp-pli1ed), hohiti → hoti hi (sya1ed, sya2ed)",
+  "ja389:12.4": "satthā”ti → tatthāti (pts-vp-pli1ed)",
+  "ja389:13.1": "Suvaṇṇakakkaṭajātakaṃ → suvaṇṇakakkaṭakajātakaṃ (bj, sya1ed, sya2ed, pts-vp-pli1ed)"
 }

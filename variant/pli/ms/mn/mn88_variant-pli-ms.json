@@ -1,9 +1,9 @@
 {
-  "mn88:0.2": "Bāhitikasutta → bāhitiyasuttaṃ (s1-3)",
-  "mn88:8.3": "brāhmaṇehī”ti → brāhmaṇehi viññūhīti (si, s1-3, pts1)",
-  "mn88:8.6": "brāhmaṇehī”ti → brāhmaṇehi viññūhīti (si, s1-3, pts1)",
-  "mn88:9.4": "viyattā → byattā (bj) | byattā viyattā (s1-3) | vyattā (pts1), pana → ye ca kho (bj, s1-3, km, pts1)",
-  "mn88:10.6": "sabyābajjho → sabyāpajjho (bj, s1-3, km) | savyāpajjho (pts1) | sabyāpajjo (mr)",
-  "mn88:18.8": "mayampetaṃ → mayampetaṃ taṃ (si) | mayampanetaṃ (s1-3, km)",
-  "mn88:18.10": "vatthanāḷiyā → chattanāḷiyā (s1-3, km, pts1)"
+  "mn88:0.2": "Bāhitikasutta → bāhitiyasuttaṃ (sya-all)",
+  "mn88:8.3": "brāhmaṇehī”ti → brāhmaṇehi viññūhīti (si, sya-all, pts-vp-pli1ed)",
+  "mn88:8.6": "brāhmaṇehī”ti → brāhmaṇehi viññūhīti (si, sya-all, pts-vp-pli1ed)",
+  "mn88:9.4": "viyattā → byattā (bj) | byattā viyattā (sya-all) | vyattā (pts-vp-pli1ed), pana → ye ca kho (bj, sya-all, km, pts-vp-pli1ed)",
+  "mn88:10.6": "sabyābajjho → sabyāpajjho (bj, sya-all, km) | savyāpajjho (pts-vp-pli1ed) | sabyāpajjo (mr)",
+  "mn88:18.8": "mayampetaṃ → mayampetaṃ taṃ (si) | mayampanetaṃ (sya-all, km)",
+  "mn88:18.10": "vatthanāḷiyā → chattanāḷiyā (sya-all, km, pts-vp-pli1ed)"
 }

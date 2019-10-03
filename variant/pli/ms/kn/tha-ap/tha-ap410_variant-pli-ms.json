@@ -1,15 +1,15 @@
 {
-  "tha-ap410:4.1": "vijayo → rājā vijitajayo (s2, s3) | rajā jitañjayo (pts1) | rājā ajitañjayo (c1)",
-  "tha-ap410:5.3": "Otārā → uttarā (s2, s3) | ocarā (pts1)",
-  "tha-ap410:12.2": "utujasaddakaṃ → uddhama ... (bj) | uddhava ... (si, pts1) | uddaṭa ... (s2, s3)",
+  "tha-ap410:4.1": "vijayo → rājā vijitajayo (sya1ed, sya2ed) | rajā jitañjayo (pts-vp-pli1ed) | rājā ajitañjayo (csp1ed)",
+  "tha-ap410:5.3": "Otārā → uttarā (sya1ed, sya2ed) | ocarā (pts-vp-pli1ed)",
+  "tha-ap410:12.2": "utujasaddakaṃ → uddhama ... (bj) | uddhava ... (si, pts-vp-pli1ed) | uddaṭa ... (sya1ed, sya2ed)",
   "tha-ap410:13.1": "Tisūlakontimantehi → tisūlakontamantehi (bj)",
-  "tha-ap410:13.2": "kavacatomarehi → kavacehi tomarehi (bj) | dhanūhi tomarehi (s2, s3)",
-  "tha-ap410:13.3": "Koṭṭentānaṃ nipātentā → koṭṭayantā nipātentā (bj) | koṭṭayantā nivattentā (s2, s3) | koṭṭentānaṃ nivattantā (pts1)",
-  "tha-ap410:14.1": "Kimevātinisāmetvā → kāmevātanisāmetvā (bj) | kavacāni nivāsetvā (s2, s3, pts1)",
-  "tha-ap410:14.2": "ajitaṃ jino → ajitañjino (s2, s3) | ajitañjayo (pts1, c1)",
-  "tha-ap410:17.4": "tāpayanti → tāsayanti (bj, s2, s3, pts1)",
-  "tha-ap410:22.3": "Pahāretvāna → pahāyitvāna (bj, pts1) | chaḍḍayitvāna (s2, s3)",
-  "tha-ap410:23.5": "parihāretvā → parivajjetvā (s2, s3) | parihāyitvā (pts1)",
-  "tha-ap410:24.3": "Tāyopi → gāviyo (s2, s3) | dhenuyo (mr)",
-  "tha-ap410:51.2": "bhāvayitvāna añjasaṃ → hāsayitvāna mānasaṃ (s2, s3) | bhāvayitvāna sañcayaṃ (mr)"
+  "tha-ap410:13.2": "kavacatomarehi → kavacehi tomarehi (bj) | dhanūhi tomarehi (sya1ed, sya2ed)",
+  "tha-ap410:13.3": "Koṭṭentānaṃ nipātentā → koṭṭayantā nipātentā (bj) | koṭṭayantā nivattentā (sya1ed, sya2ed) | koṭṭentānaṃ nivattantā (pts-vp-pli1ed)",
+  "tha-ap410:14.1": "Kimevātinisāmetvā → kāmevātanisāmetvā (bj) | kavacāni nivāsetvā (sya1ed, sya2ed, pts-vp-pli1ed)",
+  "tha-ap410:14.2": "ajitaṃ jino → ajitañjino (sya1ed, sya2ed) | ajitañjayo (pts-vp-pli1ed, csp1ed)",
+  "tha-ap410:17.4": "tāpayanti → tāsayanti (bj, sya1ed, sya2ed, pts-vp-pli1ed)",
+  "tha-ap410:22.3": "Pahāretvāna → pahāyitvāna (bj, pts-vp-pli1ed) | chaḍḍayitvāna (sya1ed, sya2ed)",
+  "tha-ap410:23.5": "parihāretvā → parivajjetvā (sya1ed, sya2ed) | parihāyitvā (pts-vp-pli1ed)",
+  "tha-ap410:24.3": "Tāyopi → gāviyo (sya1ed, sya2ed) | dhenuyo (mr)",
+  "tha-ap410:51.2": "bhāvayitvāna añjasaṃ → hāsayitvāna mānasaṃ (sya1ed, sya2ed) | bhāvayitvāna sañcayaṃ (mr)"
 }

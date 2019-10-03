@@ -1,9 +1,9 @@
 {
-  "snp3.1:13.2": "Tayo → tato (bj, pts1)",
-  "snp3.1:13.3": "ekova → eko va dūto (bj) | eko ca dūto (s1-3, pts1)",
-  "snp3.1:14.2": "puratthato → purakkhato (bj, s1-3, mr)",
-  "snp3.1:18.2": "Paṭhamuppattiko → paṭhamuppatito (bj) | paṭhamuppattito (s1-3)",
-  "snp3.1:20.4": "Kosalesu → kosalassa (s1-3, mr)",
+  "snp3.1:13.2": "Tayo → tato (bj, pts-vp-pli1ed)",
+  "snp3.1:13.3": "ekova → eko va dūto (bj) | eko ca dūto (sya-all, pts-vp-pli1ed)",
+  "snp3.1:14.2": "puratthato → purakkhato (bj, sya-all, mr)",
+  "snp3.1:18.2": "Paṭhamuppattiko → paṭhamuppatito (bj) | paṭhamuppattito (sya-all)",
+  "snp3.1:20.4": "Kosalesu → kosalassa (sya-all, mr)",
   "snp3.1:21.1": "Ādiccā → ādicco (mr)",
   "snp3.1:21.2": "Sākiyā → sākiyo (mr)"
 }

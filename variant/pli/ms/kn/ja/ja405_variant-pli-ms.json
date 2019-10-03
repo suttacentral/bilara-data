@@ -1,13 +1,13 @@
 {
   "ja405:5.1": "gotama → bho gotama (mr)",
-  "ja405:5.3": "brahmapatti → brahmupapatti (s2, s3, mr)",
+  "ja405:5.3": "brahmapatti → brahmupapatti (sya1ed, sya2ed, mr)",
   "ja405:5.4": "janā → pajā (mr)",
-  "ja405:6.1": "Appañhi etaṃ → appañca hetaṃ (s2, s3) | appaṃsi etaṃ (mr)",
-  "ja405:6.3": "sahassāni → sahassānaṃ (bj, pts1 ^sn6.4#1 [4. Bakabrahmasutta]) | sahassāna (s2, s3, km)",
-  "ja405:7.3": "vatasīlavattaṃ → vatasīlavantaṃ (bj, pts1, mr)",
-  "ja405:11.1": "baddhacaro → patthacaro (s2, s3) | paṭṭhacaro (mr)",
-  "ja405:11.2": "Sambuddhimantaṃ → sambuddhivantaṃ (s2, s3, pts1) | sambuddhavantaṃ (mr), vatinaṃ → vati taṃ (s2) | vatitaṃ (s3) | vatidaṃ (mr)",
+  "ja405:6.1": "Appañhi etaṃ → appañca hetaṃ (sya1ed, sya2ed) | appaṃsi etaṃ (mr)",
+  "ja405:6.3": "sahassāni → sahassānaṃ (bj, pts-vp-pli1ed ^sn6.4#1 [4. Bakabrahmasutta]) | sahassāna (sya1ed, sya2ed, km)",
+  "ja405:7.3": "vatasīlavattaṃ → vatasīlavantaṃ (bj, pts-vp-pli1ed, mr)",
+  "ja405:11.1": "baddhacaro → patthacaro (sya1ed, sya2ed) | paṭṭhacaro (mr)",
+  "ja405:11.2": "Sambuddhimantaṃ → sambuddhivantaṃ (sya1ed, sya2ed, pts-vp-pli1ed) | sambuddhavantaṃ (mr), vatinaṃ → vati taṃ (sya1ed) | vatitaṃ (sya2ed) | vatidaṃ (mr)",
   "ja405:12.3": "tāyaṃ → tyāyaṃ (^sn6.4#1 [4. Bakabrahmasutta])",
-  "ja405:13.1": "Bakajātakaṃ → bakabrahmajātakaṃ (bj, s2, s3, pts1)",
-  "ja405:15.3": "paṇṇaka → dasaṇṇaka (s2, s3, pts1)"
+  "ja405:13.1": "Bakajātakaṃ → bakabrahmajātakaṃ (bj, sya1ed, sya2ed, pts-vp-pli1ed)",
+  "ja405:15.3": "paṇṇaka → dasaṇṇaka (sya1ed, sya2ed, pts-vp-pli1ed)"
 }

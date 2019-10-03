@@ -1,12 +1,12 @@
 {
-  "pv26:5.1": "Cundaṭṭhilaṃ → cundaṭṭhikaṃ (bj) | cundatthiyaṃ (pts1) | cundatthikaṃ (pts2)",
-  "pv26:5.4": "bārāṇasiṃ ca → bārāṇasiyā ca (bj, pts1-2) | bārāṇasiyā va (s2, s3)",
-  "pv26:7.4": "petassa dissatha → petassu'dissatha (bj, pts2) | petassu'dicchatha (?)",
-  "pv26:9.1": "Sātunnavasanā → sāhunnavāsino (s2, s3, pts1) | sāhunnavasanā (pts2) | sāhundavāsino (mr)",
-  "pv26:9.2": "kesanivāsanā → kesanivāsino (s2, s3, pts1, mr)",
-  "pv26:10.1": "eke → dūrepeke (s2, s3) | dūre petā (mr)",
-  "pv26:11.1": "ca → keci (bj, s2, s3, pts1-2), papatitā → papatitvā (bj) | ca patitā (s2, s3, pts1)",
-  "pv26:14.4": "paribhāsimhase → paribhāsitā (s2, s3, mr)",
-  "pv26:16.4": "kappakā → nhāpikā (bj) | nhāminī (pts1-2)",
-  "pv26:20.3": "Bījitaṅgā → vījitaṅgā (bj, s2, s3, pts2) | vijitaṅgā (pts1)"
+  "pv26:5.1": "Cundaṭṭhilaṃ → cundaṭṭhikaṃ (bj) | cundatthiyaṃ (pts-vp-pli1ed) | cundatthikaṃ (pts-vp-pli2ed)",
+  "pv26:5.4": "pts-vp-pli1ed, pts-vp-pli2ed) | bārāṇasiyā va (sya1ed, sya2ed)",
+  "pv26:7.4": "petassa dissatha → petassu'dissatha (bj, pts-vp-pli2ed) | petassu'dicchatha (?)",
+  "pv26:9.1": "Sātunnavasanā → sāhunnavāsino (sya1ed, sya2ed, pts-vp-pli1ed) | sāhunnavasanā (pts-vp-pli2ed) | sāhundavāsino (mr)",
+  "pv26:9.2": "kesanivāsanā → kesanivāsino (sya1ed, sya2ed, pts-vp-pli1ed, mr)",
+  "pv26:10.1": "eke → dūrepeke (sya1ed, sya2ed) | dūre petā (mr)",
+  "pv26:11.1": "pts-vp-pli1ed, pts-vp-pli2ed), papatitā → papatitvā (bj) | ca patitā (sya1ed, sya2ed, pts-vp-pli1ed)",
+  "pv26:14.4": "paribhāsimhase → paribhāsitā (sya1ed, sya2ed, mr)",
+  "pv26:16.4": "pts-vp-pli1ed, pts-vp-pli2ed)",
+  "pv26:20.3": "Bījitaṅgā → vījitaṅgā (bj, sya1ed, sya2ed, pts-vp-pli2ed) | vijitaṅgā (pts-vp-pli1ed)"
 }

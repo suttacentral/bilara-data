@@ -1,10 +1,10 @@
 {
-  "ja446:5.1": "takkalā → takkaḷā (pts1), āluvāni → ālupāni (bj, s2, s3, pts1)",
-  "ja446:9.1": "tāhaṃ → tyāhaṃ (s2, s3)",
-  "ja446:9.2": "ahampi → ahañhi (s2, s3)",
-  "ja446:10.1": "mātaraṃ vā pitaraṃ saviṭṭha → mātaraṃ pitaraṃ vā vasiṭṭha (bj, pts1)",
-  "ja446:10.4": "upeti → pareti (bj, pts1)",
+  "ja446:5.1": "takkalā → takkaḷā (pts-vp-pli1ed), āluvāni → ālupāni (bj, sya1ed, sya2ed, pts-vp-pli1ed)",
+  "ja446:9.1": "tāhaṃ → tyāhaṃ (sya1ed, sya2ed)",
+  "ja446:9.2": "ahampi → ahañhi (sya1ed, sya2ed)",
+  "ja446:10.1": "mātaraṃ vā pitaraṃ saviṭṭha → mātaraṃ pitaraṃ vā vasiṭṭha (bj, pts-vp-pli1ed)",
+  "ja446:10.4": "upeti → pareti (bj, pts-vp-pli1ed)",
   "ja446:12.1": "me → mama (?)",
-  "ja446:13.3": "Niddhāpaye → niddhāmase (pts1)",
-  "ja446:15.1": "Takkalajātakaṃ → takkaḷajātakaṃ (pts1)"
+  "ja446:13.3": "Niddhāpaye → niddhāmase (pts-vp-pli1ed)",
+  "ja446:15.1": "Takkalajātakaṃ → takkaḷajātakaṃ (pts-vp-pli1ed)"
 }
