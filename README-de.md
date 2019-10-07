@@ -6,4 +6,4 @@ are fully segmented in preparation for future integration with the SuttaCentral 
 
 ### See Also
 
-* [scv-bilara](https://github.com/sc-voice/sccv-bilara) Javascript adapter for `bilara-data`
+* [scv-bilara](https://github.com/sc-voice/scv-bilara) Javascript adapter for `bilara-data`
