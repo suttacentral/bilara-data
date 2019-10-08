@@ -1,5 +1,5 @@
 {
-  "sn15.20:0.1": "<section class=\"sutta\" id=\"sn15.20\"><article><div class=\"hgroup\"><p class=\"division\">",
+  "sn15.20:0.1": "<section class='sutta' id='sn15.20'><article><div class='hgroup'><p class='division'>",
   "sn15.20:0.2": "</p><p>",
   "sn15.20:0.3": "</p><h1>",
   "sn15.20:1.1": "</h1></div><p>",
@@ -53,7 +53,7 @@
   "sn15.20:5.12": "",
   "sn15.20:6.1": "</p><p>",
   "sn15.20:6.2": "",
-  "sn15.20:7.1": "</p><blockquote class=\"gatha\"><p>",
+  "sn15.20:7.1": "</p><blockquote class='gatha'><p>",
   "sn15.20:7.2": "<br>",
   "sn15.20:7.3": "<br>",
   "sn15.20:7.4": "<br>",
@@ -61,12 +61,12 @@
   "sn15.20:8.2": "<br>",
   "sn15.20:8.3": "<br>",
   "sn15.20:8.4": "<br>",
-  "sn15.20:8.5": "</p></blockquote><p class=\"endsection\">",
-  "sn15.20:8.6": "</p><p class=\"endsection\">",
-  "sn15.20:9.1": "</p><blockquote class=\"uddanagatha\"><p>",
+  "sn15.20:8.5": "</p></blockquote><p class='endsection'>",
+  "sn15.20:8.6": "</p><p class='endsection'>",
+  "sn15.20:9.1": "</p><blockquote class='uddanagatha'><p>",
   "sn15.20:9.2": "<br>",
   "sn15.20:9.3": "<br>",
   "sn15.20:9.4": "<br>",
-  "sn15.20:9.5": "</p></blockquote><p class=\"endsutta\">",
+  "sn15.20:9.5": "</p></blockquote><p class='endsutta'>",
   "~": "</p></article></section></body></html>"
 }

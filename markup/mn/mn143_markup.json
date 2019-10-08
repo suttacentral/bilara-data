@@ -1,7 +1,7 @@
 {
-  "mn143:0.1": "<section class=\"sutta\" id=\"mn143\"><article><div class=\"hgroup\"><p class=\"division\">",
+  "mn143:0.1": "<section class='sutta' id='mn143'><article><div class='hgroup'><p class='division'>",
   "mn143:0.2": "</p><h1>",
-  "mn143:1.1": "</h1></div><p><span class=\"evam\">",
+  "mn143:1.1": "</h1></div><p><span class='evam'>",
   "mn143:1.2": "</span>",
   "mn143:2.1": "</p><p>",
   "mn143:2.2": "",
@@ -142,7 +142,7 @@
   "mn143:16.2": "",
   "mn143:17.1": "</p><p>",
   "mn143:17.2": "",
-  "mn143:17.3": "</p><blockquote class=\"gatha\"><p>",
+  "mn143:17.3": "</p><blockquote class='gatha'><p>",
   "mn143:17.4": "<br>",
   "mn143:17.5": "<br>",
   "mn143:17.6": "<br>",
@@ -165,7 +165,7 @@
   "mn143:19.1": "</p><p>",
   "mn143:19.2": "",
   "mn143:19.3": "",
-  "mn143:19.4": "</p><blockquote class=\"gatha\"><p>",
+  "mn143:19.4": "</p><blockquote class='gatha'><p>",
   "mn143:19.5": "<br>",
   "mn143:19.6": "<br>",
   "mn143:19.7": "<br>",
@@ -191,6 +191,6 @@
   "mn143:20.6": "",
   "mn143:20.7": "</p><p>",
   "mn143:20.8": "",
-  "mn143:20.9": "</p><p class=\"endsection\">",
+  "mn143:20.9": "</p><p class='endsection'>",
   "~": "</p></article></section></body></html>"
 }

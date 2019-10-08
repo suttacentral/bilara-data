@@ -1,5 +1,5 @@
 {
-  "sn22.96:0.1": "<section class=\"sutta\" id=\"sn22.96\"><article><div class=\"hgroup\"><p class=\"division\">",
+  "sn22.96:0.1": "<section class='sutta' id='sn22.96'><article><div class='hgroup'><p class='division'>",
   "sn22.96:0.2": "</p><p>",
   "sn22.96:0.3": "</p><h1>",
   "sn22.96:1.1": "</h1></div><p>",
@@ -47,6 +47,6 @@
   "sn22.96:4.13": "",
   "sn22.96:4.14": "",
   "sn22.96:4.15": "",
-  "sn22.96:4.16": "</p><p class=\"endsection\">",
+  "sn22.96:4.16": "</p><p class='endsection'>",
   "~": "</p></article></section></body></html>"
 }

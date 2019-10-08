@@ -1,5 +1,5 @@
 {
-  "sn35.95:0.1": "<section class=\"sutta\" id=\"sn35.95\"><article><div class=\"hgroup\"><p class=\"division\">",
+  "sn35.95:0.1": "<section class='sutta' id='sn35.95'><article><div class='hgroup'><p class='division'>",
   "sn35.95:0.2": "</p><p>",
   "sn35.95:0.3": "</p><h1>",
   "sn35.95:1.1": "</h1></div><p>",
@@ -30,7 +30,7 @@
   "sn35.95:10.7": "",
   "sn35.95:10.8": "",
   "sn35.95:11.1": "</p><p>",
-  "sn35.95:12.1": "</p><blockquote class=\"gatha\"><p>",
+  "sn35.95:12.1": "</p><blockquote class='gatha'><p>",
   "sn35.95:12.2": "<br>",
   "sn35.95:12.3": "<br>",
   "sn35.95:12.4": "<br>",
@@ -153,7 +153,7 @@
   "sn35.95:36.1": "</p></blockquote><p>",
   "sn35.95:36.2": "</p><p>",
   "sn35.95:36.3": "",
-  "sn35.95:37.1": "</p><blockquote class=\"gatha\"><p>",
+  "sn35.95:37.1": "</p><blockquote class='gatha'><p>",
   "sn35.95:37.2": "<br>",
   "sn35.95:37.3": "<br>",
   "sn35.95:37.4": "<br>",
@@ -163,8 +163,8 @@
   "sn35.95:38.4": "<br>",
   "sn35.95:38.5": "<br>",
   "sn35.95:38.6": "<br>",
-  "sn35.95:38.7": "</p></blockquote><p class=\"endsection\">",
-  "sn35.95:39.1": "</p><blockquote class=\"gatha\"><p>",
+  "sn35.95:38.7": "</p></blockquote><p class='endsection'>",
+  "sn35.95:39.1": "</p><blockquote class='gatha'><p>",
   "sn35.95:39.2": "<br>",
   "sn35.95:39.3": "<br>",
   "sn35.95:39.4": "<br>",
@@ -179,6 +179,6 @@
   "sn35.95:42.2": "",
   "sn35.95:42.3": "</p><p>",
   "sn35.95:42.4": "",
-  "sn35.95:42.5": "</p><p class=\"endsection\">",
+  "sn35.95:42.5": "</p><p class='endsection'>",
   "~": "</p></article></section></body></html>"
 }
