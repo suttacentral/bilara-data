@@ -1,0 +1,213 @@
+[
+  {
+    "publication_number": "scpub1",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/kn/thag",
+    "author_uid": "sujato-walton",
+    "collaborator": [
+      {
+        "collaborator_uid": "sujato",
+        "author_name": "Bhikkhu Sujato",
+        "author_github_handle": "sujato"
+      },
+      {
+        "collaborator_uid": "walton",
+        "author_name": "Jessica Walton",
+        "author_github_handle": ""
+      }
+    ],
+    "text_uid": "thag",
+    "text_title": "Verses of the Senior Monks",
+    "is_published": "true",
+    "publication_status": "Completed, revision is ongoing.",
+    "licence": "CC0",
+    "edition": [
+      {
+        "edition_number": "2",
+        "publication_date": "2015",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "url": "https://suttacentral.net/thag"
+      },
+      {
+        "edition_number": "1",
+        "publication_date": "2015",
+        "publisher": "SuttaCentral",
+        "publication_type": "book",
+        "number_of_volumes": "1",
+        "url": [
+          "http://www.lulu.com/shop/bhikkhu-sujato/verses-of-the-senior-monks/hardcover/product-22152079.html",
+          "http://www.lulu.com/shop/bhikkhu-sujato/verses-of-the-senior-monks/paperback/product-22136852.html"
+        ]
+      }
+    ]
+  },
+  {
+    "publication_number": "scpub2",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/dn",
+    "author_uid": "sujato",
+    "author_name": "Bhikkhu Sujato",
+    "author_github_handle": "sujato",
+    "text_uid": "dn",
+    "text_title": "Long Discourses",
+    "is_published": "true",
+    "publication_status": "Completed, revision is ongoing.",
+    "licence": "CC0",
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2018",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "url": "https://suttacentral.net/dn"
+      }
+    ]
+  },
+  {
+    "publication_number": "scpub3",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/mn",
+    "author_uid": "sujato",
+    "author_name": "Bhikkhu Sujato",
+    "author_github_handle": "sujato",
+    "text_uid": "mn",
+    "text_title": "Middle Discourses",
+    "is_published": "true",
+    "publication_status": "Completed, revision is ongoing.",
+    "licence": "CC0",
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2018",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "url": "https://suttacentral.net/mn"
+      },
+      {
+        "edition_number": "2",
+        "publication_date": "2019",
+        "publisher": "SuttaCentral",
+        "publication_type": "book",
+        "number_of_volumes": "3",
+        "url": [
+          "http://www.lulu.com/shop/trans-bhikkhu-sujato/the-middle-discourses-of-the-buddha-vol-i/paperback/product-23886100.html",
+          "http://www.lulu.com/shop/trans-bhikkhu-sujato/the-middle-discourses-of-the-buddha-vol-ii/paperback/product-23962141.html",
+          "http://www.lulu.com/shop/trans-bhikkhu-sujato/the-middle-discourses-of-the-buddha-vol-iii/paperback/product-23962146.html"
+        ]
+      }
+    ]
+  },
+  {
+    "publication_number": "scpub4",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/sn",
+    "author_uid": "sujato",
+    "author_name": "Bhikkhu Sujato",
+    "author_github_handle": "sujato",
+    "text_uid": "sn",
+    "text_title": "Linked Discourses",
+    "is_published": "true",
+    "publication_status": "Completed, revision is ongoing.",
+    "licence": "CC0",
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2018",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "url": "https://suttacentral.net/sn"
+      }
+    ]
+  },
+  {
+    "publication_number": "scpub5",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/an",
+    "author_uid": "sujato",
+    "author_name": "Bhikkhu Sujato",
+    "author_github_handle": "sujato",
+    "text_uid": "an",
+    "text_title": "Numbered Discourses",
+    "is_published": "true",
+    "publication_status": "Completed, revision is ongoing.",
+    "licence": "CC0",
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2018",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "url": "https://suttacentral.net/an"
+      }
+    ]
+  },
+  {
+    "publication_number": "scpub6",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/kn/thig",
+    "author_uid": "sujato-walton",
+    "collaborator": [
+      {
+        "collaborator_uid": "sujato",
+        "author_name": "Bhikkhu Sujato",
+        "author_github_handle": "sujato"
+      },
+      {
+        "collaborator_uid": "walton",
+        "author_name": "Jessica Walton",
+        "author_github_handle": ""
+      }
+    ],
+    "text_uid": "thig",
+    "text_title": "Verses of the Senior Nuns",
+    "is_published": "true",
+    "publication_status": "Completed, revision is ongoing.",
+    "licence": "CC0",
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2019",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "url": "https://suttacentral.net/thig"
+      }
+    ]
+  },
+  {
+    "publication_number": "scpub7",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/kn/dhp",
+    "author_uid": "sujato",
+    "author_name": "Bhikkhu Sujato",
+    "author_github_handle": "sujato",
+    "text_uid": "dhp",
+    "text_title": "Sayings of the Dhamma",
+    "is_published": "false",
+    "publication_status": "",
+    "licence": "",
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "publication_number": "scpub8",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/brahmali/pli-tv",
+    "author_uid": "brahmali",
+    "author_name": "Bhikkhu Brahmali",
+    "author_github_handle": "brahmali",
+    "text_uid": "pli-tv-vi",
+    "text_title": "Theravāda Collection on Monastic Law",
+    "is_published": "false",
+    "publication_status": "Partial draft translation is published on SuttaCentral. Complete and extensively revised translation is underway.",
+    "licence": "",
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "url": ""
+      }
+    ]
+  }
+]
