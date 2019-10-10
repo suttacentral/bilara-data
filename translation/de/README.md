@@ -1,13 +1,13 @@
 # Bilara-data (Deutsch)
 
-###WARNING
+### WARNING
 The contents of this Deutsch translation directory 
 are currently being generated automatically in 
 the [`sc-voice` fork](https://github.com/sc-voice/bilara-data).
 of 
 [suttacentral/bilara-data](https://github.com/suttacentral/bilara-data).
 
-DO NOT MAKE CHANGES TO SUTTA TRANSLATIONS HERE!
+**DO NOT MAKE CHANGES TO SUTTA TRANSLATIONS HERE!**
 
 The source translations are authored by Anagarika Sabbammitai
 and currently maintained in her [repository](https://github.com/sabbamitta/sutta-translation).
