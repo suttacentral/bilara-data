@@ -1,8 +1,9 @@
 # Bilara-data (Deutsch)
 
-NOTE: The contents of the Deutsch translation branch 
-are generated automatically in 
-the `sc-voice` fork of 
+The contents of this Deutsch translation branch 
+are currently being generated automatically in 
+the [`sc-voice` fork](https://github.com/sc-voice/bilara-data).
+of 
 [suttacentral/bilara-data](https://github.com/suttacentral/bilara-data).
 The source translations are authored by Anagarika Sabbammitai
 and currently maintained in her [repository](https://github.com/sabbamitta/sutta-translation).
