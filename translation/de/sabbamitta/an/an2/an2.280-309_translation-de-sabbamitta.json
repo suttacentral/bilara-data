@@ -2,13 +2,13 @@
   "an2.280:0.1": " ",
   "an2.281-309:0.1": " ",
   "an2.280:0.2": " ",
-  "an2.280:0.3": " ",
-  "an2.280:1.1": " ",
-  "an2.281-309:1.1": " ",
-  "an2.280:1.2": " ",
-  "an2.281-309:1.2": " ",
-  "an2.280:1.3": " ",
-  "an2.281-309:1.3": " ",
-  "an2.281-309:1.4": " ",
-  "an2.280:1.4": " "
+  "an2.280:0.3": "function trim() { [native code] } ",
+  "an2.280:1.1": "function trim() { [native code] } ",
+  "an2.281-309:1.1": "function trim() { [native code] } ",
+  "an2.280:1.2": "function trim() { [native code] } ",
+  "an2.281-309:1.2": "function trim() { [native code] } ",
+  "an2.280:1.3": "function trim() { [native code] } ",
+  "an2.281-309:1.3": "function trim() { [native code] } ",
+  "an2.281-309:1.4": "function trim() { [native code] } ",
+  "an2.280:1.4": "function trim() { [native code] } "
 }
