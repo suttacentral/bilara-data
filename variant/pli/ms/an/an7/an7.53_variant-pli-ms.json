@@ -1,11 +1,11 @@
 {
   "an7.53:0.3": "53. Nandamātāsutta → nandamātusuttaṃ (bj)",
-  "an7.53:1.3": "veḷukaṇḍakī → veḷukaṇṭakī (bj, s1-3, pts1), pārāyanaṃ → pārāyaṇaṃ (bj)",
-  "an7.53:3.8": "Sveva → sve ca (bj, pts1)",
-  "an7.53:3.9": "Etañceva → evañca (bj, s1-3) | etañca (pts1)",
-  "an7.53:6.9": "Etañceva → etañca (bj, pts1) | evañca (s1-3)",
-  "an7.53:6.10": "puññañca puññamahī ca taṃ → puññaṃ hi taṃ (sī, pā1), puññaṃ puññamahitaṃ (syā1-3), puññaṃ vā puññamahī vā (ka-ma)",
-  "an7.53:8.7": "cittuppādampi → cittuppādamattampi (s1-3)",
-  "an7.53:10.3": "aticaritā → aticarituṃ (s1-3) | aticarittā (pts1) | aticārittaṃ (mr)",
-  "an7.53:12.3": "yāvade → yāvadeva (bj, s1-3, pts1)"
+  "an7.53:1.3": "veḷukaṇḍakī → veḷukaṇṭakī (bj, sya-all, pts-vp-pli1ed) | pārāyanaṃ → pārāyaṇaṃ (bj)",
+  "an7.53:3.8": "Sveva → sve ca (bj, pts-vp-pli1ed)",
+  "an7.53:3.9": "Etañceva → evañca (bj, sya-all); etañca (pts-vp-pli1ed)",
+  "an7.53:6.9": "Etañceva → etañca (bj, pts-vp-pli1ed); evañca (sya-all)",
+  "an7.53:6.10": "puññañca puññamahī ca taṃ → puññaṃ hi taṃ (si, pts-vp-pli1ed), puññaṃ puññamahitaṃ (sya-all), puññaṃ vā puññamahī vā (mr)",
+  "an7.53:8.7": "cittuppādampi → cittuppādamattampi (sya-all)",
+  "an7.53:10.3": "aticaritā → aticarituṃ (sya-all); aticarittā (pts-vp-pli1ed); aticārittaṃ (mr)",
+  "an7.53:12.3": "yāvade → yāvadeva (bj, sya-all, pts-vp-pli1ed)"
 }
