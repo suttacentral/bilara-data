@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "Refreshing bilara-data fork from upstream master..."
-git pull -Xtheirs https://github.com/suttacentral/bilara-data
+echo This script has moved to ".voice/scripts/pull-upstream.sh"
