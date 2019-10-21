@@ -1,5 +1,5 @@
-[
-  {
+{
+  "scpub1": {
     "publication_number": "scpub1",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/kn/thag",
     "author_uid": "sujato-walton",
@@ -43,7 +43,7 @@
       }
     ]
   },
-  {
+  "scpub2": {
     "publication_number": "scpub2",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/dn",
     "author_uid": "sujato",
@@ -66,7 +66,7 @@
       }
     ]
   },
-  {
+  "scpub3": {
     "publication_number": "scpub3",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/mn",
     "author_uid": "sujato",
@@ -101,7 +101,7 @@
       }
     ]
   },
-  {
+  "scpub4": {
     "publication_number": "scpub4",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/sn",
     "author_uid": "sujato",
@@ -124,7 +124,7 @@
       }
     ]
   },
-  {
+  "scpub5": {
     "publication_number": "scpub5",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/an",
     "author_uid": "sujato",
@@ -147,7 +147,7 @@
       }
     ]
   },
-  {
+  "scpub6": {
     "publication_number": "scpub6",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/kn/thig",
     "author_uid": "sujato-walton",
@@ -180,7 +180,7 @@
       }
     ]
   },
-  {
+  "scpub7": {
     "publication_number": "scpub7",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/kn/dhp",
     "author_uid": "sujato",
@@ -201,7 +201,7 @@
       }
     ]
   },
-  {
+  "scpub8": {
     "publication_number": "scpub8",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/brahmali/pli-tv",
     "author_uid": "brahmali",
@@ -222,4 +222,4 @@
       }
     ]
   }
-]
+}
