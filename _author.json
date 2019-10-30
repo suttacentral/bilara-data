@@ -11,6 +11,12 @@
     "root_lang": "pli",
     "root_edition": "ms"
   },
+  "sabbamitta": {
+    "type": "translator",
+    "name": "Sabbamitta Anagarika",
+    "root_lang": "pli",
+    "root_edition": "ms"
+  },
   "xtest": {
     "type": "translator",
     "name": "Test Project",
