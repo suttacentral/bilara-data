@@ -221,5 +221,74 @@
         "url": ""
       }
     ]
-  }
+  },
+  "scpub9": {
+    "publication_number": "scpub9",
+    "source_url": "https://github.com/sc-voice/bilara-data/tree/master/translation/de/sabbamitta/mn",
+    "author_uid": "sabbamitta",
+    "author_name": "Anagarika Sabbamitta",
+    "author_github_handle": "sabbamitta",
+    "text_uid": "mn",
+    "text_title": "Mittlere Lehrreden",
+    "text_subtitle": "",
+    "text_description": "<p>Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind:</p><ul><li>einfaches, leicht verständliches Deutsch; <li>einheitliche Terminologie; <li>möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; <li>kein Copyright.</ul><p>Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.</p>",
+    "is_published": "true",
+    "publication_status": "Bemerkung: Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.",
+    "licence": "<p>Diese Übersetzung geht auf einen alten spirituellen Text zurück, der von der buddhistischen Tradition zum Wohl aller Lebewesen weitergegeben wurde. Sie ist dem Gemeingut gewidmet via Creative Commons Zero (CC0). Kopieren, Vervielfältigen, Adaptieren, Ändern oder anderweitiges Verwenden dieser Übersetzung sind ausdrücklich erlaubt. Die Übersetzerin bittet höflich darum, dass jede Verwendung in Übereinstimmung mit den Werten und Prinzipien der buddhistischen Gemeinschaft geschehen soll.</p><a rel='license' href='https://creativecommons.org/publicdomain/zero/1.0/'><p xmlns:dct='https://purl.org/dc/terms/' xmlns:vcard='https://www.w3.org/2001/vcard-rdf/3.0#'><span><strong>CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. </strong><br>Soweit das rechtlich möglich ist, hat <span property='dct:title'>Anagarika Sabbamitta</span> auf alle Rechte durch das Copyright und verwandte oder benachbarte Rechte an den <span property='dct:title'>Mittleren Lehrreden</span> verzichtet. Dieses Werk wurde veröffentlicht in: <span property='vcard:Country' datatype='dct:ISO3166' content='DE' about='https://voice.suttacentral.net'> Deutschland</span>.</span></p>",
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "Ab Ende 2019 fortlaufend",
+        "publisher": "SuttaCentral Voice",
+        "publication_type": "website",
+        "url": "https://voice.suttacentral.net"
+      },
+    ]
+  },
+  "scpub10": {
+    "publication_number": "scpub10",
+    "source_url": "https://github.com/sc-voice/bilara-data/blob/master/translation/de/sabbamitta/sn",
+    "author_uid": "sabbamitta",
+    "author_name": "Anagarika Sabbamitta",
+    "author_github_handle": "sabbamitta",
+    "text_uid": "sn",
+    "text_title": "Verbundene Lehrreden",
+    "text_subtitle": "",
+    "text_description": "<p>Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind:</p><ul><li>einfaches, leicht verständliches Deutsch; <li>einheitliche Terminologie; <li>möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; <li>kein Copyright.</ul><p>Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.</p>",
+    "is_published": "true",
+    "publication_status": "Bemerkung: Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.",
+    "licence": "<p>Diese Übersetzung geht auf einen alten spirituellen Text zurück, der von der buddhistischen Tradition zum Wohl aller Lebewesen weitergegeben wurde. Sie ist dem Gemeingut gewidmet via Creative Commons Zero (CC0). Kopieren, Vervielfältigen, Adaptieren, Ändern oder anderweitiges Verwenden dieser Übersetzung sind ausdrücklich erlaubt. Die Übersetzerin bittet höflich darum, dass jede Verwendung in Übereinstimmung mit den Werten und Prinzipien der buddhistischen Gemeinschaft geschehen soll.</p><a rel='license' href='https://creativecommons.org/publicdomain/zero/1.0/'><p xmlns:dct='https://purl.org/dc/terms/' xmlns:vcard='https://www.w3.org/2001/vcard-rdf/3.0#'><span><strong>CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. </strong><br>Soweit das rechtlich möglich ist, hat <span property='dct:title'>Anagarika Sabbamitta</span> auf alle Rechte durch das Copyright und verwandte oder benachbarte Rechte an den <span property='dct:title'>Verbundenen Lehrreden</span> verzichtet. Dieses Werk wurde veröffentlicht in: <span property='vcard:Country' datatype='dct:ISO3166' content='DE' about='https://voice.suttacentral.net'> Deutschland</span>.</span></p>",
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "Ab Ende 2019 fortlaufend",
+        "publisher": "SuttaCentral Voice",
+        "publication_type": "website",
+        "url": "https://voice.suttacentral.net"
+      },
+    ]
+  },
+  "scpub11": {
+    "publication_number": "scpub11",
+    "source_url": "https://github.com/sc-voice/bilara-data/tree/master/translation/de/sabbamitta/an",
+    "author_uid": "sabbamitta",
+    "author_name": "Anagarika Sabbamitta",
+    "author_github_handle": "sabbamitta",
+    "text_uid": "an",
+    "text_title": "Nummerierte Lehrreden",
+    "text_subtitle": "",
+    "text_description": "<p>Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind:</p><ul><li>einfaches, leicht verständliches Deutsch; <li>einheitliche Terminologie; <li>möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; <li>kein Copyright.</ul><p>Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.</p>",
+    "is_published": "true",
+    "publication_status": "Bemerkung: Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.",
+    "licence": "<p>Diese Übersetzung geht auf einen alten spirituellen Text zurück, der von der buddhistischen Tradition zum Wohl aller Lebewesen weitergegeben wurde. Sie ist dem Gemeingut gewidmet via Creative Commons Zero (CC0). Kopieren, Vervielfältigen, Adaptieren, Ändern oder anderweitiges Verwenden dieser Übersetzung sind ausdrücklich erlaubt. Die Übersetzerin bittet höflich darum, dass jede Verwendung in Übereinstimmung mit den Werten und Prinzipien der buddhistischen Gemeinschaft geschehen soll.</p><a rel='license' href='https://creativecommons.org/publicdomain/zero/1.0/'><p xmlns:dct='https://purl.org/dc/terms/' xmlns:vcard='https://www.w3.org/2001/vcard-rdf/3.0#'><span><strong>CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. </strong><br>Soweit das rechtlich möglich ist, hat <span property='dct:title'>Anagarika Sabbamitta</span> auf alle Rechte durch das Copyright und verwandte oder benachbarte Rechte an den <span property='dct:title'>Nummerierten Lehrreden</span> verzichtet. Dieses Werk wurde veröffentlicht in: <span property='vcard:Country' datatype='dct:ISO3166' content='DE' about='https://voice.suttacentral.net'> Deutschland</span>.</span></p>",
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "Ab Ende 2019 fortlaufend",
+        "publisher": "SuttaCentral Voice",
+        "publication_type": "website",
+        "url": "https://voice.suttacentral.net"
+      },
+    ]
+  },
 }
