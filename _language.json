@@ -8,5 +8,10 @@
     "type": "language",
     "name": "English",
     "is_root": false
+  },
+  "de": {
+    "type": "language",
+    "name": "Deutsch",
+    "is_root": false
   }
 }
