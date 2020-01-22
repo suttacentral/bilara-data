@@ -1,7 +1,11 @@
 {
-  "vb10:14.1": "kāyapassaddhi → kāyappassaddhi (sya-all, pts-vp-pli1, mr)",
-  "vb10:14.2": "cittapassaddhi → cittappassaddhi (sya-all, pts-vp-pli1, mr)",
-  "vb10:15.1": "savitakko savicāro → savitakkasavicāro (bj)",
-  "vb10:15.2": "avitakko avicāro → avitakkaavicāro (bj)",
-  "vb10:25.1": "odagyaṃ → odaggaṃ (si)"
+  "vb10:14.2": [
+    "kāyapassaddhi → kāyappassaddhi (sya-all, pts-vp-pli1, mr)",
+    "cittapassaddhi → cittappassaddhi (sya-all, pts-vp-pli1, mr)"
+  ],
+  "vb10:15.2": [
+    "savitakko savicāro → savitakkasavicāro (bj)",
+    "avitakko avicāro → avitakkaavicāro (bj)"
+  ],
+  "vb10:25.2": "odagyaṃ → odaggaṃ (si)"
 }

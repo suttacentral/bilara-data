@@ -1,8 +1,10 @@
 {
-  "pp2.1:1.1": "phusitvā → phassitvā (bj)",
-  "pp2.1:12.1": "eḷā → jaḷā (sya-all, pts-vp-pli1)",
-  "pp2.1:13.1": "paññavanto → paññāvantā (bj)",
-  "pp2.1:24.1": "phusitvā → phassitvā (bj)",
-  "pp2.1:31.1": "sambodhiparāyano → sambodhiparāyaṇo (bj, mr)",
-  "pp2.1:37.1": "kālakiriyaṃ → kālaṃ kiriyaṃ (mr)"
+  "pp2.1:1.2": [
+    "phusitvā → phassitvā (bj)",
+    "phusitvā → phassitvā (bj)"
+  ],
+  "pp2.1:12.2": "eḷā → jaḷā (sya-all, pts-vp-pli1)",
+  "pp2.1:13.2": "paññavanto → paññāvantā (bj)",
+  "pp2.1:31.2": "sambodhiparāyano → sambodhiparāyaṇo (bj, mr)",
+  "pp2.1:37.3": "kālakiriyaṃ → kālaṃ kiriyaṃ (mr)"
 }
