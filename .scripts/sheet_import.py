@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import logging
 import json
 import argparse
 import pyexcel
@@ -7,6 +8,12 @@ import regex
 import sys
 from itertools import groupby
 from common import iter_json_files, repo_dir, bilarasortkey
+
+def check_segment_id(segment_id, file):
+    if segment_id.count(':') != 1:
+        logging.error(f'Segment ID "{segment_id}" in "{str(file)} is malformed, expected a single ":", but {segment_id.count(":")} found')
+        return False
+    return True
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Import Spreadsheet")
@@ -44,19 +51,24 @@ if __name__ == '__main__':
                     with file.open('r') as f:
                         data = json.load(f)
                     for segment_id in data:
-                        segment_uid = segment_id.split(':')[0]
-                        segment_uid_to_file_mapping[muids][segment_uid] = file
+                        if check_segment_id(segment_id, file):
+                            segment_uid = segment_id.split(':')[0]
+                            segment_uid_to_file_mapping[muids][segment_uid] = file
         
-        raise ValueError('Could not find file for {}_{}'.format(uids, muids))
+        raise ValueError('Could not find file for {}_{}'.format(uid, muids))
 
-
+    errors = 0
     for uid, group in groupby(rows, lambda row: row['segment_id'].split(':')[0]):
         group = list(group)
         fields = list(group[0].keys())[1:]
         data = {field: {} for field in fields}
+        
         for record in group:
             segment_id = record['segment_id']
             if not segment_id:
+                continue
+            if not check_segment_id(segment_id, args.file):
+                errors += 1
                 continue
             for field in fields:
                 value = record[field]
@@ -69,6 +81,7 @@ if __name__ == '__main__':
             file = get_file(uid, field)
             if not file:
                 print('ERROR: Could not find file for {}_{}'.format(uid, field), file=sys.stderr)
+                errors += 1
                 continue
 
             with file.open('r') as f:
@@ -95,3 +108,7 @@ if __name__ == '__main__':
 
             with file.open('w') as f:
                 json.dump(merged_data, f, ensure_ascii=False, indent=2)
+    if errors > 0:
+        print(f'{errors} occured while importing sheet, not all data was imported', file=sys.stderr)
+        exit(1)
+    exit(0)
