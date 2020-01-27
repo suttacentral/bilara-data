@@ -6,11 +6,9 @@
   "vv64:9.1": "patanti → pavattanti (sya1ed, sya2ed, pts-vp-pli1, mr)",
   "vv64:10.2": "nādo → nādī (sya1ed, pts-vp-pli1); nādi (sya2ed, pts-vp-pli-a, mr)",
   "vv64:15.2": "candanasāravāsitā → … vositā (sya1ed, sya2ed, pts-vp-pli1); bhūsitā (mr)",
-  "vv64:20.2": [
-    "hadayeritaṃ pītiṃ → hadayeritaṃ pati (bj, pts-vp-pli2); hadayeritampi taṃ (sya1ed, sya2ed, pts-vp-pli1)",
-    "hadayeritaṃ pītiṃ → hadayeritaṃ pati (bj, pts-vp-pli2); hadayeritampi taṃ (sya1ed, sya2ed, pts-vp-pli1)"
-  ],
+  "vv64:20.2": "hadayeritaṃ pītiṃ → hadayeritaṃ pati (bj, pts-vp-pli2); hadayeritampi taṃ (sya1ed, sya2ed, pts-vp-pli1)",
   "vv64:21.2": "cimāni → cemāni (bj, pts-vp-pli2)",
+  "vv64:22.4": "hadayeritaṃ pītiṃ → hadayeritaṃ pati (bj, pts-vp-pli2); hadayeritampi taṃ (sya1ed, sya2ed, pts-vp-pli1)",
   "vv64:23.3": "Uposathaṃ kaṃ vā → uposathaṃ kiṃ va (sya1ed, sya2ed)",
   "vv64:23.4": "Kaṃ → kiṃ (sya1ed, sya2ed, pts-vp-pli1)",
   "vv64:24.1": "Nayīdamappassa katassa → nayidaṃ appassa katassa (bj, sya1ed, sya2ed, pts-vp-pli1-2); sāsedaṃ appakatassa (mr)",
