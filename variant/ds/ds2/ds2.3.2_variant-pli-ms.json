@@ -1,8 +1,5 @@
 {
-  "ds2.3.2:8.2": [
-    "nandī nandīrāgo → nandi nandirāgo (bj)",
-    "sibbinī → sibbanī (bj) | āyūhinī → āyūhanī (bj, sya-all, pts-vp-pli1) | āsisanā āsisitattaṃ → āsiṃsanā āsiṃsitattaṃ (bj, sya-all); āsiṃsanā asiṃsitattaṃ (pts-vp-pli1) | pucchañjikatā → pucchañcikatā (bj); pucchikatā (si); puñcikatā (sya-all, pts-vp-pli1) | chādanaṃ → chadanaṃ (bj); chandānaṃ (pts-vp-pli1)"
-  ],
+  "ds2.3.2:8.2": "nandī nandīrāgo → nandi nandirāgo (bj) | sibbinī → sibbanī (bj) | āyūhinī → āyūhanī (bj, sya-all, pts-vp-pli1) | āsisanā āsisitattaṃ → āsiṃsanā āsiṃsitattaṃ (bj, sya-all); āsiṃsanā asiṃsitattaṃ (pts-vp-pli1) | pucchañjikatā → pucchañcikatā (bj); pucchikatā (si); puñcikatā (sya-all, pts-vp-pli1) | chādanaṃ → chadanaṃ (bj); chandānaṃ (pts-vp-pli1)",
   "ds2.3.2:70.2": "bhavachando → bhavacchando (bj, sya-all, pts-vp-pli1)",
   "ds2.3.2:88.3": "unnati unnamo → uṇṇati uṇṇāmo (sya-all); uṇṇati uṇṇamo (pts-vp-pli1)",
   "ds2.3.2:89.3": "patiṭṭhāho → paṭiggāho (bj, sya-all, pts-vp-pli1, csp1ed)",
@@ -14,8 +11,5 @@
   "ds2.3.2:190.3": "kāmupādānaṃ, diṭṭhupādānaṃ, sīlabbatupādānaṃ, attavādupādānaṃ → kāmūpādānaṃ diṭṭhūpādānaṃ sīlabbatūpādānaṃ attavādūpādānaṃ (bj)",
   "ds2.3.2:192.2": "sammaggatā → samaggatā (mr)",
   "ds2.3.2:262.2": "paranimmitavasavattī deve → paranimmitavasavattideve (bj, mr); parinimmitavasavattideve (pts-vp-pli1)",
-  "ds2.3.2:264.2": [
-    "akaniṭṭhe deve → akaniṭṭhadeve (bj, pts-vp-pli1, mr)",
-    "diṭṭhadhammasukhavihārissa → diṭṭhadhammasukhavihārassa (mr)"
-  ]
+  "ds2.3.2:264.2": "akaniṭṭhe deve → akaniṭṭhadeve (bj, pts-vp-pli1, mr) | diṭṭhadhammasukhavihārissa → diṭṭhadhammasukhavihārassa (mr)"
 }
