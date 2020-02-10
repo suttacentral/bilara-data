@@ -1,6 +1,6 @@
 {
-  "ps1.0:0.1": "<header><p class='division'>{}",
-  "ps1.0:0.2": "{}</p>",
+  "ps1.0:0.1": "<header><p class='division'>{}</p>",
+  "ps1.0:0.2": "<p>{}</p>",
   "ps1.0:0.3": "<h1>{}</h1></header>",
   "ps1.0:0.4": "<p class='namo'>{}</p>",
   "ps1.0:1.1": "<p>{}</p>",

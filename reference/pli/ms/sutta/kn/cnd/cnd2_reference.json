@@ -18,7 +18,7 @@
   "cnd2:15.1": "sc15, ms25Cn_75, msdiv71",
   "cnd2:16.1": "sc16, pts-vp-pli13, ms25Cn_76, msdiv72",
   "cnd2:17.1": "sc17, ms25Cn_77, msdiv73",
-  "cnd2:17.5": "ms25Cn_78",
+  "cnd2:17.6": "ms25Cn_78",
   "cnd2:18.1": "sc18, pts-vp-pli14, ms25Cn_79, msdiv74",
   "cnd2:19.1": "sc19, ms25Cn_80, msdiv75",
   "cnd2:20.1": "sc20, pts-vp-pli15, ms25Cn_81, msdiv76",
@@ -40,7 +40,7 @@
   "cnd2:35.1": "sc35, ms25Cn_97, msdiv91",
   "cnd2:36.1": "sc36, pts-vp-pli22, ms25Cn_98, msdiv92",
   "cnd2:37.1": "sc37, ms25Cn_99, msdiv93",
-  "cnd2:37.5": "ms25Cn_100",
+  "cnd2:37.6": "ms25Cn_100",
   "cnd2:38.1": "sc38, ms25Cn_101, msdiv94",
   "cnd2:39.1": "sc39, pts-vp-pli23, ms25Cn_102, msdiv95",
   "cnd2:40.1": "sc40, ms25Cn_103, msdiv96",
@@ -49,7 +49,7 @@
   "cnd2:43.1": "sc43, ms25Cn_106, msdiv99",
   "cnd2:44.1": "sc44, pts-vp-pli25, ms25Cn_107, msdiv100",
   "cnd2:45.1": "sc45, ms25Cn_108, msdiv101",
-  "cnd2:45.5": "ms25Cn_109",
+  "cnd2:45.6": "ms25Cn_109",
   "cnd2:46.1": "sc46, pts-vp-pli26, ms25Cn_110, msdiv102",
   "cnd2:47.1": "sc47, ms25Cn_111, msdiv103",
   "cnd2:48.1": "sc48, pts-vp-pli27, ms25Cn_112, msdiv104",
@@ -106,5 +106,5 @@
   "cnd2:90.1": "sc90, ms25Cn_163, msdiv146",
   "cnd2:91.1": "sc91, pts-vp-pli45, ms25Cn_164, msdiv147",
   "cnd2:92.1": "sc92, ms25Cn_165, msdiv148",
-  "cnd2:92.5": "ms25Cn_166"
+  "cnd2:92.6": "ms25Cn_166"
 }

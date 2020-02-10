@@ -1,6 +1,6 @@
 {
-  "pp1.1:0.1": "<header><p class='division'>{}",
-  "pp1.1:0.2": "{}</p>",
+  "pp1.1:0.1": "<header><p class='division'>{}</p>",
+  "pp1.1:0.2": "<p>{}</p>",
   "pp1.1:0.3": "<h1>{}</h1></header>",
   "pp1.1:1.1": "<p class='namo'>{}</p>",
   "pp1.1:2.1": "<p>{}",

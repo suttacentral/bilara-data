@@ -1,6 +1,6 @@
 {
-  "mil7.1:0.1": "<header><p class='division'>{}",
-  "mil7.1:0.2": "{}</p>",
+  "mil7.1:0.1": "<header><p class='division'>{}</p>",
+  "mil7.1:0.2": "<p>{}</p>",
   "mil7.1:0.3": "<h1>{}</h1></header>",
   "mil7.1:1.1": "<p>{}</p>",
   "mil7.1:2.1": "<p>{}</p>",
