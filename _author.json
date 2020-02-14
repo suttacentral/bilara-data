@@ -1,13 +1,13 @@
 {
   "sujato": {
     "type": "translator",
-    "name": "Sujato Bhikkhu",
+    "name": "Bhikkhu Sujato",
     "root_lang": "pli",
     "root_edition": "ms"
   },
   "brahmali": {
     "type": "translator",
-    "name": "Brahmali Bhikkhu",
+    "name": "Bhikkhu Brahmali",
     "root_lang": "pli",
     "root_edition": "ms"
   },
