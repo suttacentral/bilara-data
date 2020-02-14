@@ -1,13 +1,25 @@
 {
+  "ms": {
+    "type": "root",
+    "name": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "root_lang": "pli",
+    "root_edition": "ms"
+  },
   "sujato": {
     "type": "translator",
-    "name": "Bhikkhu Sujato",
+    "name": "Sujato Bhikkhu",
     "root_lang": "pli",
     "root_edition": "ms"
   },
   "brahmali": {
     "type": "translator",
-    "name": "Bhikkhu Brahmali",
+    "name": "Brahmali Bhikkhu",
+    "root_lang": "pli",
+    "root_edition": "ms"
+  },
+  "sabbamitta": {
+    "type": "translator",
+    "name": "Sabbamitta Anagarika",
     "root_lang": "pli",
     "root_edition": "ms"
   },
