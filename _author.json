@@ -23,6 +23,12 @@
     "root_lang": "pli",
     "root_edition": "ms"
   },
+  "kaz": {
+    "type": "translator",
+    "name": "Kaz Takehara",
+    "root_lang": "pli",
+    "root_edition": "ms"
+  },
   "xtest": {
     "type": "translator",
     "name": "Test Project",
