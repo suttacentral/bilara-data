@@ -25,4 +25,4 @@ function process_dir(dname) {
     });
 }
 
-process_dir("translation");
+process_dir("translation/de/sabbamitta");
