@@ -29,12 +29,6 @@
     "root_lang": "pli",
     "root_edition": "ms"
   },
-  "horner": {
-    "type": "translator",
-    "name": "I. B. Horner",
-    "root_lang": "pli",
-    "root_edition": "ms"
-  },
   "xtest": {
     "type": "translator",
     "name": "Test Project",
