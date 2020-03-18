@@ -222,6 +222,27 @@
       }
     ]
   },
+  "scpub8.1": {
+    "publication_number": "scpub8",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/brahmali/vinaya/pli-tv-bi-vb/pli-tv-bi-vb-sk/",
+    "author_uid": "brahmali",
+    "author_name": "Bhikkhu Brahmali",
+    "author_github_handle": "brahmali",
+    "text_uid": "pli-tv-bi-vb-sk",
+    "text_title": "Theravāda Collection on Monastic Law",
+    "is_published": "false",
+    "publication_status": "Partial draft translation is published on SuttaCentral. Complete and extensively revised translation is underway.",
+    "licence": "",
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "url": ""
+      }
+    ]
+  },
   "scpub9": {
     "publication_number": "scpub9",
     "source_url": "https://github.com/sc-voice/bilara-data/tree/master/translation/de/sabbamitta/sutta/mn",
