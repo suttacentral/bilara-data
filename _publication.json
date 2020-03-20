@@ -267,7 +267,7 @@
   "scpub8.1": {
     "parent_publication": "scpub8",
     "publication_number": "scpub8.1",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/brahmali/vinaya/pli-tv-bi-vb/pli-tv-bi-vb-sk/",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/brahmali/vinaya/pli-tv-bi-vb/pli-tv-bi-vb-sk",
     "division": "pli-tv-bi-vb",
     "text_uid": "pli-tv-bi-vb-sk"
   },
