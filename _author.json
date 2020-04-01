@@ -29,6 +29,12 @@
     "root_lang": "pli",
     "root_edition": "ms"
   },
+  "gnlaera": {
+    "type": "translator",
+    "name": "Gabriel L.",
+    "root_lang": "pli",
+    "root_edition": "pt"
+  },
   "xtest": {
     "type": "translator",
     "name": "Test Project",
