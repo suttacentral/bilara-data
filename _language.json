@@ -13,5 +13,10 @@
     "type": "language",
     "name": "Deutsch",
     "is_root": false
+  },
+  "pt": {
+    "type": "language",
+    "name": "Português",
+    "is_root": false
   }
 }
