@@ -25,7 +25,7 @@ for file in files:
         return m[0]
     
     
-    string, n = regex.subn(r'data-uid='([^:]+)\:([a-z0-9.^-]+)'', repl, string)
+    string, n = regex.subn(r'data-uid="([^:]+)\:([a-z0-9.^-]+)"', repl, string)
     
     if n > 0:
         with file.open('w') as f:
