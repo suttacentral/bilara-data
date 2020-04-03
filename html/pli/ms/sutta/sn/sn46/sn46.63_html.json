@@ -1,8 +1,7 @@
 {
-  "sn46.63:0.1": "<article id='sn46.63'><header><ul><li class='division'>",
-  "sn46.63:0.2": "</li><li>",
-  "sn46.63:0.3": "</li></ul><h1>",
-  "sn46.63:1.1": "</h1></header><p>",
-  "sn46.63:1.2": "",
-  "~": "</p></article>"
+  "sn46.63:0.1": "<article id='sn46.63'><header><ul><li class='division'>{}</li>",
+  "sn46.63:0.2": "<li>{}</li></ul>",
+  "sn46.63:0.3": "<h1>{}</h1></header>",
+  "sn46.63:1.1": "<p>{}",
+  "sn46.63:1.2": "{}</p></article>"
 }

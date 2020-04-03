@@ -1,8 +1,7 @@
 {
-  "sn46.35:0.1": "<article id='sn46.35'><header><ul><li class='division'>",
-  "sn46.35:0.2": "</li><li>",
-  "sn46.35:0.3": "</li></ul><h1>",
-  "sn46.35:1.1": "</h1></header><p>",
-  "sn46.35:1.2": "</p><p class='endsection'>",
-  "~": "</p></article>"
+  "sn46.35:0.1": "<article id='sn46.35'><header><ul><li class='division'>{}</li>",
+  "sn46.35:0.2": "<li>{}</li></ul>",
+  "sn46.35:0.3": "<h1>{}</h1></header>",
+  "sn46.35:1.1": "<p>{}</p>",
+  "sn46.35:1.2": "<p class='endsection'>{}</p></article>"
 }
