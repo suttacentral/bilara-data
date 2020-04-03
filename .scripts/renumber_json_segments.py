@@ -19,7 +19,7 @@ for html_file in html_files:
     with html_file.open('r') as f:
         string = f.read()
     uid = regex.sub(r'(a-z)0+', r'\1', html_file.stem)
-    segment_ids = regex.findall(f'data-uid="([^:]+\:[a-z0-9.^-]+)"', string)
+    segment_ids = regex.findall(f'data-uid='([^:]+\:[a-z0-9.^-]+)'', string)
     segment_id_mapping[uid] = segment_ids
 
 

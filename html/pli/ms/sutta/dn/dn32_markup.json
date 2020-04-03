@@ -1,6 +1,6 @@
 {
-  "dn32:0.1": "<section class='sutta' id='dn32'><article><div class='hgroup'><p class='division'>{}</p>",
-  "dn32:0.2": "<h1>{}</h1></div>",
+  "dn32:0.1": "<article id='dn32'><header><ul><li class='division'>{}</li></ul>",
+  "dn32:0.2": "<h1>{}</h1></header>",
   "dn32:0.3": "<h2>{}</h2>",
   "dn32:1.1": "<p><span class='evam'>{}</span>",
   "dn32:1.2": "{}",
@@ -572,5 +572,5 @@
   "dn32:13.4": "{}</p>",
   "dn32:13.5": "<p>{}",
   "dn32:13.6": "{}</p>",
-  "dn32:13.7": "<p class='endsutta'>{}</p></article></section>"
+  "dn32:13.7": "<p class='endsutta'>{}</p></article>"
 }

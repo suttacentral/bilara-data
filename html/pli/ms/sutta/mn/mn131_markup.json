@@ -1,7 +1,7 @@
 {
-  "mn131:0.1": "<section class='sutta' id='mn131'><article><div class='hgroup'><p class='division'>",
-  "mn131:0.2": "</p><h1>",
-  "mn131:1.1": "</h1></div><p><span class='evam'>",
+  "mn131:0.1": "<article id='mn131'><header><ul><li class='division'>",
+  "mn131:0.2": "</li></ul><h1>",
+  "mn131:1.1": "</h1></header><p><span class='evam'>",
   "mn131:1.2": "</span>",
   "mn131:1.3": "",
   "mn131:1.4": "",
@@ -76,5 +76,5 @@
   "mn131:11.3": "</p><p>",
   "mn131:11.4": "",
   "mn131:11.5": "</p><p class='endsection'>",
-  "~": "</p></article></section></body></html>"
+  "~": "</p></article>"
 }

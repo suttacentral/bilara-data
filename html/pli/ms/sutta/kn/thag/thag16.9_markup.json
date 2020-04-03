@@ -1,9 +1,9 @@
 {
-  "thag16.9:1.1": "<section class='sutta' id='thag16.9'><article><div class='hgroup'><p class='division'>",
-  "thag16.9:2.1": "</p><p>",
-  "thag16.9:3.1": "</p><p>",
-  "thag16.9:4.1": "</p><h1>",
-  "thag16.9:5.1": "</h1></div><blockquote class='gatha'><p><a class='sc' id='1'></a><a class='vns' id='vns892'></a><a class='vnp' id='vnp892'></a><a class='pts' id='pts83'></a>",
+  "thag16.9:1.1": "<article id='thag16.9'><header><ul><li class='division'>",
+  "thag16.9:2.1": "</li><li>",
+  "thag16.9:3.1": "</li><li>",
+  "thag16.9:4.1": "</li></ul><h1>",
+  "thag16.9:5.1": "</h1></header><blockquote class='gatha'><p><a class='sc' id='1'></a><a class='vns' id='vns892'></a><a class='vnp' id='vnp892'></a><a class='pts' id='pts83'></a>",
   "thag16.9:5.2": "<br>",
   "thag16.9:5.3": "<br>",
   "thag16.9:5.4": "<br>",
@@ -119,5 +119,5 @@
   "thag16.9:32.4": "<br>",
   "thag16.9:33.1": "</p></blockquote><p class='endsutta'>",
   "thag16.9:33.2": "",
-  "~": "</p></article></section></section></body></html>"
+  "~": "</p></article>"
 }

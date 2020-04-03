@@ -1,8 +1,8 @@
 {
-  "sn16.11:0.1": "<section class='sutta' id='sn16.11'><article><div class='hgroup'><p class='division'>",
-  "sn16.11:0.2": "</p><p>",
-  "sn16.11:0.3": "</p><h1>",
-  "sn16.11:1.1": "</h1></div><p>",
+  "sn16.11:0.1": "<article id='sn16.11'><header><ul><li class='division'>",
+  "sn16.11:0.2": "</li><li>",
+  "sn16.11:0.3": "</li></ul><h1>",
+  "sn16.11:1.1": "</h1></header><p>",
   "sn16.11:1.2": "",
   "sn16.11:2.1": "</p><p>",
   "sn16.11:2.2": "</p><p>",
@@ -78,5 +78,5 @@
   "sn16.11:17.2": "</p><p>",
   "sn16.11:18.1": "</p><p>",
   "sn16.11:18.2": "</p><p class='endsection'>",
-  "~": "</p></article></section></body></html>"
+  "~": "</p></article>"
 }

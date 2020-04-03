@@ -1,7 +1,7 @@
 {
-  "an5.106:0.1": "<section class='sutta' id='an5.106'><article><div class='hgroup'><p class='division'>{}</p>",
-  "an5.106:0.2": "<p>{}</p>",
-  "an5.106:0.3": "<h1>{}</h1></div>",
+  "an5.106:0.1": "<article id='an5.106'><header><ul><li class='division'>{}</li>",
+  "an5.106:0.2": "<li>{}</li></ul>",
+  "an5.106:0.3": "<h1>{}</h1></header>",
   "an5.106:1.1": "<p>{}</p>",
   "an5.106:1.2": "<p>{}",
   "an5.106:2.1": "{}</p>",
@@ -34,5 +34,5 @@
   "an5.106:6.7": "{}",
   "an5.106:6.8": "{}</p>",
   "an5.106:7.1": "<p>{}</p>",
-  "an5.106:7.2": "<p class='endsection'>{}</p></article></section>"
+  "an5.106:7.2": "<p class='endsection'>{}</p></article>"
 }

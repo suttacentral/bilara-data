@@ -1,5 +1,5 @@
 {
-  "pli-tv-bu-pm:0.1": "<header><p class='division'>{}</p>",
+  "pli-tv-bu-pm:0.1": "<article id='pli-tv-bu-pm'><header><ul><li class='division'>{}</li></ul>",
   "pli-tv-bu-pm:0.2": "<h1>{}</h1></header>",
   "pli-tv-bu-pm:0.3": "<h2>{}</h2>",
   "pli-tv-bu-pm:0.4": "<h3>{}</h3>",
@@ -755,5 +755,5 @@
   "pli-tv-bu-pm:219.11": "{}</p>",
   "pli-tv-bu-pm:219.12": "<p class='end'>{}</p>",
   "pli-tv-bu-pm:219.13": "<p class='endsutta'>{}</p>",
-  "pli-tv-bu-pm:219.14": "<p class='namo'>{}</p>"
+  "pli-tv-bu-pm:219.14": "<p class='namo'>{}</p></article>"
 }

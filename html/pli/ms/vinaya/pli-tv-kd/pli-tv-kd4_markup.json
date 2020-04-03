@@ -1,6 +1,6 @@
 {
-  "pli-tv-kd4:0.1": "<header><p class='collection'>{}</p>",
-  "pli-tv-kd4:0.2": "<p class='division'>{}</p>",
+  "pli-tv-kd4:0.1": "<article id='pli-tv-kd4'><header><ul><li class='collection'>{}</li>",
+  "pli-tv-kd4:0.2": "<li class='division'>{}</li></ul>",
   "pli-tv-kd4:0.3": "<h1>{}</h1></header>",
   "pli-tv-kd4:0.4": "<h2>{}</h2>",
   "pli-tv-kd4:1.1.1": "<p>{}",
@@ -1267,5 +1267,5 @@
   "pli-tv-kd4:18.6.31": "{}<br>",
   "pli-tv-kd4:18.6.32": "{}</p></blockquote></section>",
   "pli-tv-kd4:18.6.33": "<p class='end'>{}</p>",
-  "pli-tv-kd4:18.6.34": "<p class='endsutta'>{}</p>"
+  "pli-tv-kd4:18.6.34": "<p class='endsutta'>{}</p></article>"
 }

@@ -1,9 +1,9 @@
 {
-  "thag10.2:1.1": "<section class='sutta' id='thag10.2'><article><div class='hgroup'><p class='division'>",
-  "thag10.2:2.1": "</p><p>",
-  "thag10.2:3.1": "</p><p>",
-  "thag10.2:4.1": "</p><h1>",
-  "thag10.2:5.1": "</h1></div><blockquote class='gatha'><p><a class='sc' id='1'></a><a class='vns' id='vns537'></a><a class='vnp' id='vnp537'></a>",
+  "thag10.2:1.1": "<article id='thag10.2'><header><ul><li class='division'>",
+  "thag10.2:2.1": "</li><li>",
+  "thag10.2:3.1": "</li><li>",
+  "thag10.2:4.1": "</li></ul><h1>",
+  "thag10.2:5.1": "</h1></header><blockquote class='gatha'><p><a class='sc' id='1'></a><a class='vns' id='vns537'></a><a class='vnp' id='vnp537'></a>",
   "thag10.2:5.2": "<br>",
   "thag10.2:5.3": "<br>",
   "thag10.2:5.4": "<br>",
@@ -45,5 +45,5 @@
   "thag10.2:14.4": "<br>",
   "thag10.2:15.1": "</p></blockquote><p class='endsutta'>",
   "thag10.2:15.2": "",
-  "~": "</p></article></section></section></body></html>"
+  "~": "</p></article>"
 }

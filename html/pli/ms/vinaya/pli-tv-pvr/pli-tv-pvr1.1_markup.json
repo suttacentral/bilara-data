@@ -1,7 +1,7 @@
 {
-  "pli-tv-pvr1.1:0.1": "<header><p class='division'>{}</p>",
-  "pli-tv-pvr1.1:0.2": "<p>{}</p>",
-  "pli-tv-pvr1.1:0.3": "<p>{}</p>",
+  "pli-tv-pvr1.1:0.1": "<article id='pli-tv-pvr1.1'><header><ul><li class='division'>{}</li>",
+  "pli-tv-pvr1.1:0.2": "<li>{}</li>",
+  "pli-tv-pvr1.1:0.3": "<li>{}</li></ul>",
   "pli-tv-pvr1.1:0.4": "<h1>{}</h1></header>",
   "pli-tv-pvr1.1:0.5": "<h2>{}</h2>",
   "pli-tv-pvr1.1:1.1": "<p class='namo'>{}</p>",
@@ -2210,5 +2210,5 @@
   "pli-tv-pvr1.1:331.2": "{}<br>",
   "pli-tv-pvr1.1:331.3": "{}<br>",
   "pli-tv-pvr1.1:331.4": "{}</p></blockquote></section>",
-  "pli-tv-pvr1.1:332.1": "<p class='endsutta'>{}</p>"
+  "pli-tv-pvr1.1:332.1": "<p class='endsutta'>{}</p></article>"
 }

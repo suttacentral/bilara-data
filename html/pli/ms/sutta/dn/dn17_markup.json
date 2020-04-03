@@ -1,6 +1,6 @@
 {
-  "dn17:0.1": "<section class='sutta' id='dn17'><article><div class='hgroup'><p class='division'>{}</p>",
-  "dn17:0.2": "<h1>{}</h1></div>",
+  "dn17:0.1": "<article id='dn17'><header><ul><li class='division'>{}</li></ul>",
+  "dn17:0.2": "<h1>{}</h1></header>",
   "dn17:1.1.1": "<p><span class='evam'>{}</span>",
   "dn17:1.1.2": "{}</p>",
   "dn17:1.2.1": "<p>{}",
@@ -442,5 +442,5 @@
   "dn17:2.17.6": "{}<br>",
   "dn17:2.17.7": "{}<br>",
   "dn17:2.17.8": "{}</p></blockquote>",
-  "dn17:2.17.9": "<p class='endsutta'>{}</p></article></section>"
+  "dn17:2.17.9": "<p class='endsutta'>{}</p></article>"
 }

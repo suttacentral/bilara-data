@@ -1,6 +1,6 @@
 {
-  "dn30:0.1": "<section class='sutta' id='dn30'><article><div class='hgroup'><p class='division'>{}</p>",
-  "dn30:0.2": "<h1>{}</h1></div>",
+  "dn30:0.1": "<article id='dn30'><header><ul><li class='division'>{}</li></ul>",
+  "dn30:0.2": "<h1>{}</h1></header>",
   "dn30:1.1.1": "<p><span class='evam'>{}</span>",
   "dn30:1.1.2": "{}",
   "dn30:1.1.3": "{}",
@@ -719,5 +719,5 @@
   "dn30:2.31.29": "{}</p></blockquote>",
   "dn30:2.31.30": "<p>{}",
   "dn30:2.31.31": "{}</p>",
-  "dn30:2.31.32": "<p class='endsutta'>{}</p></article></section>"
+  "dn30:2.31.32": "<p class='endsutta'>{}</p></article>"
 }

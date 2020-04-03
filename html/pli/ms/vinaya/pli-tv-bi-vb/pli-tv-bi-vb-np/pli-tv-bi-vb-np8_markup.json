@@ -1,8 +1,8 @@
 {
-  "pli-tv-bi-vb-np8:0.1": "<header><p class='collection'>{}</p>",
-  "pli-tv-bi-vb-np8:0.2": "<p class='division'>{}</p>",
-  "pli-tv-bi-vb-np8:0.3": "<p class='kanda'>{}</p>",
-  "pli-tv-bi-vb-np8:0.4": "<p class='vagga'>{}</p>",
+  "pli-tv-bi-vb-np8:0.1": "<article id='pli-tv-bi-vb-np8'><header><ul><li class='collection'>{}</li>",
+  "pli-tv-bi-vb-np8:0.2": "<li class='division'>{}</li>",
+  "pli-tv-bi-vb-np8:0.3": "<li class='kanda'>{}</li>",
+  "pli-tv-bi-vb-np8:0.4": "<li class='vagga'>{}</li></ul>",
   "pli-tv-bi-vb-np8:0.5": "<h1>{}</h1></header>",
   "pli-tv-bi-vb-np8:1.1^a": "<section class='vinaya-nidana'><h2>{}</h2>",
   "pli-tv-bi-vb-np8:1.1": "<p>{}",
@@ -38,7 +38,7 @@
   "pli-tv-bi-vb-np8:2.15": "<article class='kamma'><p>{}",
   "pli-tv-bi-vb-np8:2.16": "{}",
   "pli-tv-bi-vb-np8:2.17": "{}",
-  "pli-tv-bi-vb-np8:2.18": "{}</p></article></section>",
+  "pli-tv-bi-vb-np8:2.18": "{}</p></article>",
   "pli-tv-bi-vb-np8:2.19^a": "<section class='vinaya-cakka'><h2>{}</h2>",
   "pli-tv-bi-vb-np8:2.19": "<p>{}",
   "pli-tv-bi-vb-np8:2.20": "{}",
@@ -54,5 +54,5 @@
   "pli-tv-bi-vb-np8:2.29": "{} ",
   "pli-tv-bi-vb-np8:2.30": "{} ",
   "pli-tv-bi-vb-np8:2.31": "{}</p></section>",
-  "pli-tv-bi-vb-np8:2.32": "<p class='endsutta'>{}</p>"
+  "pli-tv-bi-vb-np8:2.32": "<p class='endsutta'>{}</p></article>"
 }

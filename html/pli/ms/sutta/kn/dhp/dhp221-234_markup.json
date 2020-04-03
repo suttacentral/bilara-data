@@ -1,7 +1,7 @@
 {
-  "dhp221-234:0.1": "<section class='sutta' id='dhp221-234'><article><div class='hgroup'><p class='division' lang='pli' translate='no'>{}</p>",
-  "dhp221-234:0.2": "<p class='division'>{}</p>",
-  "dhp221-234:0.3": "<h1>{}</h1></div>",
+  "dhp221-234:0.1": "<article id='dhp221-234'><header><ul><li class='division'>{}</li>",
+  "dhp221-234:0.2": "<li class='subdivision'>{}</li></ul>",
+  "dhp221-234:0.3": "<h1>{}</h1></header>",
   "dhp221:0": "<h3>{}</h3>",
   "dhp221:1": "<blockquote class='gatha'><p>{}<br>",
   "dhp221:2": "{}<br>",

@@ -1,8 +1,8 @@
 {
-  "an11.992-1151:1.1": "<section class='sutta' id='an11.992-1151'><article><div class='hgroup'><p class='division'>{}</p>",
-  "an11.992-1151:2.1": "<p class='pannasaka'>{}</p>",
-  "an11.992-1151:3.1": "<p class='vagga'>{}</p>",
-  "an11.992-1151:4.1": "<h1>{}</h1></div>",
+  "an11.992-1151:1.1": "<article id='an11.992-1151'><header><ul><li class='division'>{}</li>",
+  "an11.992-1151:2.1": "<li class='pannasaka'>{}</li>",
+  "an11.992-1151:3.1": "<li class='vagga'>{}</li></ul>",
+  "an11.992-1151:4.1": "<h1>{}</h1></header>",
   "an11.992-1151:5.1": "<p>1pts5.361{}",
   "an11.992-1151:5.2": "{}",
   "an11.992-1151:5.3": "{}",
@@ -36,5 +36,5 @@
   "an11.992-1151:8.3": "{}<br>",
   "an11.992-1151:8.4": "{}<br>",
   "an11.992-1151:9.1": "</p></blockquote><p class='endbook'>{}</p>",
-  "an11.992-1151:10.1": "<p class='endbook'>{}</p></article></section>"
+  "an11.992-1151:10.1": "<p class='endbook'>{}</p></article>"
 }

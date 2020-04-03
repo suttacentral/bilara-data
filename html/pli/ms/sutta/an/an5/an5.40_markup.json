@@ -1,7 +1,7 @@
 {
-  "an5.40:0.1": "<section class='sutta' id='an5.40'><article><div class='hgroup'><p class='division'>{}</p>",
-  "an5.40:0.2": "<p>{}</p>",
-  "an5.40:0.3": "<h1>{}</h1></div>",
+  "an5.40:0.1": "<article id='an5.40'><header><ul><li class='division'>{}</li>",
+  "an5.40:0.2": "<li>{}</li></ul>",
+  "an5.40:0.3": "<h1>{}</h1></header>",
   "an5.40:1.1": "<p>{}",
   "an5.40:1.2": "{}",
   "an5.40:1.3": "{}",
@@ -41,5 +41,5 @@
   "an5.40:6.1": "<blockquote class='uddanagatha'><p>{}<br>",
   "an5.40:6.2": "{}<br>",
   "an5.40:6.3": "{}<br>",
-  "an5.40:6.4": "{}</p></blockquote></article></section>"
+  "an5.40:6.4": "{}</p></blockquote></article>"
 }

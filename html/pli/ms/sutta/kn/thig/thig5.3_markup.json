@@ -1,8 +1,8 @@
 {
-  "thig5.3:1.1": "<section class='sutta' id='thig5.3'><article><div class='hgroup'><p class='division'>",
-  "thig5.3:2.1": "</p><p>",
-  "thig5.3:3.1": "</p><h1>",
-  "thig5.3:4.1": "</h1></div><blockquote class='gatha'><p><a class='sc' id='1'></a><a class='vns' id='vns77'></a><a class='vnp' id='vnp77'></a>",
+  "thig5.3:1.1": "<article id='thig5.3'><header><ul><li class='division'>",
+  "thig5.3:2.1": "</li><li>",
+  "thig5.3:3.1": "</li></ul><h1>",
+  "thig5.3:4.1": "</h1></header><blockquote class='gatha'><p><a class='sc' id='1'></a><a class='vns' id='vns77'></a><a class='vnp' id='vnp77'></a>",
   "thig5.3:4.2": "<br>",
   "thig5.3:4.3": "<br>",
   "thig5.3:4.4": "<br>",
@@ -24,5 +24,5 @@
   "thig5.3:8.4": "<br>",
   "thig5.3:9.1": "</p></blockquote><p class='endsutta'><a class='sc' id='6'></a>",
   "thig5.3:9.2": "",
-  "~": "</p></article></section></section></body></html>"
+  "~": "</p></article>"
 }

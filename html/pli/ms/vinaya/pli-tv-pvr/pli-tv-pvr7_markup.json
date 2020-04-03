@@ -1,5 +1,5 @@
 {
-  "pli-tv-pvr7:0.1": "<header><p class='division'>{}</p>",
+  "pli-tv-pvr7:0.1": "<article id='pli-tv-pvr7'><header><ul><li class='division'>{}</li></ul>",
   "pli-tv-pvr7:0.2": "<h1>{}</h1></header>",
   "pli-tv-pvr7:0.3": "<h2>{}</h2>",
   "pli-tv-pvr7:1.1": "<p>{}",
@@ -1348,5 +1348,5 @@
   "pli-tv-pvr7:152.2": "{}<br>",
   "pli-tv-pvr7:152.3": "{}<br>",
   "pli-tv-pvr7:152.4": "{}</p></blockquote></section>",
-  "pli-tv-pvr7:153.1": "<p class='end'>{}</p>"
+  "pli-tv-pvr7:153.1": "<p class='end'>{}</p></article>"
 }
