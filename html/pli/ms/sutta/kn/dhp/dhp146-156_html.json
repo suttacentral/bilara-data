@@ -1,7 +1,7 @@
 {
   "dhp146-156:0.1": "<article id='dhp146-156'><header><ul><li class='division'>{}</li>",
   "dhp146-156:0.2": "<li class='subdivision'>{}</li></ul>",
-  "dhp146-156:0.3": "<h1>{}</h1></header>",
+  "dhp146-156:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "dhp146:0": "<h3>{}</h3>",
   "dhp146:1": "<blockquote class='gatha'><p>{}<br>",
   "dhp146:2": "{}<br>",

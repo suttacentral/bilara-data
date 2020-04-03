@@ -2,7 +2,7 @@
   "thag1.64:1.1": "<article id='thag1.64'><header><ul><li class='division'>",
   "thag1.64:2.1": "</li><li>",
   "thag1.64:3.1": "</li><li>",
-  "thag1.64:4.1": "</li></ul><h1>",
+  "thag1.64:4.1": "</li></ul><h1 class='sutta-title'>",
   "thag1.64:5.1": "</h1></header><blockquote class='gatha'><p><a class='sc' id='1'></a><a class='vns' id='vns64'></a><a class='vnp' id='vnp64'></a>",
   "thag1.64:5.2": "<br>",
   "thag1.64:5.3": "<br>",

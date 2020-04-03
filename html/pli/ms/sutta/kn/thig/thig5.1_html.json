@@ -1,7 +1,7 @@
 {
   "thig5.1:1.1": "<article id='thig5.1'><header><ul><li class='division'>",
   "thig5.1:2.1": "</li><li>",
-  "thig5.1:3.1": "</li></ul><h1>",
+  "thig5.1:3.1": "</li></ul><h1 class='sutta-title'>",
   "thig5.1:4.1": "</h1></header><blockquote class='gatha'><p><a class='sc' id='1'></a><a class='vns' id='vns67'></a><a class='vnp' id='vnp67'></a>",
   "thig5.1:4.2": "<br>",
   "thig5.1:4.3": "<br>",

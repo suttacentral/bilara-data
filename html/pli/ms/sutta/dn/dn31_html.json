@@ -1,6 +1,6 @@
 {
   "dn31:0.1": "<article id='dn31'><header><ul><li class='division'>{}</li></ul>",
-  "dn31:0.2": "<h1>{}</h1></header>",
+  "dn31:0.2": "<h1 class='sutta-title'>{}</h1></header>",
   "dn31:1.1": "<p><span class='evam'>{}</span>",
   "dn31:1.2": "{}",
   "dn31:1.3": "{}",

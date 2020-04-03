@@ -2,7 +2,7 @@
   "thag5.12:1.1": "<article id='thag5.12'><header><ul><li class='division'>",
   "thag5.12:2.1": "</li><li>",
   "thag5.12:3.1": "</li><li>",
-  "thag5.12:4.1": "</li></ul><h1>",
+  "thag5.12:4.1": "</li></ul><h1 class='sutta-title'>",
   "thag5.12:5.1": "</h1></header><blockquote class='gatha'><p><a class='sc' id='1'></a><a class='vns' id='vns370'></a><a class='vnp' id='vnp370'></a><a class='pts' id='pts41'></a>",
   "thag5.12:5.2": "<br>",
   "thag5.12:5.3": "<br>",

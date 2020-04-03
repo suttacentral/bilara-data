@@ -1,7 +1,7 @@
 {
   "cnd22:0.1": "<article id='cnd22'><header><ul><li class='division'>{}</li>",
   "cnd22:0.2": "<li>{}</li></ul>",
-  "cnd22:0.3": "<h1>{}</h1></header>",
+  "cnd22:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "cnd22:1.1": "<p>{} <span class='speaker'>",
   "cnd22:1.2": "{}</span><br>",
   "cnd22:1.3": "{}<br>",

@@ -3,7 +3,7 @@
   "pli-tv-bi-vb-np11:0.2": "<li class='division'>{}</li>",
   "pli-tv-bi-vb-np11:0.3": "<li class='kanda'>{}</li>",
   "pli-tv-bi-vb-np11:0.4": "<li>{}</li></ul>",
-  "pli-tv-bi-vb-np11:0.5": "<h1>{}</h1></header>",
+  "pli-tv-bi-vb-np11:0.5": "<h1 class='sutta-title'>{}</h1></header>",
   "pli-tv-bi-vb-np11:1.1^a": "<section class='vinaya-nidana'><h2>{}</h2>",
   "pli-tv-bi-vb-np11:1.1": "<p>{}",
   "pli-tv-bi-vb-np11:1.2": "{}",

@@ -1,7 +1,7 @@
 {
   "sn11.7:0.1": "<article id='sn11.7'><header><ul><li class='division'>{}</li>",
   "sn11.7:0.2": "<li>{}</li></ul>",
-  "sn11.7:0.3": "<h1>{}</h1></header>",
+  "sn11.7:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "sn11.7:1.1": "<p>{}</p>",
   "sn11.7:1.2": "<p>{}",
   "sn11.7:1.3": "{}</p>",
@@ -16,5 +16,5 @@
   "sn11.7:4.3": "{}<br>",
   "sn11.7:4.4": "{}<br>",
   "sn11.7:4.5": "{}<br>",
-  "sn11.7:4.6": "{}</p></blockquote>"
+  "sn11.7:4.6": "{}</p></blockquote></article>"
 }

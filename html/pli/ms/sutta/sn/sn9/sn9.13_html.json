@@ -1,7 +1,7 @@
 {
   "sn9.13:0.1": "<article id='sn9.13'><header><ul><li class='division'>{}</li>",
   "sn9.13:0.2": "<li>{}</li></ul>",
-  "sn9.13:0.3": "<h1>{}</h1></header>",
+  "sn9.13:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "sn9.13:1.1": "<p>{}</p>",
   "sn9.13:1.2": "<p>{}</p>",
   "sn9.13:2.1": "<blockquote class='gatha'><p>{}<br>",

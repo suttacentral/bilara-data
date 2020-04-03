@@ -1,6 +1,6 @@
 {
   "mn90:0.1": "<article id='mn90'><header><ul><li class='division'>{}</li></ul>",
-  "mn90:0.2": "<h1>{}</h1></header>",
+  "mn90:0.2": "<h1 class='sutta-title'>{}</h1></header>",
   "mn90:1.1": "<p><span class='evam'>{}</span>",
   "mn90:1.2": "{}</p>",
   "mn90:2.1": "<p>{}",
@@ -169,5 +169,5 @@
   "mn90:18.6": "{}<br>",
   "mn90:18.7": "{}<br>",
   "mn90:18.8": "{}<br>",
-  "mn90:18.9": "{}</p></blockquote>"
+  "mn90:18.9": "{}</p></blockquote></article>"
 }

@@ -1,7 +1,7 @@
 {
   "mnd7:0.1": "<article id='mnd7'><header><ul><li class='division'>{}</li>",
   "mnd7:0.2": "<li>{}</li></ul>",
-  "mnd7:0.3": "<h1>{}</h1></header>",
+  "mnd7:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "mnd7:1.1": "<p>{}</p>",
   "mnd7:2.1": "<p>{} <span class='speaker'>",
   "mnd7:2.2": "{}</span><br>",

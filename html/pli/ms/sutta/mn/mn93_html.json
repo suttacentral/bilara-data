@@ -1,6 +1,6 @@
 {
   "mn93:0.1": "<article id='mn93'><header><ul><li class='division'>{}</li></ul>",
-  "mn93:0.2": "<h1>{}</h1></header>",
+  "mn93:0.2": "<h1 class='sutta-title'>{}</h1></header>",
   "mn93:1.1": "<p><span class='evam'>{}</span>",
   "mn93:1.2": "{}</p>",
   "mn93:2.1": "<p>{}",
