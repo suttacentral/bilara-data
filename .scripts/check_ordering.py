@@ -27,7 +27,7 @@ if __name__ == '__main__':
             lines = f.readlines()
 
 
-        segment_ids = [regex.findall(r'data-uid='[^:]+\:([a-z0-9.^-]+)'', line) for line in lines]
+        ssegment_ids = [regex.findall(r'data-uid="[^:]+\:([a-z0-9.^-]+)"', line) for line in lines]
         segment_ids = [s for s in segment_ids if s]
 
         check_ordering(segment_ids, file)
