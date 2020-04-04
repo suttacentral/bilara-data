@@ -86,7 +86,7 @@
   "pli-tv-bu-vb-np6:3.1.15": "<dt>{}</dt>",
   "pli-tv-bu-vb-np6:3.1.16": "<dd>{}</dd>",
   "pli-tv-bu-vb-np6:3.1.17": "<dt>{}</dt>",
-  "pli-tv-bu-vb-np6:3.1.18": "<dd>{}</dd></dl>",
+  "pli-tv-bu-vb-np6:3.1.18": "<dd>{}</dd></dl></section>",
   "pli-tv-bu-vb-np6:3.2.1": "<hr><p>{}",
   "pli-tv-bu-vb-np6:3.2.2": "{}</p>",
   "pli-tv-bu-vb-np6:3.2.3": "<p>{}",

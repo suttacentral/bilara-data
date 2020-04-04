@@ -77,7 +77,7 @@
   "pli-tv-bu-vb-np2:3.1.7": "<dt>{}</dt>",
   "pli-tv-bu-vb-np2:3.1.8": "<dd>{}</dd>",
   "pli-tv-bu-vb-np2:3.1.9": "<dt>{}</dt>",
-  "pli-tv-bu-vb-np2:3.1.10": "<dd>{}</dd></dl>",
+  "pli-tv-bu-vb-np2:3.1.10": "<dd>{}</dd></dl></section>",
   "pli-tv-bu-vb-np2:3.1.11": "<hr><p>{}",
   "pli-tv-bu-vb-np2:3.1.12": "{}",
   "pli-tv-bu-vb-np2:3.1.13": "<span class='pe'>{}</span></p>",

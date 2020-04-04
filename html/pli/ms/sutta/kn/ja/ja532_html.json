@@ -3,7 +3,7 @@
   "ja532:0.2": "<li>{}</li>",
   "ja532:0.3": "<li>{}</li></ul>",
   "ja532:0.4": "<h1 class='sutta-title'>{}</h1></header>",
-  "ja532:1.1": "<p>{}<br>",
+  "ja532:1.1": "<blockquote class='gatha'><p>{}<br>",
   "ja532:1.2": "{}<br>",
   "ja532:1.3": "{}<br>",
   "ja532:1.4": "{}</p>",
@@ -390,12 +390,12 @@
   "ja532:92.1": "<p>{}<br>",
   "ja532:92.2": "{}<br>",
   "ja532:92.3": "{}<br>",
-  "ja532:92.4": "{}</p>",
+  "ja532:92.4": "{}</p></blockquote>",
   "ja532:93.1": "<p class='endsutta'>{}</p>",
   "ja532:94.1": "<p class='endsection'>{}</p>",
   "ja532:95.1": "<p class='uddana-intro'>{}</p>",
-  "ja532:96.1": "<p>{}<br>",
+  "ja532:96.1": "<blockquote class='uddanagatha'><p>{}<br>",
   "ja532:96.2": "{}<br>",
   "ja532:96.3": "{}<br>",
-  "ja532:96.4": "{}</p></article>"
+  "ja532:96.4": "{}</p></blockquote></article>"
 }

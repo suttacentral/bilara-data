@@ -92,7 +92,7 @@
   "pli-tv-bu-vb-np14:3.14": "<dd>{}</dd>",
   "pli-tv-bu-vb-np14:3.15": "<dt>{}</dt>",
   "pli-tv-bu-vb-np14:3.16": "<dd>{}",
-  "pli-tv-bu-vb-np14:3.17": "{}</dd></dl>",
+  "pli-tv-bu-vb-np14:3.17": "{}</dd></dl></section>",
   "pli-tv-bu-vb-np14:3.18": "<hr><p>{}",
   "pli-tv-bu-vb-np14:3.19": "{}",
   "pli-tv-bu-vb-np14:3.20": "<span class='pe'>{}</span></p>",
