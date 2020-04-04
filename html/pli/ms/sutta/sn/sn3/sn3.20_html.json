@@ -1,7 +1,7 @@
 {
   "sn3.20:0.1": "<article id='sn3.20'><header><ul><li class='division'>{}</li>",
   "sn3.20:0.2": "<li>{}</li></ul>",
-  "sn3.20:0.3": "<h1>{}</h1></header>",
+  "sn3.20:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "sn3.20:1.1": "<p>{}",
   "sn3.20:1.2": "{}</p>",
   "sn3.20:2.1": "<p>{}",
@@ -52,5 +52,5 @@
   "sn3.20:9.3": "{}<br>",
   "sn3.20:9.4": "{}<br>",
   "sn3.20:9.5": "{}<br>",
-  "sn3.20:9.6": "{}</p></blockquote>"
+  "sn3.20:9.6": "{}</p></blockquote></article>"
 }

@@ -1,15 +1,14 @@
 {
-  "thag1.92:1.1": "<article id='thag1.92'><header><ul><li class='division'>",
-  "thag1.92:2.1": "</li><li>",
-  "thag1.92:3.1": "</li><li>",
-  "thag1.92:4.1": "</li></ul><h1>",
-  "thag1.92:5.1": "</h1></header><blockquote class='gatha'><p><a class='sc' id='1'></a><a class='vns' id='vns92'></a><a class='vnp' id='vnp92'></a><a class='pts' id='pts14'></a>",
-  "thag1.92:5.2": "<br>",
-  "thag1.92:5.3": "<br>",
-  "thag1.92:5.4": "<br>",
-  "thag1.92:5.5": "<br>",
-  "thag1.92:5.6": "<br>",
-  "thag1.92:6.1": "</p></blockquote><p class='endsutta'>",
-  "thag1.92:6.2": "",
-  "~": "</p></article>"
+  "thag1.92:1.1": "<article id='thag1.92'><header><ul><li class='division'>{}</li>",
+  "thag1.92:2.1": "<li>{}</li>",
+  "thag1.92:3.1": "<li>{}</li></ul>",
+  "thag1.92:4.1": "<h1 class='sutta-title'>{}</h1></header>",
+  "thag1.92:5.1": "<blockquote class='gatha'><p><a class='sc' id='1'></a><a class='vns' id='vns92'></a><a class='vnp' id='vnp92'></a><a class='pts' id='pts14'></a>{}<br>",
+  "thag1.92:5.2": "{}<br>",
+  "thag1.92:5.3": "{}<br>",
+  "thag1.92:5.4": "{}<br>",
+  "thag1.92:5.5": "{}<br>",
+  "thag1.92:5.6": "{}</p></blockquote>",
+  "thag1.92:6.1": "<p class='endsutta'>{}",
+  "thag1.92:6.2": "{}</p></article>"
 }

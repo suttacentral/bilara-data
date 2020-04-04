@@ -1,6 +1,6 @@
 {
   "pli-tv-pvr18:0.1": "<article id='pli-tv-pvr18'><header><ul><li class='division'>{}</li></ul>",
-  "pli-tv-pvr18:0.2": "<h1>{}</h1></header>",
+  "pli-tv-pvr18:0.2": "<h1 class='sutta-title'>{}</h1></header>",
   "pli-tv-pvr18:0.3": "<h2>{}</h2>",
   "pli-tv-pvr18:1.1": "<p>{}",
   "pli-tv-pvr18:1.2": "{}",
@@ -134,5 +134,5 @@
   "pli-tv-pvr18:32.1": "<blockquote class='gatha'><p>{}<br>",
   "pli-tv-pvr18:32.2": "{}<br>",
   "pli-tv-pvr18:32.3": "{}<br>",
-  "pli-tv-pvr18:32.4": "{}</p></blockquote></section>"
+  "pli-tv-pvr18:32.4": "{}</p></blockquote></section></article>"
 }

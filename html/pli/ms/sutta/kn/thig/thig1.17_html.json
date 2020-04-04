@@ -1,14 +1,13 @@
 {
-  "thig1.17:1.1": "<article id='thig1.17'><header><ul><li class='division'>",
-  "thig1.17:2.1": "</li><li>",
-  "thig1.17:3.1": "</li></ul><h1>",
-  "thig1.17:4.1": "</h1></header><blockquote class='gatha'><p><a class='sc' id='1'></a><a class='vns' id='vns17'></a><a class='vnp' id='vnp17'></a>",
-  "thig1.17:4.2": "<br>",
-  "thig1.17:4.3": "<br>",
-  "thig1.17:4.4": "<br>",
-  "thig1.17:4.5": "<br>",
-  "thig1.17:4.6": "<br>",
-  "thig1.17:5.1": "</p></blockquote><p class='endsutta'><a class='sc' id='2'></a>",
-  "thig1.17:5.2": "",
-  "~": "</p></article>"
+  "thig1.17:1.1": "<article id='thig1.17'><header><ul><li class='division'>{}</li>",
+  "thig1.17:2.1": "<li>{}</li></ul>",
+  "thig1.17:3.1": "<h1 class='sutta-title'>{}</h1></header>",
+  "thig1.17:4.1": "<blockquote class='gatha'><p><a class='sc' id='1'></a><a class='vns' id='vns17'></a><a class='vnp' id='vnp17'></a>{}<br>",
+  "thig1.17:4.2": "{}<br>",
+  "thig1.17:4.3": "{}<br>",
+  "thig1.17:4.4": "{}<br>",
+  "thig1.17:4.5": "{}<br>",
+  "thig1.17:4.6": "{}</p></blockquote>",
+  "thig1.17:5.1": "<p class='endsutta'><a class='sc' id='2'></a>{}",
+  "thig1.17:5.2": "{}</p></article>"
 }

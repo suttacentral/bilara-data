@@ -1,6 +1,6 @@
 {
   "vb2:0.1": "<article id='vb2'><header><ul><li class='division'>{}</li></ul>",
-  "vb2:0.2": "<h1>{}</h1></header>",
+  "vb2:0.2": "<h1 class='sutta-title'>{}</h1></header>",
   "vb2:1.0": "<h2>{}</h2>",
   "vb2:1.1": "<p>{}",
   "vb2:1.2": "{}</p>",
@@ -122,8 +122,8 @@
   "vb2:33.1": "<p>{}",
   "vb2:33.2": "{}",
   "vb2:33.3": "{}</p>",
-  "vb2:34.1": "<p class='endsutta'>{}<br>",
-  "vb2:34.2": "{}</p>",
+  "vb2:34.1": "<p class='endsutta'>{}</p>",
+  "vb2:34.2": "<p class='end'>{}</p>",
   "vb2:35.0": "<h2>{}</h2>",
   "vb2:35.1": "<p>{}",
   "vb2:35.2": "{}</p>",

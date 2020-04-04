@@ -1,7 +1,7 @@
 {
   "dhp21-32:0.1": "<article id='dhp21-32'><header><ul><li class='division'>{}</li>",
   "dhp21-32:0.2": "<li class='subdivision'>{}</li></ul>",
-  "dhp21-32:0.3": "<h1>{}</h1></header>",
+  "dhp21-32:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "dhp21:0": "<h3>{}</h3>",
   "dhp21:1": "<blockquote class='gatha'><p>{}<br>",
   "dhp21:2": "{}<br>",
@@ -61,5 +61,5 @@
   "dhp32:2": "{}<br>",
   "dhp32:3": "{}<br>",
   "dhp32:4": "{}</p></blockquote>",
-  "dhp32:5": "<p class='endsection'>{}"
+  "dhp32:5": "<p class='endsection'>{}</p></article>"
 }

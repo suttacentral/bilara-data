@@ -1,7 +1,7 @@
 {
   "an5.134:0.1": "<article id='an5.134'><header><ul><li class='division'>{}</li>",
   "an5.134:0.2": "<li>{}</li></ul>",
-  "an5.134:0.3": "<h1>{}</h1></header>",
+  "an5.134:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "an5.134:1.1": "<p>{}</p>",
   "an5.134:2.1": "<p>{}</p>",
   "an5.134:2.2": "<p>{}</p>",

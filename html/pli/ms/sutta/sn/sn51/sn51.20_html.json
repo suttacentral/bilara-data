@@ -1,7 +1,7 @@
 {
   "sn51.20:0.1": "<article id='sn51.20'><header><ul><li class='division'>{}</li>",
   "sn51.20:0.2": "<li>{}</li></ul>",
-  "sn51.20:0.3": "<h1>{}</h1></header>",
+  "sn51.20:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "sn51.20:1.1": "<p>{}</p>",
   "sn51.20:2.1": "<p>{}",
   "sn51.20:2.2": "{}",
@@ -96,5 +96,5 @@
   "sn51.20:25.1": "<blockquote class='uddanagatha'><p>{}<br>",
   "sn51.20:25.2": "{}<br>",
   "sn51.20:25.3": "{}<br>",
-  "sn51.20:25.4": "{}</p></blockquote>"
+  "sn51.20:25.4": "{}</p></blockquote></article>"
 }

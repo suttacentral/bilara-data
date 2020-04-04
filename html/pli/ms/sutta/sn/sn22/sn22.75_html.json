@@ -1,7 +1,7 @@
 {
   "sn22.75:0.1": "<article id='sn22.75'><header><ul><li class='division'>{}</li>",
   "sn22.75:0.2": "<li>{}</li></ul>",
-  "sn22.75:0.3": "<h1>{}</h1></header>",
+  "sn22.75:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "sn22.75:1.1": "<p>{}</p>",
   "sn22.75:1.2": "<p>{}",
   "sn22.75:1.3": "{}",

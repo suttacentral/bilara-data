@@ -3,7 +3,7 @@
   "pli-tv-bu-vb-np10:0.2": "<li class='division'>{}</li>",
   "pli-tv-bu-vb-np10:0.3": "<li class='kanda'>{}</li>",
   "pli-tv-bu-vb-np10:0.4": "<li class='vagga'>{}</li></ul>",
-  "pli-tv-bu-vb-np10:0.5": "<h1>{}</h1></header>",
+  "pli-tv-bu-vb-np10:0.5": "<h1 class='sutta-title'>{}</h1></header>",
   "pli-tv-bu-vb-np10:1.1.1^a": "<section class='vinaya-nidana'><h2>{}</h2>",
   "pli-tv-bu-vb-np10:1.1.1": "<p>{}",
   "pli-tv-bu-vb-np10:1.1.2": "{}",
@@ -164,5 +164,5 @@
   "pli-tv-bu-vb-np10:2.4.11": "<blockquote class='gatha'><p>{}<br>",
   "pli-tv-bu-vb-np10:2.4.12": "{}<br>",
   "pli-tv-bu-vb-np10:2.4.13": "{}<br>",
-  "pli-tv-bu-vb-np10:2.4.14": "{}</p></blockquote></section>"
+  "pli-tv-bu-vb-np10:2.4.14": "{}</p></blockquote></section></article>"
 }

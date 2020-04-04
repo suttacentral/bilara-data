@@ -1,8 +1,8 @@
 {
   "pv35:0.1": "<article id='pv35'><header><ul><li class='division'>{}</li>",
   "pv35:0.2": "<li>{}</li></ul>",
-  "pv35:0.3": "<h1>{}</h1></header>",
-  "pv35:1.1": "<p>{}<br>",
+  "pv35:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+  "pv35:1.1": "<blockquote class='gatha'><p>{}<br>",
   "pv35:1.2": "{}<br>",
   "pv35:1.3": "{}<br>",
   "pv35:1.4": "{}</p>",
@@ -43,13 +43,13 @@
   "pv35:10.1": "<p>{}<br>",
   "pv35:10.2": "{}<br>",
   "pv35:10.3": "{}<br>",
-  "pv35:10.4": "{}</p>",
+  "pv35:10.4": "{}</p></blockquote>",
   "pv35:11.1": "<p class='endsutta'>{}</p>",
   "pv35:12.1": "<p class='endsection'>{}</p>",
   "pv35:13.1": "<p class='uddana-intro'>{}</p>",
-  "pv35:14.1": "<p>{}<br>",
+  "pv35:14.1": "<blockquote class='uddanagatha'><p>{}<br>",
   "pv35:14.2": "{}<br>",
   "pv35:14.3": "{}<br>",
   "pv35:14.4": "{}<br>",
-  "pv35:14.5": "{}</p></article>"
+  "pv35:14.5": "{}</p></blockquote></article>"
 }

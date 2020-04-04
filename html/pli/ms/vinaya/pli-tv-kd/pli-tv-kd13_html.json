@@ -1,7 +1,7 @@
 {
   "pli-tv-kd13:0.1": "<article id='pli-tv-kd13'><header><ul><li class='collection'>{}</li>",
   "pli-tv-kd13:0.2": "<li class='division'>{}</li></ul>",
-  "pli-tv-kd13:0.3": "<h1>{}</h1></header>",
+  "pli-tv-kd13:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "pli-tv-kd13:0.4": "<h2>{}</h2>",
   "pli-tv-kd13:1.1.1": "<p>{}",
   "pli-tv-kd13:1.1.2": "{}",

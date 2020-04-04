@@ -1,8 +1,8 @@
 {
   "pv15:0.1": "<article id='pv15'><header><ul><li class='division'>{}</li>",
   "pv15:0.2": "<li>{}</li></ul>",
-  "pv15:0.3": "<h1>{}</h1></header>",
-  "pv15:1.1": "<p>{}<br>",
+  "pv15:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+  "pv15:1.1": "<blockquote class='gatha'><p>{}<br>",
   "pv15:1.2": "{}<br>",
   "pv15:1.3": "{}<br>",
   "pv15:1.4": "{}</p>",
@@ -145,6 +145,6 @@
   "pv15:34.1": "<p>{}<br>",
   "pv15:34.2": "{}<br>",
   "pv15:34.3": "{}<br>",
-  "pv15:34.4": "{}</p>",
+  "pv15:34.4": "{}</p></blockquote>",
   "pv15:35.1": "<p class='endsutta'>{}</p></article>"
 }

@@ -2,7 +2,7 @@
   "an11.70-117:1.1": "<article id='an11.70-117'><header><ul><li class='division'>{}</li>",
   "an11.70-117:2.1": "<li class='pannasaka'>{}</li>",
   "an11.70-117:3.1": "<li class='vagga'>{}</li></ul>",
-  "an11.70-117:4.1": "<h1>{}</h1></header>",
+  "an11.70-117:4.1": "<h1 class='sutta-title'>{}</h1></header>",
   "an11.70-117:5.1": "<p>1{}",
   "an11.70-117:5.2": "{}",
   "an11.70-117:5.3": "{}",

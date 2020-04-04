@@ -1,7 +1,7 @@
 {
   "sn2.7:0.1": "<article id='sn2.7'><header><ul><li class='division'>{}</li>",
   "sn2.7:0.2": "<li>{}</li></ul>",
-  "sn2.7:0.3": "<h1>{}</h1></header>",
+  "sn2.7:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "sn2.7:1.1": "<p>{}</p>",
   "sn2.7:1.2": "<p>{}</p>",
   "sn2.7:2.1": "<blockquote class='gatha'><p>{}<br>",
@@ -12,5 +12,5 @@
   "sn2.7:3.2": "<span class='speaker'>{}</span>",
   "sn2.7:3.3": "<br>{}<br>",
   "sn2.7:3.4": "{}<br>",
-  "sn2.7:3.5": "{}</p></blockquote>"
+  "sn2.7:3.5": "{}</p></blockquote></article>"
 }

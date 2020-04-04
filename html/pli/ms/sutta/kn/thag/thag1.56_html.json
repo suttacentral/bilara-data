@@ -1,13 +1,12 @@
 {
-  "thag1.56:1.1": "<article id='thag1.56'><header><ul><li class='division'>",
-  "thag1.56:2.1": "</li><li>",
-  "thag1.56:3.1": "</li><li>",
-  "thag1.56:4.1": "</li></ul><h1>",
-  "thag1.56:5.1": "</h1></header><blockquote class='gatha'><p><a class='sc' id='1'></a><a class='vns' id='vns56'></a><a class='vnp' id='vnp56'></a>",
-  "thag1.56:5.2": "<br>",
-  "thag1.56:5.3": "<br>",
-  "thag1.56:5.4": "<br>",
-  "thag1.56:6.1": "</p></blockquote><p class='endsutta'>",
-  "thag1.56:6.2": "",
-  "~": "</p></article>"
+  "thag1.56:1.1": "<article id='thag1.56'><header><ul><li class='division'>{}</li>",
+  "thag1.56:2.1": "<li>{}</li>",
+  "thag1.56:3.1": "<li>{}</li></ul>",
+  "thag1.56:4.1": "<h1 class='sutta-title'>{}</h1></header>",
+  "thag1.56:5.1": "<blockquote class='gatha'><p><a class='sc' id='1'></a><a class='vns' id='vns56'></a><a class='vnp' id='vnp56'></a>{}<br>",
+  "thag1.56:5.2": "{}<br>",
+  "thag1.56:5.3": "{}<br>",
+  "thag1.56:5.4": "{}</p></blockquote>",
+  "thag1.56:6.1": "<p class='endsutta'>{}",
+  "thag1.56:6.2": "{}</p></article>"
 }

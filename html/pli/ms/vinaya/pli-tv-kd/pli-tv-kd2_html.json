@@ -1,7 +1,7 @@
 {
   "pli-tv-kd2:0.1": "<article id='pli-tv-kd2'><header><ul><li class='collection'>{}</li>",
   "pli-tv-kd2:0.2": "<li class='division'>{}</li></ul>",
-  "pli-tv-kd2:0.3": "<h1>{}</h1></header>",
+  "pli-tv-kd2:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "pli-tv-kd2:0.4": "<h2>{}</h2>",
   "pli-tv-kd2:1.1.1": "<p>{}",
   "pli-tv-kd2:1.1.2": "{}",
@@ -57,7 +57,7 @@
   "pli-tv-kd2:3.3.13": "{}",
   "pli-tv-kd2:3.3.14": "{}",
   "pli-tv-kd2:3.3.15": "{}",
-  "pli-tv-kd2:3.3.16": "{}</p></article>",
+  "pli-tv-kd2:3.3.16": "{}</p></article></section>",
   "pli-tv-kd2:3.4.1^a": "<section class='vinaya-pada'><h2>{}</h2>",
   "pli-tv-kd2:3.4.1": "<dl><dt>{}</dt>",
   "pli-tv-kd2:3.4.2": "<dd>{}</dd>",

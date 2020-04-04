@@ -2,7 +2,7 @@
   "iti104:0.1": "<article id='iti104'><header><ul><li class='division'>{}</li>",
   "iti104:0.2": "<li class='nipata'>{}</li>",
   "iti104:0.3": "<li class='vagga'>{}</li></ul>",
-  "iti104:0.4": "<h1>{}</h1></header>",
+  "iti104:0.4": "<h1 class='sutta-title'>{}</h1></header>",
   "iti104:1.1": "<p>{}</p>",
   "iti104:2.1": "<p>{}",
   "iti104:2.2": "{}",
@@ -15,7 +15,7 @@
   "iti104:2.9": "{}",
   "iti104:2.10": "{}",
   "iti104:2.11": "{}</p>",
-  "iti104:3.1": "<p>{}<br>",
+  "iti104:3.1": "<blockquote class='gatha'><p>{}<br>",
   "iti104:3.2": "{}<br>",
   "iti104:3.3": "{}<br>",
   "iti104:3.4": "{}</p>",
@@ -26,7 +26,7 @@
   "iti104:5.1": "<p>{}<br>",
   "iti104:5.2": "{}<br>",
   "iti104:5.3": "{}<br>",
-  "iti104:5.4": "{}</p>",
+  "iti104:5.4": "{}</p></blockquote>",
   "iti104:6.1": "<p>{}</p>",
   "iti104:6.2": "<p class='endsection'>{}</p></article>"
 }

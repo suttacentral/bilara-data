@@ -1,8 +1,8 @@
 {
   "pv25:0.1": "<article id='pv25'><header><ul><li class='division'>{}</li>",
   "pv25:0.2": "<li>{}</li></ul>",
-  "pv25:0.3": "<h1>{}</h1></header>",
-  "pv25:1.1": "<p>{}<br>",
+  "pv25:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+  "pv25:1.1": "<blockquote class='gatha'><p>{}<br>",
   "pv25:1.2": "{}<br>",
   "pv25:1.3": "{}<br>",
   "pv25:1.4": "{}</p>",
@@ -81,12 +81,12 @@
   "pv25:19.1": "<p>{}<br>",
   "pv25:19.2": "{}<br>",
   "pv25:19.3": "{}<br>",
-  "pv25:19.4": "{}</p>",
+  "pv25:19.4": "{}</p></blockquote>",
   "pv25:20.1": "<p class='endsutta'>{}</p>",
   "pv25:21.1": "<p class='endsection'>{}</p>",
   "pv25:22.1": "<p class='uddana-intro'>{}</p>",
-  "pv25:23.1": "<p>{}<br>",
+  "pv25:23.1": "<blockquote class='uddanagatha'><p>{}<br>",
   "pv25:23.2": "{}<br>",
   "pv25:23.3": "{}<br>",
-  "pv25:23.4": "{}</p></article>"
+  "pv25:23.4": "{}</p></blockquote></article>"
 }

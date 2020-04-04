@@ -1,7 +1,7 @@
 {
   "dhp306-319:0.1": "<article id='dhp306-319'><header><ul><li class='division'>{}</li>",
   "dhp306-319:0.2": "<li class='subdivision'>{}</li></ul>",
-  "dhp306-319:0.3": "<h1>{}</h1></header>",
+  "dhp306-319:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "dhp306:0": "<h3>{}</h3>",
   "dhp306:1": "<blockquote class='gatha'><p>{}<br>",
   "dhp306:2": "{}<br>",
@@ -69,5 +69,5 @@
   "dhp319:2": "{}<br>",
   "dhp319:3": "{}<br>",
   "dhp319:4": "{}</p></blockquote>",
-  "dhp319:5": "<p class='endsection'>{}"
+  "dhp319:5": "<p class='endsection'>{}</p></article>"
 }

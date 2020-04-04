@@ -1,7 +1,7 @@
 {
   "dhp33-43:0.1": "<article id='dhp33-43'><header><ul><li class='division'>{}</li>",
   "dhp33-43:0.2": "<li class='subdivision'>{}</li></ul>",
-  "dhp33-43:0.3": "<h1>{}</h1></header>",
+  "dhp33-43:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "dhp33:0": "<h3>{}</h3>",
   "dhp33:1": "<blockquote class='gatha'><p>{}<br>",
   "dhp33:2": "{}<br>",
@@ -55,5 +55,5 @@
   "dhp43:2": "{}<br>",
   "dhp43:3": "{}<br>",
   "dhp43:4": "{}</p></blockquote>",
-  "dhp43:5": "<p class='endsection'>{}"
+  "dhp43:5": "<p class='endsection'>{}</p></article>"
 }

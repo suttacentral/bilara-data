@@ -2,8 +2,8 @@
   "ja502:0.1": "<article id='ja502'><header><ul><li class='division'>{}</li>",
   "ja502:0.2": "<li>{}</li>",
   "ja502:0.3": "<li>{}</li></ul>",
-  "ja502:0.4": "<h1>{}</h1></header>",
-  "ja502:1.1": "<p>{}<br>",
+  "ja502:0.4": "<h1 class='sutta-title'>{}</h1></header>",
+  "ja502:1.1": "<blockquote class='gatha'><p>{}<br>",
   "ja502:1.2": "{}<br>",
   "ja502:1.3": "{}<br>",
   "ja502:1.4": "{}</p>",
@@ -106,6 +106,6 @@
   "ja502:26.1": "<p>{}<br>",
   "ja502:26.2": "{}<br>",
   "ja502:26.3": "{}<br>",
-  "ja502:26.4": "{}</p>",
+  "ja502:26.4": "{}</p></blockquote>",
   "ja502:27.1": "<p class='endsutta'>{}</p></article>"
 }
