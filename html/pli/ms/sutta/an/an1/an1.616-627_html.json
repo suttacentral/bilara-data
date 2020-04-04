@@ -1,6 +1,6 @@
 {
   "an1.616:0.1": "<section class='range' id='an1.616-627'><header><ul><li class='division'>{}</li>",
-  "an1.616:0.2": "<li>{}</li>",
+  "an1.616:0.2": "<li>{}</li></ul>",
   "an1.616:0.3": "<h1 class='range-title'>{}</h1></header>",
   "an1.616:1.1": "<article id='an1.616'><p>{}",
   "an1.616:1.2": "{}</p></article>",
@@ -41,5 +41,5 @@
   "an1.627:2.1": "<p>{}",
   "an1.627:2.2": "{}</p>",
   "an1.627:2.3": "<p class='endsection'>{}</p>",
-  "an1.627:2.4": "<p class='endbook'>{}</p></article>"
+  "an1.627:2.4": "<p class='endbook'>{}</p></article></section>"
 }

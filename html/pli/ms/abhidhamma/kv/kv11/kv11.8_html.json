@@ -53,8 +53,8 @@
   "kv11.8:7.2": "{}",
   "kv11.8:7.3": "{}",
   "kv11.8:7.4": "{}</p>",
-  "kv11.8:7.5": "<p class='endsutta'>{}<br>",
-  "kv11.8:7.6": "{}</p>",
+  "kv11.8:7.5": "<p class='endsutta'>{}</p>",
+  "kv11.8:7.6": "<p class='end'>{}</p>",
   "kv11.8:7.7": "<p class='uddana-intro'>{}</p>",
   "kv11.8:8.1": "<p class='uddana'>{}</p></article>"
 }

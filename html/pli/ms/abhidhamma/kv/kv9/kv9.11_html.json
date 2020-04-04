@@ -54,8 +54,8 @@
   "kv9.11:7.5": "{}",
   "kv9.11:7.6": "{}",
   "kv9.11:7.7": "{}</p>",
-  "kv9.11:7.8": "<p class='endsutta'>{}<br>",
-  "kv9.11:7.9": "{}</p>",
+  "kv9.11:7.8": "<p class='endsutta'>{}</p>",
+  "kv9.11:7.9": "<p class='end'>{}</p>",
   "kv9.11:7.10": "<p class='uddana-intro'>{}</p>",
   "kv9.11:8.1": "<p class='uddana'>{}</p></article>"
 }

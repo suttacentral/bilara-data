@@ -198,13 +198,13 @@
   "ps1.10:16.4": "{}",
   "ps1.10:16.5": "{}</p>",
   "ps1.10:17.1": "<p>{}</p>",
-  "ps1.10:17.2": "<p class='endsutta'>{}<br>",
-  "ps1.10:17.3": "{}</p>",
+  "ps1.10:17.2": "<p class='endsutta'>{}</p>",
+  "ps1.10:17.3": "<p class='end'>{}</p>",
   "ps1.10:17.4": "<p class='endsection'>{}</p>",
   "ps1.10:17.5": "<p class='uddana-intro'>{}</p>",
-  "ps1.10:18.1": "<p>{}<br>",
+  "ps1.10:18.1": "<blockquote class='uddanagatha'><p>{}<br>",
   "ps1.10:18.2": "{}<br>",
   "ps1.10:18.3": "{}<br>",
-  "ps1.10:18.4": "{}</p>",
+  "ps1.10:18.4": "{}</p></blockquote>",
   "ps1.10:18.5": "<p class='endsutta'>{}</p></article>"
 }

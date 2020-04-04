@@ -9,8 +9,8 @@
   "kv12.10:1.4": "{}",
   "kv12.10:1.5": "{}",
   "kv12.10:1.6": "{}</p>",
-  "kv12.10:1.7": "<p class='endsutta'>{}<br>",
-  "kv12.10:1.8": "{}</p>",
+  "kv12.10:1.7": "<p class='endsutta'>{}</p>",
+  "kv12.10:1.8": "<p class='end'>{}</p>",
   "kv12.10:1.9": "<p class='uddana-intro'>{}</p>",
   "kv12.10:2.1": "<p class='uddana'>{}</p></article>"
 }

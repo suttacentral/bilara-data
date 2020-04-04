@@ -2,7 +2,7 @@
   "pv22:0.1": "<article id='pv22'><header><ul><li class='division'>{}</li>",
   "pv22:0.2": "<li>{}</li></ul>",
   "pv22:0.3": "<h1 class='sutta-title'>{}</h1></header>",
-  "pv22:1.1": "<p>{}<br>",
+  "pv22:1.1": "<blockquote class='gatha'><p>{}<br>",
   "pv22:1.2": "{}<br>",
   "pv22:1.3": "{}<br>",
   "pv22:1.4": "{}</p>",
@@ -43,6 +43,6 @@
   "pv22:10.1": "<p>{}<br>",
   "pv22:10.2": "{}<br>",
   "pv22:10.3": "{}<br>",
-  "pv22:10.4": "{}</p>",
+  "pv22:10.4": "{}</p></blockquote>",
   "pv22:11.1": "<p class='endsutta'>{}</p></article>"
 }
