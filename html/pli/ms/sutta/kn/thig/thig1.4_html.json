@@ -1,12 +1,11 @@
 {
-  "thig1.4:1.1": "<article id='thig1.4'><header><ul><li class='division'>",
-  "thig1.4:2.1": "</li><li>",
-  "thig1.4:3.1": "</li></ul><h1 class='sutta-title'>",
-  "thig1.4:4.1": "</h1></header><blockquote class='gatha'><p><a class='sc' id='1'></a><a class='vns' id='vns4'></a><a class='vnp' id='vnp4'></a>",
-  "thig1.4:4.2": "<br>",
-  "thig1.4:4.3": "<br>",
-  "thig1.4:4.4": "<br>",
-  "thig1.4:5.1": "</p></blockquote><p class='endsutta'><a class='sc' id='2'></a>",
-  "thig1.4:5.2": "",
-  "~": "</p></article>"
+  "thig1.4:1.1": "<article id='thig1.4'><header><ul><li class='division'>{}</li>",
+  "thig1.4:2.1": "<li>{}</li></ul>",
+  "thig1.4:3.1": "<h1 class='sutta-title'>{}</h1></header>",
+  "thig1.4:4.1": "<blockquote class='gatha'><p><a class='sc' id='1'></a><a class='vns' id='vns4'></a><a class='vnp' id='vnp4'></a>{}<br>",
+  "thig1.4:4.2": "{}<br>",
+  "thig1.4:4.3": "{}<br>",
+  "thig1.4:4.4": "{}</p></blockquote>",
+  "thig1.4:5.1": "<p class='endsutta'><a class='sc' id='2'></a>{}",
+  "thig1.4:5.2": "{}</p></article>"
 }
