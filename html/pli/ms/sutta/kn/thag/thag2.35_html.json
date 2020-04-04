@@ -1,0 +1,17 @@
+{
+  "thag2.35:1.1": "<article id='thag2.35'><header><ul><li class='division'>",
+  "thag2.35:2.1": "</li><li>",
+  "thag2.35:3.1": "</li><li>",
+  "thag2.35:4.1": "</li></ul><h1 class='sutta-title'>",
+  "thag2.35:5.1": "</h1></header><blockquote class='gatha'><p><a class='sc' id='1'></a><a class='vns' id='vns189'></a><a class='vnp' id='vnp189'></a>",
+  "thag2.35:5.2": "<br>",
+  "thag2.35:5.3": "<br>",
+  "thag2.35:5.4": "<br>",
+  "thag2.35:6.1": "</p><p><a class='sc' id='2'></a><a class='vns' id='vns190'></a><a class='vnp' id='vnp190'></a>",
+  "thag2.35:6.2": "<br>",
+  "thag2.35:6.3": "<br>",
+  "thag2.35:6.4": "<br>",
+  "thag2.35:7.1": "</p></blockquote><p class='endsutta'>",
+  "thag2.35:7.2": "",
+  "~": "</p></article>"
+}

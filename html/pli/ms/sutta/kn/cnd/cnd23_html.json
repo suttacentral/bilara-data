@@ -1,6 +1,6 @@
 {
-  "cnd23:0.1": "<header><p class='division'>{}</p>",
-  "cnd23:0.2": "<h1>{}</h1></header>",
+  "cnd23:0.1": "<article id='cnd23'><header><ul><li class='division'>{}</li></ul>",
+  "cnd23:0.2": "<h1 class='sutta-title'>{}</h1></header>",
   "cnd23:1.0.1": "<h2>{}</h2>",
   "cnd23:1.1": "<p>{}<br>",
   "cnd23:1.2": "{}<br>",
@@ -2016,5 +2016,5 @@
   "cnd23:356.2": "{}<br>",
   "cnd23:356.3": "{}<br>",
   "cnd23:356.4": "{}</p>",
-  "cnd23:356.5": "<p class='endbook'>{}</p>"
+  "cnd23:356.5": "<p class='endbook'>{}</p></article>"
 }

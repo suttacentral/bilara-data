@@ -1,0 +1,13 @@
+{
+  "thag1.86:1.1": "<article id='thag1.86'><header><ul><li class='division'>",
+  "thag1.86:2.1": "</li><li>",
+  "thag1.86:3.1": "</li><li>",
+  "thag1.86:4.1": "</li></ul><h1 class='sutta-title'>",
+  "thag1.86:5.1": "</h1></header><blockquote class='gatha'><p><a class='sc' id='1'></a><a class='vns' id='vns86'></a><a class='vnp' id='vnp86'></a>",
+  "thag1.86:5.2": "<br>",
+  "thag1.86:5.3": "<br>",
+  "thag1.86:5.4": "<br>",
+  "thag1.86:6.1": "</p></blockquote><p class='endsutta'>",
+  "thag1.86:6.2": "",
+  "~": "</p></article>"
+}

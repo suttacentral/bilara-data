@@ -1,0 +1,12 @@
+{
+  "thig1.14:1.1": "<article id='thig1.14'><header><ul><li class='division'>",
+  "thig1.14:2.1": "</li><li>",
+  "thig1.14:3.1": "</li></ul><h1 class='sutta-title'>",
+  "thig1.14:4.1": "</h1></header><blockquote class='gatha'><p><a class='sc' id='1'></a><a class='vns' id='vns14'></a><a class='vnp' id='vnp14'></a>",
+  "thig1.14:4.2": "<br>",
+  "thig1.14:4.3": "<br>",
+  "thig1.14:4.4": "<br>",
+  "thig1.14:5.1": "</p></blockquote><p class='endsutta'><a class='sc' id='2'></a>",
+  "thig1.14:5.2": "",
+  "~": "</p></article>"
+}

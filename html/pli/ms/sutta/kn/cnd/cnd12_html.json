@@ -1,8 +1,8 @@
 {
-  "cnd12:0.1": "<header><p class='division'>{}</p>",
-  "cnd12:0.2": "<p>{}</p>",
-  "cnd12:0.3": "<p>{}</p>",
-  "cnd12:0.4": "<h1>{}</h1></header>",
+  "cnd12:0.1": "<article id='cnd12'><header><ul><li class='division'>{}</li>",
+  "cnd12:0.2": "<li>{}</li>",
+  "cnd12:0.3": "<li>{}</li></ul>",
+  "cnd12:0.4": "<h1 class='sutta-title'>{}</h1></header>",
   "cnd12:1.1": "<p>{} <span class='speaker'>",
   "cnd12:1.2": "{}</span><br>",
   "cnd12:1.3": "{}<br>",
@@ -145,5 +145,5 @@
   "cnd12:26.4": "{}</p>",
   "cnd12:27.1": "<p>{}",
   "cnd12:27.2": "{}</p>",
-  "cnd12:27.3": "<p class='endsutta'>{}</p>"
+  "cnd12:27.3": "<p class='endsutta'>{}</p></article>"
 }

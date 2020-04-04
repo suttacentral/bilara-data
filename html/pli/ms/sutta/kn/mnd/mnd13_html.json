@@ -1,7 +1,7 @@
 {
-  "mnd13:0.1": "<header><p class='division'>{}</p>",
-  "mnd13:0.2": "<p>{}</p>",
-  "mnd13:0.3": "<h1>{}</h1></header>",
+  "mnd13:0.1": "<article id='mnd13'><header><ul><li class='division'>{}</li>",
+  "mnd13:0.2": "<li>{}</li></ul>",
+  "mnd13:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "mnd13:1.1": "<p>{}</p>",
   "mnd13:2.1": "<p>{}<br>",
   "mnd13:2.2": "{}<br>",
@@ -757,5 +757,5 @@
   "mnd13:159.3": "{}<br>",
   "mnd13:159.4": "{} <span class='speaker'>",
   "mnd13:159.5": "{}</span></p>",
-  "mnd13:160.1": "<p class='endsutta'>{}</p>"
+  "mnd13:160.1": "<p class='endsutta'>{}</p></article>"
 }
