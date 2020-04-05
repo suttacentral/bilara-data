@@ -42,8 +42,8 @@
   "pli-tv-pvr1.16:2.16": "{}",
   "pli-tv-pvr1.16:2.17": "{}",
   "pli-tv-pvr1.16:2.18": "{}</p>",
-  "pli-tv-pvr1.16:3.1": "<p class='endsutta'>{}<br>",
-  "pli-tv-pvr1.16:3.2": "{}<br>",
-  "pli-tv-pvr1.16:3.3": "{}</p>",
+  "pli-tv-pvr1.16:3.1": "<p class='endsutta'>{}</p>",
+  "pli-tv-pvr1.16:3.2": "<p class='end'>{}</p>",
+  "pli-tv-pvr1.16:3.3": "<p class='end'>{}</p>",
   "pli-tv-pvr1.16:4.1": "<p class='end'>{}</p></article>"
 }

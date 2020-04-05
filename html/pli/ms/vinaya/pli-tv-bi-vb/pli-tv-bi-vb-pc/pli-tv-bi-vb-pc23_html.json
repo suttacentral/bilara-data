@@ -47,7 +47,7 @@
   "pli-tv-bi-vb-pc23:2.1.18": "<dd>{}</dd>",
   "pli-tv-bi-vb-pc23:2.1.19": "<dt>{}</dt>",
   "pli-tv-bi-vb-pc23:2.1.20": "<dd>{}</dd></dl>",
-  "pli-tv-bi-vb-pc23:2.1.21": "<hr><p>{}</p></section>",
+  "pli-tv-bi-vb-pc23:2.1.21": "<p>{}</p></section>",
   "pli-tv-bi-vb-pc23:2.2.1^a": "<section class='vinaya-cakka'><h2>{}</h2>",
   "pli-tv-bi-vb-pc23:2.2.1": "<p>{}",
   "pli-tv-bi-vb-pc23:2.2.2": "{}",

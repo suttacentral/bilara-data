@@ -50,7 +50,7 @@
   "pli-tv-bu-vb-np25:1.41": "<dd>{}</dd>",
   "pli-tv-bu-vb-np25:1.42": "<dt>{}</dt>",
   "pli-tv-bu-vb-np25:1.43": "<dd>{}",
-  "pli-tv-bu-vb-np25:1.44": "{}</dd></dl>",
+  "pli-tv-bu-vb-np25:1.44": "{}</dd></dl></section>",
   "pli-tv-bu-vb-np25:1.45": "<hr><p>{}",
   "pli-tv-bu-vb-np25:1.46": "{}",
   "pli-tv-bu-vb-np25:1.47": "<span class='pe'>{}</span></p>",

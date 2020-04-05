@@ -37,7 +37,7 @@
   "pli-tv-bi-vb-np2:2.1.3": "<dt>{}</dt>",
   "pli-tv-bi-vb-np2:2.1.4": "<dd>{}</dd>",
   "pli-tv-bi-vb-np2:2.1.5": "<dt>{}</dt>",
-  "pli-tv-bi-vb-np2:2.1.6": "<dd>{}</dd></dl>",
+  "pli-tv-bi-vb-np2:2.1.6": "<dd>{}</dd></dl></section>",
   "pli-tv-bi-vb-np2:2.1.7": "<hr><p>{}",
   "pli-tv-bi-vb-np2:2.1.8": "{}",
   "pli-tv-bi-vb-np2:2.1.9": "{}</p>",

@@ -3,9 +3,9 @@
   "ja148:0.2": "<li>{}</li>",
   "ja148:0.3": "<li>{}</li></ul>",
   "ja148:0.4": "<h1 class='sutta-title'>{}</h1></header>",
-  "ja148:1.1": "<p>{}<br>",
+  "ja148:1.1": "<blockquote class='gatha'><p>{}<br>",
   "ja148:1.2": "{}<br>",
   "ja148:1.3": "{}<br>",
-  "ja148:1.4": "{}</p>",
+  "ja148:1.4": "{}</p></blockquote>",
   "ja148:2.1": "<p class='endsutta'>{}</p></article>"
 }

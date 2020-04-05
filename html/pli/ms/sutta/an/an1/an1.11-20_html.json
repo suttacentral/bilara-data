@@ -1,6 +1,6 @@
 {
   "an1.11:0.1": "<section class='range' id='an1.11-20'><header><ul><li class='division'>{}</li>",
-  "an1.11:0.2": "<li>{}</li>",
+  "an1.11:0.2": "<li>{}</li></ul>",
   "an1.11:0.3": "<h1 class='range-title'>{}</h1></header>",
   "an1.11:1.1": "<article id='an1.11'><p>{}",
   "an1.11:1.2": "{}</p>",

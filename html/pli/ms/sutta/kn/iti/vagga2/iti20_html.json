@@ -11,7 +11,7 @@
   "iti20:2.5": "{}",
   "iti20:2.6": "{}",
   "iti20:2.7": "{}</p>",
-  "iti20:3.1": "<p>{}<br>",
+  "iti20:3.1": "<blockquote class='gatha'><p>{}<br>",
   "iti20:3.2": "{}<br>",
   "iti20:3.3": "{}<br>",
   "iti20:3.4": "{}</p>",
@@ -22,12 +22,12 @@
   "iti20:5.1": "<p>{}<br>",
   "iti20:5.2": "{}<br>",
   "iti20:5.3": "{}<br>",
-  "iti20:5.4": "{}</p>",
+  "iti20:5.4": "{}</p></blockquote>",
   "iti20:6.1": "<p>{}</p>",
   "iti20:6.2": "<p class='endsection'>{}</p>",
   "iti20:6.3": "<p class='endsection'>{}</p>",
-  "iti20:7.1": "<p>{}<br>",
+  "iti20:7.1": "<blockquote class='uddanagatha'><p>{}<br>",
   "iti20:7.2": "{}<br>",
   "iti20:7.3": "{}<br>",
-  "iti20:7.4": "{}</p></article>"
+  "iti20:7.4": "{}</p></blockquote></article>"
 }
