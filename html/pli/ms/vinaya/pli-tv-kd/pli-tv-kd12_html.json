@@ -630,7 +630,7 @@
   "pli-tv-kd12:9.1.74": "<p>{}</p>",
   "pli-tv-kd12:9.1.75": "<p>{}</p>",
   "pli-tv-kd12:9.1.76": "<p>{}</p>",
-  "pli-tv-kd12:9.1.77": "<section class='uddana'><p>{}</p>",
+  "pli-tv-kd12:9.1.77": "<section class='uddana'><p class='uddana-intro'>{}</p>",
   "pli-tv-kd12:9.1.78": "<blockquote class='gatha'><p>{}<br>",
   "pli-tv-kd12:9.1.79": "{}<br>",
   "pli-tv-kd12:9.1.80": "{}<br>",

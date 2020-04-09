@@ -88,7 +88,7 @@
   "kv19.8:9.8": "<p class='endsutta'>{}</p>",
   "kv19.8:9.9": "<p class='end'>{}</p>",
   "kv19.8:9.10": "<p class='uddana-intro'>{}</p>",
-  "kv19.8:10.1": "<p class='uddana'>{}",
+  "kv19.8:10.1": "<p class='uddana-prose'>{}",
   "kv19.8:10.2": "{}",
   "kv19.8:10.3": "{}",
   "kv19.8:10.4": "{}",

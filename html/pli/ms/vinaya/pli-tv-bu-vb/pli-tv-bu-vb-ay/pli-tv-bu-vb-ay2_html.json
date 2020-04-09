@@ -147,7 +147,7 @@
   "pli-tv-bu-vb-ay2:3.17": "{}",
   "pli-tv-bu-vb-ay2:3.18": "{}",
   "pli-tv-bu-vb-ay2:3.19": "{}</p></section>",
-  "pli-tv-bu-vb-ay2:3.20": "<section class='uddana'><p>{}</p>",
+  "pli-tv-bu-vb-ay2:3.20": "<section class='uddana'><p class='uddana-intro'>{}</p>",
   "pli-tv-bu-vb-ay2:3.21": "<blockquote class='gatha'><p>{}<br>",
   "pli-tv-bu-vb-ay2:3.22": "{}<br>",
   "pli-tv-bu-vb-ay2:3.23": "{}<br>",

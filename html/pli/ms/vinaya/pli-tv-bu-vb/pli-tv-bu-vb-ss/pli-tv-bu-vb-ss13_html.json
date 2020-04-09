@@ -223,7 +223,7 @@
   "pli-tv-bu-vb-ss13:3.2.14": "{}",
   "pli-tv-bu-vb-ss13:3.2.15": "{}</p></section>",
   "pli-tv-bu-vb-ss13:3.2.16": "<p class='endsutta'>{}</p>",
-  "pli-tv-bu-vb-ss13:3.2.17": "<section class='uddana'><p>{}</p>",
+  "pli-tv-bu-vb-ss13:3.2.17": "<section class='uddana'><p class='uddana-intro'>{}</p>",
   "pli-tv-bu-vb-ss13:3.2.18": "<blockquote class='gatha'><p>{}<br>",
   "pli-tv-bu-vb-ss13:3.2.19": "{}<br>",
   "pli-tv-bu-vb-ss13:3.2.20": "{}<br>",

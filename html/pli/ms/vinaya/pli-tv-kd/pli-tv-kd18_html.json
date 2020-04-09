@@ -1026,7 +1026,7 @@
   "pli-tv-kd18:12.11.225": "{}</p>",
   "pli-tv-kd18:12.11.226": "<p>{}</p>",
   "pli-tv-kd18:12.11.227": "<p class='endsutta'>{}</p>",
-  "pli-tv-kd18:12.11.228": "<section class='uddana'><p>{}</p>",
+  "pli-tv-kd18:12.11.228": "<section class='uddana'><p class='uddana-intro'>{}</p>",
   "pli-tv-kd18:12.11.229": "<blockquote class='gatha'><p>{}<br>",
   "pli-tv-kd18:12.11.230": "{}<br>",
   "pli-tv-kd18:12.11.231": "{}<br>",

@@ -32,8 +32,8 @@
   "kv5.10:6.7": "<p class='endsutta'>{}</p>",
   "kv5.10:6.8": "<p class='end'>{}</p>",
   "kv5.10:6.9": "<p class='uddana-intro'>{}</p>",
-  "kv5.10:7.1": "<p class='uddana'>{}</p>",
+  "kv5.10:7.1": "<p class='uddana-prose'>{}</p>",
   "kv5.10:7.2": "<p class='endsection'>{}</p>",
   "kv5.10:7.3": "<p class='uddana-intro'>{}</p>",
-  "kv5.10:8.1": "<p class='uddana'>{}</p></article>"
+  "kv5.10:8.1": "<p class='uddana-prose'>{}</p></article>"
 }
