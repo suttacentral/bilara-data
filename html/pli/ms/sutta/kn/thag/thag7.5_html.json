@@ -36,7 +36,7 @@
   "thag7.5:7.7": "<p class='endsutta'>{}",
   "thag7.5:7.8": "{}</p>",
   "thag7.5:7.9": "<p class='endsection'>{}</p>",
-  "thag7.5:7.10": "<p class='uddana'>{}</p>",
+  "thag7.5:7.10": "<p class='uddana-intro'>{}</p>",
   "thag7.5:8.1": "<blockquote class='uddanagatha'><p><a class='sc' id='8'></a>{}<br>",
   "thag7.5:8.2": "{}<br>",
   "thag7.5:8.3": "{}<br>",

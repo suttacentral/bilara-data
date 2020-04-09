@@ -122,7 +122,7 @@
   "thag16.10:29.5": "<p class='endsutta'>{}",
   "thag16.10:29.6": "{}</p>",
   "thag16.10:29.7": "<p class='endsection'>{}</p>",
-  "thag16.10:29.8": "<p class='uddana'>{}</p>",
+  "thag16.10:29.8": "<p class='uddana-intro'>{}</p>",
   "thag16.10:30.1": "<blockquote class='uddanagatha'><p><a class='sc' id='30'></a>{}<br>",
   "thag16.10:30.2": "{}<br>",
   "thag16.10:30.3": "{}<br>",

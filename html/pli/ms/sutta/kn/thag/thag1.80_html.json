@@ -10,7 +10,7 @@
   "thag1.80:1.5": "<p class='endsutta'>{}",
   "thag1.80:1.6": "{}<br>",
   "thag1.80:1.7": "{}</p>",
-  "thag1.80:1.8": "<p class='uddana'>{}</p>",
+  "thag1.80:1.8": "<p class='uddana-intro'>{}</p>",
   "thag1.80:2.1": "<blockquote class='uddanagatha'><p><a class='sc' id='2'></a>{}<br>",
   "thag1.80:2.2": "{}<br>",
   "thag1.80:2.3": "{}<br>",
