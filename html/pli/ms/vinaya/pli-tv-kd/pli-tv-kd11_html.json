@@ -1845,7 +1845,7 @@
   "pli-tv-kd11:35.1.24": "{}</p></article>",
   "pli-tv-kd11:35.1.25": "<p class='end'>{}</p>",
   "pli-tv-kd11:35.1.26": "<p class='endsutta'>{}</p>",
-  "pli-tv-kd11:35.1.27": "<section class='uddana'><p>{}</p>",
+  "pli-tv-kd11:35.1.27": "<section class='uddana'><p class='uddana-intro'>{}</p>",
   "pli-tv-kd11:35.1.28": "<blockquote class='gatha'><p>{}<br>",
   "pli-tv-kd11:35.1.29": "{}<br>",
   "pli-tv-kd11:35.1.30": "{}<br>",

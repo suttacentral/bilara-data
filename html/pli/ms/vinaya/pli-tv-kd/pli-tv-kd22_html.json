@@ -535,7 +535,7 @@
   "pli-tv-kd22:2.8.130": "{}</p>",
   "pli-tv-kd22:2.9.1": "<hr><p>{}</p>",
   "pli-tv-kd22:2.9.2": "<p class='endsutta'>{}</p>",
-  "pli-tv-kd22:2.9.3": "<section class='uddana'><p>{}</p>",
+  "pli-tv-kd22:2.9.3": "<section class='uddana'><p class='uddana-intro'>{}</p>",
   "pli-tv-kd22:2.9.4": "<blockquote class='gatha'><p>{}<br>",
   "pli-tv-kd22:2.9.5": "{}<br>",
   "pli-tv-kd22:2.9.6": "{}<br>",

@@ -49,5 +49,5 @@
   "kv21.8:4.11": "<p class='endsutta'>{}</p>",
   "kv21.8:4.12": "<p class='end'>{}</p>",
   "kv21.8:4.13": "<p class='uddana-intro'>{}</p>",
-  "kv21.8:5.1": "<p class='uddana'>{}</p></article>"
+  "kv21.8:5.1": "<p class='uddana-prose'>{}</p></article>"
 }

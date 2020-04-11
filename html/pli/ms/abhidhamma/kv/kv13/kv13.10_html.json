@@ -76,5 +76,5 @@
   "kv13.10:7.8": "<p class='endsutta'>{}</p>",
   "kv13.10:7.9": "<p class='end'>{}</p>",
   "kv13.10:7.10": "<p class='uddana-intro'>{}</p>",
-  "kv13.10:8.1": "<p class='uddana'>{}</p></article>"
+  "kv13.10:8.1": "<p class='uddana-prose'>{}</p></article>"
 }

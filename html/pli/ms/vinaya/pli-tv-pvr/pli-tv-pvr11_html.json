@@ -427,7 +427,7 @@
   "pli-tv-pvr11:67.1": "<p>{}",
   "pli-tv-pvr11:67.2": "{}</p>",
   "pli-tv-pvr11:68.1": "<p class='end'>{}</p>",
-  "pli-tv-pvr11:69.1": "<section class='uddana'><p>{}</p>",
+  "pli-tv-pvr11:69.1": "<section class='uddana'><p class='uddana-intro'>{}</p>",
   "pli-tv-pvr11:70.1": "<blockquote class='gatha'><p>{}<br>",
   "pli-tv-pvr11:70.2": "{}<br>",
   "pli-tv-pvr11:70.3": "{}<br>",

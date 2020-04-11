@@ -51,7 +51,7 @@
   "pli-tv-pvr14:13.5": "{}<br>",
   "pli-tv-pvr14:13.6": "{}</p></blockquote>",
   "pli-tv-pvr14:14.1": "<p class='end'>{}</p>",
-  "pli-tv-pvr14:15.1": "<section class='uddana'><p>{}</p>",
+  "pli-tv-pvr14:15.1": "<section class='uddana'><p class='uddana-intro'>{}</p>",
   "pli-tv-pvr14:16.1": "<blockquote class='gatha'><p>{}<br>",
   "pli-tv-pvr14:16.2": "{}<br>",
   "pli-tv-pvr14:16.3": "{}<br>",

@@ -48,8 +48,8 @@
   "kv10.11:4.8": "<p class='endsutta'>{}</p>",
   "kv10.11:4.9": "<p class='end'>{}</p>",
   "kv10.11:4.10": "<p class='uddana-intro'>{}</p>",
-  "kv10.11:5.1": "<p class='uddana'>{}</p>",
+  "kv10.11:5.1": "<p class='uddana-prose'>{}</p>",
   "kv10.11:5.2": "<p class='endsutta'>{}</p>",
   "kv10.11:5.3": "<p class='uddana-intro'>{}</p>",
-  "kv10.11:6.1": "<p class='uddana'>{}</p></article>"
+  "kv10.11:6.1": "<p class='uddana-prose'>{}</p></article>"
 }

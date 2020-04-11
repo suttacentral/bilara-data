@@ -1583,7 +1583,7 @@
   "pli-tv-kd6:40.3.5": "{}",
   "pli-tv-kd6:40.3.6": "{}</p>",
   "pli-tv-kd6:40.3.7": "<p class='endsutta'>{}</p>",
-  "pli-tv-kd6:40.3.8": "<section class='uddana'><p>{}</p>",
+  "pli-tv-kd6:40.3.8": "<section class='uddana'><p class='uddana-intro'>{}</p>",
   "pli-tv-kd6:40.3.9": "<blockquote class='gatha'><p>{}<br>",
   "pli-tv-kd6:40.3.10": "{}<br>",
   "pli-tv-kd6:40.3.11": "{}<br>",

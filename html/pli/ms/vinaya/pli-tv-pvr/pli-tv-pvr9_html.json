@@ -52,7 +52,7 @@
   "pli-tv-pvr9:6.4": "{}</p></blockquote>",
   "pli-tv-pvr9:7.1": "<p class='endsutta'>{}</p>",
   "pli-tv-pvr9:7.2": "<p class='end'>{}</p>",
-  "pli-tv-pvr9:8.1": "<section class='uddana'><p>{}</p>",
+  "pli-tv-pvr9:8.1": "<section class='uddana'><p class='uddana-intro'>{}</p>",
   "pli-tv-pvr9:9.1": "<blockquote class='gatha'><p>{}<br>",
   "pli-tv-pvr9:9.2": "{}<br>",
   "pli-tv-pvr9:9.3": "{}<br>",

@@ -1457,7 +1457,7 @@
   "pli-tv-bu-vb-pj4:9.7.22": "{}",
   "pli-tv-bu-vb-pj4:9.7.23": "{}</p></section>",
   "pli-tv-bu-vb-pj4:9.7.24": "<p class='end'>{}</p>",
-  "pli-tv-bu-vb-pj4:9.7.25": "<section class='uddana'><p>{}</p>",
+  "pli-tv-bu-vb-pj4:9.7.25": "<section class='uddana'><p class='uddana-intro'>{}</p>",
   "pli-tv-bu-vb-pj4:9.7.26": "<blockquote class='gatha'><p>{}<br>",
   "pli-tv-bu-vb-pj4:9.7.27": "{}<br>",
   "pli-tv-bu-vb-pj4:9.7.28": "{}<br>",
