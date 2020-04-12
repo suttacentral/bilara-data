@@ -303,11 +303,11 @@
   "thig16.1:78.3": "{}<br>",
   "thig16.1:78.4": "{}</p></blockquote>",
   "thig16.1:79.1": "<p><a class='sc' id='76'></a>{}</p>",
-  "thig16.1:80.1": "<p class='endsection'><a class='sc' id='77'></a>{}</p>",
-  "thig16.1:81.1": "<p class='uddana-intro'><a class='sc' id='78'></a>{}</p>",
-  "thig16.1:82.1": "<blockquote class='uddanagatha'><p><a class='sc' id='79'></a>{}<br>",
+  "thig16.1:80.1": "<p class='endsection'><a class='sc'></a>{}</p>",
+  "thig16.1:81.1": "<p class='uddana-intro'><a class='sc'></a>{}</p>",
+  "thig16.1:82.1": "<blockquote class='uddanagatha'><p><a class='sc'></a>{}<br>",
   "thig16.1:82.2": "{}<br>",
   "thig16.1:82.3": "{}<br>",
   "thig16.1:82.4": "{}</p></blockquote>",
-  "thig16.1:83.1": "<p class='endbook'><a class='sc' id='80'></a>{}</p></article>"
+  "thig16.1:83.1": "<p class='endbook'><a class='sc'></a>{}</p></article>"
 }
