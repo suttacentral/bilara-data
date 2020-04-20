@@ -1,8 +1,8 @@
 {
-  "dhp320:^0.1": "Khuddakanikāya",
-  "dhp320:^0.2": "Dhammapada",
-  "dhp320:^0.3": "Nāgavagga",
-  "dhp320:0": "Attadantavatthu",
+  "dhp320:0.1": "Khuddakanikāya",
+  "dhp320:0.2": "Dhammapada",
+  "dhp320:0.3": "Nāgavagga",
+  "dhp320:0.4": "Attadantavatthu",
   "dhp320:1": "Ahaṃ nāgova saṅgāme,",
   "dhp320:2": "cāpato patitaṃ saraṃ;",
   "dhp320:3": "Ativākyaṃ titikkhissaṃ,",

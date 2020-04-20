@@ -1,8 +1,8 @@
 {
-  "dhp360:^0.1": "Khuddakanikāya",
-  "dhp360:^0.2": "Dhammapada",
-  "dhp360:^0.3": "Bhikkhuvagga",
-  "dhp360:0": "Pañcabhikkhuvatthu",
+  "dhp360:0.1": "Khuddakanikāya",
+  "dhp360:0.2": "Dhammapada",
+  "dhp360:0.3": "Bhikkhuvagga",
+  "dhp360:0.4": "Pañcabhikkhuvatthu",
   "dhp360:1": "Cakkhunā saṃvaro sādhu,",
   "dhp360:2": "sādhu sotena saṃvaro;",
   "dhp360:3": "Ghānena saṃvaro sādhu,",

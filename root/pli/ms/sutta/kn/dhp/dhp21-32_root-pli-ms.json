@@ -1,8 +1,8 @@
 {
-  "dhp21:^0.1": "Khuddakanikāya",
-  "dhp21:^0.2": "Dhammapada",
-  "dhp21:^0.3": "Appamādavagga",
-  "dhp21:0": "Sāmāvatīvatthu",
+  "dhp21:0.1": "Khuddakanikāya",
+  "dhp21:0.2": "Dhammapada",
+  "dhp21:0.3": "Appamādavagga",
+  "dhp21:0.4": "Sāmāvatīvatthu",
   "dhp21:1": "Appamādo amatapadaṃ,",
   "dhp21:2": "pamādo maccuno padaṃ;",
   "dhp21:3": "Appamattā na mīyanti,",
