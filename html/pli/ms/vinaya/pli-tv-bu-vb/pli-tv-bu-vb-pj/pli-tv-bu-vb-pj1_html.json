@@ -4,7 +4,7 @@
   "pli-tv-bu-vb-pj1:0.3": "<li class='kanda'>{}</li></ul>",
   "pli-tv-bu-vb-pj1:0.4": "<h1 class='sutta-title'>{}</h1></header>",
   "pli-tv-bu-vb-pj1:0.5": "<section class='nidana'><h2>{}</h2>",
-  "pli-tv-bu-vb-pj1:0.6": "<p class='namo'>{}</p>",
+  "pli-tv-bu-vb-pj1:1.1.0": "<p class='namo'>{}</p>",
   "pli-tv-bu-vb-pj1:1.1.1^a": "<h2>{}</h2>",
   "pli-tv-bu-vb-pj1:1.1.1": "<article class='suttanta'><p>{}",
   "pli-tv-bu-vb-pj1:1.1.2": "{}</p>",
