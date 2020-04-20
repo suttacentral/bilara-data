@@ -1,8 +1,8 @@
 {
-  "dhp179:^0.1": "Khuddakanikāya",
-  "dhp179:^0.2": "Dhammapada",
-  "dhp179:^0.3": "Buddhavagga",
-  "dhp179:0": "Māradhītaravatthu",
+  "dhp179:0.1": "Khuddakanikāya",
+  "dhp179:0.2": "Dhammapada",
+  "dhp179:0.3": "Buddhavagga",
+  "dhp179:0.4": "Māradhītaravatthu",
   "dhp179:1": "Yassa jitaṃ nāvajīyati,",
   "dhp179:2": "Jitaṃ yassa noyāti koci loke;",
   "dhp179:3": "Taṃ buddhamanantagocaraṃ,",

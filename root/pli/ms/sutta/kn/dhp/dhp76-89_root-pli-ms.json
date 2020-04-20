@@ -1,8 +1,8 @@
 {
-  "dhp76:^0.1": "Khuddakanikāya",
-  "dhp76:^0.2": "Dhammapada",
-  "dhp76:^0.3": "Paṇḍitavagga",
-  "dhp76:0": "Rādhattheravatthu",
+  "dhp76:0.1": "Khuddakanikāya",
+  "dhp76:0.2": "Dhammapada",
+  "dhp76:0.3": "Paṇḍitavagga",
+  "dhp76:0.4": "Rādhattheravatthu",
   "dhp76:1": "Nidhīnaṃva pavattāraṃ,",
   "dhp76:2": "yaṃ passe vajjadassinaṃ;",
   "dhp76:3": "Niggayhavādiṃ medhāviṃ,",

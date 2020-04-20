@@ -1,8 +1,8 @@
 {
-  "dhp100:^0.1": "Khuddakanikāya",
-  "dhp100:^0.2": "Dhammapada",
-  "dhp100:^0.3": "Sahassavagga",
-  "dhp100:0": "Tambadāṭhikacoraghātakavatthu",
+  "dhp100:0.1": "Khuddakanikāya",
+  "dhp100:0.2": "Dhammapada",
+  "dhp100:0.3": "Sahassavagga",
+  "dhp100:0.4": "Tambadāṭhikacoraghātakavatthu",
   "dhp100:1": "Sahassamapi ce vācā,",
   "dhp100:2": "anatthapadasaṃhitā;",
   "dhp100:3": "Ekaṃ atthapadaṃ seyyo,",

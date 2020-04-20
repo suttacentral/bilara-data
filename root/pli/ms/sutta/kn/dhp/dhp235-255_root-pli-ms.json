@@ -1,8 +1,8 @@
 {
-  "dhp235:^0.1": "Khuddakanikāya",
-  "dhp235:^0.2": "Dhammapada",
-  "dhp235:^0.3": "Malavagga",
-  "dhp235:0": "Goghātakaputtavatthu",
+  "dhp235:0.1": "Khuddakanikāya",
+  "dhp235:0.2": "Dhammapada",
+  "dhp235:0.3": "Malavagga",
+  "dhp235:0.4": "Goghātakaputtavatthu",
   "dhp235:1": "Paṇḍupalāsova dānisi,",
   "dhp235:2": "Yamapurisāpi ca te upaṭṭhitā;",
   "dhp235:3": "Uyyogamukhe ca tiṭṭhasi,",

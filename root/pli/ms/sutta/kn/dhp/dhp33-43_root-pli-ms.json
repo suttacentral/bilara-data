@@ -1,8 +1,8 @@
 {
-  "dhp33:^0.1": "Khuddakanikāya",
-  "dhp33:^0.2": "Dhammapada",
-  "dhp33:^0.3": "Cittavagga",
-  "dhp33:0": "Meghiyattheravatthu",
+  "dhp33:0.1": "Khuddakanikāya",
+  "dhp33:0.2": "Dhammapada",
+  "dhp33:0.3": "Cittavagga",
+  "dhp33:0.4": "Meghiyattheravatthu",
   "dhp33:1": "Phandanaṃ capalaṃ cittaṃ,",
   "dhp33:2": "dūrakkhaṃ dunnivārayaṃ;",
   "dhp33:3": "Ujuṃ karoti medhāvī,",

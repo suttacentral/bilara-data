@@ -1,8 +1,8 @@
 {
-  "dhp1:^0.1": "Khuddakanikāya",
-  "dhp1:^0.2": "Dhammapada",
-  "dhp1:^0.3": "Yamakavagga",
-  "dhp1:0": "Cakkhupālattheravatthu",
+  "dhp1:0.1": "Khuddakanikāya",
+  "dhp1:0.2": "Dhammapada",
+  "dhp1:0.3": "Yamakavagga",
+  "dhp1:0.4": "Cakkhupālattheravatthu",
   "dhp1:1": "Manopubbaṅgamā dhammā,",
   "dhp1:2": "manoseṭṭhā manomayā;",
   "dhp1:3": "Manasā ce paduṭṭhena,",
