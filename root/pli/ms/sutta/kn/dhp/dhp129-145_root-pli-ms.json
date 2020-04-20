@@ -1,8 +1,8 @@
 {
-  "dhp129:^0.1": "Khuddakanikāya",
-  "dhp129:^0.2": "Dhammapada",
-  "dhp129:^0.3": "Daṇḍavagga",
-  "dhp129:0": "Chabbaggiyabhikkhuvatthu",
+  "dhp129:0.1": "Khuddakanikāya",
+  "dhp129:0.2": "Dhammapada",
+  "dhp129:0.3": "Daṇḍavagga",
+  "dhp129:0.4": "Chabbaggiyabhikkhuvatthu",
   "dhp129:1": "Sabbe tasanti daṇḍassa,",
   "dhp129:2": "sabbe bhāyanti maccuno;",
   "dhp129:3": "Attānaṃ upamaṃ katvā,",

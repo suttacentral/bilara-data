@@ -1,8 +1,8 @@
 {
-  "dhp209:^0.1": "Khuddakanikāya",
-  "dhp209:^0.2": "Dhammapada",
-  "dhp209:^0.3": "Piyavagga",
-  "dhp209:0": "Tayojanapabbajitavatthu",
+  "dhp209:0.1": "Khuddakanikāya",
+  "dhp209:0.2": "Dhammapada",
+  "dhp209:0.3": "Piyavagga",
+  "dhp209:0.4": "Tayojanapabbajitavatthu",
   "dhp209:1": "Ayoge yuñjamattānaṃ,",
   "dhp209:2": "yogasmiñca ayojayaṃ;",
   "dhp209:3": "Atthaṃ hitvā piyaggāhī,",

@@ -1,8 +1,8 @@
 {
-  "dhp167:^0.1": "Khuddakanikāya",
-  "dhp167:^0.2": "Dhammapada",
-  "dhp167:^0.3": "Lokavagga",
-  "dhp167:0": "Daharabhikkhuvatthu",
+  "dhp167:0.1": "Khuddakanikāya",
+  "dhp167:0.2": "Dhammapada",
+  "dhp167:0.3": "Lokavagga",
+  "dhp167:0.4": "Daharabhikkhuvatthu",
   "dhp167:1": "Hīnaṃ dhammaṃ na seveyya,",
   "dhp167:2": "pamādena na saṃvase;",
   "dhp167:3": "Micchādiṭṭhiṃ na seveyya,",

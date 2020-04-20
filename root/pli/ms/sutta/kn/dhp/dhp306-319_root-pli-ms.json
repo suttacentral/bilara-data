@@ -1,8 +1,8 @@
 {
-  "dhp306:^0.1": "Khuddakanikāya",
-  "dhp306:^0.2": "Dhammapada",
-  "dhp306:^0.3": "Nirayavagga",
-  "dhp306:0": "Sundarīparibbājikāvatthu",
+  "dhp306:0.1": "Khuddakanikāya",
+  "dhp306:0.2": "Dhammapada",
+  "dhp306:0.3": "Nirayavagga",
+  "dhp306:0.4": "Sundarīparibbājikāvatthu",
   "dhp306:1": "Abhūtavādī nirayaṃ upeti,",
   "dhp306:2": "Yo vāpi katvā na karomi cāha;",
   "dhp306:3": "Ubhopi te pecca samā bhavanti,",

@@ -1,8 +1,8 @@
 {
-  "dhp256:^0.1": "Khuddakanikāya",
-  "dhp256:^0.2": "Dhammapada",
-  "dhp256:^0.3": "Dhammaṭṭhavagga",
-  "dhp256:0": "Vinicchayamahāmattavatthu",
+  "dhp256:0.1": "Khuddakanikāya",
+  "dhp256:0.2": "Dhammapada",
+  "dhp256:0.3": "Dhammaṭṭhavagga",
+  "dhp256:0.4": "Vinicchayamahāmattavatthu",
   "dhp256:1": "Na tena hoti dhammaṭṭho,",
   "dhp256:2": "yenatthaṃ sāhasā naye;",
   "dhp256:3": "Yo ca atthaṃ anatthañca,",

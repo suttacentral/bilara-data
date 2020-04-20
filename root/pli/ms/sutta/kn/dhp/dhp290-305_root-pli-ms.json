@@ -1,8 +1,8 @@
 {
-  "dhp290:^0.1": "Khuddakanikāya",
-  "dhp290:^0.2": "Dhammapada",
-  "dhp290:^0.3": "Pakiṇṇakavagga",
-  "dhp290:0": "Attanopubbakammavatthu",
+  "dhp290:0.1": "Khuddakanikāya",
+  "dhp290:0.2": "Dhammapada",
+  "dhp290:0.3": "Pakiṇṇakavagga",
+  "dhp290:0.4": "Attanopubbakammavatthu",
   "dhp290:1": "Mattāsukhapariccāgā,",
   "dhp290:2": "passe ce vipulaṃ sukhaṃ;",
   "dhp290:3": "Caje mattāsukhaṃ dhīro,",

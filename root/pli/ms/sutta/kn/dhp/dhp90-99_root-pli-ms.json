@@ -1,8 +1,8 @@
 {
-  "dhp90:^0.1": "Khuddakanikāya",
-  "dhp90:^0.2": "Dhammapada",
-  "dhp90:^0.3": "Arahantavagga",
-  "dhp90:0": "Jīvakapañhavatthu",
+  "dhp90:0.1": "Khuddakanikāya",
+  "dhp90:0.2": "Dhammapada",
+  "dhp90:0.3": "Arahantavagga",
+  "dhp90:0.4": "Jīvakapañhavatthu",
   "dhp90:1": "Gataddhino visokassa,",
   "dhp90:2": "vippamuttassa sabbadhi;",
   "dhp90:3": "Sabbaganthappahīnassa,",
