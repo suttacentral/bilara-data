@@ -1,7 +1,7 @@
 {
-  "ps1.10:0.1": "<article id='ps1.10'><header><ul><li class='division'>{}</li>",
-  "ps1.10:0.2": "<li>{}</li></ul>",
-  "ps1.10:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+  "ps1.10:0.1": "<header><p class='division'>{}</p>",
+  "ps1.10:0.2": "<p>{}</p>",
+  "ps1.10:0.3": "<h1>{}</h1></header>",
   "ps1.10:1.1": "<p>{}",
   "ps1.10:1.2": "{}",
   "ps1.10:1.3": "{}</p>",
@@ -198,13 +198,13 @@
   "ps1.10:16.4": "{}",
   "ps1.10:16.5": "{}</p>",
   "ps1.10:17.1": "<p>{}</p>",
-  "ps1.10:17.2": "<p class='endsutta'>{}</p>",
-  "ps1.10:17.3": "<p class='end'>{}</p>",
+  "ps1.10:17.2": "<p class='endsutta'>{}<br>",
+  "ps1.10:17.3": "{}</p>",
   "ps1.10:17.4": "<p class='endsection'>{}</p>",
   "ps1.10:17.5": "<p class='uddana-intro'>{}</p>",
   "ps1.10:18.1": "<blockquote class='uddanagatha'><p>{}<br>",
   "ps1.10:18.2": "{}<br>",
   "ps1.10:18.3": "{}<br>",
   "ps1.10:18.4": "{}</p></blockquote>",
-  "ps1.10:18.5": "<p class='endsutta'>{}</p></article>"
+  "ps1.10:18.5": "<p class='endsutta'>{}</p>"
 }

@@ -1,7 +1,7 @@
 {
-  "tha-ap415:0.1": "<article id='tha-ap415'><header><ul><li class='division'>{}</li>",
-  "tha-ap415:0.2": "<li>{}</li></ul>",
-  "tha-ap415:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+  "tha-ap415:0.1": "<header><p class='division'>{}</p>",
+  "tha-ap415:0.2": "<p>{}</p>",
+  "tha-ap415:0.3": "<h1>{}</h1></header>",
   "tha-ap415:1.1": "<blockquote class='gatha'><p>{}<br>",
   "tha-ap415:1.2": "{}<br>",
   "tha-ap415:1.3": "{}<br>",
@@ -79,7 +79,7 @@
   "tha-ap415:19.3": "{}<br>",
   "tha-ap415:19.4": "{}</p></blockquote>",
   "tha-ap415:20.1": "<p class='endsutta'>{}</p>",
-  "tha-ap415:21.1": "<blockquote class='uddanagatha'><p>{}<br>",
+  "tha-ap415:21.1": "<blockquote class='gatha'><p>{}<br>",
   "tha-ap415:21.2": "{}<br>",
   "tha-ap415:21.3": "{}<br>",
   "tha-ap415:21.4": "{}</p>",
@@ -109,5 +109,5 @@
   "tha-ap415:28.2": "{}<br>",
   "tha-ap415:28.3": "{}</p></blockquote>",
   "tha-ap415:29.1": "<p>{}</p>",
-  "tha-ap415:30.1": "<p class='endsutta'>{}</p></article>"
+  "tha-ap415:30.1": "<p class='endsutta'>{}</p>"
 }

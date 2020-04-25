@@ -1,8 +1,8 @@
 {
-  "kv13.10:0.1": "<article id='kv13.10'><header><ul><li class='division'>{}</li>",
-  "kv13.10:0.2": "<li>{}</li>",
-  "kv13.10:0.3": "<li>{}</li></ul>",
-  "kv13.10:0.4": "<h1 class='sutta-title'>{}</h1></header>",
+  "kv13.10:0.1": "<header><p class='division'>{}</p>",
+  "kv13.10:0.2": "<p>{}</p>",
+  "kv13.10:0.3": "<p>{}</p>",
+  "kv13.10:0.4": "<h1>{}</h1></header>",
   "kv13.10:1.1": "<p>{}",
   "kv13.10:1.2": "{}",
   "kv13.10:1.3": "{}",
@@ -73,8 +73,8 @@
   "kv13.10:7.5": "{}",
   "kv13.10:7.6": "{}",
   "kv13.10:7.7": "{}</p>",
-  "kv13.10:7.8": "<p class='endsutta'>{}</p>",
-  "kv13.10:7.9": "<p class='end'>{}</p>",
+  "kv13.10:7.8": "<p class='endsutta'>{}<br>",
+  "kv13.10:7.9": "{}</p>",
   "kv13.10:7.10": "<p class='uddana-intro'>{}</p>",
-  "kv13.10:8.1": "<p class='uddana-prose'>{}</p></article>"
+  "kv13.10:8.1": "<p class='uddana'>{}</p>"
 }
