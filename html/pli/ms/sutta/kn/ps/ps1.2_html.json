@@ -1,7 +1,7 @@
 {
-  "ps1.2:0.1": "<article id='ps1.2'><header><ul><li class='division'>{}</li>",
-  "ps1.2:0.2": "<li>{}</li></ul>",
-  "ps1.2:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+  "ps1.2:0.1": "<header><p class='division'>{}</p>",
+  "ps1.2:0.2": "<p>{}</p>",
+  "ps1.2:0.3": "<h1>{}</h1></header>",
   "ps1.2:1.1": "<p>{}</p>",
   "ps1.2:2.1": "<p>{}</p>",
   "ps1.2:3.1": "<p>{}</p>",
@@ -1672,6 +1672,6 @@
   "ps1.2:128.1": "<p>{}",
   "ps1.2:128.2": "{}",
   "ps1.2:128.3": "{}</p>",
-  "ps1.2:128.4": "<p class='endsutta'>{}</p>",
-  "ps1.2:128.5": "<p class='end'>{}</p></article>"
+  "ps1.2:128.4": "<p class='endsutta'>{}<br>",
+  "ps1.2:128.5": "{}</p>"
 }
