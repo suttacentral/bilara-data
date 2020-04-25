@@ -1,7 +1,7 @@
 {
-  "pv3:0.1": "<article id='pv3'><header><ul><li class='division'>{}</li>",
-  "pv3:0.2": "<li>{}</li></ul>",
-  "pv3:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+  "pv3:0.1": "<header><p class='division'>{}</p>",
+  "pv3:0.2": "<p>{}</p>",
+  "pv3:0.3": "<h1>{}</h1></header>",
   "pv3:1.1": "<blockquote class='gatha'><p>{}<br>",
   "pv3:1.2": "{}<br>",
   "pv3:1.3": "{}<br>",
@@ -14,5 +14,5 @@
   "pv3:3.2": "{}<br>",
   "pv3:3.3": "{}<br>",
   "pv3:3.4": "{}</p></blockquote>",
-  "pv3:4.1": "<p class='endsutta'>{}</p></article>"
+  "pv3:4.1": "<p class='endsutta'>{}</p>"
 }
