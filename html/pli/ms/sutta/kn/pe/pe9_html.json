@@ -1,6 +1,6 @@
 {
-  "pe9:0.1": "<article id='pe9'><header><ul><li class='division'>{}</li></ul>",
-  "pe9:0.2": "<h1 class='sutta-title'>{}</h1></header>",
+  "pe9:0.1": "<header><p class='division'>{}</p>",
+  "pe9:0.2": "<h1>{}</h1></header>",
   "pe9:1.1": "<p>{}",
   "pe9:1.2": "{}",
   "pe9:1.3": "{}",
@@ -256,10 +256,10 @@
   "pe9:62.2": "{}<br>",
   "pe9:62.3": "{}<br>",
   "pe9:62.4": "{}</p></blockquote>",
-  "pe9:63.1": "<p class='endsutta'>{}</p>",
-  "pe9:63.2": "<p class='end'>{}",
+  "pe9:63.1": "<p class='endsutta'>{}<br>",
+  "pe9:63.2": "{}<br>",
   "pe9:63.3": "{}</p>",
-  "pe9:64.1": "<p class='uddana-prose'>{}",
+  "pe9:64.1": "<p>{}",
   "pe9:64.2": "{}",
   "pe9:64.3": "{}",
   "pe9:64.4": "{}",
@@ -267,5 +267,5 @@
   "pe9:64.6": "{}",
   "pe9:64.7": "{}</p>",
   "pe9:65.1": "<p class='endsutta'>{}</p>",
-  "pe9:66.1": "<p class='endbook'>{}</p></article>"
+  "pe9:66.1": "<p class='endbook'>{}</p>"
 }
