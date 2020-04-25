@@ -1,7 +1,7 @@
 {
-  "tha-ap3:0.1": "<article id='tha-ap3'><header><ul><li class='division'>{}</li>",
-  "tha-ap3:0.2": "<li>{}</li></ul>",
-  "tha-ap3:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+  "tha-ap3:0.1": "<header><p class='division'>{}</p>",
+  "tha-ap3:0.2": "<p>{}</p>",
+  "tha-ap3:0.3": "<h1>{}</h1></header>",
   "tha-ap3:1.1": "<p>{}</p>",
   "tha-ap3:2.1": "<blockquote class='gatha'><p>{}<br>",
   "tha-ap3:2.2": "{}<br>",
@@ -540,7 +540,7 @@
   "tha-ap3:135.3": "{}<br>",
   "tha-ap3:135.4": "{}</p></blockquote>",
   "tha-ap3:136.1": "<p class='endsutta'>{}</p>",
-  "tha-ap3:137.1": "<blockquote class='uddanagatha'><p>{}<br>",
+  "tha-ap3:137.1": "<blockquote class='gatha'><p>{}<br>",
   "tha-ap3:137.2": "{}<br>",
   "tha-ap3:137.3": "{}<br>",
   "tha-ap3:137.4": "{}</p>",
@@ -941,5 +941,5 @@
   "tha-ap3:236.3": "{}<br>",
   "tha-ap3:236.4": "{}</p></blockquote>",
   "tha-ap3:237.1": "<p>{}</p>",
-  "tha-ap3:238.1": "<p class='endsutta'>{}</p></article>"
+  "tha-ap3:238.1": "<p class='endsutta'>{}</p>"
 }
