@@ -1,5 +1,5 @@
 {
-  "cnd1:2.2": "maḷakassa → aḷakassa (snp5.1:904 [Vatthugāthā]); mūlakassa (bj); muḷakassa (sya-all, pts-vp-pli1); mūḷhakassa (mr) | samāsane → samāsanne (mr)",
+  "cnd1:2.2": "maḷakassa → aḷakassa (^snp5.1#904 [Vatthugāthā]); mūlakassa (bj); muḷakassa (sya-all, pts-vp-pli1); mūḷhakassa (mr) | samāsane → samāsanne (mr)",
   "cnd1:3.1": "Tasseva → taṃyeva (mr)",
   "cnd1:4.3": "paṭipaviṭṭhamhi → patipaviṭṭhamhi (bj, pts-vp-pli1)",
   "cnd1:5.1": "tasito → tassito (mr)",
@@ -18,8 +18,8 @@
   "cnd1:36.2": "puramāhissatiṃ → purimaṃ māhissatiṃ (bj, sya-all, pts-vp-pli1); puramāhiyati (mr) | tadā → tathā (bj); sadā (mr)",
   "cnd1:40.1": "tamhi → tasmiṃ (bj); ca tamhi (sya-all, pts-vp-pli1)",
   "cnd1:20.6": "buddhaṃ → sambuddhaṃ (bj, sya-all, pts-vp-pli1)",
-  "cnd1:41.2": "Pītaraṃsiṃva → sataraṃsiṃva (bj snp5.1:943 [Vatthugāthā]); vītaraṃsiṃva (sya-all); vītaraṃsiva (pts-vp-pli1); jitaraṃsiṃ sītaraṃsiṃ (mr) | bhāṇumaṃ → bhānumaṃ (bj)",
-  "cnd1:41.4": "Paripūraṃ upāgataṃ → pāripūrimupāgataṃ (bj); paripūriṃ upāgataṃ (sya-all, pts-vp-pli1 snp5.1:943 [Vatthugāthā])",
-  "cnd1:46.3": "Taṇhacchida → kaṅkhacchida (mr snp5.1:948 [Vatthugāthā])",
-  "cnd1:52.2": "santhambhetvāna → santhambhitvāna (bj, sya-all, pts-vp-pli1 snp5.1:954 [Vatthugāthā])"
+  "cnd1:41.2": "Pītaraṃsiṃva → sataraṃsiṃva (bj ^snp5.1#943 [Vatthugāthā]); vītaraṃsiṃva (sya-all); vītaraṃsiva (pts-vp-pli1); jitaraṃsiṃ sītaraṃsiṃ (mr) | bhāṇumaṃ → bhānumaṃ (bj)",
+  "cnd1:41.4": "Paripūraṃ upāgataṃ → pāripūrimupāgataṃ (bj); paripūriṃ upāgataṃ (sya-all, pts-vp-pli1 ^snp5.1#943 [Vatthugāthā])",
+  "cnd1:46.3": "Taṇhacchida → kaṅkhacchida (mr ^snp5.1#948 [Vatthugāthā])",
+  "cnd1:52.2": "santhambhetvāna → santhambhitvāna (bj, sya-all, pts-vp-pli1 ^snp5.1#954 [Vatthugāthā])"
 }
