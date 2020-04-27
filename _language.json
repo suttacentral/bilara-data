@@ -18,5 +18,10 @@
     "type": "language",
     "name": "Português",
     "is_root": false
+  },
+  "jpn": {
+    "type": "language",
+    "name": "日本語",
+    "is_root": false
   }
 }
