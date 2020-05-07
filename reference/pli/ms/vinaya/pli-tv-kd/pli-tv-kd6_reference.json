@@ -208,7 +208,6 @@
   "pli-tv-kd6:28.8.1": "sc101, pts-vp-pli1.229, ms3V_1298",
   "pli-tv-kd6:28.8.3": "pts-vp-pli1.229, pts-cs28.8",
   "pli-tv-kd6:28.9.1": "sc102, pts-cs28.9, ms3V_1299",
-  "pli-tv-kd6:28.9.2": "pts-cs28.9, ms3V_1299",
   "pli-tv-kd6:28.10.1": "pts-cs28.10",
   "pli-tv-kd6:28.11.1": "sc103, pts-cs28.11, ms3V_1300",
   "pli-tv-kd6:28.11.5": "sc104, ms3V_1301",

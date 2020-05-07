@@ -264,7 +264,7 @@
   "pli-tv-kd13:29.2.6": "sc205, ms4V_702",
   "pli-tv-kd13:29.2.11": "sc206, pts-vp-en5.84, ms4V_703",
   "pli-tv-kd13:29.2.16": "sc207, ms4V_704",
-  "pli-tv-kd13:29.3.1": "sc208, pts-vp-pli2.64, ms4V_702, pts-cs29.3, ms4V_705",
+  "pli-tv-kd13:29.3.1": "sc208, pts-vp-pli2.64, pts-cs29.3, ms4V_705",
   "pli-tv-kd13:29.3.4": "pts-vp-pli2.64",
   "pli-tv-kd13:29.3.8": "sc209, ms4V_706",
   "pli-tv-kd13:29.3.15": "sc210, ms4V_707",
