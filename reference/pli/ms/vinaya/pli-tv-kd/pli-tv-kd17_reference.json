@@ -202,10 +202,10 @@
   "pli-tv-kd17:5.6.1": "sc155, pts-vp-pli2.206, pts-cs5.6, ms4V_1646, pts-vp-pli2.206",
   "pli-tv-kd17:5.6.6": "sc156, ms4V_1647",
   "pli-tv-kd17:5.6.11": "sc157, ms4V_1648",
-  "pli-tv-kd17:5.6.13": "sc158, pts-vp-en5.290, ms4V_1649-1653",
-  "pli-tv-kd17:5.6.14": "sc159",
-  "pli-tv-kd17:5.6.18": "sc160",
-  "pli-tv-kd17:5.6.22": "sc161",
-  "pli-tv-kd17:5.6.26": "sc162",
+  "pli-tv-kd17:5.6.13": "sc158, pts-vp-en5.290, ms4V_1649",
+  "pli-tv-kd17:5.6.14": "sc159, ms4V_1650",
+  "pli-tv-kd17:5.6.18": "sc160, ms4V_1651",
+  "pli-tv-kd17:5.6.22": "sc161, ms4V_1652",
+  "pli-tv-kd17:5.6.26": "sc162, ms4V_1653",
   "pli-tv-kd17:5.6.32": "sc163, ms4V_1654"
 }

@@ -353,11 +353,11 @@
   "pli-tv-kd13:36.4.1": "sc278, pts-cs36.4, ms4V_775",
   "pli-tv-kd13:36.4.24": "sc279, ms4V_776",
   "pli-tv-kd13:36.4.47": "sc280, ms4V_777",
-  "pli-tv-kd13:36.4.49": "sc281, pts-vp-en5.95, ms4V_778-783",
-  "pli-tv-kd13:36.4.50": "sc282",
-  "pli-tv-kd13:36.4.54": "sc283",
-  "pli-tv-kd13:36.4.58": "sc284",
-  "pli-tv-kd13:36.4.61": "sc285",
-  "pli-tv-kd13:36.4.65": "sc286",
+  "pli-tv-kd13:36.4.49": "sc281, pts-vp-en5.95, ms4V_778",
+  "pli-tv-kd13:36.4.50": "sc282, ms4V_779",
+  "pli-tv-kd13:36.4.54": "sc283, ms4V_780",
+  "pli-tv-kd13:36.4.58": "sc284, ms4V_781",
+  "pli-tv-kd13:36.4.61": "sc285, ms4V_782",
+  "pli-tv-kd13:36.4.65": "sc286, ms4V_783",
   "pli-tv-kd13:36.4.69": "sc287, ms4V_784"
 }
