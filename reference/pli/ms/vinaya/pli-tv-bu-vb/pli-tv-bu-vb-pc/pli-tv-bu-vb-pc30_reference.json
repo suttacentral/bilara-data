@@ -1,7 +1,7 @@
 {
   "pli-tv-bu-vb-pc30:1.1": "sc1, pts-cs1, pts-vp-en.2.300, ms2V_648",
   "pli-tv-bu-vb-pc30:1.5": "sc2, ms2V_649",
-  "pli-tv-bu-vb-pc30:1.13": "sc3, ms2V_650",
+  "pli-tv-bu-vb-pc30:1.13.1": "sc3, ms2V_650",
   "pli-tv-bu-vb-pc30:2.1.1": "sc4, pts-cs2.1, ms2V_651",
   "pli-tv-bu-vb-pc30:2.1.5": "sc5, ms2V_652",
   "pli-tv-bu-vb-pc30:2.1.7": "sc6, pts-vp-en.2.301, ms2V_653",
