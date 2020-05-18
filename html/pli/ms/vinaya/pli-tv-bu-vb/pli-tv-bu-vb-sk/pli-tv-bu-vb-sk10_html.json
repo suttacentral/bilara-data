@@ -7,6 +7,7 @@
   "pli-tv-bu-vb-sk10:1.1^a": "<section class='vinaya-nidana'><h2>{}</h2>",
   "pli-tv-bu-vb-sk10:1.1": "<p>{}",
   "pli-tv-bu-vb-sk10:1.2": "{}</p>",
+  "pli-tv-bu-vb-sk10:1.3^a": "<section class='patimokkha'><h2>{}</h2>",
   "pli-tv-bu-vb-sk10:1.3": "<p class='rule'>{}</p>",
   "pli-tv-bu-vb-sk10:1.4": "<p>{}",
   "pli-tv-bu-vb-sk10:1.5": "{}</p></section>",

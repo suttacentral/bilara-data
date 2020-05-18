@@ -16,7 +16,12 @@
   "pli-tv-bu-vb-sk60:1.7": "{}</p></section>",
   "pli-tv-bu-vb-sk60:1.8^a": "<section class='vinaya-anapatti'><h2>{}</h2>",
   "pli-tv-bu-vb-sk60:1.8": "<p>{}",
-  "pli-tv-bu-vb-sk60:1.9": "{}",
+  "pli-tv-bu-vb-sk60:1.9": "{} ",
+  "pli-tv-bu-vb-sk60:1.9a": "{} ",
+  "pli-tv-bu-vb-sk60:1.9b": "{} ",
+  "pli-tv-bu-vb-sk60:1.9c": "{} ",
+  "pli-tv-bu-vb-sk60:1.9d": "{} ",
+  "pli-tv-bu-vb-sk60:1.9e": "{} ",  
   "pli-tv-bu-vb-sk60:1.10": "{}</p></section>",
   "pli-tv-bu-vb-sk60:1.11": "<p class='endsutta'>{}</p>",
   "pli-tv-bu-vb-sk60:1.12": "<p class='endvagga'>{}</p></article>"
