@@ -1,6 +1,8 @@
 {
   "scpub1": {
     "publication_number": "scpub1",
+    "root_lang": "pli",
+    "translation_lang": "en",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/sutta/kn/thag",
     "author_uid": "sujato-walton",
     "collaborator": [
@@ -51,6 +53,8 @@
   },
   "scpub2": {
     "publication_number": "scpub2",
+    "root_lang": "pli",
+    "translation_lang": "en",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/sutta/dn",
     "author_uid": "sujato",
     "author_name": "Bhikkhu Sujato",
@@ -80,6 +84,8 @@
   },
   "scpub3": {
     "publication_number": "scpub3",
+    "root_lang": "pli",
+    "translation_lang": "en",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/sutta/mn",
     "author_uid": "sujato",
     "author_name": "Bhikkhu Sujato",
@@ -121,6 +127,8 @@
   },
   "scpub4": {
     "publication_number": "scpub4",
+    "root_lang": "pli",
+    "translation_lang": "en",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/sutta/sn",
     "author_uid": "sujato",
     "author_name": "Bhikkhu Sujato",
@@ -150,6 +158,8 @@
   },
   "scpub5": {
     "publication_number": "scpub5",
+    "root_lang": "pli",
+    "translation_lang": "en",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/sutta/an",
     "author_uid": "sujato",
     "author_name": "Bhikkhu Sujato",
@@ -179,6 +189,8 @@
   },
   "scpub6": {
     "publication_number": "scpub6",
+    "root_lang": "pli",
+    "translation_lang": "en",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/sutta/kn/thig",
     "author_uid": "sujato-walton",
     "collaborator": [
@@ -218,6 +230,8 @@
   },
   "scpub7": {
     "publication_number": "scpub7",
+    "root_lang": "pli",
+    "translation_lang": "en",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/sutta/kn/dhp",
     "author_uid": "sujato",
     "author_name": "Bhikkhu Sujato",
@@ -239,6 +253,8 @@
   },
   "scpub8": {
     "publication_number": "scpub8",
+    "root_lang": "pli",
+    "translation_lang": "en",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/brahmali/vinaya",
     "author_uid": "brahmali",
     "author_name": "Bhikkhu Brahmali",
@@ -323,6 +339,8 @@
   },
   "scpub10": {
     "publication_number": "scpub10",
+    "root_lang": "pli",
+    "translation_lang": "de",
     "source_url": "https://github.com/sc-voice/bilara-data/blob/master/translation/de/sabbamitta/sutta/sn",
     "author_uid": "sabbamitta",
     "author_name": "Anagarika Sabbamitta",
@@ -352,6 +370,8 @@
   },
   "scpub11": {
     "publication_number": "scpub11",
+    "root_lang": "pli",
+    "translation_lang": "de",
     "source_url": "https://github.com/sc-voice/bilara-data/tree/master/translation/de/sabbamitta/sutta/an",
     "author_uid": "sabbamitta",
     "author_name": "Anagarika Sabbamitta",
@@ -381,6 +401,8 @@
   },
   "scpub12": {
     "publication_number": "scpub12",
+    "root_lang": "pli",
+    "translation_lang": "de",
     "source_url": "https://github.com/sc-voice/bilara-data/tree/master/translation/de/sabbamitta/sutta/dn",
     "author_uid": "sabbamitta",
     "author_name": "Anagarika Sabbamitta",
@@ -410,6 +432,8 @@
   },
   "scpub13": {
     "publication_number": "scpub13",
+    "root_lang": "pli",
+    "translation_lang": "ru",
     "source_url": "",
     "author_uid": "ru-team",
     "collaborator": [
@@ -435,6 +459,58 @@
       "abbreviation": "CC0",
       "url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translators respectfully request that any use be in accordance with the values and principles of the Buddhist community."
+    }
+  },
+  "scpub14": {
+    "publication_number": "scpub14",
+    "root_lang": "pli",
+    "translation_lang": "jpn",
+    "source_url": "",
+    "author_uid": "kaz",
+    "author_name": "Anagarika Sabbamitta",
+    "author_github_handle": "kaz-kaz",
+    "text_uid": "an",
+    "text_title": "",
+    "text_subtitle": "",
+    "text_description": "",
+    "is_published": "false",
+    "publication_status": "",
+    "license": {
+      "type": "Creative Commons Zero",
+      "abbreviation": "CC0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    }
+  },
+  "scpub15": {
+    "publication_number": "scpub15",
+    "root_lang": "pli",
+    "translation_lang": "pt",
+    "source_url": "",
+    "author_uid": "pt-team",
+    "collaborator": [
+      {
+        "collaborator_uid": "gnlaera",
+        "author_name": "Gabriel Laera",
+        "author_github_handle": "gnlaera"
+      },
+      {
+        "collaborator_uid": "marcoquaresma",
+        "author_name": "Marco Quaresma",
+        "author_github_handle": "marcoquaresma"
+      }
+    ],
+    "text_uid": "an",
+    "text_title": "",
+    "text_subtitle": "",
+    "text_description": "",
+    "is_published": "false",
+    "publication_status": "",
+    "license": {
+      "type": "Creative Commons Zero",
+      "abbreviation": "CC0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
     }
   }
 }
