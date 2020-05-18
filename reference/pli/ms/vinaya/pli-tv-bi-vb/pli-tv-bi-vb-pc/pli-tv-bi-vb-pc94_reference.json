@@ -1,6 +1,6 @@
 {
   "pli-tv-bi-vb-pc94:1.1": "sc1, pts-cs1, pts-vp-en3.413, ms2V_3501",
-  "pli-tv-bi-vb-pc94:1.11": "sc2, ms2V_3502",
+  "pli-tv-bi-vb-pc94:1.11.1": "sc2, ms2V_3502",
   "pli-tv-bi-vb-pc94:2.1.1": "sc3, pts-cs2.1, ms2V_3503",
   "pli-tv-bi-vb-pc94:2.1.5": "sc4, ms2V_3504",
   "pli-tv-bi-vb-pc94:2.2.1": "sc5, pts-vp-pli4.344, pts-cs2.2, ms2V_3505",
