@@ -55,9 +55,9 @@ If the translation is by a team, there should be a team name that is independent
 
 Other details can be added later.
 
-Once a project is ready to be published, all relevant fields should be filled in and set `"is_published": "true"`.
+Once a project is ready to be published, all relevant fields should be filled in, and set `"is_published": "true"`.
 
-The text will be switched to the `published` branch, sigfinfying that it is ready to be consumed by apps.
+The text will be switched to the `published` branch, signfying that it is ready to be consumed by apps.
 
 ## Inline markup
 
