@@ -2,43 +2,29 @@
   "ms": {
     "type": "root",
     "name": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "root_lang": "pli",
-    "root_edition": "ms"
   },
   "sujato": {
     "type": "translator",
-    "name": "Sujato Bhikkhu",
-    "root_lang": "pli",
-    "root_edition": "ms"
+    "name": "Bhikkhu Sujato",
   },
   "brahmali": {
     "type": "translator",
-    "name": "Brahmali Bhikkhu",
-    "root_lang": "pli",
-    "root_edition": "ms"
+    "name": "Bhikkhu Brahmali",
   },
   "sabbamitta": {
     "type": "translator",
-    "name": "Sabbamitta Anagarika",
-    "root_lang": "pli",
-    "root_edition": "ms"
+    "name": "Anagarika Sabbamitta",
   },
   "kaz": {
     "type": "translator",
     "name": "Kaz Takehara",
-    "root_lang": "pli",
-    "root_edition": "ms"
   },
   "gnlaera": {
     "type": "translator",
     "name": "Gabriel Laera",
-    "root_lang": "pli",
-    "root_edition": "ms"
   },
   "xtest": {
     "type": "translator",
     "name": "Test Project",
-    "root_lang": "pli",
-    "root_edition": "ms"
   }
 }
