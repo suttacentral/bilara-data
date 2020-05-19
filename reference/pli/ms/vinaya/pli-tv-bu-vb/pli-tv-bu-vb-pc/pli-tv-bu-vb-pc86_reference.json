@@ -1,7 +1,7 @@
 {
   "pli-tv-bu-vb-pc86:1.1": "sc1, pts-vp-pli4.167, pts-vp-pli4.167, pts-cs1, pts-vp-en3.87, ms2V_1520",
   "pli-tv-bu-vb-pc86:1.11": "sc2, ms2V_1521",
-  "pli-tv-bu-vb-pc86:1.20": "sc3, pts-vp-en3.88, ms2V_1522",
+  "pli-tv-bu-vb-pc86:1.20.1": "sc3, pts-vp-en3.88, ms2V_1522",
   "pli-tv-bu-vb-pc86:2.1.1": "sc4, pts-cs2.1, ms2V_1523",
   "pli-tv-bu-vb-pc86:2.1.5": "sc5, ms2V_1524",
   "pli-tv-bu-vb-pc86:2.1.7": "sc6, ms2V_1525",

@@ -1,6 +1,75 @@
 # bilara-data
 
-## variant
+`bilara-data` contains text, translation, and other data for the translation webapp Bilara. 
+
+Bilara consumes `json` objects where:
+
+- the key is a unique segment identifier
+- the value is a string corresponding to the identifier.
+
+The value may be root text, translation, comments, variant readings, markup and so on. Each different kind of data is contained in a separate directory.
+
+Let us look at a simple example. Here is a text with in the /root/ directory with the segment ID `mn1:1.1`.
+
+```
+"mn1:1.1": "Evaṃ me sutaṃ—",
+```
+The translation/en directory contains the same ID with a translated string:
+
+```
+"mn1:1.1": "So have I heard.",
+```
+
+There might be a comment on this in /comment/:
+
+```
+"mn1:1.1": "Traditionally attributed to the Buddha’s closest disciple, Ānanda.",
+```
+And some markup in /html/:
+
+```
+"mn1:1.1": "<p><span class='evam'>{}</span>",
+```
+
+Note that `{}` is used as placeholder for text in the /html files.
+
+Bilara texts are kept in files where one file is approximately one text. However the files are just for convenience, and may be changed for convenience by an application. For example, a very long text might be split into multiple HTML files for display on the web. However, the segment IDs should remain immutable so far as possible.
+
+## Publication
+
+Publication details are recorded canonically in `_publication.json`. Publications are scoped by collection such as `mn`, `dhp`, etc. Each “publication” thus corresponds roughly with a “book”. This doesn’t mean all texts in the work must be finished, it is just for convenience.
+
+A record in `_publication.json` is required for every translation project. To get started, it requires at minimum:
+
+- `publication_number`: a simple incremented ID.
+ - `root_lang`
+ - `translation_lang`
+ - `author_uid` — must be unique in SC, usually may be github handle.
+- `author_name` — full name under which work will be published.
+- `author_github_handle` — prefer something like real name.
+- `text_uid` — select one text such as mn, dn, etc. to start.
+- `"is_published": "false"`
+- `license` must be set to CC0. Note that all translations supported by SuttaCentral must use CC0 licence.
+
+If the translation is by a team, there should be a team name that is independent of the author names. Use eg. `pt-team` by default. It can be changed later. Collaborator details must be added as per author details above.
+
+Other details can be added later.
+
+Once a project is ready to be published, all relevant fields should be filled in, and set `"is_published": "true"`.
+
+The text will be switched to the `published` branch, signfying that it is ready to be consumed by apps.
+
+## Inline markup
+
+Text inside segment strings should avoid using markup. A subset of markdown may be used, with slightly spoecialized meanings:
+
+- `*asterisks*` mean emphasis (= `<em>`), usually rendered as italics.
+- `_underscores_` are not synonyms for asterisk, but are used when quoting a word from the root text in the translation. (= `<i lang='pli' translate='no'>`)
+- `**double asterisk**` may be used to signify strong emphasis i.e. bold, but I wouldn’t encourage it! (= `strong>`)
+
+## Some notes on SC-specific data
+
+### Variant readings
 
 The structure of the variant readings entries is as follows.
 
@@ -54,3 +123,10 @@ an11.6:1.1": "etthantare pāṭho si, sya-all, km, pts-vp-pli1ed potthakesu na
 ```
 
 > "The indicated passage is not found in the si, sya-all, km, and pts-vp-pli1ed editions."
+
+### References
+
+The reference files contain detailed references to over a dozen editions of the Pali canon. These were originally collated by the Dhamma Society for their Mahsaṅgīti edition, and have been supplemented by SuttaCentral.
+
+The full forms of the abbreviations may be found in `pali_edition.json`.
+
