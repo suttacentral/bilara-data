@@ -1,30 +1,30 @@
 {
   "ms": {
     "type": "root",
-    "name": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "name": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
   },
   "sujato": {
     "type": "translator",
-    "name": "Bhikkhu Sujato",
+    "name": "Bhikkhu Sujato"
   },
   "brahmali": {
     "type": "translator",
-    "name": "Bhikkhu Brahmali",
+    "name": "Bhikkhu Brahmali"
   },
   "sabbamitta": {
     "type": "translator",
-    "name": "Anagarika Sabbamitta",
+    "name": "Anagarika Sabbamitta"
   },
   "kaz": {
     "type": "translator",
-    "name": "Kaz Takehara",
+    "name": "Kaz Takehara"
   },
   "gnlaera": {
     "type": "translator",
-    "name": "Gabriel Laera",
+    "name": "Gabriel Laera"
   },
   "xtest": {
     "type": "translator",
-    "name": "Test Project",
+    "name": "Test Project"
   }
 }
