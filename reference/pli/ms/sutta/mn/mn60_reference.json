@@ -1,8 +1,9 @@
 {
   "mn60:1.1": "nya1, pts-vp-pli1.401, sc1",
   "mn60:2.1": "nya2",
-  "mn60:3.1": "nya3, nya4, sc2",
-  "mn60:3.4": "sc3",
+  "mn60:3.1": "nya3, sc2",
+  "mn60:4.1": "nya4",
+  "mn60:4.3": "sc3",
   "mn60:5.1": "nya5, pts-vp-pli1.402, sc4",
   "mn60:6.1": "nya6",
   "mn60:7.1": "nya7, sc5",
