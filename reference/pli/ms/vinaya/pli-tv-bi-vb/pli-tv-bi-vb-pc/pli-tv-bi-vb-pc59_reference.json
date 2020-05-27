@@ -1,8 +1,8 @@
 {
-  "pli-tv-bi-vb-pc59:1.1": "sc1, pts-cs1, pts-vp-en3.358, ms2V_3167",
-  "pli-tv-bi-vb-pc59:1.11.1": "sc2, ms2V_3168",
-  "pli-tv-bi-vb-pc59:2.1": "sc3, pts-cs2, ms2V_3169",
-  "pli-tv-bi-vb-pc59:2.5": "sc4, ms2V_3170",
-  "pli-tv-bi-vb-pc59:2.8.1": "sc5, ms2V_3171",
-  "pli-tv-bi-vb-pc59:2.15": "sc6, ms2V_3172"
+  "pli-tv-bi-vb-pc59:1.1": "ms2V_3167, pts-cs1, pts-vp-en3.358, sc1",
+  "pli-tv-bi-vb-pc59:1.11.1": "ms2V_3168, sc2",
+  "pli-tv-bi-vb-pc59:2.1": "ms2V_3169, pts-cs2, sc3",
+  "pli-tv-bi-vb-pc59:2.5": "ms2V_3170, sc4",
+  "pli-tv-bi-vb-pc59:2.8.1": "ms2V_3171, sc5",
+  "pli-tv-bi-vb-pc59:2.15": "ms2V_3172, sc6"
 }
