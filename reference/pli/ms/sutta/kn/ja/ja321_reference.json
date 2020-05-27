@@ -1,7 +1,7 @@
 {
-  "ja321:1.1": "sc1, pts-vp-pli3.73, ms22J_987, msdiv81",
-  "ja321:2.1": "sc2, ms22J_988, msdiv82",
-  "ja321:3.1": "sc3, ms22J_989, msdiv83",
-  "ja321:4.1": "sc4, pts-vp-pli3.74, ms22J_990, msdiv84",
-  "ja321:5.1": "sc5, ms22J_991"
+  "ja321:1.1": "ms22J_987, msdiv81, pts-vp-pli3.73, sc1",
+  "ja321:2.1": "ms22J_988, msdiv82, sc2",
+  "ja321:3.1": "ms22J_989, msdiv83, sc3",
+  "ja321:4.1": "ms22J_990, msdiv84, pts-vp-pli3.74, sc4",
+  "ja321:5.1": "ms22J_991, sc5"
 }

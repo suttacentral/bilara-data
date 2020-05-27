@@ -1,5 +1,5 @@
 {
-  "pli-tv-pvr12:1.1": "sc1, pts-vp-pli5.158",
+  "pli-tv-pvr12:1.1": "pts-vp-pli5.158, sc1",
   "pli-tv-pvr12:2.1": "sc2",
   "pli-tv-pvr12:3.1": "sc3",
   "pli-tv-pvr12:4.1": "sc4",
@@ -11,7 +11,7 @@
   "pli-tv-pvr12:10.1": "sc10",
   "pli-tv-pvr12:11.1": "sc11",
   "pli-tv-pvr12:12.1": "sc12",
-  "pli-tv-pvr12:13.1": "sc13, pts-vp-pli5.159",
+  "pli-tv-pvr12:13.1": "pts-vp-pli5.159, sc13",
   "pli-tv-pvr12:14.1": "sc14",
   "pli-tv-pvr12:15.1": "sc15",
   "pli-tv-pvr12:16.1": "sc16",
