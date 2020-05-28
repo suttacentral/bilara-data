@@ -43,7 +43,7 @@
   "dn26:21.5": "cck11.82, dr11.80, ms8D_224, sc42",
   "dn26:21.11": "bj9.122, ms8D_225, msdiv105, pts-vp-pli3.74, sc43, vri3.54",
   "dn26:22.1": "cck11.83, csp1ed8.62, csp2ed8.62, dr11.81, ms8D_226, ndp8.59, pts-cs22, sc44, sya2ed11.81",
-  "dn26:22.18": "9.128, bj9.124, bj9.126, dr11.82, ms8D_227, pts-vp-pli3.75, sc45, sya2ed11.82, vri3.55",
+  "dn26:22.18": "9.128, bj9.124, bj9.126, bj9.128, dr11.82, ms8D_227, pts-vp-pli3.75, sc45, sya2ed11.82, vri3.55",
   "dn26:23.1": "pts-cs23",
   "dn26:23.5": "bj9.130, cck11.84, csp1ed8.63, csp2ed8.63, dr11.83, ms8D_228, msdiv106, ndp8.60, sc46, sya2ed11.83",
   "dn26:24.1": "pts-cs24",
