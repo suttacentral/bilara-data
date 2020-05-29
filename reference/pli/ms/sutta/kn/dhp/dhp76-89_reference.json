@@ -1,8 +1,8 @@
 {
-  "dhp76:1": "dr25.30, ms18Dh_82, pts-vp-pli2ed22, pts2ed22, sya2ed25.25, vri47.23",
-  "dhp79:1": "ms18Dh_85, pts-vp-pli1ed12, pts1ed12",
-  "dhp80:1": "csp1ed18.25, csp2ed18.25, dr25.31, ms18Dh_86, pts-vp-pli2ed23, pts2ed23",
-  "dhp84:1": "dr25.32, mc0.32, ms18Dh_90, pts-vp-pli2ed24, pts2ed24, vri47.24",
-  "dhp86:1": "ms18Dh_92, pts-vp-pli1ed13, pts1ed13",
-  "dhp88:1": "bj24.44, ms18Dh_94, pts-vp-pli2ed25, pts2ed25"
+  "dhp76:1": "dr25.30, ms18Dh_82, pts-vp-pli2ed22, pts-vp-pli2ed22, sya2ed25.25, vri47.23",
+  "dhp79:1": "ms18Dh_85, pts-vp-pli1ed12, pts-vp-pli1ed12",
+  "dhp80:1": "csp1ed18.25, csp2ed18.25, dr25.31, ms18Dh_86, pts-vp-pli2ed23, pts-vp-pli2ed23",
+  "dhp84:1": "dr25.32, mc0.32, ms18Dh_90, pts-vp-pli2ed24, pts-vp-pli2ed24, vri47.24",
+  "dhp86:1": "ms18Dh_92, pts-vp-pli1ed13, pts-vp-pli1ed13",
+  "dhp88:1": "bj24.44, ms18Dh_94, pts-vp-pli2ed25, pts-vp-pli2ed25"
 }
