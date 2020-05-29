@@ -434,8 +434,8 @@
     "publication_number": "scpub13",
     "root_lang": "pli",
     "translation_lang": "ru",
-    "source_url": "",
-    "author_uid": "ru-team",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/ru/team/sutta/dn",
+    "author_uid": "team",
     "collaborator": [
       {
         "collaborator_uid": "dz",
@@ -465,7 +465,7 @@
     "publication_number": "scpub14",
     "root_lang": "pli",
     "translation_lang": "jpn",
-    "source_url": "",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/jpn/kaz/sutta/an",
     "author_uid": "kaz",
     "author_name": "Kaz Takehara",
     "author_github_handle": "kaz-kaz",
@@ -486,8 +486,8 @@
     "publication_number": "scpub15",
     "root_lang": "pli",
     "translation_lang": "pt",
-    "source_url": "",
-    "author_uid": "pt-team",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/pt/team/sutta/mn",
+    "author_uid": "team",
     "collaborator": [
       {
         "collaborator_uid": "gnlaera",
@@ -500,7 +500,7 @@
         "author_github_handle": "marcoquaresma"
       }
     ],
-    "text_uid": "an",
+    "text_uid": "mn",
     "text_title": "",
     "text_subtitle": "",
     "text_description": "",
