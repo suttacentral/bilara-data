@@ -1,8 +1,8 @@
 {
-  "dhp60:1": "pts2ed17",
-  "dhp64:1": "pts2ed18",
-  "dhp65:1": "pts1ed10",
-  "dhp69:1": "pts2ed19",
-  "dhp72:1": "pts2ed20",
-  "dhp73:1": "pts1ed11"
+  "dhp60:1": "csp1ed18.22, csp2ed18.22, dr25.27, ms18Dh_65, pts-vp-pli2ed17, pts2ed17, sya2ed25.23, vri47.21",
+  "dhp64:1": "ms18Dh_69, pts-vp-pli2ed18, pts2ed18",
+  "dhp65:1": "dr25.28, ms18Dh_70, pts-vp-pli1ed10, pts1ed10",
+  "dhp69:1": "ms18Dh_74, pts-vp-pli2ed19, pts2ed19, sya2ed25.24",
+  "dhp72:1": "ms18Dh_77, pts-vp-pli2ed20, pts2ed20",
+  "dhp73:1": "ms18Dh_78, pts-vp-pli1ed11, pts1ed11"
 }

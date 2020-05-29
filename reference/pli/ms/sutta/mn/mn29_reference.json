@@ -2,7 +2,7 @@
   "mn29:1.1": "csp1ed9.250, csp2ed9.250, dr12.322, ms9M_1077, msdiv307, ndp9.243, nya1, pts-vp-pli1.192, sc1, sya2ed12.362, vri12.253",
   "mn29:2.1": "bj10.464, cck12.345, ms9M_1078, nya2, sc2",
   "mn29:2.20": "pts-vp-pli1.193",
-  "mn29:3.1": "bj10.466, cck12.347, dr12.324, ms9M_1080, msdiv308, nya3, sc4, sya2ed12.364",
+  "mn29:3.1": "bj10.466, cck12.346, cck12.347, csp1ed9.251, csp2ed9.251, dr12.323, dr12.324, ms9M_1079, ms9M_1080, msdiv308, ndp9.244, nya3, pts-vp-pli1.193, sc3, sc4, sya2ed12.363, sya2ed12.364, vri12.254",
   "mn29:3.13": "csp1ed9.252, csp2ed9.252, ms9M_1081, sc5, sya2ed12.365",
   "mn29:3.29": "pts-vp-pli1.194",
   "mn29:4.1": "cck12.348, dr12.325, ms9M_1082, ndp9.245, nya4, pts-vp-pli1.194, sc6, vri12.255",
@@ -11,5 +11,5 @@
   "mn29:5.25": "cck12.353, dr12.329, ms9M_1088, pts-vp-pli1.196, sc12, sya2ed12.370, vri12.258",
   "mn29:6.1": "bj10.474, cck12.354, csp1ed9.256, csp2ed9.256, dr12.330, ms9M_1089, msdiv311, ndp9.247, nya6, sc13, sya2ed12.371, vri12.259",
   "mn29:6.18": "cck12.355, ms9M_1090, pts-vp-pli1.197, sc14, sya2ed12.372",
-  "mn29:7.1": "ms9M_1092, nya7, sc16"
+  "mn29:7.1": "bj10.468, cck12.349, csp1ed9.253, csp2ed9.253, ms9M_1083, ms9M_1092, msdiv309, nya7, sc16, sc7, sya2ed12.366"
 }

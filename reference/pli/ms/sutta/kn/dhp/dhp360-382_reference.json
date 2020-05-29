@@ -1,10 +1,10 @@
 {
-  "dhp360:1": "pts2ed102",
-  "dhp364:1": "pts1ed53, pts2ed103",
-  "dhp368:1": "pts2ed104",
-  "dhp372:1": "pts2ed105",
-  "dhp373:1": "pts1ed54",
-  "dhp376:1": "pts2ed106",
-  "dhp380:1": "pts2ed107",
-  "dhp382:1": "pts1ed55"
+  "dhp360:1": "cck25.54, dr25.87, mc0.80, ms18Dh_387, pts-vp-pli2ed102, pts2ed102",
+  "dhp364:1": "csp1ed18.66, csp2ed18.66, dr25.88, ms18Dh_391, pts-vp-pli1ed53, pts-vp-pli2ed103, pts1ed53, pts2ed103, sya2ed25.65",
+  "dhp368:1": "ms18Dh_395, pts-vp-pli2ed104, pts2ed104",
+  "dhp372:1": "mc0.82, ms18Dh_399, pts-vp-pli2ed105, pts2ed105",
+  "dhp373:1": "csp1ed18.67, csp2ed18.67, ms18Dh_400, ndp20.53, pts-vp-pli1ed54, pts1ed54, sya2ed25.66, vri47.60",
+  "dhp376:1": "bj24.118, ms18Dh_403, pts-vp-pli2ed106, pts2ed106",
+  "dhp380:1": "cck25.56, ms18Dh_407, pts-vp-pli2ed107, pts2ed107",
+  "dhp382:1": "ms18Dh_409, pts-vp-pli1ed55, pts1ed55, sya2ed25.67, vri47.61"
 }
