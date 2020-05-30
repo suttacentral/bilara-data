@@ -1,8 +1,8 @@
 {
-  "dhp100:1": "pts2ed29",
-  "dhp104:1": "pts2ed30",
-  "dhp106:1": "pts1ed16",
-  "dhp108:1": "pts2ed31",
-  "dhp112:1": "pts2ed32",
-  "dhp114:1": "pts1ed17"
+  "dhp100:1": "mc0.35, ms18Dh_108, pts-vp-pli2ed29, pts-vp-pli2ed29, vri47.26",
+  "dhp104:1": "ms18Dh_112, pts-vp-pli2ed30, pts-vp-pli2ed30, sya2ed25.29",
+  "dhp106:1": "csp1ed18.29, csp2ed18.29, ms18Dh_114, pts-vp-pli1ed16, pts-vp-pli1ed16",
+  "dhp108:1": "dr25.37, ms18Dh_116, pts-vp-pli2ed31, pts-vp-pli2ed31, vri47.27",
+  "dhp112:1": "ms18Dh_120, ndp20.28, pts-vp-pli2ed32, pts-vp-pli2ed32, sya2ed25.30",
+  "dhp114:1": "ms18Dh_122, pts-vp-pli1ed17, pts-vp-pli1ed17"
 }
