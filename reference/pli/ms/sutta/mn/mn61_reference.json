@@ -1,11 +1,12 @@
 {
   "mn61:1.1": "bj11.130, cck13.128, csp1ed10.77, csp2ed10.77, dr13.114, mc2.84, ms10M_287, msdiv107, ndp10.92, nya1, pts-vp-pli1.414, sc1, sya2ed13.123, vri13.84",
   "mn61:2.1": "nya2",
-  "mn61:3.1": "bj11.132, cck13.129, cck13.130, csp1ed10.78, csp2ed10.78, dr13.115, dr13.116, mc2.85, ms10M_288, msdiv108, ndp10.93, ndp10.94, nya3, pts-vp-pli1.415, sc2, sya2ed13.124, sya2ed13.125, vri13.85",
+  "mn61:3.1": "cck13.129, csp1ed10.78, csp2ed10.78, dr13.115, mc2.85, ms10M_288, msdiv108, ndp10.93, nya3, pts-vp-pli1.415, sc2, sya2ed13.124, vri13.85",
   "mn61:4.1": "nya4",
   "mn61:5.1": "nya5",
   "mn61:6.1": "nya6",
   "mn61:7.1": "nya7",
+  "mn61:7.5": "bj11.132, cck13.130, dr13.116, ndp10.94, sya2ed13.125", 
   "mn61:8.1": "ms10M_289, msdiv109, nya8, sc3",
   "mn61:8.3": "ms10M_290, sc4",
   "mn61:8.4": "cck13.131, csp1ed10.79, csp2ed10.79, dr13.117, mc2.86, ms10M_291, pts-vp-pli1.416, sc5, sya2ed13.126, vri13.86",
