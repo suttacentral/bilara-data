@@ -1,6 +1,5 @@
 {
   "pli-tv-kd7:1.1.1": "bj3.628, cck5.123, csp1ed3.351, csp2ed3.351, dr5.110, mc5.93, ms3V_1388, msdiv306, ndp3.266, pts-cs1.1, pts-vp-en4.351, pts-vp-pli1.253, sc1, sya2ed5.135, vri89.330",
-  "pli-tv-kd7:1.1.5": "pts-vp-en4.352",
   "pli-tv-kd7:1.1.6": "pts-vp-en4.352",
   "pli-tv-kd7:1.2.1": "pts-cs1.2",
   "pli-tv-kd7:1.2.2": "cck5.124, dr5.111, ms3V_1389, pts-vp-pli1.254, sc2, sya2ed5.136",
@@ -168,7 +167,7 @@
   "pli-tv-kd7:13.2.1": "cck5.149, csp1ed3.374, csp2ed3.374, ms3V_1525, ndp3.283, pts-cs13.2, sc138",
   "pli-tv-kd7:13.2.3": "pts-vp-en4.375",
   "pli-tv-kd7:13.2.10": "ms3V_1526, sc139",
-  "pli-tv-kd7:13.2.11": "ms3V_1527, pts-vp-en4.376-378, pts-vp-pli1.266-267, sc140",
+  "pli-tv-kd7:13.2.11": "ms3V_1527, pts-vp-en4.376-378, sc140",
   "pli-tv-kd7:13.2.12": "bj3.668, mc5.119, ms3V_1528, sc141, sya2ed5.165, vri89.353",
   "pli-tv-kd7:13.2.16": "ms3V_1529, sc142",
   "pli-tv-kd7:13.2.20": "ms3V_1530, sc143",
