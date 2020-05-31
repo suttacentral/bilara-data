@@ -20,7 +20,8 @@
   "mn18:17.1": "bj10.282, cck12.213, csp1ed9.159, csp2ed9.159, ms9M_710, nya17, sc11, sya2ed12.227, vri12.160",
   "mn18:18.1": "cck12.214, dr12.205, ms9M_711, ndp9.151, nya18, sc12, sya2ed12.228, vri12.161",
   "mn18:19.1": "bj10.284, csp1ed9.160, csp2ed9.160, ms9M_712, nya19, pts-vp-pli1.113, sc13",
-  "mn18:20.1": "bj10.286, cck12.215, cck12.216, csp1ed9.161, csp2ed9.161, dr12.206, dr12.207, ms9M_713, msdiv205, ndp9.152, nya20, pts-vp-pli1.114, sc14, sya2ed12.229, sya2ed12.230, vri12.162",
+  "mn18:20.1": "cck12.215, csp1ed9.161, csp2ed9.161, dr12.206, ms9M_713, msdiv205, ndp9.152, nya20, sc14, sya2ed12.229, vri12.162",
+    "mn18:20.15": "bj10.286, cck12.216, dr12.207, pts-vp-pli1.114, sya2ed12.230",
   "mn18:21.1": "nya21",
   "mn18:22.1": "ms9M_714, nya22, sc15",
   "mn18:22.6": "ms9M_715, sc16, sya2ed12.231"
