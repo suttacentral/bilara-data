@@ -57,7 +57,7 @@
   "pli-tv-kd21:1.15.1": "pts-cs1.15, pts-vp-en5.405",
   "pli-tv-kd21:1.15.5": "bj5.564, cck7.361, dr7.324, ms4V_2213, sc38, sya2ed7.394, vri90.461",
   "pli-tv-kd21:1.16.1": "pts-cs1.16",
-  "pli-tv-kd21:1.16.3": "ms4V_2214, sc39",
+  "pli-tv-kd21:1.16.3": "ms4V_2214, pts-vp-en5.406, sc39",
   "pli-tv-kd21:1.16.4": "ms4V_2215, pts-vp-pli2.293, sc40",
   "pli-tv-kd21:1.16.5": "csp1ed4.490, csp2ed4.490, ms4V_2216, sc41",
   "pli-tv-kd21:1.16.9": "ms4V_2217, pts-vp-pli2.293, sc42",
