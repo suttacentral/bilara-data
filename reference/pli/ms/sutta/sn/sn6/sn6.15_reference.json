@@ -10,5 +10,6 @@
   "sn6.15:9.1": "ms12S1_1124, ndp12.159, pts-vp-pli1ed1.159, pts-vp-pli1ed1.159, sc9, vri23.186",
   "sn6.15:10.1": "cck15.213, ms12S1_1125, sc10",
   "sn6.15:11.1": "ms12S1_1126, sc11",
-  "sn6.15:12.1": "ms12S1_1129, ms12S1_1130, pts-vp-pli2ed1.343, pts-vp-pli2ed1.343, sc12, sya2ed15.234"
+  "sn6.15:12.1": "ms12S1_1129, pts-vp-pli2ed1.343, pts-vp-pli2ed1.343, sc12, sya2ed15.234",
+  "sn6.15:12.5": "ms12S1_1130"
 }
