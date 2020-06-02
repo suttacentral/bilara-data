@@ -240,7 +240,7 @@
     "text_title": "Sayings of the Dhamma",
     "is_published": "false",
     "publication_status": "",
-    "licence": "",
+    "licence": "CC0",
     "edition": [
       {
         "edition_number": "",
@@ -512,5 +512,97 @@
       "url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
     }
+  },
+  "scpub16": {
+    "publication_number": "scpub16",
+    "root_lang": "pli",
+    "translation_lang": "en",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/sutta/kn/iti",
+    "author_uid": "sujato",
+    "author_name": "Bhikkhu Sujato",
+    "author_github_handle": "sujato",
+    "text_uid": "iti",
+    "text_title": "So It Was Said",
+    "is_published": "false",
+    "publication_status": "",
+    "licence": "CC0",
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "url": ""
+      }
+    ]
+  },
+  "scpub17": {
+    "publication_number": "scpub17",
+    "root_lang": "pli",
+    "translation_lang": "en",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/sutta/kn/snp",
+    "author_uid": "sujato",
+    "author_name": "Bhikkhu Sujato",
+    "author_github_handle": "sujato",
+    "text_uid": "snp",
+    "text_title": "Collected Sayings",
+    "is_published": "false",
+    "publication_status": "",
+    "licence": "CC0",
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "url": ""
+      }
+    ]
+  },
+  "scpub18": {
+    "publication_number": "scpub18",
+    "root_lang": "pli",
+    "translation_lang": "en",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/sutta/kn/ud",
+    "author_uid": "sujato",
+    "author_name": "Bhikkhu Sujato",
+    "author_github_handle": "sujato",
+    "text_uid": "ud",
+    "text_title": "Heartfelt Sayings",
+    "is_published": "false",
+    "publication_status": "",
+    "licence": "CC0",
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "url": ""
+      }
+    ]
+  },
+  "scpub19": {
+    "publication_number": "scpub19",
+    "root_lang": "pli",
+    "translation_lang": "en",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/sutta/kn/kp",
+    "author_uid": "sujato",
+    "author_name": "Bhikkhu Sujato",
+    "author_github_handle": "sujato",
+    "text_uid": "kp",
+    "text_title": "Basic Passages",
+    "is_published": "false",
+    "publication_status": "",
+    "licence": "CC0",
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "url": ""
+      }
+    ]
   }
 }
