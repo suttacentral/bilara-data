@@ -36,6 +36,7 @@
   "an4.110:5.7": "<p>{}</p>",
   "an4.110:5.8": "<p class='endsection'>{}</p>",
   "an4.110:5.9": "<p class='endsection'>{}</p>",
+  "an4.110:6.0": "<p class='uddana-intro'>{}</p>",
   "an4.110:6.1": "<blockquote class='uddanagatha'><p>{}<br>",
   "an4.110:6.2": "{}<br>",
   "an4.110:6.3": "{}<br>",
