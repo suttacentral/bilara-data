@@ -26,6 +26,7 @@
   "iti20:6.1": "<p>{}</p>",
   "iti20:6.2": "<p class='endsection'>{}</p>",
   "iti20:6.3": "<p class='endsection'>{}</p>",
+  "iti20:7.0": "<p class='uddana-intro'>{}</p>",
   "iti20:7.1": "<blockquote class='uddanagatha'><p>{}<br>",
   "iti20:7.2": "{}<br>",
   "iti20:7.3": "{}<br>",
