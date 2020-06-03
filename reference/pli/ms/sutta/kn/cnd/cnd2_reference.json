@@ -5,7 +5,7 @@
   "cnd2:4.1": "ms25Cn_62, msdiv60, pts-vp-pli8, sc4",
   "cnd2:5.1": "ms25Cn_63, msdiv61, sc5",
   "cnd2:6.1": "ms25Cn_64, msdiv62, sc6",
-  "cnd2:7.1": "ms25Cn_65, msdiv63, sc7,  pts-vp-pli9",
+  "cnd2:7.1": "ms25Cn_65, msdiv63, pts-vp-pli9, sc7",
   "cnd2:8.1": "dr30.9, ms25Cn_66, msdiv64, sc8",
   "cnd2:8.5": "ms25Cn_67",
   "cnd2:9.1": "bj34.16, csp1ed25.7, csp2ed25.7, ms25Cn_68, msdiv65, ndp25.9, pts-vp-pli10, sc9",
