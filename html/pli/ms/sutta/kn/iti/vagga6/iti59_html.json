@@ -17,6 +17,7 @@
   "iti59:4.1": "<p>{}</p>",
   "iti59:4.2": "<p class='endsection'>{}</p>",
   "iti59:4.3": "<p class='endsection'>{}</p>",
+  "iti59:5.0": "<p class='uddana-intro'>{}</p>",
   "iti59:5.1": "<blockquote class='uddanagatha'><p>{}<br>",
   "iti59:5.2": "{}<br>",
   "iti59:5.3": "{}<br>",

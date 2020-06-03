@@ -116,5 +116,6 @@
   "dn2:100.1": "bj7.148, cck9.111, dr9.113, km14.213, mc9.86, ms6D_342, msdiv251, pts-cs100, sc114, sya2ed9.113",
   "dn2:101.1": "csp1ed6.81, csp2ed6.81, lv1.234, ms6D_343, msdiv252, pts-cs101, sc115",
   "dn2:102.1": "km14.214, lv1.235, ms6D_344, msdiv253, pts-cs102, pts-vp-pli1.86, sc116",
-  "dn2:102.5": "ms6D_345, sc117"
+  "dn2:102.5": "ms6D_345, sc117",
+  "dn2:102.7": "ms6D_346"
 }
