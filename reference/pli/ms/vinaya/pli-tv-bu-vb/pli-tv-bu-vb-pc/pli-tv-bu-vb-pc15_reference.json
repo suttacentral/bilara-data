@@ -1,6 +1,6 @@
 {
-  "pli-tv-bu-vb-pc15:1.1": "dr2.196, ms2V_400, msdiv114, ndp2.64, pts-cs1, pts-vp-en2.243, pts-vp-pli4.41, sc1, sya2ed2.247",
-  "pli-tv-bu-vb-pc15:1.8": "cck2.221, mc2.171, ms2V_401, sc2, sya2ed2.248",
+  "pli-tv-bu-vb-pc15:1.1": "dr2.196, ms2V_400, msdiv114, ndp2.64, pts-cs1, pts-vp-en2.243, pts-vp-pli4.41, sc1, sya2.247",
+  "pli-tv-bu-vb-pc15:1.8": "cck2.221, mc2.171, ms2V_401, sc2, sya2.248",
   "pli-tv-bu-vb-pc15:1.15.1": "ms2V_402, msdiv115, sc3",
   "pli-tv-bu-vb-pc15:2.1.1": "bj2.1.126, csp1ed2.61, csp2ed2.61, ms2V_403, msdiv116, pts-cs2.1, pts-vp-en2.244, sc4, vri88.62",
   "pli-tv-bu-vb-pc15:2.1.5": "ms2V_404, sc5",
@@ -9,7 +9,7 @@
   "pli-tv-bu-vb-pc15:2.1.11": "ms2V_407, sc8",
   "pli-tv-bu-vb-pc15:2.1.13": "ms2V_408, sc9",
   "pli-tv-bu-vb-pc15:2.1.15": "ms2V_409, sc10",
-  "pli-tv-bu-vb-pc15:2.1.17": "cck2.222, mc2.172, ms2V_410, pts-vp-pli4.42, sc11, sya2ed2.249",
+  "pli-tv-bu-vb-pc15:2.1.17": "cck2.222, mc2.172, ms2V_410, pts-vp-pli4.42, sc11, sya2.249",
   "pli-tv-bu-vb-pc15:2.2.1": "pts-cs2.2",
   "pli-tv-bu-vb-pc15:2.2.3": "pts-vp-en2.245",
   "pli-tv-bu-vb-pc15:2.2.4": "dr2.198, ms2V_411, msdiv117, sc12",

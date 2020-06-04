@@ -1,5 +1,5 @@
 {
-  "patthana10.9:1.1": "csp1ed40.136, ms40P10_92, msdiv42, ndp41.80, sc1, sya2ed45.79",
+  "patthana10.9:1.1": "csp1ed40.136, ms40P10_92, msdiv42, ndp41.80, sc1, sya45.79",
   "patthana10.9:2.1": "ms40P10_93, sc2",
   "patthana10.9:3.1": "ms40P10_94, msdiv43, sc3",
   "patthana10.9:4.1": "ms40P10_95, sc4",
@@ -11,7 +11,7 @@
   "patthana10.9:10.1": "csp1ed40.137, ms40P10_101, sc10",
   "patthana10.9:11.1": "ms40P10_102, msdiv47, sc11",
   "patthana10.9:12.1": "ms40P10_103, sc12",
-  "patthana10.9:13.1": "ms40P10_104, msdiv48, sc13, sya2ed45.80",
+  "patthana10.9:13.1": "ms40P10_104, msdiv48, sc13, sya45.80",
   "patthana10.9:14.1": "ms40P10_105, sc14",
   "patthana10.9:15.1": "ms40P10_106, msdiv49, sc15",
   "patthana10.9:16.1": "ms40P10_107, sc16",
@@ -23,6 +23,6 @@
   "patthana10.9:22.1": "ms40P10_113, sc22, vri124.153",
   "patthana10.9:23.1": "ms40P10_114, sc23",
   "patthana10.9:24.1": "ms40P10_115, sc24",
-  "patthana10.9:25.1": "ms40P10_116, sc25, sya2ed45.81",
+  "patthana10.9:25.1": "ms40P10_116, sc25, sya45.81",
   "patthana10.9:26.1": "ms40P10_117, sc26"
 }
