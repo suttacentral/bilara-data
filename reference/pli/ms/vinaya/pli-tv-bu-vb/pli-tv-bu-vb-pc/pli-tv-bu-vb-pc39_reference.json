@@ -3,7 +3,7 @@
   "pli-tv-bu-vb-pc39:1.6": "mc2.239, ms2V_825, pts-vp-pli4.88, sc2, vri88.121",
   "pli-tv-bu-vb-pc39:1.15.1": "ms2V_826, ndp2.124, sc3, sya2ed2.341",
   "pli-tv-bu-vb-pc39:1.16": "ms2V_827, sc4",
-  "pli-tv-bu-vb-pc39:2.1": "bj2.246, cck2.296, dr2.271, ms2V_828, msdiv258, pts-cs2, sc5",
+  "pli-tv-bu-vb-pc39:2.1": "bj2.1.246, cck2.296, dr2.271, ms2V_828, msdiv258, pts-cs2, sc5",
   "pli-tv-bu-vb-pc39:2.3": "pts-vp-en2.342",
   "pli-tv-bu-vb-pc39:2.10.1": "csp1ed2.119, csp2ed2.119, ms2V_829, msdiv259, sc6",
   "pli-tv-bu-vb-pc39:3.1.1": "ms2V_830, msdiv260, pts-cs3.1, sc7",
@@ -20,7 +20,7 @@
   "pli-tv-bu-vb-pc39:3.1.26": "ms2V_841, sc18",
   "pli-tv-bu-vb-pc39:3.1.28": "ms2V_842, sc19",
   "pli-tv-bu-vb-pc39:3.1.30": "ms2V_843, sc20",
-  "pli-tv-bu-vb-pc39:3.2.1": "bj2.248, csp1ed2.120, csp2ed2.120, mc2.241, ms2V_844, msdiv261, pts-cs3.2, sc21",
+  "pli-tv-bu-vb-pc39:3.2.1": "bj2.1.248, csp1ed2.120, csp2ed2.120, mc2.241, ms2V_844, msdiv261, pts-cs3.2, sc21",
   "pli-tv-bu-vb-pc39:3.2.4": "ms2V_845, sc22, vri88.123",
   "pli-tv-bu-vb-pc39:3.3.1": "ms2V_846, msdiv262, pts-cs3.3, sc23, sya2ed2.343",
   "pli-tv-bu-vb-pc39:3.3.11": "ms2V_847, sc24"
