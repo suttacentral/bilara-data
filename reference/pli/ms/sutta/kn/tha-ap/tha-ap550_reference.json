@@ -5,7 +5,7 @@
   "tha-ap550:4.1": "ms20Ap1_7576, msdiv228, sc4",
   "tha-ap550:5.1": "ms20Ap1_7577, msdiv229, sc5",
   "tha-ap550:6.1": "ms20Ap1_7578, msdiv230, sc6",
-  "tha-ap550:7.1": "ms20Ap1_7579, msdiv231, sc7, sya2ed33.244",
+  "tha-ap550:7.1": "ms20Ap1_7579, msdiv231, sc7, sya33.244",
   "tha-ap550:8.1": "ms20Ap1_7580, msdiv232, pts-vp-pli2.505, sc8",
   "tha-ap550:9.1": "ms20Ap1_7581, msdiv233, sc9",
   "tha-ap550:10.1": "csp1ed21.162, csp2ed21.162, mc2.250, ms20Ap1_7582, msdiv234, sc10, vri58.157",
@@ -14,7 +14,7 @@
   "tha-ap550:13.1": "ms20Ap1_7585, msdiv237, ndp28.157, sc13",
   "tha-ap550:14.1": "ms20Ap1_7586, msdiv238, sc14",
   "tha-ap550:15.1": "ms20Ap1_7587, msdiv239, sc15",
-  "tha-ap550:16.1": "ms20Ap1_7588, msdiv240, sc16, sya2ed33.245",
+  "tha-ap550:16.1": "ms20Ap1_7588, msdiv240, sc16, sya33.245",
   "tha-ap550:17.1": "ms20Ap1_7589, msdiv241, sc17",
   "tha-ap550:18.1": "ms20Ap1_7590, msdiv242, sc18",
   "tha-ap550:19.1": "dr33.261, mc2.251, ms20Ap1_7591, msdiv243, sc19",
@@ -24,7 +24,7 @@
   "tha-ap550:23.1": "csp1ed21.163, csp2ed21.163, ms20Ap1_7595, msdiv247, sc23",
   "tha-ap550:24.1": "ms20Ap1_7596, msdiv248, sc24, vri58.158",
   "tha-ap550:25.1": "ms20Ap1_7597, msdiv249, sc25",
-  "tha-ap550:26.1": "ms20Ap1_7598, msdiv250, sc26, sya2ed33.246",
+  "tha-ap550:26.1": "ms20Ap1_7598, msdiv250, sc26, sya33.246",
   "tha-ap550:27.1": "ms20Ap1_7599, ndp28.158, sc27",
   "tha-ap550:28.1": "ms20Ap1_7600, sc28"
 }

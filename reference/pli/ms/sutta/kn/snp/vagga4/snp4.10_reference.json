@@ -3,7 +3,7 @@
   "snp4.10:2.1": "mc0.502, ms18Sn_1026, sc2, vnp849, vns856",
   "snp4.10:3.1": "bj25.270, cck25.408, csp1ed18.412, csp2ed18.412, ms18Sn_1027, pts-vp-pli167, sc3, vnp850, vns857, vri48.210",
   "snp4.10:4.1": "ms18Sn_1028, sc4, vnp851, vns858",
-  "snp4.10:5.1": "dr25.544, ms18Sn_1029, sc5, sya2ed25.501, vnp852, vns859",
+  "snp4.10:5.1": "dr25.544, ms18Sn_1029, sc5, sya25.501, vnp852, vns859",
   "snp4.10:6.1": "ms18Sn_1030, sc6, vnp853, vns860",
   "snp4.10:7.1": "ms18Sn_1031, ndp20.401, sc7, vnp854, vns861",
   "snp4.10:8.1": "ms18Sn_1032, sc8, vnp855, vns862",

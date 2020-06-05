@@ -4,7 +4,7 @@
   "cp15:3.1": "ms21Cp_204, msdiv39, sc3",
   "cp15:4.1": "bj38.286, ms21Cp_205, msdiv40, sc4",
   "cp15:5.1": "mc2.605, ms21Cp_206, msdiv41, sc5",
-  "cp15:6.1": "ms21Cp_207, msdiv42, pts-vp-pli2ed18, sc6, sya2ed33.573",
+  "cp15:6.1": "ms21Cp_207, msdiv42, pts-vp-pli2ed18, sc6, sya33.573",
   "cp15:7.1": "ms21Cp_208, msdiv43, sc7, vri58.389",
   "cp15:8.1": "csp1ed21.403, csp2ed21.403, ms21Cp_209, msdiv44, sc8",
   "cp15:9.1": "ms21Cp_210, msdiv45, sc9",

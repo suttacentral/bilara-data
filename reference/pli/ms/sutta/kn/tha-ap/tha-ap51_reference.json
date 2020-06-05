@@ -3,7 +3,7 @@
   "tha-ap51:2.1": "ms20Ap1_1326, msdiv102, sc2",
   "tha-ap51:3.1": "dr32.150, ms20Ap1_1327, msdiv103, ndp27.119, sc3",
   "tha-ap51:4.1": "ms20Ap1_1328, msdiv104, sc4",
-  "tha-ap51:5.1": "mc1.144, ms20Ap1_1329, msdiv105, sc5, sya2ed32.144",
+  "tha-ap51:5.1": "mc1.144, ms20Ap1_1329, msdiv105, sc5, sya32.144",
   "tha-ap51:6.1": "ms20Ap1_1330, msdiv106, sc6",
   "tha-ap51:7.1": "ms20Ap1_1331, msdiv107, sc7",
   "tha-ap51:8.1": "ms20Ap1_1332, msdiv108, sc8, vri57.99",
@@ -14,7 +14,7 @@
   "tha-ap51:13.1": "ms20Ap1_1337, msdiv113, sc13",
   "tha-ap51:14.1": "ms20Ap1_1338, msdiv114, sc14",
   "tha-ap51:15.1": "ms20Ap1_1339, sc15",
-  "tha-ap51:16.1": "mc1.145, ms20Ap1_1340, msdiv115, ndp27.120, pts-vp-pli1.101, sc16, sya2ed32.145",
+  "tha-ap51:16.1": "mc1.145, ms20Ap1_1340, msdiv115, ndp27.120, pts-vp-pli1.101, sc16, sya32.145",
   "tha-ap51:17.1": "ms20Ap1_1341, msdiv116, sc17",
   "tha-ap51:18.1": "ms20Ap1_1342, msdiv117, sc18",
   "tha-ap51:19.1": "ms20Ap1_1343, msdiv118, sc19",
@@ -24,6 +24,6 @@
   "tha-ap51:23.1": "ms20Ap1_1347, msdiv122, sc23, vri57.100",
   "tha-ap51:24.1": "csp1ed20.113, csp2ed20.113, ms20Ap1_1348, msdiv123, sc24",
   "tha-ap51:25.1": "mc1.146, ms20Ap1_1349, msdiv124, sc25",
-  "tha-ap51:26.1": "ms20Ap1_1350, sc26, sya2ed32.146",
+  "tha-ap51:26.1": "ms20Ap1_1350, sc26, sya32.146",
   "tha-ap51:27.1": "ms20Ap1_1351, sc27"
 }

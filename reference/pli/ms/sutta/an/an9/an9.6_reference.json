@@ -1,13 +1,13 @@
 {
-  "an9.6:1.1": "bj22.390, dr23.395, ms17A9_60, msdiv6, sc1, sya2ed23.379",
+  "an9.6:1.1": "bj22.390, dr23.395, ms17A9_60, msdiv6, sc1, sya23.379",
   "an9.6:2.1": "csp1ed17.175, csp2ed17.175, ms17A9_61, ndp19.15, pts-vp-pli4.366, sc2",
-  "an9.6:3.1": "ms17A9_62, sc3, sya2ed23.18, vri39.184",
-  "an9.6:4.1": "dr23.396, ms17A9_63, sc4, sya2ed23.380",
-  "an9.6:5.1": "bj22.392, ms17A9_64, pts-vp-pli4.367, sc5, sya2ed23.19",
+  "an9.6:3.1": "ms17A9_62, sc3, sya23.18, vri39.184",
+  "an9.6:4.1": "dr23.396, ms17A9_63, sc4, sya23.380",
+  "an9.6:5.1": "bj22.392, ms17A9_64, pts-vp-pli4.367, sc5, sya23.19",
   "an9.6:6.1": "csp1ed17.176, csp2ed17.176, ms17A9_65, ndp19.16, sc6",
-  "an9.6:7.1": "dr23.397, ms17A9_66, pts-vp-pli4.368, sc7, sya2ed23.381, vri39.185",
-  "an9.6:8.1": "ms17A9_67, sc8, sya2ed23.20",
-  "an9.6:9.1": "bj22.394, csp1ed17.177, csp2ed17.177, ms17A9_68, sc9, sya2ed23.382",
-  "an9.6:10.1": "dr23.398, ms17A9_69, ndp19.17, pts-vp-pli4.369, sc10, sya2ed23.21",
-  "an9.6:11.1": "ms17A9_70, sc11, sya2ed23.383, vri39.186"
+  "an9.6:7.1": "dr23.397, ms17A9_66, pts-vp-pli4.368, sc7, sya23.381, vri39.185",
+  "an9.6:8.1": "ms17A9_67, sc8, sya23.20",
+  "an9.6:9.1": "bj22.394, csp1ed17.177, csp2ed17.177, ms17A9_68, sc9, sya23.382",
+  "an9.6:10.1": "dr23.398, ms17A9_69, ndp19.17, pts-vp-pli4.369, sc10, sya23.21",
+  "an9.6:11.1": "ms17A9_70, sc11, sya23.383, vri39.186"
 }

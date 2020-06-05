@@ -4,7 +4,7 @@
   "iti83:3.1": "ms18It_564, pts-vp-pli77, sc3",
   "iti83:4.1": "ms18It_565, sc4",
   "iti83:5.1": "cck25.234, ms18It_566, sc5",
-  "iti83:6.1": "ms18It_567, sc6, sya2ed25.290",
+  "iti83:6.1": "ms18It_567, sc6, sya25.290",
   "iti83:7.1": "ms18It_568, sc7",
   "iti83:8.1": "ms18It_569, sc8",
   "iti83:9.1": "ms18It_570, sc9",
@@ -16,6 +16,6 @@
   "iti83:15.1": "mc0.300, ms18It_576, sc15, vns170, vri48.57",
   "iti83:16.1": "dr25.331, ms18It_577, sc16, vns171",
   "iti83:17.1": "ms18It_578, sc17, vns172",
-  "iti83:18.1": "ms18It_579, ndp20.235, sc18, sya2ed25.291, vns173",
+  "iti83:18.1": "ms18It_579, ndp20.235, sc18, sya25.291, vns173",
   "iti83:19.1": "ms18It_580, sc19"
 }
