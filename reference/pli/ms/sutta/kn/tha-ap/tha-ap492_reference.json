@@ -1,5 +1,5 @@
 {
-  "tha-ap492:1.1": "bj37.216, ms20Ap1_6393, msdiv190, sc1, vri58.70",
+  "tha-ap492:1.1": "bj37.1.216, ms20Ap1_6393, msdiv190, sc1, vri58.70",
   "tha-ap492:2.1": "ms20Ap1_6394, msdiv191, sc2",
   "tha-ap492:3.1": "ms20Ap1_6395, msdiv192, sc3",
   "tha-ap492:4.1": "ms20Ap1_6396, msdiv193, sc4, sya33.121",
@@ -14,7 +14,7 @@
   "tha-ap492:13.1": "ms20Ap1_6405, msdiv202, ndp28.69, sc13",
   "tha-ap492:14.1": "ms20Ap1_6406, msdiv203, sc14, sya33.122, vri58.71",
   "tha-ap492:15.1": "dr33.128, ms20Ap1_6407, msdiv204, sc15",
-  "tha-ap492:16.1": "bj37.218, ms20Ap1_6408, msdiv205, sc16",
+  "tha-ap492:16.1": "bj37.1.218, ms20Ap1_6408, msdiv205, sc16",
   "tha-ap492:17.1": "ms20Ap1_6409, msdiv206, sc17",
   "tha-ap492:18.1": "csp1ed21.72, csp2ed21.72, mc2.126, ms20Ap1_6410, msdiv207, sc18",
   "tha-ap492:19.1": "ms20Ap1_6411, msdiv208, sc19",
@@ -34,6 +34,6 @@
   "tha-ap492:33.1": "ms20Ap1_6425, sc33",
   "tha-ap492:34.1": "ms20Ap1_6426, sc34",
   "tha-ap492:35.1": "ms20Ap1_6427, sc35",
-  "tha-ap492:36.1": "bj37.220, dr33.130, ms20Ap1_6428, sc36, sya33.124",
+  "tha-ap492:36.1": "bj37.1.220, dr33.130, ms20Ap1_6428, sc36, sya33.124",
   "tha-ap492:37.1": "ms20Ap1_6429, sc37"
 }

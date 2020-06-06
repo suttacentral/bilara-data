@@ -1,5 +1,5 @@
 {
-  "tha-ap532:1.1": "bj37.284, dr33.182, ms20Ap1_6896, msdiv81, sc1",
+  "tha-ap532:1.1": "bj37.1.284, dr33.182, ms20Ap1_6896, msdiv81, sc1",
   "tha-ap532:2.1": "ms20Ap1_6897, msdiv82, sc2",
   "tha-ap532:3.1": "ms20Ap1_6898, msdiv83, sc3",
   "tha-ap532:4.1": "ms20Ap1_6899, msdiv84, pts-vp-pli2.460, sc4",
@@ -12,7 +12,7 @@
   "tha-ap532:11.1": "ms20Ap1_6906, msdiv91, sc11",
   "tha-ap532:12.1": "ms20Ap1_6907, msdiv92, sc12",
   "tha-ap532:13.1": "ms20Ap1_6908, msdiv93, sc13",
-  "tha-ap532:14.1": "bj37.286, ms20Ap1_6909, msdiv94, sc14",
+  "tha-ap532:14.1": "bj37.1.286, ms20Ap1_6909, msdiv94, sc14",
   "tha-ap532:15.1": "mc2.179, ms20Ap1_6910, msdiv95, sc15",
   "tha-ap532:16.1": "ms20Ap1_6911, msdiv96, sc16",
   "tha-ap532:17.1": "ms20Ap1_6912, msdiv97, ndp28.105, sc17",
@@ -20,7 +20,7 @@
   "tha-ap532:19.1": "ms20Ap1_6914, msdiv99, sc19",
   "tha-ap532:20.1": "ms20Ap1_6915, msdiv100, sc20",
   "tha-ap532:21.1": "ms20Ap1_6916, msdiv101, sc21",
-  "tha-ap532:22.1": "bj37.288, csp1ed21.110, csp2ed21.110, ms20Ap1_6917, msdiv102, sc22",
+  "tha-ap532:22.1": "bj37.1.288, csp1ed21.110, csp2ed21.110, ms20Ap1_6917, msdiv102, sc22",
   "tha-ap532:23.1": "mc2.180, ms20Ap1_6918, msdiv103, sc23",
   "tha-ap532:24.1": "ms20Ap1_6919, msdiv104, sc24, vri58.109",
   "tha-ap532:25.1": "ms20Ap1_6920, msdiv105, sc25",
@@ -32,7 +32,7 @@
   "tha-ap532:31.1": "ms20Ap1_6926, msdiv111, sc31",
   "tha-ap532:32.1": "mc2.181, ms20Ap1_6927, msdiv112, sc32",
   "tha-ap532:33.1": "csp1ed21.111, csp2ed21.111, ms20Ap1_6928, msdiv113, sc33",
-  "tha-ap532:34.1": "bj37.290, dr33.186, ms20Ap1_6929, msdiv114, sc34",
+  "tha-ap532:34.1": "bj37.1.290, dr33.186, ms20Ap1_6929, msdiv114, sc34",
   "tha-ap532:35.1": "ms20Ap1_6930, msdiv115, sc35",
   "tha-ap532:36.1": "ms20Ap1_6931, msdiv116, sc36",
   "tha-ap532:37.1": "ms20Ap1_6932, msdiv117, sc37",
@@ -49,6 +49,6 @@
   "tha-ap532:48.1": "ms20Ap1_6943, sc48",
   "tha-ap532:49.1": "ms20Ap1_6944, sc49",
   "tha-ap532:50.1": "ms20Ap1_6945, sc50",
-  "tha-ap532:51.1": "bj37.292, ms20Ap1_6946, sc51, sya33.178",
+  "tha-ap532:51.1": "bj37.1.292, ms20Ap1_6946, sc51, sya33.178",
   "tha-ap532:52.1": "ms20Ap1_6947, sc52"
 }
