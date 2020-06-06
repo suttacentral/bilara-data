@@ -594,5 +594,28 @@
         "url": ""
       }
     ]
+  },
+  "scpub20": {
+    "publication_number": "scpub20",
+    "root_lang": "pli",
+    "translation_lang": "en",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/sutta/kn/pv",
+    "author_uid": "sujato",
+    "author_name": "Bhikkhu Sujato",
+    "author_github_handle": "sujato",
+    "text_uid": "kp",
+    "text_title": "Ghost Stories",
+    "is_published": "false",
+    "publication_status": "",
+    "licence": "CC0",
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "url": ""
+      }
+    ]
   }
 }
