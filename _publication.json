@@ -20,7 +20,7 @@
     "text_uid": "thag",
     "text_title": "Verses of the Senior Monks",
     "text_subtitle": "A translation of the Theragāthā",
-    "text_description": "This translation aims to make a clear, readable, and accurate rendering of the Theragāthā. The initial edition was by Jessica Walton and Bhikkhu Sujato was published in 2014 through SuttaCentral. A revised edition, bringing the terminology in line with the subsequently-translated four Nikāyas, was pblished in 2019.",
+    "text_description": "This translation aims to make a clear, readable, and accurate rendering of the Theragāthā. The initial edition was by Jessica Walton and Bhikkhu Sujato was published in 2014 through SuttaCentral. A revised edition, bringing the terminology in line with the subsequently-translated four Nikāyas, was published in 2019.",
     "is_published": "true",
     "publication_status": "Completed, revision is ongoing.",
     "license": {
@@ -61,7 +61,7 @@
     "text_uid": "dn",
     "text_title": "Long Discourses",
     "text_subtitle": "A translation of the Dīgha Nikāya",
-    "text_description": "<p>This translation was part of a project to translate the four Pali Nikāyas with the following aims:</p><ul><li>plain, approachable English; <li>consistent terminology; <li>accurate rendition of the Pali; <li>free of copyright.</ul><p>It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Tawian.</p>",
+    "text_description": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Tawian.</p>",
     "is_published": "true",
     "publication_status": "Completed, revision is ongoing.",
     "license": {
@@ -91,7 +91,7 @@
     "text_uid": "mn",
     "text_title": "Middle Discourses",
     "text_subtitle": "A translation of the Majjhima Nikāya",
-    "text_description": "<p>This translation was part of a project to translate the four Pali Nikāyas with the following aims:</p><ul><li>plain, approachable English; <li>consistent terminology; <li>accurate rendition of the Pali; <li>free of copyright.</ul><p>It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Tawian.</p>",
+    "text_description": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Tawian.",
     "is_published": "true",
     "publication_status": "Completed, revision is ongoing.",
     "license": {
@@ -133,7 +133,7 @@
     "text_uid": "sn",
     "text_title": "Linked Discourses",
     "text_subtitle": "A translation of the Saṁyutta Nikāya",
-    "text_description": "<p>This translation was part of a project to translate the four Pali Nikāyas with the following aims:</p><ul><li>plain, approachable English; <li>consistent terminology; <li>accurate rendition of the Pali; <li>free of copyright.</ul><p>It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Tawian.</p>",
+    "text_description": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Tawian.",
     "is_published": "true",
     "publication_status": "Completed, revision is ongoing.",
     "license": {
@@ -163,7 +163,7 @@
     "text_uid": "an",
     "text_title": "Numbered Discourses",
     "text_subtitle": "A translation of the Aṅguttara Nikāya",
-    "text_description": "<p>This translation was part of a project to translate the four Pali Nikāyas with the following aims:</p><ul><li>plain, approachable English; <li>consistent terminology; <li>accurate rendition of the Pali; <li>free of copyright.</ul><p>It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Tawian.</p>",
+    "text_description": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Tawian.",
     "is_published": "true",
     "publication_status": "Completed, revision is ongoing.",
     "license": {
@@ -311,7 +311,7 @@
     "text_uid": "mn",
     "text_title": "Mittlere Lehrreden",
     "text_subtitle": "",
-    "text_description": "<p>Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind:</p><ul><li>einfaches, leicht verständliches Deutsch; <li>einheitliche Terminologie; <li>möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; <li>kein Copyright.</ul><p>Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.</p>",
+    "text_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
     "is_published": "true",
     "publication_status": "Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.",
     "license": {
@@ -341,7 +341,7 @@
     "text_uid": "sn",
     "text_title": "Verbundene Lehrreden",
     "text_subtitle": "",
-    "text_description": "<p>Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind:</p><ul><li>einfaches, leicht verständliches Deutsch; <li>einheitliche Terminologie; <li>möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; <li>kein Copyright.</ul><p>Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.</p>",
+    "text_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
     "is_published": "true",
     "publication_status": "Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.",
     "license": {
@@ -371,7 +371,7 @@
     "text_uid": "an",
     "text_title": "Nummerierte Lehrreden",
     "text_subtitle": "",
-    "text_description": "<p>Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind:</p><ul><li>einfaches, leicht verständliches Deutsch; <li>einheitliche Terminologie; <li>möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; <li>kein Copyright.</ul><p>Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.</p>",
+    "text_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
     "is_published": "true",
     "publication_status": "Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.",
     "license": {
@@ -401,7 +401,7 @@
     "text_uid": "dn",
     "text_title": "Lange Lehrreden",
     "text_subtitle": "",
-    "text_description": "<p>Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind:</p><ul><li>einfaches, leicht verständliches Deutsch; <li>einheitliche Terminologie; <li>möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; <li>kein Copyright.</ul><p>Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.</p>",
+    "text_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
     "is_published": "true",
     "publication_status": "Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.",
     "license": {
