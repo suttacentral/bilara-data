@@ -1,6 +1,6 @@
 {
   "pli-tv-kd1:0.3": "ms3V_1",
-  "pli-tv-kd1:1.0": "ms3V_1, sc1",
+  "pli-tv-kd1:1.0.2": "ms3V_1, sc1",
   "pli-tv-kd1:1.1.1": "bj3.2, cck4.1, csp1ed3.1, csp2ed3.1, dr4.1, mc4.1, ms3V_2, msdiv1, ndp3.3, pts-cs1.1, pts-vp-en4.1, pts-vp-pli1.1, sc2, sya4.1, vri89.1",
   "pli-tv-kd1:1.2.1": "pts-cs1.2",
   "pli-tv-kd1:1.2.2": "cck4.2, ms3V_3, pts-vp-en4.2, sc3, vri89.2",
