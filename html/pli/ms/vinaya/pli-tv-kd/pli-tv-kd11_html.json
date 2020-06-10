@@ -2,7 +2,7 @@
   "pli-tv-kd11:0.1": "<article id='pli-tv-kd11'><header><ul><li class='collection'>{}</li>",
   "pli-tv-kd11:0.2": "<li class='division'>{}</li></ul>",
   "pli-tv-kd11:0.3": "<h1 class='sutta-title'>{}</h1></header>",
-  "pli-tv-kd11:0.4": "<h2>{}</h2>",
+  "pli-tv-kd11:1.0.1": "<h2>{}</h2>",
   "pli-tv-kd11:1.1.1": "<p class='namo'>{}</p>",
   "pli-tv-kd11:1.1.2": "<p>{}",
   "pli-tv-kd11:1.1.3": "{}",
