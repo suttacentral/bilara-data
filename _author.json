@@ -23,6 +23,10 @@
     "type": "translator",
     "name": "Gabriel Laera"
   },
+    "patton": {
+    "type": "translator",
+    "name": "Charles patton"
+  },
   "xtest": {
     "type": "translator",
     "name": "Test Project"
