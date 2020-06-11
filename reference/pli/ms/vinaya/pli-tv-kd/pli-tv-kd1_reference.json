@@ -24,7 +24,7 @@
   "pli-tv-kd1:3.3.1": "pts-cs3.3",
   "pli-tv-kd1:3.4.2": "bj3.8, ms3V_18, pts-cs3.4, pts-vp-en4.5, sc18",
   "pli-tv-kd1:3.4.6": "ms3V_19, sc19",
-  "pli-tv-kd1:3.4.10": "ms3V_20, sc20",
+  "pli-tv-kd1:4.1.0": "ms3V_20, sc20",
   "pli-tv-kd1:4.1.1": "cck4.7, dr4.6, mc4.6, ms3V_21, msdiv6, pts-cs4.1, sc21, sya4.7",
   "pli-tv-kd1:4.2.1": "pts-cs4.2, pts-vp-pli1.4",
   "pli-tv-kd1:4.3.1": "csp1ed3.5, csp2ed3.5, ms3V_22, ndp3.6, pts-cs4.3, sc22, vri89.5",
