@@ -492,3 +492,17 @@ get_wrong_uid_with_arrow:
   - tha-ap125:1.1
   - tha-ap402:23.2
   - vv22:9.5
+
+get_duplicated_versus_next_to_each_other:
+  - an2.37:8.1
+  - pli-tv-bu-vb-pc34:1.1.16
+  - pli-tv-bu-vb-pc34:1.1.24
+  - pli-tv-bu-vb-pc34:1.1.9
+  - pli-tv-bu-vb-pc34:1.2.5
+  - pli-tv-kd12:6.1.39
+  - pli-tv-kd7:12.1.12
+  - pli-tv-kd7:12.1.18
+  - pli-tv-kd7:12.1.25
+  - pli-tv-kd7:12.1.32
+  - pli-tv-kd7:12.1.4
+  - pli-tv-pvr7:96.21
