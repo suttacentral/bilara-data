@@ -1,5 +1,5 @@
 ---
-exec_module: 'noop'
+exec_module: 'run_all_checks'
 
 bilara_root_path: "${GITHUB_WORKSPACE}/root/pli/ms"
 bilara_html_path: "${GITHUB_WORKSPACE}/html"
