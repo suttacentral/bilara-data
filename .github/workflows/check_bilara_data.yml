@@ -31,4 +31,4 @@ jobs:
     - name: Install dependencies
       run: pip install -e ./sutta_processor
     - name: Run Bilara-Data checks
-      run: sutta-processor -c ${GITHUB_WORKSPACE}/.github/sc-renumber-segments/settings.yaml
+      run: sutta-processor -c ${GITHUB_WORKSPACE}/.github/settings.yaml

@@ -13,7 +13,7 @@ pali_concordance_filepath: ""
 pali_canon_path: ""
 
 # Based on the report file inside this dir exit status is determined, so keep the path valid
-debug_dir: "${GITHUB_WORKSPACE}/report"
+debug_dir: "${GITHUB_WORKSPACE}/report/"
 # Error level. Print only thing that will show in report file
 log_level: 40
 
