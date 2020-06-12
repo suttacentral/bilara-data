@@ -1,0 +1,17 @@
+---
+exec_module: 'noop'
+
+bilara_root_path: "${GITHUB_WORKSPACE}/root/pli/ms"
+bilara_html_path: "${GITHUB_WORKSPACE}/html"
+bilara_comment_path: "${GITHUB_WORKSPACE}/comment"
+bilara_variant_path: "${GITHUB_WORKSPACE}/variant"
+bilara_translation_path: "${GITHUB_WORKSPACE}/translation"
+reference_root_path: "${GITHUB_WORKSPACE}/reference/pli/ms"
+
+ms_yuttadhammo_path: ""
+pali_concordance_filepath: ""
+pali_canon_path: ""
+
+debug_dir: "${GITHUB_WORKSPACE}/report"
+log_level: 20
+
