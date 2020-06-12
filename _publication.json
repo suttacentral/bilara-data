@@ -594,5 +594,28 @@
         "url": ""
       }
     ]
+  },
+  "scpub20": {
+    "publication_number": "scpub20",
+    "root_lang": "lzh",
+    "translation_lang": "en",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/patton/sutta/sa",
+    "author_uid": "patton",
+    "author_name": "Charles Patton",
+    "author_github_handle": "cdpatton",
+    "text_uid": "sa",
+    "text_title": "Related Discourses",
+    "is_published": "false",
+    "publication_status": "",
+    "licence": "CC0",
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "url": ""
+      }
+    ]
   }
 }

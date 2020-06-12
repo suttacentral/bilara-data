@@ -3,5 +3,10 @@
     "type": "edition",
     "is_root": true,
     "language": "pli"
+  },
+  "cbeta": {
+    "type": "edition",
+    "is_root": true,
+    "language": "lzh"
   }
 }
