@@ -8,7 +8,7 @@ bilara_variant_path: "${GITHUB_WORKSPACE}/variant"
 bilara_translation_path: "${GITHUB_WORKSPACE}/translation"
 reference_root_path: "${GITHUB_WORKSPACE}/reference/pli/ms"
 
-exclude_filepath: "${GITHUB_WORKSPACE}/.github/sc-renumber-segments/exclusion_file.yaml"
+exclude_filepath: "${GITHUB_WORKSPACE}/.github/sc-renumber-segments-exclusion_file.yaml"
 
 ms_yuttadhammo_path: ""
 pali_concordance_filepath: ""
