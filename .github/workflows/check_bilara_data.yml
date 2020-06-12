@@ -7,10 +7,8 @@ on:
     branches: [ master ]
 
 jobs:
-  build:
-
+  run-checks:
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v2
     - name: Checkout sc_renumber_segments
@@ -18,10 +16,10 @@ jobs:
       with:
         repository: suttacentral/sc-renumber-segments
         path: sutta_processor
-    - name: Set up Python 3.8
+    - name: Set up Python 3.7
       uses: actions/setup-python@v2
       with:
-        python-version: 3.8
+        python-version: 3.7
     - name: Cache pip
       uses: actions/cache@v2
       with:
@@ -31,9 +29,6 @@ jobs:
           ${{ runner.os }}-pip-
           ${{ runner.os }}-
     - name: Install dependencies
-      run: |
-        pip install -r sutta_processor/requirements.txt
-        pip install -e ./sutta_processor
-    - name: Test with pytest
-      run: |
-        pytest
+      run: pip install -e ./sutta_processor
+    - name: Run Bilara-Data checks
+      run: sutta-processor -c ${GITHUB_WORKSPACE}/.github/sc-renumber-segments-settings.yaml
