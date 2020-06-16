@@ -618,4 +618,32 @@
       }
     ]
   }
+},
+"scpub21": {
+    "publication_number": "scpub20",
+    "root_lang": "en",
+    "translation_lang": "de",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/de/blurb",
+    "collaborator": [
+      {
+        "collaborator_uid": "sabbamitta",
+        "author_name": "Anagarika Sabbamitta",
+        "author_github_handle": "sabbamitta"
+      }
+    ],
+    "text_uid": "blurb",
+    "text_title": "Blurbs",
+    "is_published": "false",
+    "publication_status": "",
+    "licence": "CC0",
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "url": ""
+      }
+    ]
+  }
 }
