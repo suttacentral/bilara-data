@@ -1,0 +1,998 @@
+{
+  "ms15A1_440 - ms15A1_456": {
+    "bilara_extra_words": "‘jānāmi ‘jānāmi ‘jānāmi ‘jānāmi ‘jānāmi ‘jānāmi ‘jānāmi ‘jānāmi",
+    "yuttadhammo_extra_words": "‘ānāmi ‘ānāmi ‘ānāmi ‘ānāmi ‘ānāmi ‘ānāmi ‘ānāmi ‘ānāmi"
+  },
+  "ms15A1_87 - ms15A1_105": {
+    "bilara_extra_words": "evam’idhekacce evam’idhekacce",
+    "yuttadhammo_extra_words": "evamidhekacce evamidhekacce"
+  },
+  "ms15A1_173 - ms15A1_203": {
+    "bilara_extra_words": "ayonisomanasikāro",
+    "yuttadhammo_extra_words": "ayoniso manasikāro"
+  },
+  "ms17A10_1500 - ms17A10_1511": {
+    "bilara_extra_words": "m’idhekacce evam’idhekacce m’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce",
+    "yuttadhammo_extra_words": "midhekacce evamidhekacce midhekacce evamidhekacce evamidhekacce evamidhekacce"
+  },
+  "ms17A10_836 - ms17A10_846": {
+    "bilara_extra_words": "m’idhekacce",
+    "yuttadhammo_extra_words": "midhekacce"
+  },
+  "ms17A11_220 - ms17A11_220": {
+    "bilara_extra_words": "rūpavitakke saddavitakke gandhavitakke rasavitakke phoṭṭhabbavitakke dhammavitakke",
+    "yuttadhammo_extra_words": "rūpasañcetanāya saddasañcetanāya gandhasañcetanāya rasasañcetanāya phoṭṭhabbasañcetanāya dhammasañcetanāya"
+  },
+  "ms15A2_30 - ms15A2_52": {
+    "bilara_extra_words": "m’idhekacce evam’idhekacce m’idhekacce evam’idhekacce m’idhekacce evam’idhekacce m’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce",
+    "yuttadhammo_extra_words": "midhekacce evamidhekacce midhekacce evamidhekacce midhekacce evamidhekacce midhekacce evamidhekacce evamidhekacce evamidhekacce"
+  },
+  "ms15A4_930 - ms15A4_938": {
+    "bilara_extra_words": "pahātabbo’t",
+    "yuttadhammo_extra_words": "pahātabbo’ti"
+  },
+  "ms15A4_1011 - ms15A4_1020": {
+    "bilara_extra_words": "m’idhekacce m’idhekacce m’idhekacce m’idhekacce",
+    "yuttadhammo_extra_words": "midhekacce midhekacce midhekacce midhekacce"
+  },
+  "ms15A4_1081 - ms15A4_1083": {
+    "bilara_extra_words": "m’idhekacce m’idhekacce m’idhekacce m’idhekacce",
+    "yuttadhammo_extra_words": "midhekacce midhekacce midhekacce midhekacce"
+  },
+  "ms15A4_223 - ms15A4_228": {
+    "bilara_extra_words": "sīhassevitare migā",
+    "yuttadhammo_extra_words": "sīhassevitaremigā"
+  },
+  "ms16A5_840 - ms16A5_846": {
+    "bilara_extra_words": "paṭikūlasaññī appaṭikūle vihareyya",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms16A5_1104 - ms16A5_1119": {
+    "bilara_extra_words": "suṇohhi",
+    "yuttadhammo_extra_words": "suṇohi"
+  },
+  "ms16A6_150 - ms16A6_157": {
+    "bilara_extra_words": "evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce",
+    "yuttadhammo_extra_words": "evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce"
+  },
+  "ms16A6_159 - ms16A6_166": {
+    "bilara_extra_words": "evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce",
+    "yuttadhammo_extra_words": "evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce"
+  },
+  "ms17A8_56 - ms17A8_68": {
+    "bilara_extra_words": "m’idhekacce",
+    "yuttadhammo_extra_words": "midhekacce"
+  },
+  "ms17A9_20 - ms17A9_38": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "kāmavitakko byāpādavitakko vihiṃsāvitakko"
+  },
+  "ms18Dh_108 - ms18Dh_122": {
+    "bilara_extra_words": "yo ca vassasataṃ jīve apassaṃ dhammamuttamaṃ ekāhaṃ jīvitaṃ seyyo passato dhammamuttamaṃ sahassavaggo aṭṭhamo",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms18Dh_125 - ms18Dh_136": {
+    "bilara_extra_words": "na antalikkhe na samuddamajjhe na pabbatānaṃ vivaraṃ pavissa na vijjatī so jagatippadeso yatthaṭṭhitaṃ nappasaheyya maccu pāpavaggo navamo",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms18Dh_180 - ms18Dh_190": {
+    "bilara_extra_words": "pathabyā ekarajjena saggassa gamanena vā sabbalokādhipaccena sotāpattiphalaṃ varaṃ lokavaggo terasamo",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms18Dh_23 - ms18Dh_32": {
+    "bilara_extra_words": "appamādarato bhikkhu pamāde bhayadassi vā saṃyojanaṃ aṇuṃ thūlaṃ ḍahaṃ aggīva gacchati appamādarato bhikkhu pamāde bhayadassi vā abhabbo parihānāya nibbānasseva santike appamādavaggo dutiyo",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms18Dh_411 - ms18Dh_467": {
+    "bilara_extra_words": "jotikattheravatthu paṇḍitavaggeekādasa malavaggedvādasa",
+    "yuttadhammo_extra_words": "paṇḍitavagge malavagge vaggānamuddānaṃ gāthānamuddānaṃ ekādasa dvādasa dhammapade"
+  },
+  "ms18Dh_65 - ms18Dh_79": {
+    "bilara_extra_words": "aññā hi lābhūpanisā aññā nibbānagāminī evametaṃ abhiññāya bhikkhu buddhassa sāvako sakkāraṃ nābhinandeyya vivekamanubrūhaye bālavaggo pañcamo",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms7D_596 - ms7D_642": {
+    "bilara_extra_words": "‘idaṃ kusalan’ti ‘idaṃ akusalan’ti ‘idaṃ kaṇhasukkasappaṭibhāgan’ti ‘idaṃ kusalan’ti ‘idaṃ akusalan’ti ‘idaṃ kaṇhasukkasappaṭibhāgan’ti ‘svākkhāto dvārā’ti",
+    "yuttadhammo_extra_words": "paccekapallaṃkesu ‘ kusalan ’ ‘ akusalan ’ ‘ kaṇhasukkasappaṭibhāgan ’ ‘ kusalan ’ ‘ akusalan ’ ‘ idaṃ idaṃ idaṃ idaṃ idaṃ idaṃ kaṇhasukkasappaṭibhāgan ’ ti ti ti ‘ ’ ti svākkhāto dvārā ti ti ti"
+  },
+  "ms7D_644 - ms7D_744": {
+    "bilara_extra_words": "‘bhavamatthu dassanakāmo’ ‘mayaṃ rajjenā’ ‘disampati vacanan’ ‘rājā āmantetī’ ‘sakkhi mantetī’ti ‘yo mantetī’ti ‘sakkhi mantetī’ti ‘yo mantetī’ti ‘sakkhi mantetī’ti ‘yo mantetī’ti ‘sakkhi mantetī’ti ‘yo mantetī’ti ‘sakkhi mantetī’ti ‘yo mantetī’ti ‘yo mantetī’ti ‘hitvā mamattan’ti ‘hitvā mamattan’ti ‘ekodibhūto’ti ‘ekodibhūto’ti ‘karuṇedhimutto’ti ‘karuṇedhimutto’ti ‘pabbajjā mahālābhañcā’ti",
+    "yuttadhammo_extra_words": "‘ ’ bhavamatthu dassanakāmo ‘ ’ rajjenā ‘ ’ disampati vacanan ‘ ’ āmantetī ‘ mantetī ’ ‘ mantetī ’ ‘ mantetī ’ ‘ mantetī ’ ‘ sakkhi mantetī ’ ‘ mantetī ’ ‘ sakkhi sakkhi mantetī ’ ‘ mantetī ’ ‘ sakkhi sakkhi mantetī ’ ‘ yo mantetī ’ ‘ yo mantetī ’ ‘ hitvā mamattan ’ ‘ hitvā mamattan ’ ‘ ekodibhūto ’ ‘ ekodibhūto ’ ‘ karuṇedhimutto ’ ‘ karuṇedhimutto ’ rājā yo yo yo ti ti ti ti ti ti mayaṃ ti ti yo ti ti ‘ mahālābhañcā ’ ti ti ti ti ti ti ti pabbajjā ti"
+  },
+  "ms7D_1090 - ms7D_1149": {
+    "bilara_extra_words": "m’idhekacce m’idhekacce m’idhekacce m’idhekacce m’idhekacce m’idhekacce m’idhekacce m’idhekacce m’idhekacce",
+    "yuttadhammo_extra_words": "midhekacce midhekacce midhekacce midhekacce midhekacce midhekacce midhekacce midhekacce midhekacce"
+  },
+  "ms8D_641 - ms8D_771": {
+    "bilara_extra_words": "dhataraṭṭho’ti",
+    "yuttadhammo_extra_words": "‘dhataraṭṭho’ti"
+  },
+  "ms6D_624 - ms6D_628": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms29Dhs_2 - ms29Dhs_68": {
+    "bilara_extra_words": "tikamātikā",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms29Dhs_282 - ms29Dhs_367": {
+    "bilara_extra_words": "suttantikadukamātikā",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms29Dhs_1068 - ms29Dhs_1094": {
+    "bilara_extra_words": "rūpāvacarakiriyā",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms29Dhs_566 - ms29Dhs_713": {
+    "bilara_extra_words": "catasso paṭipadā cattāri ārammaṇāni aṭṭhakasiṇaṃ soḷasakkhattukaṃ catasso paṭipadā dve ārammaṇāni aṭṭhakkhattukaṃ idampi aṭṭhakkhattukaṃ catasso paṭipadā dve ārammaṇāni aparampi aṭṭhakkhattukaṃ idampi aṭṭhakkhattukaṃ abhibhāyatanāni imānipi soḷasakkhattukāni cattāri brahmavihārajhānāni soḷasakkhattukāni soḷasakkhattukaṃ",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms29Dhs_731 - ms29Dhs_830": {
+    "bilara_extra_words": "suddhikapaṭipadā suññatamūlakapaṭipadā appaṇihitamūlakapaṭipadā",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms29Dhs_991 - ms29Dhs_1051": {
+    "bilara_extra_words": "suddhikapaṭipadā suññatapaṭipadā appaṇihitapaṭipadā chandādhipateyyasuddhikapaṭipadā",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms18It_832 - ms18It_852": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "suttasaṃgaho"
+  },
+  "ms18It_103 - ms18It_112": {
+    "bilara_extra_words": "evam’idhekacce",
+    "yuttadhammo_extra_words": "evamidhekacce"
+  },
+  "ms18It_113 - ms18It_118": {
+    "bilara_extra_words": "evam’idhekacce",
+    "yuttadhammo_extra_words": "evamidhekacce"
+  },
+  "ms18It_155 - ms18It_170": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "tassuddānaṃ"
+  },
+  "ms18It_313 - ms18It_325": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "tassuddānaṃ"
+  },
+  "ms23J_3001 - ms23J_3803": {
+    "bilara_extra_words": "cūḷavanavaṇṇanā mahāvanavaṇṇanā",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms18Kh_20 - ms18Kh_30": {
+    "bilara_extra_words": "kumārapañhā",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms32Kv_622 - ms32Kv_724": {
+    "bilara_extra_words": "vādayutti",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms32Kv_1020 - ms32Kv_1050": {
+    "bilara_extra_words": "sattakkhattupar mo",
+    "yuttadhammo_extra_words": "sattakkhattuparamo"
+  },
+  "ms11M_88 - ms11M_115": {
+    "bilara_extra_words": "‘āyatiṃsaṃvareyyāsī’ti",
+    "yuttadhammo_extra_words": "‘āyatiṃ saṃvareyyāsī’ti"
+  },
+  "ms9M_905 - ms9M_931": {
+    "bilara_extra_words": "‘ye vihareyyāmā’ti",
+    "yuttadhammo_extra_words": "‘ ’ vihareyyāmā ye ti"
+  },
+  "ms9M_1442 - ms9M_1477": {
+    "bilara_extra_words": "m’idhekacce m’idhekacce evam’idhekacce evam’idhekacce ‘apassaṃ evam’idhekacce na evam’idhekacce",
+    "yuttadhammo_extra_words": "midhekacce midhekacce evamidhekacce evamidhekacce evamidhekacce apassaṃ ‘na evamidhekacce"
+  },
+  "ms9M_1479 - ms9M_1500": {
+    "bilara_extra_words": "m’idhekacce m’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce",
+    "yuttadhammo_extra_words": "midhekacce midhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce"
+  },
+  "ms10M_837 - ms10M_885": {
+    "bilara_extra_words": "upaniyyati",
+    "yuttadhammo_extra_words": "‘upaniyyati"
+  },
+  "ms27Ne_611 - ms27Ne_1143": {
+    "bilara_extra_words": "evam’idhekacce evam’idhekacce",
+    "yuttadhammo_extra_words": "evamidhekacce evamidhekacce"
+  },
+  "ms36P1_1 - ms36P1_118": {
+    "bilara_extra_words": "kālesahajātapaccayena kabaḷīkāroāhāro",
+    "yuttadhammo_extra_words": "sahajātapaccayena kāle kabaḷīkāro āhāro"
+  },
+  "ms36P1_119 - ms36P1_1795": {
+    "bilara_extra_words": "gaṇanā hetumūlakā arūpekusalaṃ kilesepaccavekkhanti kilesepaccavekkhanti aññama¥atanññe",
+    "yuttadhammo_extra_words": "arūpe kilese kilese kusalaṃ paccavekkhanti paccavekkhanti aññamaññe pe"
+  },
+  "ms37P1_2760 - ms37P1_2870": {
+    "bilara_extra_words": "āhāroajjhattassa āhārobahiddhā āhāroajjhattassa",
+    "yuttadhammo_extra_words": "āhāro āhāro āhāro ajjhattassa ajjhattassa bahiddhā"
+  },
+  "ms36P1_2437 - ms36P1_2805": {
+    "bilara_extra_words": "āhāroupādinnupādāniyassa āhāroanupādinnupādāniyassa āhāroupādinnupādāniyassa āhāroanupādinnupādāniyassa āhāroupādinnupādāniyassa āhāroupādinnupādāniyassa",
+    "yuttadhammo_extra_words": "āhāro āhāro āhāro āhāro āhāro āhāro upādinnupādāniyassa upādinnupādāniyassa anupādinnupādāniyassa upādinnupādāniyassa anupādinnupādāniyassa upādinnupādāniyassa"
+  },
+  "ms37P1_790 - ms37P1_1054": {
+    "bilara_extra_words": "purejātaṃvatthu purejātaṃvatthu purejātaṃcakkhuṃ purejātaṃcakkhuṃ",
+    "yuttadhammo_extra_words": "cakkhuṃ purejātaṃ cakkhuṃ purejātaṃ vatthu vatthu purejātaṃ purejātaṃ"
+  },
+  "ms40P13_1 - ms40P13_23": {
+    "bilara_extra_words": "paccanīya",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms40P13_24 - ms40P13_32": {
+    "bilara_extra_words": "paccanīya",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms40P14_169 - ms40P14_186": {
+    "bilara_extra_words": "paccanīya",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms40P16_1 - ms40P16_15": {
+    "bilara_extra_words": "paccanīya",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms40P19_1 - ms40P19_41": {
+    "bilara_extra_words": "paccanīya",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms38P2_1 - ms38P2_544": {
+    "bilara_extra_words": "sahajātādhipatinahetu",
+    "yuttadhammo_extra_words": "sahajātādhipati nahetu"
+  },
+  "ms38P2_2317 - ms38P2_3526": {
+    "bilara_extra_words": "rūpajīvitindriyaṃkaṭattārūpānaṃ āhāroimassa",
+    "yuttadhammo_extra_words": "nissayavāro paccayavārasadiso rūpajīvitindriyaṃ kaṭattārūpānaṃ āhāro imassa"
+  },
+  "ms38P2_4056 - ms38P2_4841": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "nissayavāropi nissayavāropi nissayavāropi itare gaṇanāpi itare gaṇanāpi kātabbo evaṃ itare gaṇanāpi nissayavāropi kātabbo evaṃ itare gaṇanāpi kātabbo evaṃ nissayavāropi evaṃ itare gaṇanāpi kātabbo evaṃ kātabbo evaṃ itare gaṇanāpi nissayavāropi kātabbo evaṃ itare gaṇanāpi sampayuttavāropi kātabbo dve dve dve dve dve dve dve"
+  },
+  "ms38P2_969 - ms38P2_1321": {
+    "bilara_extra_words": "nānākkhaṇikāāsavavippayuttā",
+    "yuttadhammo_extra_words": "nānākkhaṇikā āsavavippayuttā"
+  },
+  "ms40P20_153 - ms40P20_167": {
+    "bilara_extra_words": "paccanīya",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms40P21_313 - ms40P21_360": {
+    "bilara_extra_words": "paccanīya",
+    "yuttadhammo_extra_words": "naanidassanaappaṭighaṃ anidassanaappaṭigho nasaraṇaṃ dhammaṃ paṭicca araṇo uppajjati ekaṃ ekaṃ hetupaccayā dhammo saṃkhittaṃ hetuyā adhipatiyā ekaṃ pe avigate"
+  },
+  "ms39P3_1473 - ms39P3_1590": {
+    "bilara_extra_words": "paccanīya",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms39P3_1591 - ms39P3_1703": {
+    "bilara_extra_words": "paccanīya",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms39P3_1704 - ms39P3_1802": {
+    "bilara_extra_words": "paccanīya",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms39P3_1896 - ms39P3_1958": {
+    "bilara_extra_words": "paccanīya",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms39P4_922 - ms39P4_1090": {
+    "bilara_extra_words": "paccanīya",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms39P4_1091 - ms39P4_1223": {
+    "bilara_extra_words": "paccanīya",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms39P6_1 - ms39P6_304": {
+    "bilara_extra_words": "paccanīya",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms27Pe_151 - ms27Pe_360": {
+    "bilara_extra_words": "evam’idhekacce",
+    "yuttadhammo_extra_words": "evamidhekacce"
+  },
+  "ms2V_2552 - ms2V_2564": {
+    "bilara_extra_words": "dutiya pattavagga pariṇatasikkhāpada",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms2V_2483 - ms2V_2493": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe ummattikāya"
+  },
+  "ms2V_2566 - ms2V_2578": {
+    "bilara_extra_words": "niṭṭhitaṃ",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms2V_2851 - ms2V_2860": {
+    "bilara_extra_words": "pe",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms2V_3517 - ms2V_3527": {
+    "bilara_extra_words": "dhammikavagga nandasikkhāpada",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms2V_3544 - ms2V_3561": {
+    "bilara_extra_words": "telanā telanā bhuñjissāmī ti telaṃ telaṃ telaṃ",
+    "yuttadhammo_extra_words": "dadhinā dadhinā bhuñjissāmīti dadhiṃ dadhiṃ dadhiṃ"
+  },
+  "ms2V_2344 - ms2V_2367": {
+    "bilara_extra_words": "‘suṇātu",
+    "yuttadhammo_extra_words": "suṇātu"
+  },
+  "ms2V_2394 - ms2V_2423": {
+    "bilara_extra_words": "kuladūsakasikkhāpada",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms1V_2135 - ms1V_2157": {
+    "bilara_extra_words": "kevametaṃ",
+    "yuttadhammo_extra_words": "evametaṃ"
+  },
+  "ms1V_2158 - ms1V_2175": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms1V_2252 - ms1V_2272": {
+    "bilara_extra_words": "tukkuṭikaṃ",
+    "yuttadhammo_extra_words": "ukkuṭikaṃ"
+  },
+  "ms2V_350 - ms2V_369": {
+    "bilara_extra_words": "‘ ko",
+    "yuttadhammo_extra_words": "‘ko"
+  },
+  "ms2V_370 - ms2V_379": {
+    "bilara_extra_words": "‘ bhagavatā",
+    "yuttadhammo_extra_words": "‘bhagavatā"
+  },
+  "ms2V_29 - ms2V_110": {
+    "bilara_extra_words": "‘ ‘ kissa gaccha ‘ mayhaṃ ‘ gaccha",
+    "yuttadhammo_extra_words": "‘gaccha ‘kissa ‘mayhaṃ ‘gaccha"
+  },
+  "ms2V_473 - ms2V_483": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms2V_484 - ms2V_516": {
+    "bilara_extra_words": "iṭṭhena",
+    "yuttadhammo_extra_words": "diṭṭhena"
+  },
+  "ms2V_548 - ms2V_557": {
+    "bilara_extra_words": "‘ na ummattakassa ādikammikassāti",
+    "yuttadhammo_extra_words": "‘na"
+  },
+  "ms2V_1088 - ms2V_1118": {
+    "bilara_extra_words": "vikāle sīsaṃ nahāyitvā nagaradvāre thakite bahinagare vasitvā vilepanena yena tenupasaṃkami kālasseva asambhinnena rājā māgadho seniyo bimbisāro atha bhagavā kho",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms2V_1152 - ms2V_1170": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms2V_220 - ms2V_294": {
+    "bilara_extra_words": "tatiyaṃ jhānaṃ",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms2V_1585 - ms2V_1598": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms1V_2 - ms1V_190": {
+    "bilara_extra_words": "antomano līnamano dukkhī dummano pajjhāyasi agihibhāvaṃ vinītavatthuuddānagāthā vippaṭisārī",
+    "yuttadhammo_extra_words": "gihibhāvaṃ"
+  },
+  "ms1V_191 - ms1V_375": {
+    "bilara_extra_words": "parapariggahitaṃ vinītavatthuuddānagāthā",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms1V_376 - ms1V_533": {
+    "bilara_extra_words": "attanāpi vinītavatthuuddānagāthā piṭṭhiyaṃ gahetvā paṇāmesi",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms1V_534 - ms1V_773": {
+    "bilara_extra_words": "tīhākārehi vinītavatthuuddānagāthā pe",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms2V_1730 - ms2V_1734": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1735 - ms2V_1739": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1740 - ms2V_1744": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1745 - ms2V_1749": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1750 - ms2V_1754": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1755 - ms2V_1759": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1760 - ms2V_1764": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1765 - ms2V_1769": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1770 - ms2V_1774": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1775 - ms2V_1779": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1690 - ms2V_1694": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1780 - ms2V_1784": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1785 - ms2V_1789": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1790 - ms2V_1794": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1795 - ms2V_1799": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1800 - ms2V_1804": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1805 - ms2V_1809": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1810 - ms2V_1814": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1815 - ms2V_1819": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1820 - ms2V_1824": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1825 - ms2V_1829": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1695 - ms2V_1699": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1830 - ms2V_1834": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1835 - ms2V_1839": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1840 - ms2V_1844": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1845 - ms2V_1849": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1850 - ms2V_1854": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1855 - ms2V_1859": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1860 - ms2V_1864": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1874 - ms2V_1878": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1700 - ms2V_1704": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1884 - ms2V_1888": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1889 - ms2V_1893": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1894 - ms2V_1898": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1899 - ms2V_1903": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1909 - ms2V_1913": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1919 - ms2V_1923": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1929 - ms2V_1933": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1705 - ms2V_1709": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1945 - ms2V_1949": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1984 - ms2V_1989": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1990 - ms2V_1995": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1710 - ms2V_1714": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1996 - ms2V_2001": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_2002 - ms2V_2006": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_2007 - ms2V_2011": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_2012 - ms2V_2017": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_2018 - ms2V_2022": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_2023 - ms2V_2027": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_2028 - ms2V_2033": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_2034 - ms2V_2039": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_2040 - ms2V_2044": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1715 - ms2V_1719": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_2057 - ms2V_2061": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_2062 - ms2V_2066": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_2067 - ms2V_2071": {
+    "bilara_extra_words": "terasamasikkhāpadaṃ",
+    "yuttadhammo_extra_words": "pe dvādasamasikkhāpadaṃ"
+  },
+  "ms2V_2072 - ms2V_2076": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_2077 - ms2V_2081": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1720 - ms2V_1724": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms2V_1725 - ms2V_1729": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe āpadāsu"
+  },
+  "ms1V_775 - ms1V_992": {
+    "bilara_extra_words": "‘ sañcetanikā vinītavatthuuddānagāthā",
+    "yuttadhammo_extra_words": "‘sañcetanikā"
+  },
+  "ms1V_1753 - ms1V_1801": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "hatthissapi purato dhāvissanti assassapi purato dhāvissanti rathassapi purato dhāvissantipi ādhāvissantipi vā"
+  },
+  "ms1V_993 - ms1V_1132": {
+    "bilara_extra_words": "vinītavatthuuddānagāthā",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms1V_1133 - ms1V_1179": {
+    "bilara_extra_words": "vinītavatthuuddānagāthā",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms1V_1180 - ms1V_1219": {
+    "bilara_extra_words": "uādikammikassāti vinītavatthuuddānagāthā",
+    "yuttadhammo_extra_words": "ādikammikassāti"
+  },
+  "ms1V_1220 - ms1V_1416": {
+    "bilara_extra_words": "ummattakassa ādikammikassāti vinītavatthuuddānagāthā",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms3V_2 - ms3V_579": {
+    "bilara_extra_words": "« » nissayamuccanakakathā ‘ suṇātu",
+    "yuttadhammo_extra_words": "‘suṇātu"
+  },
+  "ms3V_1945 - ms3V_2044": {
+    "bilara_extra_words": "aṭṭhārasavatthukathā",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms4V_1 - ms4V_373": {
+    "bilara_extra_words": "dhammakammadvādasaka ākaṃkhamānachakka aṭṭhārasavatta paṭippassambhetabbaaṭṭhārasaka dhammakammadvādasaka ākaṃkhamānacuddasaka paṭippassambhetabbaaṭṭhārasaka dhammakammadvādasaka paṭippassambhetabbaaṭṭhārasaka dhammakammadvādasaka ākaṃkhamānachakka adhammakammadvādasaka dhammakammadvādasaka ākaṃkhamānachakka tecattālīsavatta nappaṭippassambhetabbatecattālīsaka paṭippassambhetabbatecattālīsaka dhammakammadvādasaka ākaṃkhamānachakka tecattālīsavatta paṭippassambhetabbatecattālīsaka",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms4V_374 - ms4V_497": {
+    "bilara_extra_words": "kammaṃ garahitabbaṃ kammikā garahitabbā pakatattānaṃ bhikkhūnaṃ caṃkamante caṃkame caṃkamitabbaṃ caṃkamante caṃkame caṃkamitabbaṃ na abhivādanaṃ caṃkame chamāyaṃ na",
+    "yuttadhammo_extra_words": "pakatattena bhikkhunā saddhiṃ ekāsane nisīditabbaṃ nisinne āsane nisīditabbaṃ āsane"
+  },
+  "ms4V_498 - ms4V_784": {
+    "bilara_extra_words": "appaṭicchannamānatta",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms4V_785 - ms4V_1009": {
+    "bilara_extra_words": "adhikaraṇavūpasamanasamatha sammukhāvinaya",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms4V_1010 - ms4V_1258": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "udakena otthariyyati uccavatthukaṃ cinituṃ iṭṭhakācayaṃ silācayaṃ dārucayan ārohantā sopāne iṭṭhakāsopānaṃ silāsopānaṃ dārusopānan ārohantā ālambanabāhan paripatanti kātun koṭṭhako paripatati anujānāmi pe anujānāmi bhikkhave pe anujānāmi bhikkhave pe ti pe bhikkhave ti hoti ti anujānāmi bhikkhave ti nīcavatthuko caye vihaññanti cayo tayo tayo"
+  },
+  "ms4V_1259 - ms4V_1491": {
+    "bilara_extra_words": "mañcapīṭhādianujānana bhattuddesakasammuti sāṭiyaggāhāpakādisammuti",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms4V_1492 - ms4V_1654": {
+    "bilara_extra_words": "lohituppādakakamma pañcavatthuyācanakathā",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms4V_1655 - ms4V_1853": {
+    "bilara_extra_words": "ācariyavattakathā antevāsikavattakathā",
+    "yuttadhammo_extra_words": "saccaṃ bhagavā ti"
+  },
+  "ms4V_1854 - ms4V_1963": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "tatrime bhūtā"
+  },
+  "ms3V_953 - ms3V_1126": {
+    "bilara_extra_words": "sabhāgāpattipaṭikammavidhi liṃgādidassana nānāsaṃvāsakādīhipavāraṇā nagantabbavāra gantabbavāra",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms3V_1198 - ms3V_1387": {
+    "bilara_extra_words": "and shell sunidhavassakāravatthu",
+    "yuttadhammo_extra_words": "saṃkhanābhimayan ti"
+  },
+  "ms3V_1388 - ms3V_1557": {
+    "bilara_extra_words": "vippakatasamādāyapannarasaka",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms3V_1558 - ms3V_1773": {
+    "bilara_extra_words": "seṭṭhibhariyāvatthu siveyyakadussayugakathā varayācanākathā",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms3V_1774 - ms3V_1944": {
+    "bilara_extra_words": "pārivāsikādikathā paṭinissajetā pabbājanīyakammapaṭippassaddhikathā paṭisāraṇīyakammapaṭippassaddhikathā adassaneukkhepanīyakammapaṭippassaddhikathā appaṭikammeukkhepanīyakammapaṭippassaddhikathā appaṭinissaggeukkhepanīyakammapaṭippassaddhikathā paṭisāraṇīyakammavivādakathā adassaneukkhepanīyakammavivādakathā appaṭikammeukkhepanīyakammavivādakathā appaṭinissaggeukkhepanīyakammavivādakathā pabbājanīyakammapaṭippassaddhikathā paṭisāraṇīyakammapaṭippassaddhikathā adassaneukkhepanīyakammapaṭippassaddhikathā appaṭikammeukkhepanīyakammapaṭippassaddhikathā appaṭinissaggeukkhepanīyakammapaṭippassaddhikathā",
+    "yuttadhammo_extra_words": "dunnissārito nissāreti tañce paṭinissajjetā saṃgho"
+  },
+  "ms5V_333 - ms5V_572": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms5V_1020 - ms5V_1054": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "pe"
+  },
+  "ms12S2_675 - ms12S2_682": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "saṃkappanānattaṃ saññānānattaṃ paṭicca uppajjati"
+  },
+  "ms12S2_780 - ms12S2_785": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "sattannaṃ suttantānaṃ uddānaṃ"
+  },
+  "ms13S3_76 - ms13S3_84": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms13S3_971 - ms13S3_979": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "tassuddānaṃ"
+  },
+  "ms13S3_1068 - ms13S3_1068": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "jivhāya yo nirodho"
+  },
+  "ms13S3_1155 - ms13S3_1156": {
+    "bilara_extra_words": "m’idhekacce m’idhekacce",
+    "yuttadhammo_extra_words": "midhekacce midhekacce"
+  },
+  "ms13S3_1158 - ms13S3_1158": {
+    "bilara_extra_words": "m’idhekacce m’idhekacce",
+    "yuttadhammo_extra_words": "midhekacce midhekacce"
+  },
+  "ms13S3_1160 - ms13S3_1160": {
+    "bilara_extra_words": "m’idhekacce m’idhekacce",
+    "yuttadhammo_extra_words": "midhekacce midhekacce"
+  },
+  "ms13S3_1162 - ms13S3_1163": {
+    "bilara_extra_words": "m’idhekacce m’idhekacce",
+    "yuttadhammo_extra_words": "midhekacce midhekacce"
+  },
+  "ms13S3_1322 - ms13S3_1323": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "sattavīsatimā ṭhitimūlakasappāyakārīsuttā aṭṭha ṭhitimūlakaṃ purimamūlakāni viya yāva suttāni pūretabbāni"
+  },
+  "ms13S4_649 - ms13S4_653": {
+    "bilara_extra_words": "m’idhekacce m’idhekacce m’idhekacce m’idhekacce",
+    "yuttadhammo_extra_words": "midhekacce midhekacce midhekacce midhekacce"
+  },
+  "ms13S4_655 - ms13S4_656": {
+    "bilara_extra_words": "m’idhekacce m’idhekacce m’idhekacce m’idhekacce",
+    "yuttadhammo_extra_words": "midhekacce midhekacce midhekacce midhekacce"
+  },
+  "ms13S4_725 - ms13S4_727": {
+    "bilara_extra_words": "m’idhekacce m’idhekacce m’idhekacce m’idhekacce",
+    "yuttadhammo_extra_words": "midhekacce midhekacce midhekacce midhekacce"
+  },
+  "ms13S4_729 - ms13S4_729": {
+    "bilara_extra_words": "m’idhekacce m’idhekacce m’idhekacce",
+    "yuttadhammo_extra_words": "midhekacce midhekacce midhekacce"
+  },
+  "ms13S4_731 - ms13S4_731": {
+    "bilara_extra_words": "m’idhekacce m’idhekacce m’idhekacce",
+    "yuttadhammo_extra_words": "midhekacce midhekacce midhekacce"
+  },
+  "ms13S4_739 - ms13S4_739": {
+    "bilara_extra_words": "m’idhekacce m’idhekacce m’idhekacce",
+    "yuttadhammo_extra_words": "midhekacce midhekacce midhekacce"
+  },
+  "ms13S4_746 - ms13S4_747": {
+    "bilara_extra_words": "m’idhekacce m’idhekacce m’idhekacce m’idhekacce",
+    "yuttadhammo_extra_words": "midhekacce midhekacce midhekacce midhekacce"
+  },
+  "ms13S4_48 - ms13S4_49": {
+    "bilara_extra_words": "dukkhasmā ti",
+    "yuttadhammo_extra_words": "dukkhasmāti"
+  },
+  "ms13S4_952 - ms13S4_962": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "saṃvijjati bhagavato kho āvuso mano"
+  },
+  "ms13S4_1401 - ms13S4_1461": {
+    "bilara_extra_words": "evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce",
+    "yuttadhammo_extra_words": "evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce evamidhekacce"
+  },
+  "ms14S5_515 - ms14S5_516": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "yasmiṃ bhikkhave samaye ariyasāvako aṭṭhiṃ katvā manasi katvā sabbaṃ cetaso samannāharitvā ohitasoto dhammaṃ suṇāti imassa pañca nīvaraṇā tasmiṃ samaye na honti satta bojjhaṃgā tasmiṃ samaye bhāvanāpāripūriṃ gacchanti katame pañca nīvaraṇā tasmiṃ samaye na honti kāmacchandanīvaraṇaṃ tasmiṃ samaye na hoti byāpādanīvaraṇaṃ tasmiṃ samaye na hoti thinamiddhanīvaraṇaṃ tasmiṃ samaye na hoti uddhaccakukkuccanīvaraṇaṃ tasmiṃ samaye na hoti vicikicchānīvaraṇaṃ tasmiṃ samaye na hoti imassa pañca nīvaraṇā tasmiṃ samaye na honti katame satta bojjhaṃgā tasmiṃ samaye bhāvanāpāripūriṃ gacchanti satisambojjhaṃgo tasmiṃ samaye bhāvanāpāripūriṃ gacchati pe upekkhāsambojjhaṃgo tasmiṃ samaye bhāvanāpāripūriṃ gacchati ime satta bojjhaṃgā tasmiṃ samaye bhāvanāpāripūriṃ gacchanti yasmiṃ bhikkhave samaye ariyasāvako aṭṭhiṃ katvā manasi katvā sabbaṃ cetaso samannāharitvā ohitasoto dhammaṃ suṇāti imassa pañca nīvaraṇā tasmiṃ samaye na honti ime satta bojjhaṃgā tasmiṃ samaye bhāvanāpāripūriṃ gacchantī ti aṭṭhamaṃ"
+  },
+  "ms14S5_665 - ms14S5_670": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "paṭhamaṃ"
+  },
+  "ms14S5_1888 - ms14S5_1890": {
+    "bilara_extra_words": "evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce",
+    "yuttadhammo_extra_words": "evamidhekacce evamidhekacce evamidhekacce evamidhekacce"
+  },
+  "ms14S5_1892 - ms14S5_1894": {
+    "bilara_extra_words": "evam’idhekacce evam’idhekacce evam’idhekacce evam’idhekacce",
+    "yuttadhammo_extra_words": "evamidhekacce evamidhekacce evamidhekacce evamidhekacce"
+  },
+  "ms14S5_1896 - ms14S5_1902": {
+    "bilara_extra_words": "evam’idhekacce evam’idhekacce",
+    "yuttadhammo_extra_words": "evamidhekacce evamidhekacce"
+  },
+  "ms12S1_1008 - ms12S1_1018": {
+    "bilara_extra_words": "bhagavābuddhacakkhunā",
+    "yuttadhammo_extra_words": "bhagavā buddhacakkhunā"
+  },
+  "ms18Sn_20 - ms18Sn_36": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "iti gopo iti bhagavā iti dhaniyo gopo iti bhagavā iti dhaniyo gopo iti bhagavā iti dhaniyo gopo iti bhagavā iti dhaniyo gopo iti bhagavā iti dhaniyo gopo iti bhagavā dhaniyo iti māro pāpimā iti bhagavā"
+  },
+  "ms18Sn_80 - ms18Sn_95": {
+    "bilara_extra_words": "alatthaupasampadaṃ appamattoātāpī sammadevaagārasmā diṭṭhevadhamme vusitaṃbrahmacariyaṃ capanāyasmā",
+    "yuttadhammo_extra_words": "alattha upasampadaṃ appamatto ātāpī sammadeva agārasmā diṭṭheva dhamme vusitaṃ brahmacariyaṃ ca panāyasmā"
+  },
+  "ms18Sn_97 - ms18Sn_104": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "cundo kammāraputto cundāti bhagavā iti cundo kammāraputto iti"
+  },
+  "ms18Sn_176 - ms18Sn_205": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "iti sātāgiro yakkho iti hemavato yakkho iti sātāgiro yakkho iti hemavato yakkho iti sātāgiro yakkho iti hemavato yakkho iti sātāgiro yakkho iti hemavato yakkho iti sātāgiro yakkho iti hemavato yakkho iti sātāgiro yakkho iti hemavato yakkho hemavatāti bhagavā"
+  },
+  "ms18Sn_401 - ms18Sn_417": {
+    "bilara_extra_words": "panasamayena cetiyeaciraparinibbuto paṭisallīnassaevaṃ noparinibbutoti yenabhagavā āyasmāvaṃgīso paṇāmetvābhagavantaṃ",
+    "yuttadhammo_extra_words": "pana samayena cetiye aciraparinibbuto paṭisallīnassa evaṃ parinibbutoti āyasmā vaṃgīso yena paṇāmetvā bhagavantaṃ no iti bhagavā bhagavā"
+  },
+  "ms18Sn_419 - ms18Sn_435": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "iti bhagavā"
+  },
+  "ms18Sn_817 - ms18Sn_862": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "bhagavā iti"
+  },
+  "ms18Sn_864 - ms18Sn_933": {
+    "bilara_extra_words": "ayaṃdukkhanirodhagāminī sammādvayatānupassino pahitattassaviharato pajāyasadevamanussāya dukkhantiyathābhūtaṃ tadamariyānaṃetaṃ evaṃsammā ātāpinopahitattassa diṭṭhevadhamme vatvānasugato",
+    "yuttadhammo_extra_words": "dukkhanirodhagāminī pahitattassa sammā pajāya sadevamanussāya dukkhanti tadamariyānaṃ etaṃ yathābhūtaṃ ayaṃ evaṃ sammā dvayatānupassino ātāpino pahitattassa viharato diṭṭheva dhamme vatvāna sugato"
+  },
+  "ms18Sn_519 - ms18Sn_526": {
+    "bilara_extra_words": "ekaṃ bhikkhūbhagavato",
+    "yuttadhammo_extra_words": "eka bhikkhū bhagavato"
+  },
+  "ms18Sn_528 - ms18Sn_566": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "iti brāhmaṇo"
+  },
+  "ms18Sn_568 - ms18Sn_595": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "iti iti māgho māṇavo iti māgho māṇavo māghāti bhagavā māghāti bhagavā māgho māṇavo"
+  },
+  "ms18Sn_597 - ms18Sn_650": {
+    "bilara_extra_words": "nasampāyanti vayo anuppattā mayāpañhe anupubbenacārikaṃ bhagavātenupasaṃkami kathaṃsāraṇīyaṃ sabhiyoparibbājako abbhutaṃvata okāsakamma mattampi taṃme pañhaṃapucchi",
+    "yuttadhammo_extra_words": "vayoanuppattā mayā sampāyanti anupubbena cārikaṃ tenupasaṃkami sāraṇīyaṃ iti iti pañhe abbhutaṃ vata okāsakammamattampi iti sabhiyāti iti sabhiyāti iti kathaṃ bhagavā sabhiyāti bhagavā iti bhagavā sabhiyāti bhagavā sabhiyo pañhaṃ apucchi iti sabhiyo bhagavā sabhiyāti bhagavā sabhiyo bhagavā taṃ me na sabhiyo sabhiyo sabhiyo paribbājako sabhiyo"
+  },
+  "ms18Sn_652 - ms18Sn_693": {
+    "bilara_extra_words": "brāhmaṇodvattiṃsamahāpurisalakkhaṇāni tathārūpaṃiddhābhisaṃkhāraṃ",
+    "yuttadhammo_extra_words": "dvattiṃsamahāpurisalakkhaṇāni tathārūpaṃ iddhābhisaṃkhāraṃ brāhmaṇo iti selāti selāti brāhmaṇo selo bhagavā bhagavā bhagavā"
+  },
+  "ms18Sn_716 - ms18Sn_784": {
+    "bilara_extra_words": "khopana icchānaṃgalepaṭivasanti pokkharasātibrāhmaṇo",
+    "yuttadhammo_extra_words": "paṭivasanti pokkharasāti icchānaṃgale pana kho vāseṭṭhāti bhagavā brāhmaṇo"
+  },
+  "ms18Sn_1025 - ms18Sn_1038": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "iti bhagavā"
+  },
+  "ms18Sn_1096 - ms18Sn_1115": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "iti bhagavā"
+  },
+  "ms18Sn_1138 - ms18Sn_1163": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "iccāyasmā sāriputto sāriputtāti bhagavā"
+  },
+  "ms18Sn_988 - ms18Sn_997": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "iccāyasmā tisso metteyyo metteyyāti bhagavā"
+  },
+  "ms18Sn_1011 - ms18Sn_1023": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "māgaṇḍiyāti bhagavā iti māgaṇḍiyo māgaṇḍiyāti bhagavā iti māgaṇḍiyo māgaṇḍiyāti bhagavā"
+  },
+  "ms18Sn_1289 - ms18Sn_1292": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "iccāyasmā todeyyo todeyyāti bhagavā"
+  },
+  "ms18Sn_1294 - ms18Sn_1297": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "iccāyasmā kappo kappāti bhagavā"
+  },
+  "ms18Sn_1299 - ms18Sn_1303": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "iccāyasmā jatukaṇṇi jatukaṇṇīti bhagavā"
+  },
+  "ms18Sn_1305 - ms18Sn_1308": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "iccāyasmā bhadrāvudho bhadrāvudhāti bhagavā"
+  },
+  "ms18Sn_1310 - ms18Sn_1316": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "iccāyasmā udayo udayāti bhagavā"
+  },
+  "ms18Sn_1318 - ms18Sn_1321": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "iccāyasmā posālo posālāti bhagavā"
+  },
+  "ms18Sn_1323 - ms18Sn_1326": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "iccāyasmā mogharājā"
+  },
+  "ms18Sn_1328 - ms18Sn_1331": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "iccāyasmā piṃgiyo piṃgiyāti bhagavā piṃgiyāti bhagavā"
+  },
+  "ms18Sn_1333 - ms18Sn_1340": {
+    "bilara_extra_words": "paricārakasoḷasānaṃbrāhmaṇānaṃ",
+    "yuttadhammo_extra_words": "paricārakasoḷasānaṃ brāhmaṇānaṃ"
+  },
+  "ms18Sn_1341 - ms18Sn_1382": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "iccāyasmā piṃgiyo"
+  },
+  "ms18Sn_1221 - ms18Sn_1228": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "iccāyasmā ajito ajitāti bhagavā iccāyasmā ajito ajitāti bhagavā iccāyasmā ajito"
+  },
+  "ms18Sn_1230 - ms18Sn_1232": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "iccāyasmā tissametteyyo metteyyāti bhagavā"
+  },
+  "ms18Sn_1234 - ms18Sn_1239": {
+    "bilara_extra_words": "me taṃ",
+    "yuttadhammo_extra_words": "iccāyasmā puṇṇako puṇṇakāti iccāyasmā puṇṇako metaṃ puṇṇakāti bhagavā iccāyasmā puṇṇako bhagavā puṇṇakāti bhagavā"
+  },
+  "ms18Sn_1241 - ms18Sn_1252": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "iccāyasmā mettagū mettagūti mettagūti mettagūti bhagavā bhagavā bhagavā"
+  },
+  "ms18Sn_1254 - ms18Sn_1261": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "iccāyasmā dhotako dhotakāti bhagavā dhotakāti bhagavā dhotakāti bhagavā"
+  },
+  "ms18Sn_1263 - ms18Sn_1270": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "iccāyasmā upasīvo upasīvāti bhagavā iccāyasmā upasīvo upasīvāti bhagavā upasīvāti bhagavā upasīvāti bhagavā"
+  },
+  "ms18Sn_1272 - ms18Sn_1282": {
+    "bilara_extra_words": "metaṃ",
+    "yuttadhammo_extra_words": "iccāyasmā nando iccāyasmā nando me nandāti iccāyasmā nando taṃ bhagavā nandāti bhagavā"
+  },
+  "ms18Sn_1284 - ms18Sn_1287": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "iccāyasmā hemako"
+  },
+  "ms19Th1_1298 - ms19Th1_1329": {
+    "bilara_extra_words": "anikkasāvo",
+    "yuttadhammo_extra_words": "‘anikkasāvo"
+  },
+  "ms18Ud_753 - ms18Ud_765": {
+    "bilara_extra_words": "",
+    "yuttadhammo_extra_words": "udāne vaggānamuddānaṃ"
+  },
+  "ms30Vbh_941 - ms30Vbh_1334": {
+    "bilara_extra_words": "mātikā",
+    "yuttadhammo_extra_words": ""
+  },
+  "ms19Vv_282 - ms19Vv_289": {
+    "bilara_extra_words": "yathā niddāvimānaṃ tathā vitthāretabbaṃ",
+    "yuttadhammo_extra_words": ""
+  }
+}
