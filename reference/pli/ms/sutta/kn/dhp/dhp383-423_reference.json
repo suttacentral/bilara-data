@@ -38,9 +38,15 @@
   "dhp423:1": "bj24.128, dr25.100, ms18Dh_452",
   "dhp423:8": "ms18Dh_454,vri47.66",
   "dhp423:13": "csp1ed18.75, csp2ed18.75, mc0.91, ms18Dh_457, pts-vp-pli2ed119",
+  "dhp423:14": "csp1ed18.75, csp2ed18.75, mc0.91, ms18Dh_457, pts-vp-pli2ed119",
   "dhp423:17": "dr25.101, ms18Dh_458, sya25.72",
+  "dhp423:18": "dr25.101, ms18Dh_458, sya25.72",
   "dhp423:37": "cck25.61, csp1ed18.76, csp2ed18.76, ms18Dh_464, vri47.67",
+  "dhp423:39": "cck25.61, csp1ed18.76, csp2ed18.76, ms18Dh_464, vri47.67",
   "dhp423:41": "ms18Dh_465, ndp20.58",
+  "dhp423:43": "ms18Dh_465, ndp20.58",
   "dhp423:45": "mc0.92, ms18Dh_466",
-  "dhp423:49": "dr25.102, ms18Dh_467"
+  "dhp423:47": "mc0.92, ms18Dh_466",
+  "dhp423:49": "dr25.102, ms18Dh_467",
+  "dhp423:51": "dr25.102, ms18Dh_467"
 }
