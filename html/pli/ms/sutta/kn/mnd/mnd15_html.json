@@ -1297,8 +1297,8 @@
   "mnd15:201.1": "<blockquote class='gatha'><p>{}<br>",
   "mnd15:201.2": "{}<br>",
   "mnd15:201.3": "{}<br>",
-  "mnd15:201.4": "{} <span class='speaker'>",
-  "mnd15:201.5": "{}</span></p></blockquote>",
+  "mnd15:201.4": "{}",
+  "mnd15:201.5": "<span class='speaker'>{}</span></p></blockquote>",
   "mnd15:202.1": "<p>{}",
   "mnd15:202.2": "{}",
   "mnd15:202.3": "{}",
@@ -1343,7 +1343,7 @@
   "mnd15:206.1": "<blockquote class='gatha'><p>{}<br>",
   "mnd15:206.2": "{}<br>",
   "mnd15:206.3": "{}<br>",
-  "mnd15:206.4": "{} <span class='speaker'>",
-  "mnd15:206.5": "{}</span></p></blockquote>",
+  "mnd15:206.4": "{}",
+  "mnd15:206.5": "<span class='speaker'>{}</span></p></blockquote>",
   "mnd15:207.1": "<p class='endsutta'>{}</p>"
 }
