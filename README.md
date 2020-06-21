@@ -12,7 +12,7 @@ The value may be root text, translation, comments, variant readings, markup and 
 Let us look at a simple example. Here is a text with in the /root/ directory with the segment ID `mn1:1.1`.
 
 ```
-"mn1:1.1": "Evaṃ me sutaṃ—",
+"mn1:1.1": "Evaṁ me sutaṁ—",
 ```
 The translation/en directory contains the same ID with a translated string:
 
@@ -103,10 +103,10 @@ Editions are separated by commas, as above. Where the same lemma has multiple va
 When multiple lemmas have variants on the same segment, pipe `|` is used as separator.
 
 ```
-an10.99:6.2": "vaṅkakaṃ → vaṅkaṃ (si, pts-vp-pli1ed) | ciṅgulakaṃ → piṅgulikaṃ (sya-all); ciṅkulakaṃ (mr)"
+an10.99:6.2": "vaṅkakaṁ → vaṅkaṁ (si, pts-vp-pli1ed) | ciṅgulakaṁ → piṅgulikaṁ (sya-all); ciṅkulakaṁ (mr)"
 ```
 
-> "The lemma 'vaṅkakaṃ' has a variant 'vaṅkaṃ' in the si and pts-vp-pli1ed editions. In addition, the lemma 'ciṅgulakaṃ' has the variant 'piṅgulikaṃ' in the sya-all edition, and another variant 'ciṅkulakaṃ' in the mr edition."
+> "The lemma 'vaṅkakaṁ' has a variant 'vaṅkaṁ' in the si and pts-vp-pli1ed editions. In addition, the lemma 'ciṅgulakaṁ' has the variant 'piṅgulikaṁ' in the sya-all edition, and another variant 'ciṅkulakaṁ' in the mr edition."
 
 The use of empty brackets indicates a place in the mahasangiti edition where a passage was not found, but was present in other editions.
 
