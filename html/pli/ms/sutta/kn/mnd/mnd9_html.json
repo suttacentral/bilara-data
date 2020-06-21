@@ -1,6 +1,6 @@
 {
-  "mnd9:0.1": "<header><p class='division'>{}</p>",
-  "mnd9:0.2": "<p>{}</p>",
+  "mnd9:0.1": "<article id='mnd9'><header><ul><li class='division'>{}</li>",
+  "mnd9:0.2": "<li>{}</li></ul>",
   "mnd9:0.3": "<h1>{}</h1></header>",
   "mnd9:1.1": "<p>{}</p>",
   "mnd9:2.1": "<blockquote class='gatha'><p>{}<br>",
@@ -543,5 +543,5 @@
   "mnd9:117.2": "{}<br>",
   "mnd9:117.3": "{}<br>",
   "mnd9:117.4": "{}</p></blockquote>",
-  "mnd9:118.1": "<p class='endsutta'>{}</p>"
+  "mnd9:118.1": "<p class='endsutta'>{}</p></article>"
 }

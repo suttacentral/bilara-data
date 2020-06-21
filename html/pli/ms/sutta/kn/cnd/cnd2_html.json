@@ -1,6 +1,6 @@
 {
-  "cnd2:0.1": "<header><p class='division'>{}</p>",
-  "cnd2:0.2": "<p>{}</p>",
+  "cnd2:0.1": "<article id='cnd2'><header><ul><li class='division'>{}</li>",
+  "cnd2:0.2": "<li>{}</li></ul>",
   "cnd2:0.3": "<h1>{}</h1></header>",
   "cnd2:1.0.1": "<h2>{}</h2>",
   "cnd2:1.1": "<blockquote class='gatha'><p>{}",
@@ -493,5 +493,5 @@
   "cnd2:92.3": "{}<br>",
   "cnd2:92.4": "{}<br>",
   "cnd2:92.5": "{}</p></blockquote>",
-  "cnd2:92.6": "<p class='endsutta'>{}</p>"
+  "cnd2:92.6": "<p class='endsutta'>{}</p></article>"
 }

@@ -1,7 +1,7 @@
 {
-  "iti20:0.1": "<header><p class='division'>{}</p>",
-  "iti20:0.2": "<p class='nipata'>{}</p>",
-  "iti20:0.3": "<p class='vagga'>{}</p>",
+  "iti20:0.1": "<article id='iti20'><header><ul><li class='division'>{}</li>",
+  "iti20:0.2": "<li class='nipata'>{}</li>",
+  "iti20:0.3": "<li class='vagga'>{}</li></ul>",
   "iti20:0.4": "<h1>{}</h1></header>",
   "iti20:1.1": "<p>{}</p>",
   "iti20:2.1": "<p>{}",
@@ -30,5 +30,5 @@
   "iti20:7.1": "<blockquote class='uddanagatha'><p>{}<br>",
   "iti20:7.2": "{}<br>",
   "iti20:7.3": "{}<br>",
-  "iti20:7.4": "{}</p></blockquote>"
+  "iti20:7.4": "{}</p></blockquote></article>"
 }

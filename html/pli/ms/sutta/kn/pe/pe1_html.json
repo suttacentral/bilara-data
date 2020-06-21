@@ -1,5 +1,5 @@
 {
-  "pe1:0.1": "<header><p class='division'>{}</p>",
+  "pe1:0.1": "<article id='pe1'><header><ul><li class='division'>{}</li></ul>",
   "pe1:0.2": "<h1>{}</h1></header>",
   "pe1:1.1": "<p class='namo'>{}</p>",
   "pe1:2.1": "<p class='namo'>{}</p>",
@@ -524,5 +524,5 @@
   "pe1:149.2": "{}<br>",
   "pe1:149.3": "{}<br>",
   "pe1:149.4": "{}</p></blockquote>",
-  "pe1:150.1": "<p class='endsutta'>{}</p>"
+  "pe1:150.1": "<p class='endsutta'>{}</p></article>"
 }
