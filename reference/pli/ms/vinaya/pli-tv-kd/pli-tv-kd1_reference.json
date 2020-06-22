@@ -656,7 +656,7 @@
   "pli-tv-kd1:53.3.1": "pts-cs53.3",
   "pli-tv-kd1:53.3.3": "pts-vp-en4.101",
   "pli-tv-kd1:53.4.1": "pts-cs53.4",
-  "pli-tv-kd1:53.4.3": "ms3V_444, msdiv103, sc444",
+  "pli-tv-kd1:53.4.2.1": "ms3V_444, msdiv103, sc444",
   "pli-tv-kd1:53.5.1": "ms3V_445, pts-cs53.5, sc445, sya4.163, vri89.101",
   "pli-tv-kd1:53.5.4": "cck4.169, csp1ed3.112, csp2ed3.112, dr4.137, ms3V_446, sc446",
   "pli-tv-kd1:53.6.1": "mc4.116, ms3V_447, pts-cs53.6, sc447",

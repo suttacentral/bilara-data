@@ -1,7 +1,7 @@
 {
-  "cnd15:0.1": "<header><p class='division'>{}</p>",
-  "cnd15:0.2": "<p>{}</p>",
-  "cnd15:0.3": "<p>{}</p>",
+  "cnd15:0.1": "<article id='cnd15'><header><ul><li class='division'>{}</li>",
+  "cnd15:0.2": "<li>{}</li>",
+  "cnd15:0.3": "<li>{}</li></ul>",
   "cnd15:0.4": "<h1>{}</h1></header>",
   "cnd15:1.1": "<blockquote class='gatha'><p>{}",
   "cnd15:1.2": "<span class='speaker'>{}</span><br>",
@@ -184,5 +184,5 @@
   "cnd15:33.4": "{}</p></blockquote>",
   "cnd15:34.1": "<p>{}",
   "cnd15:34.2": "{}</p>",
-  "cnd15:34.3": "<p class='endsutta'>{}</p>"
+  "cnd15:34.3": "<p class='endsutta'>{}</p></article>"
 }

@@ -1,5 +1,5 @@
 {
-  "snp2.14:0.1": "<header><p class='division'>{}</p>",
+  "snp2.14:0.1": "<article id='snp2.14'><header><ul><li class='division'>{}</li></ul>",
   "snp2.14:0.2": "<h1>{}</h1></header>",
   "snp2.14:1.1": "<p><span class='evam'>{}</span>",
   "snp2.14:1.2": "{}",
@@ -131,5 +131,5 @@
   "snp2.14:32.1": "<p>{}<br>",
   "snp2.14:32.2": "{}<br>",
   "snp2.14:32.3": "{}<br>",
-  "snp2.14:32.4": "{}</p></blockquote>"
+  "snp2.14:32.4": "{}</p></blockquote></article>"
 }
