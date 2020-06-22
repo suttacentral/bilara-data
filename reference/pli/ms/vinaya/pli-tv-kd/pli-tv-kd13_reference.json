@@ -1,7 +1,7 @@
 {
   "pli-tv-kd13:1.1.1": "bj4.196, cck6.144, csp1ed4.104, csp2ed4.104, dr6.131, ms4V_498, msdiv97, ndp4.86, pts-cs1.1, pts-vp-en5.56, pts-vp-pli2.38, sc1, sya6.160, vri90.98",
   "pli-tv-kd13:1.2.1": "pts-cs1.2",
-  "pli-tv-kd13:1.2.3": "cck6.145, dr6.132, ms4V_499, msdiv98, sc2, sya6.161",
+  "pli-tv-kd13:1.2.2.1": "cck6.145, dr6.132, ms4V_499, msdiv98, sc2, sya6.161",
   "pli-tv-kd13:1.3.1": "pts-cs1.3",
   "pli-tv-kd13:1.3.2": "csp1ed4.105, csp2ed4.105, ms4V_500, msdiv99, sc3, vri90.99",
   "pli-tv-kd13:1.3.4": "pts-vp-en5.57",
