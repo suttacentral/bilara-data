@@ -10,7 +10,7 @@
   "mnd1:27.8": "supatīti → sappatīti (mr) | sarīsapo → siriṁsapo (bj, pts-vp-pli1); sirisapo (sya-all)",
   "mnd1:28.4": "paligedho → paḷigedho (bj) | āyūhinī → āyūhanī (bj, sya-all, pts-vp-pli1)",
   "mnd1:32.2": "apaccorohaṇatāya → apaccoropanatāya (bj)",
-  "mnd1:47.2": "() → (parihīnā) (bj, sya-all, pts-vp-pli1)",
+  "mnd1:47.2": "(…) → (parihīnā) (bj, sya-all, pts-vp-pli1)",
   "mnd1:48.5": "mahiṁsā → gomahisā (bj, sya-all, pts-vp-pli1) | ahī vicchikā → ahi vicchikā (sya-all); ahivicchikā (pts-vp-pli1, csp1ed)",
   "mnd1:48.7": "rakhasā → rakkhasā (mr)",
   "mnd1:54.4": "sitvā → siñcitvā (bj, sya-all)",
@@ -22,8 +22,8 @@
   "mnd1:81.2": "nevācinati → neva ācināti (bj, sya-all, pts-vp-pli1)",
   "mnd1:81.4": "Neva saṁsibbati → neva sineti (bj); neva visīneti (sya-all); neva visineti (pts-vp-pli1)",
   "mnd1:81.22": "atammayatāya → akammassakatāya (si); akammaññatāya (sya-all, pts-vp-pli1); akammayatāya (csp1ed)",
-  "mnd1:81.31": "etthantare pāṭho si potthake",
-  "mnd1:81.32": "etthantare pāṭho si potthake",
-  "mnd1:81.33": "etthantare pāṭho si potthake",
-  "mnd1:81.34": "etthantare pāṭho si potthake"
+  "mnd1:81.31": "bhavapariyante ṭhito → etthantare pāṭho si potthake",
+  "mnd1:81.32": "saṁsārapariyante ṭhito → etthantare pāṭho si potthake",
+  "mnd1:81.33": "vaṭṭapariyante ṭhito → etthantare pāṭho si potthake",
+  "mnd1:81.34": "antime bhave ṭhito → etthantare pāṭho si potthake"
 }
