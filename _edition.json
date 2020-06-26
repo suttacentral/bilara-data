@@ -6,12 +6,12 @@
   },
   "dpcv": {
     "type": "edition",
-    "is_root": true,
+    "is_root": false,
     "language": "pli"
   },
   "bj": {
     "type": "edition",
-    "is_root": true,
+    "is_root": false,
     "language": "pli"
   },
   "cbeta": {
