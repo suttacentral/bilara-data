@@ -4,11 +4,6 @@
     "name": "Pali",
     "is_root": true
   },
-    "pli": {
-    "type": "language",
-    "name": "Pali",
-    "is_root": false
-  },
   "lzh": {
     "type": "language",
     "name": "Classical Chinese",

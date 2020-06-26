@@ -649,7 +649,7 @@
     "publication_number": "scpub22",
     "root_lang": "pli",
     "translation_lang": "pli",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/pli/dpcv/vinaya/pli-tv-kd",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/root/pli/dpcv/vinaya/pli-tv-kd",
     "author_uid": "dpcv",
     "collaborator": [
       {
@@ -685,7 +685,7 @@
     "publication_number": "scpub23",
     "root_lang": "pli",
     "translation_lang": "pli",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/pli/bj/vinaya/pli-tv-kd",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/root/pli/bj/vinaya/pli-tv-kd",
     "author_uid": "bj",
     "collaborator": [
       {
