@@ -23,9 +23,17 @@
     "type": "translator",
     "name": "Gabriel Laera"
   },
-    "patton": {
+  "patton": {
     "type": "translator",
-    "name": "Charles patton"
+    "name": "Charles Patton"
+  },
+  "dpcv": {
+    "type": "root",
+    "name": "Dutiya-Parakkamabābu Cullavagga"
+  },
+  "bj": {
+    "type": "root",
+    "name": "Buddha Jayanti Tipiṭaka"
   },
   "xtest": {
     "type": "translator",
