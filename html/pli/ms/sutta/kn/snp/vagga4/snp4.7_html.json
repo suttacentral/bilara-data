@@ -1,5 +1,5 @@
 {
-  "snp4.7:0.1": "<header><p class='division'>{}</p>",
+  "snp4.7:0.1": "<article id='snp4.7'><header><ul><li class='division'>{}</li></ul>",
   "snp4.7:0.2": "<h1>{}</h1></header>",
   "snp4.7:1.1": "<blockquote class='gatha'><p>{}<br>",
   "snp4.7:1.2": "<span class='speaker'>{}</span><br>",
@@ -43,5 +43,5 @@
   "snp4.7:10.2": "{}<br>",
   "snp4.7:10.3": "{}<br>",
   "snp4.7:10.4": "{}</p></blockquote>",
-  "snp4.7:10.5": "<p class='endsection'>{}</p>"
+  "snp4.7:10.5": "<p class='endsection'>{}</p></article>"
 }
