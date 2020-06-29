@@ -722,9 +722,19 @@
     "root_lang": "pli",
     "translation_lang": "en",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/root/pli/vri/sutta/atthakatha/dn-a",
-    "author_uid": "sujato",
-    "author_name": "Bhikkhu Sujato",
-    "author_github_handle": "sujato",
+    "author_uid": "comm-team",
+    "collaborator": [
+      {
+        "collaborator_uid": "sujato",
+        "author_name": "Bhikkhu Sujato",
+        "author_github_handle": "sujato"
+      },
+      {
+        "collaborator_uid": "ashinsarana",
+        "author_name": "Ashin Sarana",
+        "author_github_handle": "ashinsarana"
+      }
+    ],
     "text_uid": "dn-a",
     "text_title": "Sumaṅgalavilāsinī",
     "is_published": "false",
