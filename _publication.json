@@ -730,7 +730,7 @@
         "author_github_handle": "sujato"
       },
       {
-        "collaborator_uid": "ashinsarana",
+        "collaborator_uid": "sarana",
         "author_name": "Ashin Sarana",
         "author_github_handle": "ashinsarana"
       }
@@ -749,5 +749,26 @@
         "url": ""
       }
     ]
+  },
+  "scpub25": {
+    "publication_number": "scpub25",
+    "root_lang": "pli",
+    "translation_lang": "cs",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/cs/sarana/sutta/an",
+    "author_uid": "sarana",
+    "author_name": "Ashin Sarana",
+    "author_github_handle": "ashinsarana",
+    "text_uid": "an",
+    "text_title": "Numbered Discourses",
+    "text_subtitle": "",
+    "text_description": "",
+    "is_published": "true",
+    "publication_status": "",
+    "license": {
+      "type": "Creative Commons Zero",
+      "abbreviation": "CC0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    }
   }
 }
