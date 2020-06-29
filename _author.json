@@ -35,6 +35,10 @@
     "type": "root",
     "name": "Buddha Jayanti Tipiṭaka"
   },
+  "vri": {
+    "type": "root",
+    "name": "Vipassana Research Institute"
+  },
   "xtest": {
     "type": "translator",
     "name": "Test Project"
