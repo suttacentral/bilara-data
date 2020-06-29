@@ -27,6 +27,10 @@
     "type": "translator",
     "name": "Charles Patton"
   },
+  "ashinsarana": {
+    "type": "translator",
+    "name": "Ashin Sarana"
+  },
   "dpcv": {
     "type": "root",
     "name": "Dutiya-Parakkamabābu Cullavagga"
@@ -34,6 +38,10 @@
   "bj": {
     "type": "root",
     "name": "Buddha Jayanti Tipiṭaka"
+  },
+  "vri": {
+    "type": "root",
+    "name": "Vipassana Research Institute"
   },
   "xtest": {
     "type": "translator",

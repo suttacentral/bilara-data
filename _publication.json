@@ -619,7 +619,7 @@
     ]
   },
   "scpub21": {
-    "publication_number": "scpub20",
+    "publication_number": "scpub21",
     "root_lang": "en",
     "translation_lang": "de",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/de/blurb",
@@ -649,7 +649,7 @@
     "publication_number": "scpub22",
     "root_lang": "pli",
     "translation_lang": "pli",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/root/pli/dpcv/vinaya/pli-tv-kd",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/root/pli/dpcv/pli-tv-kd",
     "author_uid": "dpcv",
     "collaborator": [
       {
@@ -685,7 +685,7 @@
     "publication_number": "scpub23",
     "root_lang": "pli",
     "translation_lang": "pli",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/root/pli/bj/vinaya/pli-tv-kd",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/root/pli/bj/pli-tv-kd",
     "author_uid": "bj",
     "collaborator": [
       {
@@ -715,6 +715,60 @@
       "abbreviation": "CC0",
       "url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "statement": "This is a transcription of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The transcribers respectfully request that any use be in accordance with the values and principles of the Buddhist community."
+    }
+  },
+  "scpub24": {
+    "publication_number": "scpub24",
+    "root_lang": "pli",
+    "translation_lang": "en",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/root/pli/vri/sutta/atthakatha/dn-a",
+    "author_uid": "comm-team",
+    "collaborator": [
+      {
+        "collaborator_uid": "sujato",
+        "author_name": "Bhikkhu Sujato",
+        "author_github_handle": "sujato"
+      },
+      {
+        "collaborator_uid": "ashinsarana",
+        "author_name": "Ashin Sarana",
+        "author_github_handle": "ashinsarana"
+      }
+    ],
+    "text_uid": "dn-a",
+    "text_title": "Sumaṅgalavilāsinī",
+    "is_published": "false",
+    "publication_status": "",
+    "licence": "CC0",
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "url": ""
+      }
+    ]
+  },
+  "scpub25": {
+    "publication_number": "scpub25",
+    "root_lang": "pli",
+    "translation_lang": "cs",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/cs/ashinsarana/sutta/an",
+    "author_uid": "ashinsarana",
+    "author_name": "Ashin Sarana",
+    "author_github_handle": "ashinsarana",
+    "text_uid": "an",
+    "text_title": "Numbered Discourses",
+    "text_subtitle": "",
+    "text_description": "",
+    "is_published": "true",
+    "publication_status": "",
+    "license": {
+      "type": "Creative Commons Zero",
+      "abbreviation": "CC0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
     }
   }
 }
