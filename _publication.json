@@ -770,5 +770,38 @@
       "url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
     }
+  },
+  "scpub26": {
+    "publication_number": "scpub26",
+    "root_lang": "pli",
+    "translation_lang": "my",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/my/my-team/sutta/dn",
+    "author_uid": "my-team",
+    "collaborator": [
+      {
+        "collaborator_uid": "sujato",
+        "author_name": "Bhikkhu Sujato",
+        "author_github_handle": "sujato"
+      },
+      {
+        "collaborator_uid": "ashinsarana",
+        "author_name": "Ashin Sarana",
+        "author_github_handle": "ashinsarana"
+      }
+    ],
+    "text_uid": "dn",
+    "text_title": "Long Discourses",
+    "is_published": "false",
+    "publication_status": "",
+    "licence": "CC0",
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "url": ""
+      }
+    ]
   }
 }
