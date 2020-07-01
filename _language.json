@@ -33,5 +33,10 @@
     "type": "language",
     "name": "ру́сский язы́к",
     "is_root": false
+  },
+  "my": {
+    "type": "language",
+    "name": "မြန်မာစာ",
+    "is_root": false
   }
 }
