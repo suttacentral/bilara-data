@@ -33,7 +33,7 @@ And some markup in /html/:
 
 Note that `{}` is used as placeholder for text in the /html files.
 
-Bilara texts are kept in files where one file is approximately one text. However the files are just for convenience, and may be changed for convenience by an application. For example, a very long text might be split into multiple HTML files for display on the web. However, the segment IDs should remain immutable so far as possible.
+Bilara texts are kept in files where one file is approximately one text. However the files are just for convenience, and may be changed by an application. For example, a very long text might be split into multiple HTML files for display on the web. However, the segment IDs should remain immutable.
 
 ## Publication
 
@@ -61,11 +61,55 @@ The text will be switched to the `published` branch, signfying that it is ready 
 
 ## Inline markup
 
-Text inside segment strings should avoid using markup. A subset of markdown may be used, with slightly spoecialized meanings:
+Text inside segment strings should avoid using markup. A subset of markdown may be used, with slightly specialized meanings:
 
 - `*asterisks*` mean emphasis (= `<em>`), usually rendered as italics.
 - `_underscores_` are not synonyms for asterisk, but are used when quoting a word from the root text in the translation. (= `<i lang='pli' translate='no'>`)
-- `**double asterisk**` may be used to signify strong emphasis i.e. bold, but I wouldn’t encourage it! (= `strong>`)
+- `**double asterisk**` may be used to signify strong emphasis i.e. bold, but I wouldn’t encourage it! (= `<strong>`)
+- `#123` indicates a number used for counting sections. These are inherited from the Mahasangiti edition. Typically they serve to clarify the structure of complex sections. (= `<span class='counter'>123</span>`)
+
+## Bilara i/o
+
+This is a utility for importing and exporting data from Bilara. It allows you to pull together the data for the same text from different directories. It is a very flexible tool, but we envisage two main use-cases:
+
+1. Internal SC work, especially changing segments in bilara-data
+2. Consumption of `bilara-data` in external apps
+
+The basic usage is to export a text or range of texts as a spreadsheet. The data can then be viewed or manipulated in the spreadsheet, and the result imported back into `bilara-data`. 
+
+A typical use case would be if we discover that a text has an extra unwanted segment break, we can combine two segments into one, delete the old segment, and re-import it. Changing this in the raw json files is tricky, as you have to keep track of all the different files of that particular text, and re-increment the segment numbering.
+
+Bilara i/o uses [Pyexcel](http://www.pyexcel.org/) under the hood, so data can be imported and exported to [any format supported by pyexcel](http://docs.pyexcel.org/en/latest/design.html#data-format). However we have only extensively tested it with `.ods` spreadsheets.
+
+### Use bilara i/o
+
+Go to the .scripts folder. Change the python version to 3.7.2. (Other versions may work if you have a different version installed.) Run something like:
+
+```
+pip3 install -r requirements.txt
+```
+
+Ready to go, let’s export dn1 as a Libreoffice spreadsheet!
+
+```
+./sheet_export.py dn1 dn1.ods
+```
+
+Edit it, save, and run:
+
+```
+ ./sheet_import.py dn1.ods
+ ```
+
+Et voila, your changes appear in the bilara data file.
+
+You can easily do something like this, too:
+
+```
+./sheet_export.py dn dn.tsv --include root, translation+en
+```
+
+“Export the whole of DN as a tsv file, including only the root text and English translation”.
 
 ## Some notes on SC-specific data
 
