@@ -2,7 +2,7 @@
 
 This repository contains the published and unpublished translations, root texts and other data from the Bilara translation app.
 
-The **published** branch is the main branch and contains finished translations and other texts which can consiered to be proofed. 
+The **published** branch is the main branch and contains finished translations and other texts which can considered to be proofed. 
 In software terms it can be considered to be "stable".
 
 The **unpublished** branch contains translations which are still in progress.
