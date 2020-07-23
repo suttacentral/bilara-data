@@ -8,7 +8,7 @@ In software terms it can be considered to be "stable".
 The **unpublished** branch contains translations which are still in progress.
 In software terms it can be considered to be the "develop" branch. There should be no data integrity issues but there are no guarantee about the content.
 
-##Warning
+## Warning
 
 Pull Requests such as from a fork should not be made against published branch. Instead pull requests should be made against the unpublished branch.
 
