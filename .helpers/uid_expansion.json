@@ -22,7 +22,7 @@
   {
     "uid": "bv",
     "acro": "Bv",
-    "name": "Buddhavaṃsa"
+    "name": "Buddhavaṁsa"
   },
   {
     "uid": "cnd",
@@ -317,17 +317,17 @@
   {
     "uid": "sa",
     "acro": "SA",
-    "name": "Saṃyuktāgama (1st)"
+    "name": "Saṁyuktāgama (1st)"
   },
   {
     "uid": "sa-2",
     "acro": "SA-2",
-    "name": "Saṃyuktāgama (2nd)"
+    "name": "Saṁyuktāgama (2nd)"
   },
   {
     "uid": "sa-3",
     "acro": "SA-3",
-    "name": "Saṃyuktāgama (3rd)"
+    "name": "Saṁyuktāgama (3rd)"
   },
   {
     "uid": "sab",
@@ -367,7 +367,7 @@
   {
     "uid": "sn",
     "acro": "SN",
-    "name": "Saṃyutta Nikāya"
+    "name": "Saṁyutta Nikāya"
   },
   {
     "uid": "snp",
@@ -477,7 +477,7 @@
   {
     "uid": "vs",
     "acro": "VS",
-    "name": "(Vinaya) Saṃyutta"
+    "name": "(Vinaya) Saṁyutta"
   },
   {
     "uid": "vv",
@@ -882,22 +882,22 @@
   {
     "uid": "csp-a",
     "acro": "Csp A",
-    "name": "Chaṭṭhasaṅgīti Piṭakaṃ Atthakathā"
+    "name": "Chaṭṭhasaṅgīti Piṭakaṁ Atthakathā"
   },
   {
     "uid": "csp1ed",
     "acro": "Csp 1st ed.",
-    "name": "Chaṭṭhasaṅgīti Piṭakaṃ 2496–2499 (1952–1955)"
+    "name": "Chaṭṭhasaṅgīti Piṭakaṁ 2496–2499 (1952–1955)"
   },
   {
     "uid": "csp2ed",
     "acro": "Csp 2nd ed.",
-    "name": "Chaṭṭhasaṅgīti Piṭakaṃ 2nd ed. 2500–2506 (1956–1962)"
+    "name": "Chaṭṭhasaṅgīti Piṭakaṁ 2nd ed. 2500–2506 (1956–1962)"
   },
   {
     "uid": "csp3ed",
     "acro": "Csp 3rd ed.",
-    "name": "Chaṭṭhasaṅgīti Piṭakaṃ (1997)"
+    "name": "Chaṭṭhasaṅgīti Piṭakaṁ (1997)"
   },
   {
     "uid": "mr",
@@ -947,7 +947,7 @@
   {
     "uid": "sya-a",
     "acro": "Syam A",
-    "name": "Syāmaraṭṭhassa Tepiṭakaṃ Atthakathā"
+    "name": "Syāmaraṭṭhassa Tepiṭakaṁ Atthakathā"
   },
   {
     "uid": "cck",
@@ -957,17 +957,17 @@
   {
     "uid": "sya1ed",
     "acro": "Syam 1st ed.",
-    "name": "Syāmaraṭṭhassa Tepiṭakaṃ 2469–2471 (1926–1928)"
+    "name": "Syāmaraṭṭhassa Tepiṭakaṁ 2469–2471 (1926–1928)"
   },
   {
     "uid": "sya2ed",
     "acro": "Syam 2nd ed.",
-    "name": "Syāmaraṭṭhassa Tepiṭakaṃ 2538 (1995)"
+    "name": "Syāmaraṭṭhassa Tepiṭakaṁ 2538 (1995)"
   },
   {
     "uid": "sya-all",
     "acro": "Syam all",
-    "name": "Chulachomklao Pāḷi Tipiṭaka 2436 (1893), Syāmaraṭṭhassa Tepiṭakaṃ 2469–2471 (1926–1928) & 2538 (1995)"
+    "name": "Chulachomklao Pāḷi Tipiṭaka 2436 (1893), Syāmaraṭṭhassa Tepiṭakaṁ 2469–2471 (1926–1928) & 2538 (1995)"
   },
   {
     "uid": "bj",
