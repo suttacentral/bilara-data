@@ -1,9 +1,9 @@
 # bilara-data
 
-This repository contains the published and unpublished translations, root texts and other data from the Bilara translation app.
+This repository contains the published and unpublished translations, root texts, and other data from the Bilara translation app.
 
 - The `published` branch is the main branch and contains finished translations and other texts. **Use `published` branch for any form of publishing**. In software terms it can be considered to be “stable”. 
-- The `unpublished` branch contains translations which are still in progress. **Do not use material from `unpublished` except for internal SuttaCentral uses.** In software terms it can be considered to be the “develop” branch. There should be no data integrity issues but there are no guarantee about the content. 
+- The `unpublished` branch contains translations which are still in progress. **Do not use material from `unpublished` except for internal SuttaCentral uses.** In software terms it can be considered to be the “develop” branch. There should be no data integrity issues but there are no guarantees about the content. 
 
 ## Warning
 
