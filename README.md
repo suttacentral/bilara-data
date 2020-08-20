@@ -42,7 +42,7 @@ And some markup in /html/:
 "mn1:1.1": "<p><span class='evam'>{}</span>",
 ```
 
-Note that `{}` is used as placeholder for text in the /html files.
+Note that `{}` is used as placeholder for text in the /html files. By convention, use single quotes in `html` to avoid confusion with JSON.
 
 Bilara texts are kept in files where one file is approximately one text. However the files are just for convenience, and may be changed by an application. For example, a very long text might be split into multiple HTML files for display on the web. However, the segment IDs should remain immutable.
 
