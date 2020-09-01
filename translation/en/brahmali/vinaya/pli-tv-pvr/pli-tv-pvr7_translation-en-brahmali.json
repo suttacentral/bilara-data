@@ -24,7 +24,7 @@
   "pli-tv-pvr7:1.20": "Offenses originating from a non-action should be known. ",
   "pli-tv-pvr7:1.21": "Offenses originating from both an action and a non-action should be known. ",
   "pli-tv-pvr7:1.22": "Initial offenses should be known. ",
-  "pli-tv-pvr7:1.23": "The subsequent offence should be known.",
+  "pli-tv-pvr7:1.23": "Subsequent offenses should be known. ",
   "pli-tv-pvr7:1.24": "The secondary offences of original offences should be known.",
   "pli-tv-pvr7:1.25": "The secondary offences of subsequent offences should be known.",
   "pli-tv-pvr7:1.26": "An offence confessed that comes to a reckoning should be known.",
