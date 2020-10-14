@@ -803,5 +803,166 @@
         "url": ""
       }
     ]
+  },
+  "scpub27": {
+    "publication_number": "scpub27",
+    "root_lang": "pli",
+    "translation_lang": "de",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/de/sabbamitta/sutta/kn/thag",
+    "author_uid": "sabbamitta",
+    "text_uid": "thag",
+    "text_title": "Verses of the Senior Monks",
+    "text_subtitle": "A translation of the Theragāthā",
+    "text_description": "",
+    "is_published": "false",
+    "publication_status": "",
+    "licence": "CC0",
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "url": ""
+      }
+    ]
+  },
+  "scpub28": {
+    "publication_number": "scpub28",
+    "root_lang": "pli",
+    "translation_lang": "de",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/de/sabbamitta/sutta/kn/thig",
+    "author_uid": "sabbamitta",
+    "text_uid": "thig",
+    "text_title": "",
+    "text_subtitle": "",
+    "text_description": "",
+    "is_published": "false",
+    "publication_status": "",
+    "licence": "CC0",
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "url": ""
+      }
+    ]
+  },
+  "scpub29": {
+    "publication_number": "scpub29",
+    "root_lang": "pli",
+    "translation_lang": "de",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/de/sabbamitta/sutta/kn/dhp",
+    "author_uid": "sabbamitta",
+    "author_name": "Sabbamitta",
+    "author_github_handle": "sabbamitta",
+    "text_uid": "dhp",
+    "text_title": "",
+    "is_published": "false",
+    "publication_status": "",
+    "licence": "CC0",
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "url": ""
+      }
+    ]
+  },
+  "scpub30": {
+    "publication_number": "scpub30",
+    "root_lang": "pli",
+    "translation_lang": "de",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/de/sabbamitta/sutta/kn/iti",
+    "author_uid": "sabbamitta",
+    "author_name": "Sabbamitta",
+    "author_github_handle": "sabbamitta",
+    "text_uid": "iti",
+    "text_title": "",
+    "is_published": "false",
+    "publication_status": "",
+    "licence": "CC0",
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "url": ""
+      }
+    ]
+  },
+  "scpub31": {
+    "publication_number": "scpub31",
+    "root_lang": "pli",
+    "translation_lang": "de",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/de/sabbamitta/sutta/kn/snp",
+    "author_uid": "sabbamitta",
+    "author_name": "Sabbamitta",
+    "author_github_handle": "sabbamitta",
+    "text_uid": "snp",
+    "text_title": "",
+    "is_published": "false",
+    "publication_status": "",
+    "licence": "CC0",
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "url": ""
+      }
+    ]
+  },
+  "scpub32": {
+    "publication_number": "scpub32",
+    "root_lang": "pli",
+    "translation_lang": "de",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/de/sabbamitta/sutta/kn/ud",
+    "author_uid": "sabbamitta",
+    "author_name": "Sabbamitta",
+    "author_github_handle": "sabbamitta",
+    "text_uid": "ud",
+    "text_title": "",
+    "is_published": "false",
+    "publication_status": "",
+    "licence": "CC0",
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "url": ""
+      }
+    ]
+  },
+  "scpub33": {
+    "publication_number": "scpub33",
+    "root_lang": "pli",
+    "translation_lang": "de",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/de/sabbamitta/sutta/kn/kp",
+    "author_uid": "sabbamitta",
+    "author_name": "Sabbamitta",
+    "author_github_handle": "sabbamitta",
+    "text_uid": "kp",
+    "text_title": "",
+    "is_published": "false",
+    "publication_status": "",
+    "licence": "CC0",
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "url": ""
+      }
+    ]
   }
 }
