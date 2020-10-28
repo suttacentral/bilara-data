@@ -35,7 +35,7 @@
         "publication_date": "2014",
         "publisher": "SuttaCentral",
         "publication_type": "website",
-        "url": "https://suttacentral.net/thag"
+        "edition_url": "https://suttacentral.net/thag"
       },
       {
         "edition_number": "1",
@@ -43,7 +43,7 @@
         "publisher": "SuttaCentral",
         "publication_type": "book",
         "number_of_volumes": "1",
-        "url": [
+        "edition_url": [
           "http://www.lulu.com/shop/bhikkhu-sujato/verses-of-the-senior-monks/hardcover/product-22152079.html",
           "http://www.lulu.com/shop/bhikkhu-sujato/verses-of-the-senior-monks/paperback/product-22136852.html"
         ]
@@ -76,7 +76,7 @@
         "publication_date": "2018",
         "publisher": "SuttaCentral",
         "publication_type": "website",
-        "url": "https://suttacentral.net/dn"
+        "edition_url": "https://suttacentral.net/dn"
       }
     ]
   },
@@ -106,7 +106,7 @@
         "publication_date": "2018",
         "publisher": "SuttaCentral",
         "publication_type": "website",
-        "url": "https://suttacentral.net/mn"
+        "edition_url": "https://suttacentral.net/mn"
       },
       {
         "edition_number": "2",
@@ -114,7 +114,7 @@
         "publisher": "SuttaCentral",
         "publication_type": "book",
         "number_of_volumes": "3",
-        "url": [
+        "edition_url": [
           "http://www.lulu.com/shop/trans-bhikkhu-sujato/the-middle-discourses-of-the-buddha-vol-i/paperback/product-23886100.html",
           "http://www.lulu.com/shop/trans-bhikkhu-sujato/the-middle-discourses-of-the-buddha-vol-ii/paperback/product-23962141.html",
           "http://www.lulu.com/shop/trans-bhikkhu-sujato/the-middle-discourses-of-the-buddha-vol-iii/paperback/product-23962146.html"
@@ -148,7 +148,7 @@
         "publication_date": "2018",
         "publisher": "SuttaCentral",
         "publication_type": "website",
-        "url": "https://suttacentral.net/sn"
+        "edition_url": "https://suttacentral.net/sn"
       }
     ]
   },
@@ -178,7 +178,7 @@
         "publication_date": "2018",
         "publisher": "SuttaCentral",
         "publication_type": "website",
-        "url": "https://suttacentral.net/an"
+        "edition_url": "https://suttacentral.net/an"
       }
     ]
   },
@@ -218,7 +218,7 @@
         "publication_date": "2019",
         "publisher": "SuttaCentral",
         "publication_type": "website",
-        "url": "https://suttacentral.net/thig"
+        "edition_url": "https://suttacentral.net/thig"
       }
     ]
   },
@@ -241,7 +241,7 @@
         "publication_date": "",
         "publisher": "",
         "publication_type": "",
-        "url": ""
+        "edition_url": ""
       }
     ]
   },
@@ -259,10 +259,10 @@
     "is_published": "false",
     "publication_status": "Partial draft translation is published on SuttaCentral. Complete and extensively revised translation is underway.",
     "license": {
-      "license_type": "(Proposed) Creative Commons Zero",
-      "license_abbreviation": "(Proposed) CC0",
-      "url": "(Proposed) https://creativecommons.org/publicdomain/zero/1.0/",
-      "license_statement": "(Proposed) This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
     },
     "edition": [
       {
@@ -270,7 +270,7 @@
         "publication_date": "",
         "publisher": "",
         "publication_type": "",
-        "url": ""
+        "edition_url": ""
       }
     ]
   },
@@ -326,7 +326,7 @@
         "publication_date": "Ab Ende 2019 fortlaufend",
         "publisher": "SuttaCentral Voice",
         "publication_type": "website",
-        "url": "https://voice.suttacentral.net"
+        "edition_url": "https://voice.suttacentral.net"
       }
     ]
   },
@@ -356,7 +356,7 @@
         "publication_date": "Ab Ende 2019 fortlaufend",
         "publisher": "SuttaCentral Voice",
         "publication_type": "website",
-        "url": "https://voice.suttacentral.net"
+        "edition_url": "https://voice.suttacentral.net"
       }
     ]
   },
@@ -386,7 +386,7 @@
         "publication_date": "Ab Ende 2019 fortlaufend",
         "publisher": "SuttaCentral Voice",
         "publication_type": "website",
-        "url": "https://voice.suttacentral.net"
+        "edition_url": "https://voice.suttacentral.net"
       }
     ]
   },
@@ -416,7 +416,7 @@
         "publication_date": "Ab Ende 2019 fortlaufend",
         "publisher": "SuttaCentral Voice",
         "publication_type": "website",
-        "url": "https://voice.suttacentral.net"
+        "edition_url": "https://voice.suttacentral.net"
       }
     ]
   },
@@ -522,7 +522,7 @@
         "publication_date": "",
         "publisher": "",
         "publication_type": "",
-        "url": ""
+        "edition_url": ""
       }
     ]
   },
@@ -545,7 +545,7 @@
         "publication_date": "",
         "publisher": "",
         "publication_type": "",
-        "url": ""
+        "edition_url": ""
       }
     ]
   },
@@ -568,7 +568,7 @@
         "publication_date": "",
         "publisher": "",
         "publication_type": "",
-        "url": ""
+        "edition_url": ""
       }
     ]
   },
@@ -591,7 +591,7 @@
         "publication_date": "",
         "publisher": "",
         "publication_type": "",
-        "url": ""
+        "edition_url": ""
       }
     ]
   },
@@ -614,7 +614,7 @@
         "publication_date": "",
         "publisher": "",
         "publication_type": "",
-        "url": ""
+        "edition_url": ""
       }
     ]
   },
@@ -641,7 +641,7 @@
         "publication_date": "",
         "publisher": "",
         "publication_type": "",
-        "url": ""
+        "edition_url": ""
       }
     ]
   },
@@ -746,7 +746,7 @@
         "publication_date": "",
         "publisher": "",
         "publication_type": "",
-        "url": ""
+        "edition_url": ""
       }
     ]
   },
@@ -800,7 +800,7 @@
         "publication_date": "",
         "publisher": "",
         "publication_type": "",
-        "url": ""
+        "edition_url": ""
       }
     ]
   },
@@ -825,7 +825,7 @@
         "publication_date": "",
         "publisher": "",
         "publication_type": "",
-        "url": ""
+        "edition_url": ""
       }
     ]
   },
@@ -850,7 +850,7 @@
         "publication_date": "",
         "publisher": "",
         "publication_type": "",
-        "url": ""
+        "edition_url": ""
       }
     ]
   },
@@ -873,7 +873,7 @@
         "publication_date": "",
         "publisher": "",
         "publication_type": "",
-        "url": ""
+        "edition_url": ""
       }
     ]
   },
@@ -896,7 +896,7 @@
         "publication_date": "",
         "publisher": "",
         "publication_type": "",
-        "url": ""
+        "edition_url": ""
       }
     ]
   },
@@ -919,7 +919,7 @@
         "publication_date": "",
         "publisher": "",
         "publication_type": "",
-        "url": ""
+        "edition_url": ""
       }
     ]
   },
@@ -942,7 +942,7 @@
         "publication_date": "",
         "publisher": "",
         "publication_type": "",
-        "url": ""
+        "edition_url": ""
       }
     ]
   },
@@ -965,7 +965,7 @@
         "publication_date": "",
         "publisher": "",
         "publication_type": "",
-        "url": ""
+        "edition_url": ""
       }
     ]
   }
