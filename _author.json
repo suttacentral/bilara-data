@@ -51,6 +51,10 @@
     "type": "translator",
     "name": "Myanmar Translation Team"
   },
+    "ccronje": {
+    "type": "translator",
+    "name": "Carmi Cronje"
+  },
   "xtest": {
     "type": "translator",
     "name": "Test Project"
