@@ -6,6 +6,7 @@ import argparse
 import pyexcel
 import regex
 import sys
+import pathlib
 from itertools import groupby
 from common import iter_json_files, repo_dir, bilarasortkey
 
@@ -19,6 +20,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Import Spreadsheet")
     parser.add_argument('file', help='Spreadsheet file to import. CSV, TSV, ODS, XLS')
     parser.add_argument('-q', '--quiet', help='Do not display changes to files')
+    parser.add_argument('--update', help="Instead of overwriting files, just update entries")
     args = parser.parse_args()
 
     rows = pyexcel.iget_records(file_name=args.file)
@@ -27,10 +29,16 @@ if __name__ == '__main__':
 
     segment_uid_to_file_mapping = {}
 
-    def get_file(uid, muids):
+    file_uid = pathlib.Path(args.file).stem
+
+    def get_file(uid, file_uid, muids):
         filestem = f'{uid}_{muids}'
         if filestem in files:
             return files[filestem]
+        
+        alt_filestem = f'{file_uid}_{muids}'
+        if alt_filestem in files:
+            return files[alt_filestem]
 
         uid_stem = regex.match(r'[a-z]+(\d+\.)?', uid)[0]
 
@@ -58,9 +66,12 @@ if __name__ == '__main__':
         raise ValueError('Could not find file for {}_{}'.format(uid, muids))
 
     errors = 0
+
+    files_erased = set()
+    
     for uid, group in groupby(rows, lambda row: row['segment_id'].split(':')[0]):
         group = list(group)
-        fields = list(group[0].keys())[1:]
+        fields = [k for k in group[0].keys() if k not in {'segment_id', 'old_uid', 'new_uid'}]
         data = {field: {} for field in fields}
         
         for record in group:
@@ -78,14 +89,18 @@ if __name__ == '__main__':
         for field in fields:
             if not data[field]:
                 continue
-            file = get_file(uid, field)
+            file = get_file(uid=uid, file_uid=file_uid, muids=field)
             if not file:
                 print('ERROR: Could not find file for {}_{}'.format(uid, field), file=sys.stderr)
                 errors += 1
                 continue
-
-            with file.open('r') as f:
-                old_data = json.load(f)
+            
+            if args.update or file in files_erased:
+                with file.open('r') as f:
+                    old_data = json.load(f)
+            else:
+                old_data = {}
+                files_erased.add(file)
             
             merged_data = {}
 

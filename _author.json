@@ -47,6 +47,10 @@
     "type": "root",
     "name": "Vipassana Research Institute"
   },
+  "my-team": {
+    "type": "translator",
+    "name": "Myanmar Translation Team"
+  },
   "xtest": {
     "type": "translator",
     "name": "Test Project"

@@ -116,7 +116,7 @@ def get_root_e_create_if_needed(e):
     try:
         root_e = next(e.iter('i'))
     except StopIteration:
-        root_e = lxml.html.fromstring('<i></i> ')
+        root_e = lxml.html.fromstring('__ ')
         e.insert(0, root_e)
     return root_e
 
