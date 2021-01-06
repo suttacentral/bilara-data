@@ -569,7 +569,7 @@
     "author_github_handle": "sujato",
     "text_uid": "iti",
     "text_title": "So It Was Said",
-    "is_published": "false",
+    "is_published": "true",
     "publication_status": "",
     "licence": "CC0",
     "edition": [
@@ -619,7 +619,7 @@
     "author_github_handle": "sujato",
     "text_uid": "ud",
     "text_title": "Heartfelt Sayings",
-    "is_published": "false",
+    "is_published": "true",
     "publication_status": "",
     "licence": "CC0",
     "edition": [
@@ -640,11 +640,21 @@
     "translation_lang_name": "English",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/sutta/kn/kp",
     "author_uid": "sujato",
-    "author_name": "Bhikkhu Sujato",
-    "author_github_handle": "sujato",
+    "collaborator": [
+      {
+        "collaborator_uid": "sujato",
+        "author_name": "Bhikkhu Sujato",
+        "author_github_handle": "sujato"
+      },
+      {
+        "collaborator_uid": "ccronje",
+        "author_name": "Carmi Cronje",
+        "author_github_handle": "ccronje"
+      }
+    ],
     "text_uid": "kp",
     "text_title": "Basic Passages",
-    "is_published": "false",
+    "is_published": "true",
     "publication_status": "",
     "licence": "CC0",
     "edition": [
@@ -1069,7 +1079,7 @@
       }
     ]
   },
-    "scpub34": {
+  "scpub34": {
     "publication_number": "scpub34",
     "root_lang": "misc",
     "translation_lang": "en",
