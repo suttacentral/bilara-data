@@ -16,7 +16,6 @@ jobs:
       TO_REPO_BRANCH: master
       TO_REPO_TARGET_FOLDER: sc_bilara_data
       PYTHON_VERSION: 3.7.5
-      TARGET_FOLDER_README_TEMPLATE: _sc_bilara_data.md
         
     steps:
       - name: Checkout ${{ env.FROM_REPO }} repo
@@ -51,13 +50,6 @@ jobs:
 
       - name: Copy changed files to the target directory
         run: cp -r from-repo/* to-repo/$TO_REPO_TARGET_FOLDER/
-
-      - name: Rename the ${{ env.TARGET_FOLDER_README_TEMPLATE }} in the ${{ env.TO_REPO_TARGET_FOLDER }} folder to README.md
-        run: |
-          cd to-repo/$TO_REPO_TARGET_FOLDER/
-          mv $TEMPLATE README.md
-        env:
-          TEMPLATE: ${{ env.TARGET_FOLDER_README_TEMPLATE }}
 
       - name: Push ${{ env.TO_REPO }}
         run: |
