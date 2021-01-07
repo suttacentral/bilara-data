@@ -48,6 +48,11 @@ jobs:
       - name: Create target directory if not exists
         run: mkdir -p to-repo/$TO_REPO_TARGET_FOLDER
 
+      - name: Remove from-repo README.md
+        run: |
+          cd from-repo
+          rm README.md
+
       - name: Copy changed files to the target directory
         run: cp -r from-repo/* to-repo/$TO_REPO_TARGET_FOLDER/
 
