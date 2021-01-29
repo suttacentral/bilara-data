@@ -33,20 +33,23 @@ for folder in folders:
         for k, v in data.items():
             merged_data[k][language_uid] = v
     
-        if folder.name.startswith('static_'):
-            merged_data = {
-                str(i) : v 
-                for i, v
-                in enumerate(merged_data.values(), 1)
-            }
+    if folder.name.startswith('static_'):
+        merged_data = {
+            str(i) : v 
+            for i, v
+            in enumerate(merged_data.values(), 1)
+        }
 
     split_data = defaultdict(dict)
 
     for k, v in merged_data.items():
         for language_uid, string in v.items():
-            split_data[language_uid][k] = string
+            if string:
+                split_data[language_uid][k] = string
 
     for language_uid, data in split_data.items():
+        if not data:
+            continue
         if language_uid == 'en':
             out_dir = repo_dir / 'root' / 'en' / 'site'
             new_name =  base_name + '_root-en-site'
@@ -63,6 +66,5 @@ for folder in folders:
         out_file = (out_dir / new_name).with_suffix('.json')
         with out_file.open('w') as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
-
 
          
