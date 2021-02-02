@@ -1,0 +1,8 @@
+{
+  "error-icon:offline": "You're offline.",
+  "error-icon:networkError": "Network error",
+  "error-icon:generalError": "General Error",
+  "error-icon:pageNoFound": "Page No Found",
+  "error-icon:dataLoadError": "Data Load Error",
+  "error-icon:connectToInternet": "Please connect to the internet to use search."
+}
