@@ -1,0 +1,8 @@
+{
+  "error-icon:offline": "Utracono połączenie z internetem.",
+  "error-icon:networkError": "Błąd połączenia.",
+  "error-icon:generalError": "Błąd ogólny",
+  "error-icon:pageNoFound": "Nie znaleziono strony",
+  "error-icon:dataLoadError": "Błąd obciążenia danych",
+  "error-icon:connectToInternet": "Aby skorzystać z wyszukiwania, należy połączyć się z Internetem."
+}
