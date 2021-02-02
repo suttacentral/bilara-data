@@ -5,7 +5,7 @@ import regex
 from common import repo_dir
 from collections import defaultdict
 
-sc_locale_dir = pathlib.Path('/home/blake/programming/suttacentral/client/localization/elements/').resolve()
+sc_locale_dir = pathlib.Path('../../suttacentral/client/localization/elements/').resolve()
 
 folders = sc_locale_dir.glob('*')
 
@@ -39,6 +39,10 @@ for folder in folders:
             for i, v
             in enumerate(merged_data.values(), 1)
         }
+
+    #Rekey
+
+    merged_data = {f'{base_name}:{k}': v for k,v in merged_data.items()}
 
     split_data = defaultdict(dict)
 

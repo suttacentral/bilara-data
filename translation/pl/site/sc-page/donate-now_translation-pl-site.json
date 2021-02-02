@@ -1,0 +1,22 @@
+{
+  "donate-now:currency": "Waluta",
+  "donate-now:amount": "Kwota",
+  "donate-now:invalidValue": "Nieprawidłowa kwota",
+  "donate-now:chooseFrequency": "Możesz wysłać jednorazową lub comiesięczną dotację:",
+  "donate-now:oneTime": "Jednorazowa",
+  "donate-now:monthly": "Comiesięczna",
+  "donate-now:email": "Email (opcjonalnie)",
+  "donate-now:invalidEmail": "Nieprawidłowy email",
+  "donate-now:message": "Wiadomość (opcjonalnie)",
+  "donate-now:payWithCard": "ZAPŁAĆ KARTĄ",
+  "donate-now:storageDisclaimer": "SuttaCentral nie obsługuje płatności ani nie przechowuje danych Twojej karty kredytowej. Wszystkie transakcje są obsługiwane bezpiecznie za pomocą <a href='https://stripe.com' target='blank'>Stripe</a>.",
+  "donate-now:feeDisclaimer": "W zamian za obsługę transakcji Stripe pobiera opłatę w wysokości 1.75% + 30¢ dla Australijskich kart, oraz 2.9% + 30¢ dla międzynarodowych kart. W określonych przypadkach pobierana jest także opłata za konwersję walutową w wysokości 1.8% kwoty transakcji.",
+  "donate-now:paymentSuccessful": "Sadhu! Twoja wpłata przebiegła pomyślnie!",
+  "donate-now:redirectNotice": "Zostaniesz przekierowany na stronę startową za 5 sekund.",
+  "donate-now:Name (optional)": "Imię (opcjonalnie)",
+  "donate-now:UnknownError": "Błąd podczas wysyłania dotacji.",
+  "donate-now:AmountCannotBeLessThan": "Wartość nie może być mniejsza $0.50 USD.",
+  "donate-now:StripeLimitations": "Z powodu limitacji Strip'a, dokonaj bezpośredniej płatności albo skontaktuj się z nami.",
+  "donate-now:cardDeclined": "Twoja karta została odrzucona.",
+  "donate-now:donateNow": "Wyślij dotację"
+}

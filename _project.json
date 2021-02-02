@@ -1,0 +1,34 @@
+{
+	"pl_localization": {
+		"name": "Polish Localization",
+		"root_path": "root/en/site",
+		"translation_path": "translation/pl/site",
+		"translation_muids": "translation-pl-site",
+		"collaborator": [{
+			"author_github_handle": "sujato"
+		}]
+	},
+	"pt_localization": {
+		"name": "Portuguese Localization",
+		"root_path": "root/en/site",
+		"translation_path": "translation/pt/site",
+		"translation_muids": "translation-pt-site",
+		"collaborator": []
+	},
+	"zh_localization": {
+		"name": "Chinese Localization",
+		"root_path": "root/en/site",
+		"translation_path": "translation/zh/site",
+		"translation_muids": "translation-zh-site",
+		"collaborator": []
+	},
+	"de_localization": {
+		"name": "German Localization",
+		"root_path": "root/en/site",
+		"translation_path": "translation/de/site",
+		"translation_muids": "translation-de-site",
+		"collaborator": [{
+			 "author_github_handle": "sabbamitta",
+		}]
+	}
+}
