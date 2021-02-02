@@ -30,5 +30,14 @@
 		"collaborator": [{
 			 "author_github_handle": "sabbamitta"
 		}]
+	},
+	"de_names_translation": {
+		"name": "German names translation",
+		"root_path": "root/misc/site",
+		"translation_path": "translation/de/site",
+		"translation_muids": "translation-de-site",
+		"collaborator": [{
+			"author_github_handle": "sabbamitta"
+		}]
 	}
 }
