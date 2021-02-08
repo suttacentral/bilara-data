@@ -19,5 +19,6 @@
   "site-layout:NUMBERED": "Nummeriert ",
   "site-layout:NUMBERING": "Nummerierung ",
   "site-layout:OFFLINE": "Offline benutzen ",
-  "site-layout:SIMILES": "Gleichnisse "
+  "site-layout:SIMILES": "Gleichnisse ",
+  "site-layout:SUBJECTS": "Themen "
 }
