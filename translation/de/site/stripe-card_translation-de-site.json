@@ -1,5 +1,5 @@
 {
   "stripe-card:CVC": "Kartenprüfnummer ",
   "stripe-card:ZIP": "Postleitzahl ",
-  "stripe-card:cardNumber": "Kartennumer "
+  "stripe-card:cardNumber": "Kartennummer "
 }
