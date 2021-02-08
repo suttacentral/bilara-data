@@ -10,5 +10,6 @@
   "site-layout:HOME": "Home ",
   "site-layout:INTRODUCTION": "Einführung ",
   "site-layout:LANGUAGES": "Sprachen ",
-  "site-layout:LICENSING": "Lizenzen "
+  "site-layout:LICENSING": "Lizenzen ",
+  "site-layout:LINKED": "Verbunden "
 }
