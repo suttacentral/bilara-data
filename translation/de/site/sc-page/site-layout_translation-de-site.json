@@ -17,5 +17,6 @@
   "site-layout:MIDDLE": "Mittel ",
   "site-layout:NAMES": "Namen ",
   "site-layout:NUMBERED": "Nummeriert ",
-  "site-layout:NUMBERING": "Nummerierung "
+  "site-layout:NUMBERING": "Nummerierung ",
+  "site-layout:OFFLINE": "Offline benutzen "
 }
