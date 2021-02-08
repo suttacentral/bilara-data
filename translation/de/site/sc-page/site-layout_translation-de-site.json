@@ -9,5 +9,6 @@
   "site-layout:GENERAL": "Allgemeines ",
   "site-layout:HOME": "Home ",
   "site-layout:INTRODUCTION": "Einführung ",
-  "site-layout:LANGUAGES": "Sprachen "
+  "site-layout:LANGUAGES": "Sprachen ",
+  "site-layout:LICENSING": "Lizenzen "
 }
