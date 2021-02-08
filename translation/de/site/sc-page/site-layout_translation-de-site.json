@@ -21,5 +21,6 @@
   "site-layout:OFFLINE": "Offline benutzen ",
   "site-layout:SIMILES": "Gleichnisse ",
   "site-layout:SUBJECTS": "Themen ",
-  "site-layout:TERMINOLOGY": "Terminologie "
+  "site-layout:TERMINOLOGY": "Terminologie ",
+  "site-layout:USEOFFLINE": "Offline benutzen "
 }
