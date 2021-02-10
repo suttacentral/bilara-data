@@ -4,5 +4,6 @@
   "abbreviations:3": "Einzigartig innerhalb des gesamten Korpus von SuttaCentral; ",
   "abbreviations:4": "Keine Sonderzeichen oder diakritischen Zeichen (da diese nicht in <span class='smallcaps'>URL</span>s verwendet werden können); ",
   "abbreviations:5": "Keine Berücksichtigung von Groß- oder Kleinschreibung; ",
-  "abbreviations:6": "Gewöhnlich zwei, hoffentlich nicht mehr als drei Zeichen lang; "
+  "abbreviations:6": "Gewöhnlich zwei, hoffentlich nicht mehr als drei Zeichen lang; ",
+  "abbreviations:7": "Kompatibel mit anerkannten Normen und Konventionen wie z. B. <span class='smallcaps'>ISO</span>. "
 }
