@@ -3,5 +3,6 @@
   "abbreviations:2": "SuttaCentral ist um die Idee von eindeutig definierten Einheiten herum aufgebaut — normalerweise ein Sutta, eine Vinayaregel oder ein Textabschnitt —, die jeweils eine einzigartige Identität haben. Diese Identität wird von einer Abkürzung dargestellt, die sowohl dazu dient, den Text zu benennen, als auch, die <span class='smallcaps'>URL</span> für diesen Text zu bilden. Diese Abkürzungen sind so kurz und so flexibel wie wir sie machen können. Wir weichen nicht beliebig von anerkannten Gewohnheiten ab, jedoch in besonderen Fällen war es aufgrund der speziellen Erfordernisse von SuttaCentral notwendig, neue Abkürzungen einzusetzen. Alle Abkürzungen müssen die folgenden Kriterien erfüllen: ",
   "abbreviations:3": "Einzigartig innerhalb des gesamten Korpus von SuttaCentral; ",
   "abbreviations:4": "Keine Sonderzeichen oder diakritischen Zeichen (da diese nicht in <span class='smallcaps'>URL</span>s verwendet werden können); ",
-  "abbreviations:5": "Keine Berücksichtigung von Groß- oder Kleinschreibung; "
+  "abbreviations:5": "Keine Berücksichtigung von Groß- oder Kleinschreibung; ",
+  "abbreviations:6": "Gewöhnlich zwei, hoffentlich nicht mehr als drei Zeichen lang; "
 }
