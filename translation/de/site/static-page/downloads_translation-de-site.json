@@ -2,5 +2,6 @@
   "downloads:1": "Zum Herunterladen ",
   "downloads:2": "EPUBs herunterladen ",
   "downloads:3": "Die neueste Version der wichtigsten Übersetzungen auf SuttaCentral (englisch). ",
-  "downloads:4": "Rohdaten und Texte "
+  "downloads:4": "Rohdaten und Texte ",
+  "downloads:5": "Alle Rohdaten von SuttaCentral (<code>json</code>, <code>html</code> etc.) sind <a href='https://github.com/suttacentral/' rel='noopener' target='_blank'>in unserer GitHub-Datenbank verfügbar</a>. "
 }
