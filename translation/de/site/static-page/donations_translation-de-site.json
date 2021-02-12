@@ -4,5 +4,6 @@
   "donations:3": "<a class='donate-link' href='/donate-now'> <paper-button class='donate-button' raised=''>SPENDEN</paper-button> </a> ",
   "donations:4": "Wofür verwendet SuttaCentral Geld? ",
   "donations:5": "IT-Entwicklung: Neben Ehrenamtlichen stellen wir auch professionelle Programmierer an. ",
-  "donations:6": "Server: Kosten für Server und andere Infrastruktur. "
+  "donations:6": "Server: Kosten für Server und andere Infrastruktur. ",
+  "donations:7": "Hardware: Computer und andere Hardware für Menschen, die für SuttaCentral arbeiten, besonders Mönche und Nonnen. "
 }
