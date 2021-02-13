@@ -8,5 +8,6 @@
   "numbering:7": "Alte Nummerierungssysteme werden durch mehr Detailgenauigkeit aufgewertet, ohne sie inkompatibel zu machen. ",
   "numbering:8": "Wo es sinnvoll ist, werden verschiedene Referenzsysteme bereitgestellt. ",
   "numbering:9": "Das primäre Nummerierungssystem wird für die URLs verwendet, die einfach, stabil und sinnvoll sind. ",
-  "numbering:10": "Segmentierte Texte "
+  "numbering:10": "Segmentierte Texte ",
+  "numbering:11": "Wir führen Texte auf der Basis von Segmenten ein. Das heißt, dass der Quelltext in kurze Stücke unterteilt ist — typischerweise ein Satz oder so —, die mit einer Kennziffer versehen sind. Spätere Übersetzungen werden Segment für Segment mit dem Original gepaart; dabei muss die Beziehung zwischen Text und Übersetzung für ein bestimmtes Segment nicht ganz exakt sein. "
 }
