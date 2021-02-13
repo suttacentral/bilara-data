@@ -42,5 +42,6 @@
   "numbering:41": "Versnummern für Texte wie den Dhammapada, das Sutta-Nipāta, die Thera- und Therīgāthā weichen leicht von der PTS-Ausgabe ab. Das hängt manchmal mit unterschiedlichen Entscheidungen der Herausgeber zusammen, wie Verse unterteilt werden sollen, und manchmal mit unterschiedlicher Handhabung von Abkürzungen. Wir schließen zu Referenzzwecken die PTS-Nummern ein. ",
   "numbering:42": "Man beachte auch, dass für das Sutta-Nipāta Verweise entweder durch fortlaufende Zählung der Verse vom Anfang der Sammlung an erfolgen können oder mit Angabe von Kapitel- und Suttanummer und Zählung der Verse pro Sutta. ",
   "numbering:43": "Nummerierung von Abschnitten ",
-  "numbering:44": "Unsere Texte übernehmen das System zur Nummerierung der Abschnitte, das zuerst von der Paliausgabe der PTS für den DN und von Bhikkhu Ñāṇamoḷi für den MN eingeführt und von Bhikkhu Bodhi übernommen wurde. Für den Vinaya übernehmen wir ebenfalls die Nummerierung der Abschnitte von der PTS-Ausgabe. "
+  "numbering:44": "Unsere Texte übernehmen das System zur Nummerierung der Abschnitte, das zuerst von der Paliausgabe der PTS für den DN und von Bhikkhu Ñāṇamoḷi für den MN eingeführt und von Bhikkhu Bodhi übernommen wurde. Für den Vinaya übernehmen wir ebenfalls die Nummerierung der Abschnitte von der PTS-Ausgabe. ",
+  "numbering:45": "Für andere Texte verwenden die PTS-Ausgaben im Allgemeinen kein System für Abschnitte. Hier nummerieren wir nach Absätzen. Damit übernehmen wir das System, das in der Mahāsaṅgīti-Ausgabe benutzt wird, obwohl wir es einfacher ausführen. "
 }
