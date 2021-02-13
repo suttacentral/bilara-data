@@ -68,5 +68,6 @@
   "methodology:67": "Textkritische Informationen sind in den Dateien mit Klassen markiert wie „var“ für abweichende Lesarten, „supplied“ für hinzugefügten Text usw. Typischerweise machen wir das optisch über den Stil erkennbar und zeigen ein Pop-up-Fenster, das die Bedeutung erklärt. Das meiste kann optional aktiviert werden. ",
   "methodology:68": "<a href='/zz1/zz/test' title='Textkritisches Mark-up auf SuttaCentral'>Siehe Liste der textkritischen Mark-up-Klassen</a> (englisch). ",
   "methodology:69": "Strukturmerkmale und Sonstiges ",
-  "methodology:70": "Wir benutzen semantisches Mark-up mit etwa hundert verschiedenen Klassen, um die genaue Struktur der Texte zu bezeichnen. Dazu gehören Dinge wie: "
+  "methodology:70": "Wir benutzen semantisches Mark-up mit etwa hundert verschiedenen Klassen, um die genaue Struktur der Texte zu bezeichnen. Dazu gehören Dinge wie: ",
+  "methodology:71": "Überschriften, richtig strukturiert mit hX-Tags. Palitexte haben eine so detaillierte Hierarchie, dass wir in manchen Fällen alle Tags bis zu h6 benutzen. "
 }
