@@ -67,5 +67,6 @@
   "methodology:66": "Unsere Texte in Originalsprachen enthalten eine Reihe textkritischer Informationen, die für Wissenschaftler interessant sind. Wir versuchen, diese auf eine Art zu präsentieren, die für Leser nicht aufdringlich ist, aber informativ, wenn man näher hinschaut. Herkömmliche digitale Dateien benutzen oft Gepflogenheiten aus dem Druck wie [Klammern], um solche Inhalte zu kennzeichnen. Aber das ist hässlich und unterbricht den Lesefluss. Schlimmer noch, es ist wenig informativ. Es ist oft schwierig, herauszufinden, was diese verschiedenen Markierungen bedeuten; tatsächlich mussten wir manchmal auf gelehrtes Rätselraten zurückgreifen. ",
   "methodology:67": "Textkritische Informationen sind in den Dateien mit Klassen markiert wie „var“ für abweichende Lesarten, „supplied“ für hinzugefügten Text usw. Typischerweise machen wir das optisch über den Stil erkennbar und zeigen ein Pop-up-Fenster, das die Bedeutung erklärt. Das meiste kann optional aktiviert werden. ",
   "methodology:68": "<a href='/zz1/zz/test' title='Textkritisches Mark-up auf SuttaCentral'>Siehe Liste der textkritischen Mark-up-Klassen</a> (englisch). ",
-  "methodology:69": "Strukturmerkmale und Sonstiges "
+  "methodology:69": "Strukturmerkmale und Sonstiges ",
+  "methodology:70": "Wir benutzen semantisches Mark-up mit etwa hundert verschiedenen Klassen, um die genaue Struktur der Texte zu bezeichnen. Dazu gehören Dinge wie: "
 }
