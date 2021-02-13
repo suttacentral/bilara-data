@@ -7,5 +7,6 @@
   "numbering:6": "Semantische Nummerierung, die einer sinnvollen Strukturierung des Inhalts folgt (Kapitel/Abschnitt), wird vorgezogen vor Strukturen, die gedruckten Ausgaben folgen (Band/Seite). ",
   "numbering:7": "Alte Nummerierungssysteme werden durch mehr Detailgenauigkeit aufgewertet, ohne sie inkompatibel zu machen. ",
   "numbering:8": "Wo es sinnvoll ist, werden verschiedene Referenzsysteme bereitgestellt. ",
-  "numbering:9": "Das primäre Nummerierungssystem wird für die URLs verwendet, die einfach, stabil und sinnvoll sind. "
+  "numbering:9": "Das primäre Nummerierungssystem wird für die URLs verwendet, die einfach, stabil und sinnvoll sind. ",
+  "numbering:10": "Segmentierte Texte "
 }
