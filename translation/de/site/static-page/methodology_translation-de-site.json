@@ -51,5 +51,6 @@
   "methodology:50": "Zusätzlich zum Text nutzen wir das kritische Instrumentarium des Mahāsaṅgīti, das abweichende Schreibweisen, Kennziffern und Querverweise umfasst. Letztere bilden die Grundlage für die meisten unserer Pali-Pali-Parallelen. ",
   "methodology:51": "Chinesisch ",
   "methodology:52": "Die maßgebliche Ausgabe des chinesischen buddhistischen Kanon ist der Tripiṭaka Koreana. Das ist ein äußerst genauer und gut erhaltener Satz von 81.258 Holzblöcken aus dem 13. Jahrhundert. Er wurde als ursprüngliche Quelle für die moderne Taishō-Ausgabe verwendet, von Takakusu Junjiro und anderen bearbeitet und im frühen 20. Jahrhundert von der Universität Taishō in Japan veröffentlicht. Er wurde von CBETA digitalisiert, und von dort stammen unsere chinesischen Texte. ",
-  "methodology:53": "Tibetisch "
+  "methodology:53": "Tibetisch ",
+  "methodology:54": "Unsere tibetischen Texte sind vom <i lang='en'>Tibetan and Himalayan Library Text</i>, welcher auf der Derge-Ausgabe des Kangyur beruht. Man beachte, dass die grundlegenden Textnummern, die von THLIB benutzt werden, von den Nummern auf SuttaCentral und anderswo gewöhnlich um eins abweichen. Die Nummern, die SuttaCentral verwendet, entsprechen der „Masterkatalog-Nummer“ auf THLIB. "
 }
