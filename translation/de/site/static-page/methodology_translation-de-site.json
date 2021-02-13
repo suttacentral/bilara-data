@@ -53,5 +53,6 @@
   "methodology:52": "Die maßgebliche Ausgabe des chinesischen buddhistischen Kanon ist der Tripiṭaka Koreana. Das ist ein äußerst genauer und gut erhaltener Satz von 81.258 Holzblöcken aus dem 13. Jahrhundert. Er wurde als ursprüngliche Quelle für die moderne Taishō-Ausgabe verwendet, von Takakusu Junjiro und anderen bearbeitet und im frühen 20. Jahrhundert von der Universität Taishō in Japan veröffentlicht. Er wurde von CBETA digitalisiert, und von dort stammen unsere chinesischen Texte. ",
   "methodology:53": "Tibetisch ",
   "methodology:54": "Unsere tibetischen Texte sind vom <i lang='en'>Tibetan and Himalayan Library Text</i>, welcher auf der Derge-Ausgabe des Kangyur beruht. Man beachte, dass die grundlegenden Textnummern, die von THLIB benutzt werden, von den Nummern auf SuttaCentral und anderswo gewöhnlich um eins abweichen. Die Nummern, die SuttaCentral verwendet, entsprechen der „Masterkatalog-Nummer“ auf THLIB. ",
-  "methodology:55": "Sanskrit und andere "
+  "methodology:55": "Sanskrit und andere ",
+  "methodology:56": "Da die Texte auf Sanskrit und in anderen indischen Sprachen keinen zusammenhängenden Kanon bilden, sondern aus vielen zufälligen Funden bezogen wurden, gibt es keine einheitliche Quelle. Die Ausgaben sind wie in den Texten angegeben. Digitale Texte sind meist aus dem <i lang='en'>Göttingen Register of Electronic Texts in Indian Languages</i> (GRETIL). "
 }
