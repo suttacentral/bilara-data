@@ -23,5 +23,6 @@
   "acknowledgments:22": "Obwohl der Umbau von 2012 uns gute Dienste leistete, sahen wir doch die Notwendigkeit zu einem systematischen Upgrade. Wir hatten eine Reihe schrittweiser Veränderungen durchgeführt, von denen jede irgendwie in die ursprüngliche Struktur eingefügt werden musste, und nach einer Weile zeigten sich einige Schwachstellen. Ab einem gewissen Punkt ist es besser, alles auf systematischere Weise neu aufzubauen. Wir begannen 2017 mit diesem Prozess. Die wichtigsten Veränderungen betreffen Internationalisierung, Integration von Sutta-, Vinaya- und Versparallelen und die Aufnahme segmentierter Übersetzungen. Das Kern-Entwicklerteam für diesen Prozess bestand aus folgenden Personen: ",
   "acknowledgments:23": "Ehrw. Vimala ",
   "acknowledgments:24": "Programmieren; Textaufbereitung; Koordination der Gemeinschaft; Aufbereitung und Integration von Parallelen. ",
-  "acknowledgments:25": "Blake Walsh "
+  "acknowledgments:25": "Blake Walsh ",
+  "acknowledgments:26": "Leitender Programmierer. "
 }
