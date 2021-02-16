@@ -13,5 +13,6 @@
   "offline:downloadErrored": "Fehler! Es konnten nicht alle gewünschten Texte heruntergeladen werden. {failed} von {total} Anfragen wurden nicht richtig abgeschlossen. ",
   "offline:downloadInProgress": "Herunterladen läuft. ",
   "offline:downloadParallels": "Parallelen einschließen ",
-  "offline:downloadParallelsDescription": "Auswählen, um auch Parallelentabellen für die Texte herunterzuladen. "
+  "offline:downloadParallelsDescription": "Auswählen, um auch Parallelentabellen für die Texte herunterzuladen. ",
+  "offline:downloadPaused": "Herunterladen unterbrochen. "
 }
