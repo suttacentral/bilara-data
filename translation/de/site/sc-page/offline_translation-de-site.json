@@ -20,5 +20,6 @@
   "offline:downloadStarted": "Herunterladen hat begonnen. Sie können die Seite weiter benutzen und werden benachrichtigt, wenn es abgeschlossen ist. ",
   "offline:downloading": "Herunterladen ",
   "offline:extraFeatures": "Wenn Sie zusätzliche Funktionen wünschen, wenden Sie sich an uns. ",
-  "offline:here": "hier "
+  "offline:here": "hier ",
+  "offline:language": "Sprache "
 }
