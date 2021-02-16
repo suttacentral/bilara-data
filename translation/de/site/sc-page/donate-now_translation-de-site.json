@@ -1,5 +1,6 @@
 {
   "donate-now:AmountCannotBeLessThan": "Betrag darf nicht weniger als 0,50 $ (US-Dollar) sein. ",
   "donate-now:Name (optional)": "Name (optional) ",
-  "donate-now:StripeLimitations": "Aufgrund von Einschränkungen bei Stripe zahlen Sie bitte direkt oder kontaktieren Sie uns, wenn Sie Hilfe brauchen. "
+  "donate-now:StripeLimitations": "Aufgrund von Einschränkungen bei Stripe zahlen Sie bitte direkt oder kontaktieren Sie uns, wenn Sie Hilfe brauchen. ",
+  "donate-now:UnknownError": "Fehler beim Versenden der Spende. "
 }
