@@ -20,5 +20,6 @@
   "static-page-selector:DONATE-NOW": "Jetzt spenden ",
   "static-page-selector:DONATE-NOW-TITLE": "Jetzt spenden ",
   "static-page-selector:DONATION-SUCCESS": "Spende erfolgreich ",
-  "static-page-selector:DONATION-SUCCESS-TITLE": "Spende erfolgreich "
+  "static-page-selector:DONATION-SUCCESS-TITLE": "Spende erfolgreich ",
+  "static-page-selector:DONATIONS": "Spenden "
 }
