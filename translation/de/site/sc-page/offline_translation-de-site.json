@@ -22,5 +22,6 @@
   "offline:extraFeatures": "Wenn Sie zusätzliche Funktionen wünschen, wenden Sie sich an uns. ",
   "offline:here": "hier ",
   "offline:language": "Sprache ",
-  "offline:networkError": "Netzwerkfehler "
+  "offline:networkError": "Netzwerkfehler ",
+  "offline:networkLost": "Keine Netzwerkverbindung. Herunterladen unterbrochen. "
 }
