@@ -10,5 +10,6 @@
   "offline:doesntSupportPWAs": "Leider werden erweiterte <i lang='en'>Progressive Web App</i> (PWA)-Funktionen  auf Ihrer Plattform nicht unterstützt. Wenn Sie die vollständige Offline-Funktion nutzen wollen, benutzen Sie eine aktuelle Version von Chrome. Wir planen, zukünftig mehr PWA-Funktionen für andere Browser einzuführen. ",
   "offline:downloadButton": "Texte auf  {languageName} herunterladen ",
   "offline:downloadComplete": "Ihr Download ist abgeschlossen. Sie können jetzt Suttas auf {lang} offline lesen. ",
-  "offline:downloadErrored": "Fehler! Es konnten nicht alle gewünschten Texte heruntergeladen werden. {failed} von {total} Anfragen wurden nicht richtig abgeschlossen. "
+  "offline:downloadErrored": "Fehler! Es konnten nicht alle gewünschten Texte heruntergeladen werden. {failed} von {total} Anfragen wurden nicht richtig abgeschlossen. ",
+  "offline:downloadInProgress": "Herunterladen läuft. "
 }
