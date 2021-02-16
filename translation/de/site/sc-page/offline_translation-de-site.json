@@ -30,5 +30,6 @@
   "offline:paliLookups": "Pali-Nachschlagewerkzeuge ",
   "offline:paliLookupsDescription": "Wählen Sie Wörterbuch-Nachschlagewerkzeuge für Paliwörter in den folgenden Sprachen aus: ",
   "offline:pause": "Herunterladen unterbrechen ",
-  "offline:pwaDescription": "SuttaCentral ist eine <a href='https://developers.google.com/web/progressive-web-apps/' target='_blank' rel='noopener'><i lang='en'>Progressive Web App</i></a>. Auf unterstützten Geräten können viele Funktionen wie etwas Navigation und vorher besuchte Seiten weiterhin genutzt werden, auch wenn keine Internetverbindung besteht. "
+  "offline:pwaDescription": "SuttaCentral ist eine <a href='https://developers.google.com/web/progressive-web-apps/' target='_blank' rel='noopener'><i lang='en'>Progressive Web App</i></a>. Auf unterstützten Geräten können viele Funktionen wie etwas Navigation und vorher besuchte Seiten weiterhin genutzt werden, auch wenn keine Internetverbindung besteht. ",
+  "offline:resetButton": "Download-Chronik löschen "
 }
