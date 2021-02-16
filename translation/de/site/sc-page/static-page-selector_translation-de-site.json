@@ -45,5 +45,6 @@
   "static-page-selector:NAMES": "Namen ",
   "static-page-selector:NAMES-TITLE": "Namensregister ",
   "static-page-selector:NUMBERED": "Nummeriert ",
-  "static-page-selector:NUMBERING": "Nummerierung "
+  "static-page-selector:NUMBERING": "Nummerierung ",
+  "static-page-selector:NUMBERING-TITLE": "Nummerierung der Suttas "
 }
