@@ -1,4 +1,5 @@
 {
   "text:couldNotFind": "Der Suttatext wurde nicht gefunden. ",
-  "text:error404": "Error 404 "
+  "text:error404": "Error 404 ",
+  "text:languagePromptMessage": "Sie können die Sprache über das Menü in der Werkzeugleiste ändern. "
 }
