@@ -14,5 +14,6 @@
   "donate-now:invalidEmail": "Ungültige Email-Adresse ",
   "donate-now:invalidValue": "Ungültiger Wert ",
   "donate-now:message": "Nachricht (optional) ",
-  "donate-now:monthly": "Monatlich "
+  "donate-now:monthly": "Monatlich ",
+  "donate-now:oneTime": "Einmalig "
 }
