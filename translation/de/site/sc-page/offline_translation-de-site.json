@@ -2,5 +2,6 @@
   "offline:ClickToDownload": "Zum Herunterladen klicken ",
   "offline:addToHomeScreen": "Zum Home-Bildschirm hinzufügen ",
   "offline:additionalInfo": "Zusätzlich können Sie Texte in Sprachen Ihrer Wahl herunterladen und sie offline lesen. Das ist vor allem hilfreich für Benutzerinnen mit Mobilgeräten und begrenztem Datenvolumen oder in Regionen mit schlechtem Empfang. Wenn Ihr Datenvolumen begrenzt ist, empfehlen wir, das Gerät zum Herunterladen mit einem WLAN-Netz zu verbinden. ",
-  "offline:alreadyDownloaded": "Bereits heruntergeladen. "
+  "offline:alreadyDownloaded": "Bereits heruntergeladen. ",
+  "offline:canceled": "Sie haben das Herunterladen abgebrochen. "
 }
