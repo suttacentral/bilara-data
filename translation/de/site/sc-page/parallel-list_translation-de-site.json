@@ -1,5 +1,6 @@
 {
   "parallel-list:FullParallel": "Vollständige Parallele: verschiedene Versionen desselben Textes. ",
   "parallel-list:GoToTextInOriginalLanguage": "Zum Text in der Originalsprache ",
-  "parallel-list:Mention": "Nennung: Ein Text wird in einem anderen zitiert oder genannt. "
+  "parallel-list:Mention": "Nennung: Ein Text wird in einem anderen zitiert oder genannt. ",
+  "parallel-list:ResemblingParallel": "Ähnliche Parallele: Die Texte sind vergleichbar. "
 }
