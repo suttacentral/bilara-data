@@ -19,5 +19,5 @@
   "donate-now:payWithCard": "Mit Karte spenden ",
   "donate-now:paymentSuccessful": "Sadhu! Ihre Zahlung wurde erfolgreich abgeschlossen. ",
   "donate-now:redirectNotice": "Sie werden in 5 Sekunden zur Homepage weitergeleitet. ",
-  "donate-now:storageDisclaimer": "Ihre Kreditkartendaten werden nicht von SuttaCentral verarbeitet oder gespeichert. Alle Kreditkarten-Transaktionen werden von <a href='https://stripe.com' target='blank'>Stripe</a> sicher durchgeführt. "
+  "donate-now:storageDisclaimer": "Ihre Kreditkartendaten werden nicht von SuttaCentral verarbeitet oder gespeichert. Alle Kreditkarten-Transaktionen werden von <a href='https://stripe.com' target='blank'>Stripe</a> sicher ausgeführt. "
 }
