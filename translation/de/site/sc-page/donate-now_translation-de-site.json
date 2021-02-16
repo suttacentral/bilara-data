@@ -15,5 +15,6 @@
   "donate-now:invalidValue": "Ungültiger Wert ",
   "donate-now:message": "Nachricht (optional) ",
   "donate-now:monthly": "Monatlich ",
-  "donate-now:oneTime": "Einmalig "
+  "donate-now:oneTime": "Einmalig ",
+  "donate-now:payWithCard": "Mit Karte spenden "
 }
