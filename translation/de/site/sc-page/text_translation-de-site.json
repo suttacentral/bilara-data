@@ -2,5 +2,6 @@
   "text:couldNotFind": "Der Suttatext wurde nicht gefunden. ",
   "text:error404": "Error 404 ",
   "text:languagePromptMessage": "Sie können die Sprache über das Menü in der Werkzeugleiste ändern. ",
-  "text:metaDescriptionText": "Frühe buddhistische Texte und moderne Übersetzungen. Suttas (Sutras) ans dem Tipitaka (Tripitaka) auf Pali, Chinesisch, Sanskrit und Tibetisch mit den Lehren des Buddha über Achtsamkeit, Einsicht, Weisheit und Meditation. "
+  "text:metaDescriptionText": "Frühe buddhistische Texte und moderne Übersetzungen. Suttas (Sutras) ans dem Tipitaka (Tripitaka) auf Pali, Chinesisch, Sanskrit und Tibetisch mit den Lehren des Buddha über Achtsamkeit, Einsicht, Weisheit und Meditation. ",
+  "text:noMetadata": "Keine Metadaten vorhanden. "
 }
