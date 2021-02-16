@@ -19,5 +19,6 @@
   "offline:downloadRootTextsDescription": "Auswählen, um auch Texte in der Quellsprache herunterzuladen. Das schließt ein Pali > {toLang}-Wörterbuch-Nachschlagewerkzeug ein. Zum Ändern des Nachschlagewerkzeugs klicken ",
   "offline:downloadStarted": "Herunterladen hat begonnen. Sie können die Seite weiter benutzen und werden benachrichtigt, wenn es abgeschlossen ist. ",
   "offline:downloading": "Herunterladen ",
-  "offline:extraFeatures": "Wenn Sie zusätzliche Funktionen wünschen, wenden Sie sich an uns. "
+  "offline:extraFeatures": "Wenn Sie zusätzliche Funktionen wünschen, wenden Sie sich an uns. ",
+  "offline:here": "hier "
 }
