@@ -7,5 +7,6 @@
   "donate-now:cardDeclined": "Ihre Karte wurde abgelehnt. ",
   "donate-now:chooseFrequency": "Sie können eine einmalige oder eine monatliche Spende machen. ",
   "donate-now:currency": "Währung ",
-  "donate-now:donateNow": "Jetzt spenden "
+  "donate-now:donateNow": "Jetzt spenden ",
+  "donate-now:email": "Email (optional) "
 }
