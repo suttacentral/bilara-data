@@ -21,5 +21,6 @@
   "offline:downloading": "Herunterladen ",
   "offline:extraFeatures": "Wenn Sie zusätzliche Funktionen wünschen, wenden Sie sich an uns. ",
   "offline:here": "hier ",
-  "offline:language": "Sprache "
+  "offline:language": "Sprache ",
+  "offline:networkError": "Netzwerkfehler "
 }
