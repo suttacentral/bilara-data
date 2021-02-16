@@ -36,5 +36,6 @@
   "static-page-selector:LICENSING": "Lizenzen ",
   "static-page-selector:LICENSING-TITLE": "Lizenzen ",
   "static-page-selector:LINKED": "Verbunden ",
-  "static-page-selector:LONG": "Lang "
+  "static-page-selector:LONG": "Lang ",
+  "static-page-selector:METHODOLOGY": "Methodik "
 }
