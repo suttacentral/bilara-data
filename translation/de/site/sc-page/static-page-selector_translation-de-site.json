@@ -49,5 +49,6 @@
   "static-page-selector:NUMBERING-TITLE": "Nummerierung der Suttas ",
   "static-page-selector:OFFLINE": "Offline benutzen ",
   "static-page-selector:OFFLINE-TITLE": "SuttaCentral offline benutzen ",
-  "static-page-selector:SIMILES": "Gleichnisse "
+  "static-page-selector:SIMILES": "Gleichnisse ",
+  "static-page-selector:SIMILES-TITLE": "Register der Gleichnisse "
 }
