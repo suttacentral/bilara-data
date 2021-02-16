@@ -3,5 +3,6 @@
   "text:error404": "Error 404 ",
   "text:languagePromptMessage": "Sie können die Sprache über das Menü in der Werkzeugleiste ändern. ",
   "text:metaDescriptionText": "Frühe buddhistische Texte und moderne Übersetzungen. Suttas (Sutras) ans dem Tipitaka (Tripitaka) auf Pali, Chinesisch, Sanskrit und Tibetisch mit den Lehren des Buddha über Achtsamkeit, Einsicht, Weisheit und Meditation. ",
-  "text:noMetadata": "Keine Metadaten vorhanden. "
+  "text:noMetadata": "Keine Metadaten vorhanden. ",
+  "text:paliTextSocietyPageNo": "Band-/Seitennummer der <i lang='en'>Pali Text Society</i>. "
 }
