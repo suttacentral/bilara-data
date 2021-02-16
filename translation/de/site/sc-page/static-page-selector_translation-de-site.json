@@ -48,5 +48,6 @@
   "static-page-selector:NUMBERING": "Nummerierung ",
   "static-page-selector:NUMBERING-TITLE": "Nummerierung der Suttas ",
   "static-page-selector:OFFLINE": "Offline benutzen ",
-  "static-page-selector:OFFLINE-TITLE": "SuttaCentral offline benutzen "
+  "static-page-selector:OFFLINE-TITLE": "SuttaCentral offline benutzen ",
+  "static-page-selector:SIMILES": "Gleichnisse "
 }
