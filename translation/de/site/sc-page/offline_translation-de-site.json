@@ -23,5 +23,6 @@
   "offline:here": "hier ",
   "offline:language": "Sprache ",
   "offline:networkError": "Netzwerkfehler ",
-  "offline:networkLost": "Keine Netzwerkverbindung. Herunterladen unterbrochen. "
+  "offline:networkLost": "Keine Netzwerkverbindung. Herunterladen unterbrochen. ",
+  "offline:networkRecovered": "Netzwerkverbindung wiederhergestellt. Herunterladen wird fortgesetzt. "
 }
