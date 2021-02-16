@@ -36,5 +36,6 @@
   "offline:selectDifferentLang": "Standardmäßig werden Ihre Suttas in der auf der Webseite eingestellten Sprache heruntergeladen. Wenn Sie eine andere Sprache möchten, wählen Sie sie im Menü aus. ",
   "offline:stop": "Herunterladen abbrechen ",
   "offline:supportsPWAs": "Ihr Browser untertützt <i lang='en'>Progressive Web Apps</i>! ",
-  "offline:suttasOnly": "Nur Suttas, kein Vinaya oder Abhidhamma. "
+  "offline:suttasOnly": "Nur Suttas, kein Vinaya oder Abhidhamma. ",
+  "offline:usingOffline": "SuttaCentral offline benutzen "
 }
