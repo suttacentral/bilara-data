@@ -9,5 +9,6 @@
   "donate-now:currency": "Währung ",
   "donate-now:donateNow": "Jetzt spenden ",
   "donate-now:email": "Email (optional) ",
-  "donate-now:errorMessage": "Dieser Dienst ist vorübergehend nicht verfügbar, bitte versuchen Sie es später. "
+  "donate-now:errorMessage": "Dieser Dienst ist vorübergehend nicht verfügbar, bitte versuchen Sie es später. ",
+  "donate-now:feeDisclaimer": "Die Stripe-Bearbeitungsgebühr, die von einer Spende abgezogen wird, beträgt 1,75% + 30 ¢ für australische Karten und 2,9% + 30 ¢ für internationale Karten, zuzüglich Umrechnungsgebühr, falls zutreffend. "
 }
