@@ -11,5 +11,6 @@
   "offline:downloadButton": "Texte auf  {languageName} herunterladen ",
   "offline:downloadComplete": "Ihr Download ist abgeschlossen. Sie können jetzt Suttas auf {lang} offline lesen. ",
   "offline:downloadErrored": "Fehler! Es konnten nicht alle gewünschten Texte heruntergeladen werden. {failed} von {total} Anfragen wurden nicht richtig abgeschlossen. ",
-  "offline:downloadInProgress": "Herunterladen läuft. "
+  "offline:downloadInProgress": "Herunterladen läuft. ",
+  "offline:downloadParallels": "Parallelen einschließen "
 }
