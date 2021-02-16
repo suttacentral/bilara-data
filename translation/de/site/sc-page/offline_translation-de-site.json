@@ -26,5 +26,6 @@
   "offline:networkLost": "Keine Netzwerkverbindung. Herunterladen unterbrochen. ",
   "offline:networkRecovered": "Netzwerkverbindung wiederhergestellt. Herunterladen wird fortgesetzt. ",
   "offline:newTech": "PWA ist eine neue Technologie. Zur Zeit hat die Offline-Benutzung einige Einschränkungen: ",
-  "offline:oneLang": "Nur eine Sprache. "
+  "offline:oneLang": "Nur eine Sprache. ",
+  "offline:paliLookups": "Pali-Nachschlagewerkzeuge "
 }
