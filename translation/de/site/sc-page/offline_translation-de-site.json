@@ -15,5 +15,6 @@
   "offline:downloadParallels": "Parallelen einschließen ",
   "offline:downloadParallelsDescription": "Auswählen, um auch Parallelentabellen für die Texte herunterzuladen. ",
   "offline:downloadPaused": "Herunterladen unterbrochen. ",
-  "offline:downloadRootTexts": "Quelltexte einschließen "
+  "offline:downloadRootTexts": "Quelltexte einschließen ",
+  "offline:downloadRootTextsDescription": "Auswählen, um auch Texte in der Quellsprache herunterzuladen. Das schließt ein Pali > {toLang}-Wörterbuch-Nachschlagewerkzeug ein. Zum Ändern des Nachschlagewerkzeugs klicken "
 }
