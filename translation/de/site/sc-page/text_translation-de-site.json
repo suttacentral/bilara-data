@@ -6,5 +6,6 @@
   "text:noMetadata": "Keine Metadaten vorhanden. ",
   "text:paliTextSocietyPageNo": "Band-/Seitennummer der <i lang='en'>Pali Text Society</i>. ",
   "text:segmentNumber": "SuttaCentral-Segmentnummer ",
-  "text:suttaNotFound": "Sutta nicht gefunden. "
+  "text:suttaNotFound": "Sutta nicht gefunden. ",
+  "text:viewImage": "Seitenaufbau ansehen "
 }
