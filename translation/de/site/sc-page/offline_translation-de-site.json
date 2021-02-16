@@ -28,5 +28,6 @@
   "offline:newTech": "PWA ist eine neue Technologie. Zur Zeit hat die Offline-Benutzung einige Einschränkungen: ",
   "offline:oneLang": "Nur eine Sprache. ",
   "offline:paliLookups": "Pali-Nachschlagewerkzeuge ",
-  "offline:paliLookupsDescription": "Wählen Sie Wörterbuch-Nachschlagewerkzeuge für Paliwörter in den folgenden Sprachen aus: "
+  "offline:paliLookupsDescription": "Wählen Sie Wörterbuch-Nachschlagewerkzeuge für Paliwörter in den folgenden Sprachen aus: ",
+  "offline:pause": "Herunterladen unterbrechen "
 }
