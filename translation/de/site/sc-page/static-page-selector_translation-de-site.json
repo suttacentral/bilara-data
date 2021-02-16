@@ -56,5 +56,6 @@
   "static-page-selector:START": "Ein Anfang ",
   "static-page-selector:START-TITLE": "Ein Anfang ",
   "static-page-selector:SUBJECTS": "Themen ",
-  "static-page-selector:SUBJECTS-TITLE": "Themenregister "
+  "static-page-selector:SUBJECTS-TITLE": "Themenregister ",
+  "static-page-selector:TERMINOLOGY": "Terminologie "
 }
