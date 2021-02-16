@@ -3,5 +3,6 @@
   "donate-now:Name (optional)": "Name (optional) ",
   "donate-now:StripeLimitations": "Aufgrund von Einschränkungen bei Stripe zahlen Sie bitte direkt oder kontaktieren Sie uns, wenn Sie Hilfe brauchen. ",
   "donate-now:UnknownError": "Fehler beim Versenden der Spende. ",
-  "donate-now:amount": "Betrag "
+  "donate-now:amount": "Betrag ",
+  "donate-now:cardDeclined": "Ihre Karte wurde abgelehnt. "
 }
