@@ -7,5 +7,6 @@
   "offline:certainFunctions": "Manche Funktionen einschließlich der Suchfunktion erfordern eine Internetverbindung. ",
   "offline:chineseLookups": "Chinesische Nachschlagewerkzeuge ",
   "offline:chineseLookupsDescription": "Wählen Sie Nachschlagewerkzeuge für chinesische Wörter in den folgenden Sprachen aus: ",
-  "offline:doesntSupportPWAs": "Leider werden erweiterte <i lang='en'>Progressive Web App</i> (PWA)-Funktionen  auf Ihrer Plattform nicht unterstützt. Wenn Sie die vollständige Offline-Funktion nutzen wollen, benutzen Sie eine aktuelle Version von Chrome. Wir planen, zukünftig mehr PWA-Funktionen für andere Browser einzuführen. "
+  "offline:doesntSupportPWAs": "Leider werden erweiterte <i lang='en'>Progressive Web App</i> (PWA)-Funktionen  auf Ihrer Plattform nicht unterstützt. Wenn Sie die vollständige Offline-Funktion nutzen wollen, benutzen Sie eine aktuelle Version von Chrome. Wir planen, zukünftig mehr PWA-Funktionen für andere Browser einzuführen. ",
+  "offline:downloadButton": "Texte auf  {languageName} herunterladen "
 }
