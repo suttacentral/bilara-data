@@ -5,5 +5,6 @@
   "offline:alreadyDownloaded": "Bereits heruntergeladen. ",
   "offline:canceled": "Sie haben das Herunterladen abgebrochen. ",
   "offline:certainFunctions": "Manche Funktionen einschließlich der Suchfunktion erfordern eine Internetverbindung. ",
-  "offline:chineseLookups": "Chinesische Nachschlagewerkzeuge "
+  "offline:chineseLookups": "Chinesische Nachschlagewerkzeuge ",
+  "offline:chineseLookupsDescription": "Wählen Sie Nachschlagewerkzeuge für chinesische Wörter in den folgenden Sprachen aus: "
 }
