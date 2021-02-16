@@ -8,5 +8,6 @@
   "donate-now:chooseFrequency": "Sie können eine einmalige oder eine monatliche Spende machen. ",
   "donate-now:currency": "Währung ",
   "donate-now:donateNow": "Jetzt spenden ",
-  "donate-now:email": "Email (optional) "
+  "donate-now:email": "Email (optional) ",
+  "donate-now:errorMessage": "Dieser Dienst ist vorübergehend nicht verfügbar, bitte versuchen Sie es später. "
 }
