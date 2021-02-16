@@ -1,3 +1,4 @@
 {
-  "error-icon:connectToInternet": "Das Nutzen der Suchfunktion erfordert eine Internetverbindung. "
+  "error-icon:connectToInternet": "Das Nutzen der Suchfunktion erfordert eine Internetverbindung. ",
+  "error-icon:dataLoadError": "Fehler beim Laden der Daten "
 }
