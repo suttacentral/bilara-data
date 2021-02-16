@@ -17,5 +17,6 @@
   "donate-now:monthly": "Monatlich ",
   "donate-now:oneTime": "Einmalig ",
   "donate-now:payWithCard": "Mit Karte spenden ",
-  "donate-now:paymentSuccessful": "Sadhu! Ihre Zahlung wurde erfolgreich abgeschlossen. "
+  "donate-now:paymentSuccessful": "Sadhu! Ihre Zahlung wurde erfolgreich abgeschlossen. ",
+  "donate-now:redirectNotice": "Sie werden in 5 Sekunden zur Homepage weitergeleitet. "
 }
