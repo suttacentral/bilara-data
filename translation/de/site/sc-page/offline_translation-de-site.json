@@ -14,5 +14,6 @@
   "offline:downloadInProgress": "Herunterladen läuft. ",
   "offline:downloadParallels": "Parallelen einschließen ",
   "offline:downloadParallelsDescription": "Auswählen, um auch Parallelentabellen für die Texte herunterzuladen. ",
-  "offline:downloadPaused": "Herunterladen unterbrochen. "
+  "offline:downloadPaused": "Herunterladen unterbrochen. ",
+  "offline:downloadRootTexts": "Quelltexte einschließen "
 }
