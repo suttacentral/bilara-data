@@ -1,4 +1,5 @@
 {
   "parallel-item:alternateText": "Abweichende Kennziffer in {book}-Ausgabe ",
-  "parallel-item:originalTitle": "Originaltitel "
+  "parallel-item:originalTitle": "Originaltitel ",
+  "parallel-item:suttaCentralID": "SuttaCentral-Kennziffer "
 }
