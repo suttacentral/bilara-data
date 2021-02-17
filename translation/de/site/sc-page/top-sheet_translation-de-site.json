@@ -40,5 +40,6 @@
   "top-sheet:referenceDisplayType_sya": "Thai editions 2436, 2469–2471, 2538 ",
   "top-sheet:referenceDisplayType_vri": "Vipassanā Research Institute 2537–2542 ",
   "top-sheet:rememberSettings": "Einstellungen speichern ",
-  "top-sheet:rememberSettingsDescription": "Auswählen, um die Einstellungen für Ihren nächsten Besuch auf SuttaCentral zu speichern. "
+  "top-sheet:rememberSettingsDescription": "Auswählen, um die Einstellungen für Ihren nächsten Besuch auf SuttaCentral zu speichern. ",
+  "top-sheet:rememberSettingsDisabled": "Die ausgewählten Einstellungen werden nicht bis zu Ihrem nächsten Besuch auf SuttaCentral gespeichert. "
 }
