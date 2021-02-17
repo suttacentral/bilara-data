@@ -6,5 +6,6 @@
   "donation-success:Donor": "Spenderin/Spender ",
   "donation-success:MonthlySubscription": "Monatlicher Beitrag ",
   "donation-success:OneTimeDonation": "Einmalige Spende ",
-  "donation-success:PaidTo": "Gezahlt an "
+  "donation-success:PaidTo": "Gezahlt an ",
+  "donation-success:PaymentService": "Zahlungsdienstleister "
 }
