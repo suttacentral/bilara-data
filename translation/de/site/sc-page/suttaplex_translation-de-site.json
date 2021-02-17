@@ -9,5 +9,6 @@
   "suttaplex:editions": "Ausgaben ",
   "suttaplex:goToTranslation": "Zu einer Übersetzung von {author} ",
   "suttaplex:hasNoParallels": "Für diesen Text sind keine Parallelen verzeichnet. ",
-  "suttaplex:inAncientTexts": "in alten Texten "
+  "suttaplex:inAncientTexts": "in alten Texten ",
+  "suttaplex:inModernLanguages": "in andere moderne Sprachen "
 }
