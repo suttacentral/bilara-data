@@ -16,5 +16,6 @@
   "suttaplex:itemNotFound": "Fehler 404: Element nicht gefunden. ",
   "suttaplex:listenSutta": "Dieses Sutta hören ",
   "suttaplex:networkError": "Netzwerkfehler ",
-  "suttaplex:ofRootText": "des Quelltextes "
+  "suttaplex:ofRootText": "des Quelltextes ",
+  "suttaplex:originalTitle": "Originaltitel "
 }
