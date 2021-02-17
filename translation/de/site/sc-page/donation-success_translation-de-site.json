@@ -9,5 +9,6 @@
   "donation-success:PaidTo": "Gezahlt an ",
   "donation-success:PaymentService": "Zahlungsdienstleister ",
   "donation-success:SuttaCentralDevelopmentTrustDescription": "<i lang='en'>SuttaCentral Development Trust</i> ist eine gemeinnützige Organisation, der in Australien eingetragen ist. Ihre Spende wird für die Entwicklung von SuttaCentral genutzt. ",
-  "donation-success:TimeOfPayment": "Zahlungszeitpunkt "
+  "donation-success:TimeOfPayment": "Zahlungszeitpunkt ",
+  "donation-success:TypeOfPayment": "Zahlungsart "
 }
