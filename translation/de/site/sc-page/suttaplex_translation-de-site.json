@@ -23,5 +23,6 @@
   "suttaplex:translation": "Übersetzung ",
   "suttaplex:translationIn": "{lang} Übersetzung ",
   "suttaplex:translations": "Übersetzungen ",
-  "suttaplex:translationsIn": "{lang} Übersetzungen "
+  "suttaplex:translationsIn": "{lang} Übersetzungen ",
+  "suttaplex:volumeAndPage": "Band und Seite "
 }
