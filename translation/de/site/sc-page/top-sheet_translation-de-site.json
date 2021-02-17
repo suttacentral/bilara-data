@@ -7,5 +7,6 @@
   "top-sheet:changePaliScript": "Schrift für Pali ändern ",
   "top-sheet:changePaliScriptDescription": "Ermöglicht, den Palitext in verschiedenen Schriften zu lesen. ",
   "top-sheet:changePaliScriptLabel": "Schrift ",
-  "top-sheet:chineseLookupDictionaryDisabled": "Das 汉语-Nachschlagewerkzeug ist jetzt ausgeschaltet. "
+  "top-sheet:chineseLookupDictionaryDisabled": "Das 汉语-Nachschlagewerkzeug ist jetzt ausgeschaltet. ",
+  "top-sheet:displaysInfo": "Zeigt Informationen wie Verweise auf Band/Seite, abweichende Lesarten usw. "
 }
