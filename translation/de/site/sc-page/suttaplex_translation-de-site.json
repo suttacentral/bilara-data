@@ -2,5 +2,6 @@
   "suttaplex:advanced": "Für fortgeschrittene Studierende empfohlen ",
   "suttaplex:alternateText": "Abweichende Kennziffer in {book}-Ausgabe ",
   "suttaplex:beginner": "Für Anfänger empfohlen ",
-  "suttaplex:blurb": "Vorschau "
+  "suttaplex:blurb": "Vorschau ",
+  "suttaplex:countParallel": "{count} Parallele "
 }
