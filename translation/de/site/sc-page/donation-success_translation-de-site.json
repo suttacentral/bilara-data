@@ -4,5 +4,6 @@
   "donation-success:Description": "Hier sind die Angaben zur Transaktion für Ihre Unterlagen. Wenn Sie Ihre Email-Adresse angegeben haben, wird dorthin auch eine Kopie versandt. ",
   "donation-success:Donation": "Spende ",
   "donation-success:Donor": "Spenderin/Spender ",
-  "donation-success:MonthlySubscription": "Monatlicher Beitrag "
+  "donation-success:MonthlySubscription": "Monatlicher Beitrag ",
+  "donation-success:OneTimeDonation": "Einmalige Spende "
 }
