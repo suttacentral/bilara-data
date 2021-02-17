@@ -4,5 +4,6 @@
   "top-sheet:activatePaliDescription": "Analysiert den Palitext und versucht, die Wortbedeutung darzustellen. Man beachte, dass das nur eine Hilfe ist; es ist nicht immer genau. Wortbedeutungen stammen aus dem <i lang='en'>New Concise Pali English Dictionary</i>. ",
   "top-sheet:activatePaliLookup": "Pali-Nachschlagewerkzeug einschalten ",
   "top-sheet:asterisk": "Tooltipp am Sternchen ",
-  "top-sheet:changePaliScript": "Schrift für Pali ändern "
+  "top-sheet:changePaliScript": "Schrift für Pali ändern ",
+  "top-sheet:changePaliScriptDescription": "Ermöglicht, den Palitext in verschiedenen Schriften zu lesen. "
 }
