@@ -13,7 +13,7 @@
   "top-sheet:lookup": "Nachschlagewerkzeug ",
   "top-sheet:lookupDictionaryEnabled": "Das {lookupDictionary}-Nachschlagewerkzeug ist jetzt eingeschaltet. ",
   "top-sheet:none": "Keins ",
-  "top-sheet:noteDescription": "Zeigt Anmerkungen zu Übersetzung und abweichende Lesarten, wo vorhanden. ",
+  "top-sheet:noteDescription": "Zeigt Anmerkungen zu Übersetzung und abweichende Lesarten für Quelltexte, wo vorhanden. ",
   "top-sheet:noteDisplayType_Asterisk": "Tooltipp über Sternchen ",
   "top-sheet:noteDisplayType_None": "Keine ",
   "top-sheet:noteDisplayType_Sidenotes": "Als Randnotiz darstellen ",
