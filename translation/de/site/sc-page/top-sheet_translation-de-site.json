@@ -5,5 +5,6 @@
   "top-sheet:activatePaliLookup": "Pali-Nachschlagewerkzeug einschalten ",
   "top-sheet:asterisk": "Tooltipp am Sternchen ",
   "top-sheet:changePaliScript": "Schrift für Pali ändern ",
-  "top-sheet:changePaliScriptDescription": "Ermöglicht, den Palitext in verschiedenen Schriften zu lesen. "
+  "top-sheet:changePaliScriptDescription": "Ermöglicht, den Palitext in verschiedenen Schriften zu lesen. ",
+  "top-sheet:changePaliScriptLabel": "Schrift "
 }
