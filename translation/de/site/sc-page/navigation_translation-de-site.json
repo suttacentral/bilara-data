@@ -7,5 +7,6 @@
   "navigation:goBack": "Zurück zum vorigen Menü ",
   "navigation:introduction": "Einführung zum {pitaka} ",
   "navigation:mn_essayTitle": "Die Mittleren Lehrreden: Gespräche über Gegenstände von tiefer Wahrheit ",
-  "navigation:networkError": "Netzwerkfehler "
+  "navigation:networkError": "Netzwerkfehler ",
+  "navigation:shortcutToFullList": "Abkürzung zu allen Suttas "
 }
