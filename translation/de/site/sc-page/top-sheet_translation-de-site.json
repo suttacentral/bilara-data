@@ -45,5 +45,6 @@
   "top-sheet:rememberSettingsEnabled": "Die ausgewählten Einstellungen werden bis zu Ihrem nächsten Besuch auf SuttaCentral gespeichert. ",
   "top-sheet:scriptChanged": "Pali wird nun in {paliScript} Schrift gezeigt. ",
   "top-sheet:showHighlighting": "Textkritische Angaben hervorheben ",
-  "top-sheet:showHighlightingDescription": "Text wird hervorgehoben, um zusätzliche Einzelheiten wie abweichende Lesarten, Korrekturen, Strukturelemente usw. zu zeigen, wo vorhanden. "
+  "top-sheet:showHighlightingDescription": "Text wird hervorgehoben, um zusätzliche Einzelheiten wie abweichende Lesarten, Korrekturen, Strukturelemente usw. zu zeigen, wo vorhanden. ",
+  "top-sheet:showHighlightingDisabled": "Hervorheben ist jetzt ausgeschaltet. "
 }
