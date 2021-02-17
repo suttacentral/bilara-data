@@ -2,5 +2,6 @@
   "parallel-item:alternateText": "Abweichende Kennziffer in {book}-Ausgabe ",
   "parallel-item:originalTitle": "Originaltitel ",
   "parallel-item:suttaCentralID": "SuttaCentral-Kennziffer ",
-  "parallel-item:translations": "Übersetzungen "
+  "parallel-item:translations": "Übersetzungen ",
+  "parallel-item:volumeAndPage": "Band und Seite "
 }
