@@ -2,5 +2,6 @@
   "donation-success:Acknowledge": "Wir danken herzlich für Ihre Spende zur Unterstützung von SuttaCentral. ",
   "donation-success:Contact": "Für weitere Fragen kontaktieren Sie bitte die Finanzbeauftragte des <i lang='en'>SuttaCentral Development Trust</i>, Deepika Weerakoon, unter ",
   "donation-success:Description": "Hier sind die Angaben zur Transaktion für Ihre Unterlagen. Wenn Sie Ihre Email-Adresse angegeben haben, wird dorthin auch eine Kopie versandt. ",
-  "donation-success:Donation": "Spende "
+  "donation-success:Donation": "Spende ",
+  "donation-success:Donor": "Spenderin/Spender "
 }
