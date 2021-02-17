@@ -12,5 +12,6 @@
   "suttaplex:inAncientTexts": "in alten Texten ",
   "suttaplex:inModernLanguages": "in andere moderne Sprachen ",
   "suttaplex:inYourLanguage": "in der von Ihnen gewählten Sprache ",
-  "suttaplex:intermediate": "Für Studierende mit Vorkenntnissen empfohlen "
+  "suttaplex:intermediate": "Für Studierende mit Vorkenntnissen empfohlen ",
+  "suttaplex:itemNotFound": "Fehler 404: Element nicht gefunden. "
 }
