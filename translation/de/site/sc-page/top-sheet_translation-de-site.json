@@ -18,5 +18,6 @@
   "top-sheet:noteDisplayType_None": "Kein ",
   "top-sheet:noteDisplayType_Sidenotes": "Als Randnotiz darstellen ",
   "top-sheet:noteSummary": "Zeigt Anmerkungen und Varianten in segmentierten Texten ",
-  "top-sheet:notes": "Anmerkungen "
+  "top-sheet:notes": "Anmerkungen ",
+  "top-sheet:notesDescription": "Zeigt Anmerkungen des Übersetzers, abweichende Lesarten usw. "
 }
