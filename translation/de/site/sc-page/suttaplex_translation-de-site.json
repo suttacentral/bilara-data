@@ -24,5 +24,6 @@
   "suttaplex:translationIn": "{lang} Übersetzung ",
   "suttaplex:translations": "Übersetzungen ",
   "suttaplex:translationsIn": "{lang} Übersetzungen ",
-  "suttaplex:volumeAndPage": "Band und Seite "
+  "suttaplex:volumeAndPage": "Band und Seite ",
+  "suttaplex:volumeAndPagePTS1": "PTS Band und Seite:\n1. Auflage = {pts-vp-pli1ed}\n2. Auflage = {pts-vp-pli2ed} "
 }
