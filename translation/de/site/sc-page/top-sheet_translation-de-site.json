@@ -24,5 +24,6 @@
   "top-sheet:paliLookupDictionaryDisabled": "Das Pali-Nachschlagewerkzeug ist jetzt ausgeschaltet. ",
   "top-sheet:plain": "Einsprachig ",
   "top-sheet:reference": "Referenz ",
-  "top-sheet:referenceDescription": "„Haupt“ zeigt SuttaCentrals primäre Referenzen für segmentierte Texte und alle Referenzen für andere Texte. Verbleibende Elemente sind zusätzliche Paliausgaben. "
+  "top-sheet:referenceDescription": "„Haupt“ zeigt SuttaCentrals primäre Referenzen für segmentierte Texte und alle Referenzen für andere Texte. Verbleibende Elemente sind zusätzliche Paliausgaben. ",
+  "top-sheet:referenceDisplayType_Main": "Haupt "
 }
