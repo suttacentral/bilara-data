@@ -3,5 +3,6 @@
   "suttaplex:alternateText": "Abweichende Kennziffer in {book}-Ausgabe ",
   "suttaplex:beginner": "Für Anfänger empfohlen ",
   "suttaplex:blurb": "Vorschau ",
-  "suttaplex:countParallel": "{count} Parallele "
+  "suttaplex:countParallel": "{count} Parallele ",
+  "suttaplex:countParallels": "{count} Parallelen "
 }
