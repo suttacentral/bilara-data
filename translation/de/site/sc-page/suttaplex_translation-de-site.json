@@ -14,5 +14,6 @@
   "suttaplex:inYourLanguage": "in der von Ihnen gewählten Sprache ",
   "suttaplex:intermediate": "Für Studierende mit Vorkenntnissen empfohlen ",
   "suttaplex:itemNotFound": "Fehler 404: Element nicht gefunden. ",
-  "suttaplex:listenSutta": "Dieses Sutta hören "
+  "suttaplex:listenSutta": "Dieses Sutta hören ",
+  "suttaplex:networkError": "Netzwerkfehler "
 }
