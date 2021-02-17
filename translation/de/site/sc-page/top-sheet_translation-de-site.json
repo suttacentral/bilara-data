@@ -23,5 +23,6 @@
   "top-sheet:onlyWorks": "Funktioniert nur bei manchen Texten wie etwa Sujatos und Brahmalis Übersetzungen. ",
   "top-sheet:paliLookupDictionaryDisabled": "Das Pali-Nachschlagewerkzeug ist jetzt ausgeschaltet. ",
   "top-sheet:plain": "Einsprachig ",
-  "top-sheet:reference": "Referenz "
+  "top-sheet:reference": "Referenz ",
+  "top-sheet:referenceDescription": "„Haupt“ zeigt SuttaCentrals primäre Referenzen für segmentierte Texte und alle Referenzen für andere Texte. Verbleibende Elemente sind zusätzliche Paliausgaben. "
 }
