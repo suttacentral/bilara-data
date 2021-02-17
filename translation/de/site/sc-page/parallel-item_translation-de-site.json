@@ -1,3 +1,4 @@
 {
-  "parallel-item:alternateText": "Abweichende Kennziffer in {book}-Ausgabe "
+  "parallel-item:alternateText": "Abweichende Kennziffer in {book}-Ausgabe ",
+  "parallel-item:originalTitle": "Originaltitel "
 }
