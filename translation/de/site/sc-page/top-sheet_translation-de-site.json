@@ -17,5 +17,6 @@
   "top-sheet:noteDisplayType_Asterisk": "Tooltipp am Sternchen ",
   "top-sheet:noteDisplayType_None": "Kein ",
   "top-sheet:noteDisplayType_Sidenotes": "Als Randnotiz darstellen ",
-  "top-sheet:noteSummary": "Zeigt Anmerkungen und Varianten in segmentierten Texten "
+  "top-sheet:noteSummary": "Zeigt Anmerkungen und Varianten in segmentierten Texten ",
+  "top-sheet:notes": "Anmerkungen "
 }
