@@ -11,5 +11,6 @@
   "top-sheet:displaysInfo": "Zeigt Informationen wie Verweise auf Band/Seite, abweichende Lesarten usw. ",
   "top-sheet:lineByLine": "Zeile für Zeile ",
   "top-sheet:lookup": "Nachschlagewerkzeug ",
-  "top-sheet:lookupDictionaryEnabled": "Das {lookupDictionary}-Nachschlagewerkzeug ist jetzt eingeschaltet. "
+  "top-sheet:lookupDictionaryEnabled": "Das {lookupDictionary}-Nachschlagewerkzeug ist jetzt eingeschaltet. ",
+  "top-sheet:none": "Kein "
 }
