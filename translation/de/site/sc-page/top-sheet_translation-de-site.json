@@ -53,5 +53,6 @@
   "top-sheet:textView": "Originaltext und Übersetzung ",
   "top-sheet:textViewDescription": "Manche Texte auf SuttaCentral sind „segmentiert“; Originaltext und Übersetzung entsprechen einander in etwa zeilenweise. Für solche Texte Quelltext und Übersetzung zeigen. ",
   "top-sheet:textViewDisabled": "Pali-Englisch-Ansicht ist jetzt ausgeschaltet. ",
-  "top-sheet:textViewEnabled": "{textView}-Ansicht ist jetzt eingeschaltet, sofern zutreffend. "
+  "top-sheet:textViewEnabled": "{textView}-Ansicht ist jetzt eingeschaltet, sofern zutreffend. ",
+  "top-sheet:textualInformationDisabled": "Informationen zum Text sind jetzt ausgeschaltet. "
 }
