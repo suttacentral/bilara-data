@@ -7,5 +7,6 @@
   "navigation-menu:networkError": "Netzwerkfehler ",
   "navigation-menu:pgd": "Gandhari ",
   "navigation-menu:pli": "Pali ",
-  "navigation-menu:pra": "Prakrit-Sprachen "
+  "navigation-menu:pra": "Prakrit-Sprachen ",
+  "navigation-menu:rootLangTitle": "Quellsprache: {lang} "
 }
