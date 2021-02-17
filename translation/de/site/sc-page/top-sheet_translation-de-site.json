@@ -16,5 +16,6 @@
   "top-sheet:noteDescription": "Zeigt Anmerkungen zu Übersetzung und abweichenden Lesarten, wo vorhanden. ",
   "top-sheet:noteDisplayType_Asterisk": "Tooltipp am Sternchen ",
   "top-sheet:noteDisplayType_None": "Kein ",
-  "top-sheet:noteDisplayType_Sidenotes": "Als Randnotiz darstellen "
+  "top-sheet:noteDisplayType_Sidenotes": "Als Randnotiz darstellen ",
+  "top-sheet:noteSummary": "Zeigt Anmerkungen und Varianten in segmentierten Texten "
 }
