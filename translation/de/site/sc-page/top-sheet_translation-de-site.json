@@ -49,5 +49,6 @@
   "top-sheet:showHighlightingDisabled": "Hervorheben ist jetzt ausgeschaltet. ",
   "top-sheet:showHighlightingEnabled": "Hervorheben ist jetzt eingeschaltet. ",
   "top-sheet:sideBySide": "Nebeneinander ",
-  "top-sheet:sidenotes": "Als Randnotiz zeigen "
+  "top-sheet:sidenotes": "Als Randnotiz zeigen ",
+  "top-sheet:textView": "Originaltext und Übersetzung "
 }
