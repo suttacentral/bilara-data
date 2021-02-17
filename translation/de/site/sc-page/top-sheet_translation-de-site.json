@@ -55,5 +55,6 @@
   "top-sheet:textViewDisabled": "Pali-Englisch-Ansicht ist jetzt ausgeschaltet. ",
   "top-sheet:textViewEnabled": "{textView}-Ansicht ist jetzt eingeschaltet, sofern zutreffend. ",
   "top-sheet:textualInformationDisabled": "Informationen zum Text sind jetzt ausgeschaltet. ",
-  "top-sheet:textualInformationEnabled": "Informationen zum Text sind jetzt eingeschaltet. "
+  "top-sheet:textualInformationEnabled": "Informationen zum Text sind jetzt eingeschaltet. ",
+  "top-sheet:viewRoot": "Zeigt Quelltext mit Übersetzung "
 }
