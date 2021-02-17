@@ -46,5 +46,6 @@
   "top-sheet:scriptChanged": "Pali wird nun in {paliScript} Schrift gezeigt. ",
   "top-sheet:showHighlighting": "Textkritische Angaben hervorheben ",
   "top-sheet:showHighlightingDescription": "Text wird hervorgehoben, um zusätzliche Einzelheiten wie abweichende Lesarten, Korrekturen, Strukturelemente usw. zu zeigen, wo vorhanden. ",
-  "top-sheet:showHighlightingDisabled": "Hervorheben ist jetzt ausgeschaltet. "
+  "top-sheet:showHighlightingDisabled": "Hervorheben ist jetzt ausgeschaltet. ",
+  "top-sheet:showHighlightingEnabled": "Hervorheben ist jetzt eingeschaltet. "
 }
