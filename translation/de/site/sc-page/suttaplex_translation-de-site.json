@@ -22,5 +22,6 @@
   "suttaplex:suttaCentralID": "SuttaCentral-Kennziffer ",
   "suttaplex:translation": "Übersetzung ",
   "suttaplex:translationIn": "{lang} Übersetzung ",
-  "suttaplex:translations": "Übersetzungen "
+  "suttaplex:translations": "Übersetzungen ",
+  "suttaplex:translationsIn": "{lang} Übersetzungen "
 }
