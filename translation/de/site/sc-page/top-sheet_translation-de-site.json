@@ -27,5 +27,6 @@
   "top-sheet:referenceDescription": "„Haupt“ zeigt SuttaCentrals primäre Referenzen für segmentierte Texte und alle Referenzen für andere Texte. Verbleibende Elemente sind zusätzliche Paliausgaben. ",
   "top-sheet:referenceDisplayType_Main": "Haupt ",
   "top-sheet:referenceDisplayType_None": "Keine ",
-  "top-sheet:referenceDisplayType_bj": "Buddhajayantī  "
+  "top-sheet:referenceDisplayType_bj": "Buddhajayantī  ",
+  "top-sheet:referenceDisplayType_cck": "Chulachomklao 2436 "
 }
