@@ -21,5 +21,6 @@
   "top-sheet:notes": "Anmerkungen ",
   "top-sheet:notesDescription": "Zeigt Anmerkungen des Übersetzers, abweichende Lesarten usw. ",
   "top-sheet:onlyWorks": "Funktioniert nur bei manchen Texten wie etwa Sujatos und Brahmalis Übersetzungen. ",
-  "top-sheet:paliLookupDictionaryDisabled": "Das Pali-Nachschlagewerkzeug ist jetzt ausgeschaltet. "
+  "top-sheet:paliLookupDictionaryDisabled": "Das Pali-Nachschlagewerkzeug ist jetzt ausgeschaltet. ",
+  "top-sheet:plain": "Einfach "
 }
