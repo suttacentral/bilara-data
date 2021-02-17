@@ -7,5 +7,6 @@
   "suttaplex:countParallels": "{count} Parallelen ",
   "suttaplex:edition": "Ausgabe ",
   "suttaplex:editions": "Ausgaben ",
-  "suttaplex:goToTranslation": "Zu einer Übersetzung von {author} "
+  "suttaplex:goToTranslation": "Zu einer Übersetzung von {author} ",
+  "suttaplex:hasNoParallels": "Für diesen Text sind keine Parallelen verzeichnet. "
 }
