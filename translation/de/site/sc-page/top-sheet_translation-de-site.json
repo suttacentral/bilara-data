@@ -9,5 +9,6 @@
   "top-sheet:changePaliScriptLabel": "Schrift ",
   "top-sheet:chineseLookupDictionaryDisabled": "Das 汉语-Nachschlagewerkzeug ist jetzt ausgeschaltet. ",
   "top-sheet:displaysInfo": "Zeigt Informationen wie Verweise auf Band/Seite, abweichende Lesarten usw. ",
-  "top-sheet:lineByLine": "Zeile für Zeile "
+  "top-sheet:lineByLine": "Zeile für Zeile ",
+  "top-sheet:lookup": "Nachschlagewerkzeug "
 }
