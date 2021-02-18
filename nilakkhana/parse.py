@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 from typing import Dict
 
-from .parser import parse
+from nilakkhana.parser import parse
 
 WORK_DIR = Path(__file__).parent.parent
 
