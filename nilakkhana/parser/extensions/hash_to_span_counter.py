@@ -21,7 +21,7 @@ class HashToSpanCounterPattern(Pattern):
 
 
 class HashToSpanCounterExtension(Extension):
-    PATTERN = r'\#(?P<numbers>\d+([–-.|]\d+)?)'
+    PATTERN = r'\#(?P<numbers>\d+([–.|]\d+)?)'
 
     def add_inline(self, md: Markdown, name: str, pattern_class: Type[HashToSpanCounterPattern]) -> None:
         pattern = pattern_class(self.PATTERN, md)
