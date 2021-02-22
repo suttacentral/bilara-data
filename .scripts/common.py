@@ -3,7 +3,7 @@ import json
 import regex
 import pathlib
 
-repo_dir = pathlib.Path(__file__).parent.parent
+repo_dir = pathlib.Path(__file__).resolve().parent.parent
 
 def iter_json_files(glob_pattern='**/[!_]*.json'):
     yield from sorted(repo_dir.glob(f'[!_.]*/{glob_pattern}'), key=lambda f: humansortkey(str(f)))
@@ -39,7 +39,7 @@ def bilarasortkey(string):
     >>> bilarasortkey('1.0^a') < bilarasortkey('1.0')
     True
     """
-
+    string = str(string)
     if string[-1].isalpha():
         string = f'{string[:-1]}.{ord(string[-1])}'
     subresult = humansortkey(string)
