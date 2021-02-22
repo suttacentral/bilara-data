@@ -39,5 +39,12 @@
 		"collaborator": [{
 			"author_github_handle": "sabbamitta"
 		}]
+	},
+	"pt_translation": {
+		"name": "Portuguese Translation",
+		"root_path": "root/pli/ms/sutta/",
+		"translation_path": "translation/pt/laera-quaresma/sutta",
+		"translation_muids": "translation-pt-laera-quaresma",
+		"collaborator": []
 	}
 }
