@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "bilara-scripts"
+version = "0.1.0"
+description = ""
+authors = ["Blake Walsh <blakeofthepath@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+regex = "^2020.11.13"
+python-Levenshtein = "^0.12.2"
+ipython = "^7.20.0"
+alignment = "^1.0.10"
+six = "^1.15.0"
+numpy = "^1.20.1"
+biopython = "^1.78"
+
+[tool.poetry.dev-dependencies]
+black = {version = "^20.8b1", allow-prereleases = true}
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
