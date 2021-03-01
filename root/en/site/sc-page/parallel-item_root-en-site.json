@@ -1,0 +1,8 @@
+{
+  "parallel-item:originalTitle": "Original title",
+  "parallel-item:suttaCentralID": "SuttaCentral ID",
+  "parallel-item:alternateText": "Alternate number in {book} edition:",
+  "parallel-item:volumeAndPage": "Volume and page",
+  "parallel-item:volumeAndPagePTS1": "PTS volume and page:\n1st edition = {pts-vp-pli1ed}\n2nd edition = {pts-vp-pli2ed}",
+  "parallel-item:translations": "Translations"
+}

@@ -1,0 +1,7 @@
+{
+  "stripe-card:cardNumber": "Numer karty",
+  "stripe-card:ZIP": "Kod pocztowy",
+  "stripe-card:CVC": "Kod CVC",
+  "stripe-card:year": "RR",
+  "stripe-card:month": "MM"
+}

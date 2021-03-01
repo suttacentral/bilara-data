@@ -1,0 +1,14 @@
+{
+  "donation-success:Acknowledge": "We gratefully acknowledge your donation to support SuttaCentral.",
+  "donation-success:Description": "Here are the transaction details for your records. If you have entered your email address, a copy of these details will be sent there too.",
+  "donation-success:Donor": "Donor",
+  "donation-success:Donation": "Donation",
+  "donation-success:PaidTo": "Paid to",
+  "donation-success:PaymentService": "Payment service",
+  "donation-success:TimeOfPayment": "Time of payment",
+  "donation-success:TypeOfPayment": "Type of Payment",
+  "donation-success:Contact": "For further inquiries, please contact SuttaCentral Development Trust’s financial officer Deepika Weerakoon at",
+  "donation-success:SuttaCentralDevelopmentTrustDescription": "SuttaCentral Development Trust is a charitable trust registered in Australia. Your donation will be used for the development of SuttaCentral.",
+  "donation-success:MonthlySubscription": "Monthly subscription",
+  "donation-success:OneTimeDonation": "One time donation"
+}

@@ -1,0 +1,23 @@
+{
+  "donate-now:errorMessage": "The service is temporarily unavailable, please try later",
+  "donate-now:currency": "Currency",
+  "donate-now:amount": "Amount",
+  "donate-now:invalidValue": "Invalid value",
+  "donate-now:chooseFrequency": "You can make a one-time donation or a monthly donation.",
+  "donate-now:oneTime": "One time",
+  "donate-now:monthly": "Monthly",
+  "donate-now:email": "Email (optional)",
+  "donate-now:invalidEmail": "Invalid email",
+  "donate-now:message": "Message (optional)",
+  "donate-now:payWithCard": "Donate with card",
+  "donate-now:storageDisclaimer": "SuttaCentral does not handle or store your credit card details. All credit card transactions are handled securely by <a href='https://stripe.com' target='blank'>Stripe</a>.",
+  "donate-now:feeDisclaimer": "The Stripe handling fee deducted from a donation is 1.75% + 30¢ for Australian cards, and 2.9% + 30¢ for International cards, plus a 1.8% currency conversion fee when applicable.",
+  "donate-now:paymentSuccessful": "Sadhu! Your payment has been completed successfully.",
+  "donate-now:redirectNotice": "You will be redirected to the homepage in 5 seconds.",
+  "donate-now:Name (optional)": "Name (optional)",
+  "donate-now:UnknownError": "Error when sending donation.",
+  "donate-now:AmountCannotBeLessThan": "Amount cannot be less than $0.50 USD.",
+  "donate-now:StripeLimitations": "Due to Stripe limitations,  please make a direct payment, or else contact us for help.",
+  "donate-now:cardDeclined": "Your card was declined.",
+  "donate-now:donateNow": "Donate Now"
+}

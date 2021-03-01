@@ -1,0 +1,8 @@
+{
+  "donation-success:MonthlySubscription": "Subsykrypcja",
+  "donation-success:OneTimeDonation": "Jednorazowa dotacja",
+  "donation-success:DonationOf": "Dotacja w wysokości",
+  "donation-success:MadeBy": "Wysłana przez",
+  "donation-success:SuttaCentralNote": "Wysłane do SuttaCentral Development Trust, edukacyjnej oragnizacji charytatywnej w celu wsparcia SuttaCentral.net",
+  "donation-success:PaymentServiceIsStripe": "Obsługa płatności przez Stripe."
+}

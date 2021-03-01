@@ -1,0 +1,7 @@
+{
+  "stripe-card:cardNumber": "卡号",
+  "stripe-card:ZIP": "邮政编码",
+  "stripe-card:CVC": "CVC码",
+  "stripe-card:year": "年",
+  "stripe-card:month": "月"
+}

@@ -1,0 +1,7 @@
+{
+  "stripe-card:cardNumber": "Card number",
+  "stripe-card:ZIP": "ZIP code",
+  "stripe-card:CVC": "CVC code",
+  "stripe-card:year": "YY",
+  "stripe-card:month": "MM"
+}

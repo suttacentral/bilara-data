@@ -1,0 +1,15 @@
+{
+  "navigation-menu:networkError": "Błąd sieci",
+  "navigation-menu:goBack": "Powrót do poprzedniego menu",
+  "navigation-menu:metaDescriptionText": "Wczesne teksty buddyjskie i współczesne tłumaczenia. Suttas (sutry) z Tipitaka (Tripitaka) w Pali, chińskim, sanskrycie i tybetańskim, z naukami Buddy na temat uważności, wglądu, mądrości i medytacji.",
+  "navigation-menu:rootLangTitle": "Język źródłowy: {lang}",
+  "navigation-menu:pli": "Pali",
+  "navigation-menu:lzh": "Klasyczny chiński",
+  "navigation-menu:pgd": "Gandhari",
+  "navigation-menu:kho": "Khotanese, Sakan",
+  "navigation-menu:pra": "Języki Prakrit",
+  "navigation-menu:xto": "Tokharian A",
+  "navigation-menu:uig": "Ujgurski, Ujgur",
+  "navigation-menu:san": "Sanskryt",
+  "navigation-menu:xct": "Klasyczny tybetański"
+}

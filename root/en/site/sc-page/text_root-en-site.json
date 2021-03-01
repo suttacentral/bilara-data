@@ -1,0 +1,11 @@
+{
+  "text:error404": "Error 404",
+  "text:couldNotFind": "Could not find the sutta text.",
+  "text:viewImage": "View page image",
+  "text:suttaNotFound": "Sutta not found.",
+  "text:noMetadata": "No metadata available.",
+  "text:segmentNumber": "SuttaCentral segment number",
+  "text:metaDescriptionText": "Early Buddhist texts and modern translations. Suttas (sutras) from the Tipitaka (Tripitaka) in Pali, Chinese, Sanskrit, and Tibetan with the Buddha's teachings on mindfulness, insight, wisdom, and meditation.",
+  "text:languagePromptMessage": "You can change the language from the menu in the toolbar.",
+  "text:paliTextSocietyPageNo": "Pali Text Society vol/page number."
+}

@@ -1,0 +1,8 @@
+{
+  "parallel-list:suttaCentralID": "SuttaCentral ID",
+  "parallel-list:GoToTextInOriginalLanguage": "Go to text in original language",
+  "parallel-list:ResemblingParallel": "Resembling parallel: texts are comparable.",
+  "parallel-list:FullParallel": "Full parallel: different versions of the same text.",
+  "parallel-list:RetellingParallel": "Retelling: the events of one text are retold in another.",
+  "parallel-list:Mention": "Mention: one text is quoted or mentioned in another."
+}
