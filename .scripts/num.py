@@ -45,7 +45,7 @@ class Num:
     Addition is not allowed if the other value cannot be converted to an int
     >>> Num('1-10') + Num('11-20')
     Traceback (most recent call last):
-        ...
+        …
     ValueError: Cannot convert to int
 
     Subtraction is allowed as it has a special meaning in the case of ranges
@@ -131,15 +131,15 @@ class DottedNum:
     DottedNum('1.3')
 
     >>> cases =[
-    ...  ['1.2', '1.3'],
-    ...  ['1.3', '1.4.1'],
-    ...  ['0.1', '1.1.1'],
-    ...  ['3.1.4', '4.1.1'],
-    ...  ['4.2.1', '5.1'],
-    ...  ['1.1', '1.1'],
-    ...  ['3.4', '3.3'],
-    ...  ['2.9', '2.11']
-    ...  ]
+    …  ['1.2', '1.3'],
+    …  ['1.3', '1.4.1'],
+    …  ['0.1', '1.1.1'],
+    …  ['3.1.4', '4.1.1'],
+    …  ['4.2.1', '5.1'],
+    …  ['1.1', '1.1'],
+    …  ['3.4', '3.3'],
+    …  ['2.9', '2.11']
+    …  ]
     >>> [DottedNum(b).is_logical_progression(DottedNum(a)) for a, b in cases]
     [True, True, True, True, True, False, False, False]
     
