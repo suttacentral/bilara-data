@@ -1,4 +1,5 @@
 {
+  "vb6:0.1": "<article id='vb6'><header><ul><li class='division'>{}</li></ul>",
   "vb6:0.2": "<h1>{}</h1></header>",
   "vb6:1.0": "<h2>{}</h2>",
   "vb6:1.1": "<p>{}",
