@@ -51,6 +51,7 @@
   "top-sheet:sideBySide": "Lado a lado",
   "top-sheet:sidenotes": "Mostrar como notas",
   "top-sheet:textView": "Texto origina e tradução",
+  "top-sheet:textViewDescription": "Alguns textos no SuttaCentral são \"segmentados\"; o texto original e a tradução são aproximadamente combinados linha por linha. Para tais textos, veja tanto o texto raiz como a tradução.\n",
   "top-sheet:textViewDisabled": "Apresentação páli-português desativada.",
   "top-sheet:textViewEnabled": "{textView}- opção de apresentação ativada para textos com esta configuração.",
   "top-sheet:textualInformationDisabled": "Informação textual desativada.",
