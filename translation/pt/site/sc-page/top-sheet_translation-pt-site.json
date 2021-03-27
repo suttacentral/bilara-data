@@ -47,6 +47,7 @@
   "top-sheet:showHighlighting": "Destar detalhes de crítica textual",
   "top-sheet:showHighlightingDescription": "Quando aplicável, destaque o texto para mostrar detalhes extras, como leituras alternativas, correções, estrutura, etc.",
   "top-sheet:showHighlightingDisabled": "Mostra de destaques está agora desativada.",
+  "top-sheet:showHighlightingEnabled": "Mostra de destaques está agora ativada.",
   "top-sheet:sideBySide": "Lado a lado",
   "top-sheet:textViewDisabled": "Apresentação páli-português desativada.",
   "top-sheet:textViewEnabled": "{textView}- opção de apresentação ativada para textos com esta configuração.",
