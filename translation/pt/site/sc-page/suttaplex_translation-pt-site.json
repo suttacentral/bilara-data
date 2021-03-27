@@ -10,6 +10,7 @@
   "suttaplex:goToTranslation": "Ir para tradução por {author}",
   "suttaplex:hasNoParallels": "Este texto não tem paralelos.",
   "suttaplex:hasParallels": "Este texto tem {num} paralelos.",
+  "suttaplex:inAncientTexts": "entre textos antigos",
   "suttaplex:intermediate": "Recomendado para aqueles com entendimento intermediário dos textos",
   "suttaplex:itemNotFound": "Erro 404: item não encontrado.",
   "suttaplex:networkError": "Erro de rede.",
