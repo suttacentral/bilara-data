@@ -27,6 +27,7 @@
   "top-sheet:referenceDescription": "“Principal” exibe as referências principais do SuttaCentral para textos segmentados e todas as referências para outros textos. Os itens restantes são edições extras dos textos Pali.",
   "top-sheet:referenceDisplayType_Main": "Principal",
   "top-sheet:referenceDisplayType_None": "Nada",
+  "top-sheet:referenceDisplayType_bj": "Buddhajayantī",
   "top-sheet:rememberSettings": "Lembrar opções",
   "top-sheet:rememberSettingsDescription": "Selecione esta opção para que as escolhas e configurações sejam lembradas na próxima vez em que SuttaCentral for acessado.",
   "top-sheet:rememberSettingsDisabled": "A opção escolhida não será lembrada da próxima vez que SuttaCentral for acessado.",
