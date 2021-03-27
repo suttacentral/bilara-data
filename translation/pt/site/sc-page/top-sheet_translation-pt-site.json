@@ -16,6 +16,7 @@
   "top-sheet:noteDescription": "Quando disponível, veja os comentários sobre a tradução e as leituras alternativas dos textos-raiz.",
   "top-sheet:noteDisplayType_Asterisk": "Dica em asterisco",
   "top-sheet:noteDisplayType_None": "Nada",
+  "top-sheet:noteDisplayType_Sidenotes": "Mostrar notas",
   "top-sheet:onlyWorks": "Funcionalidade disponível apenas para alguns textos, inclusive traduções por Sujato e Brahmali.",
   "top-sheet:paliLookupDictionaryDisabled": "Busca automática (lookup) desativada.",
   "top-sheet:rememberSettings": "Lembrar opções",
