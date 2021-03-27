@@ -13,6 +13,7 @@
   "top-sheet:lookup": "Busca automática (lookup)",
   "top-sheet:lookupDictionaryEnabled": "Busca automática (lookup) {lookupDictionary} ativada.",
   "top-sheet:none": "Nada",
+  "top-sheet:noteDescription": "Quando disponível, veja os comentários sobre a tradução e as leituras variantes dos textos raiz.",
   "top-sheet:onlyWorks": "Funcionalidade disponível apenas para alguns textos, inclusive traduções por Sujato e Brahmali.",
   "top-sheet:paliLookupDictionaryDisabled": "Busca automática (lookup) desativada.",
   "top-sheet:rememberSettings": "Lembrar opções",
