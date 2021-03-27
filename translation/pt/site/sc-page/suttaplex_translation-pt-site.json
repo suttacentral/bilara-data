@@ -6,6 +6,7 @@
   "suttaplex:countParallel": "{count} paralelo",
   "suttaplex:countParallels": "{count} paralelos",
   "suttaplex:edition": "edição",
+  "suttaplex:editions": "edições",
   "suttaplex:goToTranslation": "Ir para tradução por {author}",
   "suttaplex:hasNoParallels": "Este texto não tem paralelos.",
   "suttaplex:hasParallels": "Este texto tem {num} paralelos.",
