@@ -72,6 +72,17 @@
       }
     ]
   },
+  "af_blurb_translation": {
+    "name": "Afrikaans blurbs translation",
+    "root_path": "root/en/blurb",
+    "translation_path": "translation/af/blurb",
+    "translation_muids": "translation-af-blurb",
+    "collaborator": [
+      {
+        "author_github_handle": "ccronje"
+      }
+    ]
+  },
   "en_sct_translation_patton": {
     "name": "Chinese root translation Charles Patton",
     "root_path": "root/lzh/sct/sutta/",
