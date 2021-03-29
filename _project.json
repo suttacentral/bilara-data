@@ -18,6 +18,9 @@
     "collaborator": [
       {
         "author_github_handle": "gnlaera"
+      },
+      {
+        "author_github_handle": "nvsitr"
       }
     ]
   },
@@ -72,17 +75,6 @@
       }
     ]
   },
-  "af_blurb_translation": {
-    "name": "Afrikaans blurbs translation",
-    "root_path": "root/en/blurb",
-    "translation_path": "translation/af/blurb",
-    "translation_muids": "translation-af-blurb",
-    "collaborator": [
-      {
-        "author_github_handle": "ccronje"
-      }
-    ]
-  },
   "en_sct_translation_patton": {
     "name": "Chinese root translation Charles Patton",
     "root_path": "root/lzh/sct/sutta/",
@@ -105,14 +97,14 @@
       }
     ]
   },
-  "af_ms_translation_carmi": {
-    "name": "Afrikaans translation",
+  "si_ms_translation_madhu": {
+    "name": "Sinhala translation",
     "root_path": "root/pli/ms/sutta/",
-    "translation_path": "translation/af/carmi/sutta",
-    "translation_muids": "translation-af-carmi",
+    "translation_path": "translation/si/madhu/sutta",
+    "translation_muids": "translation-si-madhu",
     "collaborator": [
       {
-        "author_github_handle": "ccronje"
+        "author_github_handle": "Madhu-metta"
       }
     ]
   }
