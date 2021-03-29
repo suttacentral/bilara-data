@@ -104,5 +104,16 @@
         "author_github_handle": "vimalanyani"
       }
     ]
+  },
+  "af_ms_translation_carmi": {
+    "name": "Afrikaans translation",
+    "root_path": "root/pli/ms/sutta/",
+    "translation_path": "translation/af/carmi/sutta",
+    "translation_muids": "translation-af-carmi",
+    "collaborator": [
+      {
+        "author_github_handle": "ccronje"
+      }
+    ]
   }
 }
