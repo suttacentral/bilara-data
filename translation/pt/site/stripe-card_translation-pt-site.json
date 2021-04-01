@@ -1,5 +1,5 @@
 {
-  "stripe-card:CVC": "Código de verificação (CVC)",
+  "stripe-card:CVC": "Código de Verificação (CVC)",
   "stripe-card:ZIP": "Código postal",
   "stripe-card:cardNumber": "Número do cartão de crédito",
   "stripe-card:month": "MM",
