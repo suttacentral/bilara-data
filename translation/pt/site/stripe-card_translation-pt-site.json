@@ -3,5 +3,5 @@
   "stripe-card:ZIP": "Código postal",
   "stripe-card:cardNumber": "Número do cartão de crédito",
   "stripe-card:month": "MM",
-  "stripe-card:year": "AA"
+  "stripe-card:year": "Ano (AA)"
 }
