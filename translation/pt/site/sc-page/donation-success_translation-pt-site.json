@@ -4,5 +4,6 @@
   "donation-success:Description": "Aqui estão os detalhes da transação para seus registros. Se você inseriu seu endereço de e-mail, uma cópia desses dados também será enviada para este.",
   "donation-success:Donation": "Doação",
   "donation-success:Donor": "Doador",
-  "donation-success:MonthlySubscription": "Doação mensal"
+  "donation-success:MonthlySubscription": "Doação mensal",
+  "donation-success:OneTimeDonation": "Doação única"
 }
