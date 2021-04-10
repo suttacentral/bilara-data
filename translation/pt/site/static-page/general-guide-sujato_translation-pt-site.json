@@ -63,5 +63,6 @@
   "general-guide-sujato:62": "No caso dos quatro <i lang='pli'>nikāyas</i>, isto significa:",
   "general-guide-sujato:63": "No caso do Dīgha e Majjhima, os textos são referenciados pelo identificador da coleção (DN e MN respectivamente) seguido pelo número do sutta, contados em uma seqüência simples desde o início.",
   "general-guide-sujato:64": "No caso do Saṁyutta, o identificador da coleção (SN) é seguido pelos números do <i lang='pli'>saṁyutta</i> (grupo temático) e do sutta.",
-  "general-guide-sujato:65": "No caso do  Aṅguttara, o identificador da coleção (AN) é seguido pelos números do<i lang='pli'>nipāta</i> (grupo numerado) e do sutta"
+  "general-guide-sujato:65": "No caso do  Aṅguttara, o identificador da coleção (AN) é seguido pelos números do<i lang='pli'>nipāta</i> (grupo numerado) e do sutta",
+  "general-guide-sujato:66": "Referências mais granulars ou específicas são feitas através do número da seção. E estes números seguem convenções pré-existentes."
 }
