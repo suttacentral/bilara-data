@@ -7,5 +7,6 @@
   "navigation:goBack": "Retornar ao menu anterior",
   "navigation:introduction": "Introdução ao {pitaka}",
   "navigation:mn_essayTitle": "Os discursos médios: diálogos sobre assuntos profundos",
-  "navigation:networkError": "Erro de rede"
+  "navigation:networkError": "Erro de rede",
+  "navigation:shortcutToFullList": "Atalho para todos os suttas"
 }
