@@ -6,5 +6,6 @@
   "donation-success:Donor": "Doador",
   "donation-success:MonthlySubscription": "Doação mensal",
   "donation-success:OneTimeDonation": "Doação única",
-  "donation-success:PaidTo": "Recipiente"
+  "donation-success:PaidTo": "Recipiente",
+  "donation-success:PaymentService": "Serviço de pagamento"
 }
