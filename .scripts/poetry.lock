@@ -91,6 +91,14 @@ version = "4.4.2"
 
 [[package]]
 category = "main"
+description = "A port of Ruby on Rails inflector to Python"
+name = "inflection"
+optional = false
+python-versions = ">=3.5"
+version = "0.5.1"
+
+[[package]]
+category = "main"
 description = "IPython: Productive Interactive Computing"
 name = "ipython"
 optional = false
@@ -302,7 +310,7 @@ python-versions = "*"
 version = "0.2.5"
 
 [metadata]
-content-hash = "c81bbf92f61dabf48cf76185b6b870f3f733d25a8cdfff6fd4f0395d17f400c2"
+content-hash = "d92a2b12d9decd4aa53a3df49a8c1531f7a26b7cd5e4ac8dac8cde475a74a914"
 python-versions = "^3.8"
 
 [metadata.files]
@@ -353,6 +361,10 @@ colorama = [
 decorator = [
     {file = "decorator-4.4.2-py2.py3-none-any.whl", hash = "sha256:41fa54c2a0cc4ba648be4fd43cff00aedf5b9465c9bf18d64325bc225f08f760"},
     {file = "decorator-4.4.2.tar.gz", hash = "sha256:e3a62f0520172440ca0dcc823749319382e377f37f140a0b99ef45fecb84bfe7"},
+]
+inflection = [
+    {file = "inflection-0.5.1-py2.py3-none-any.whl", hash = "sha256:f38b2b640938a4f35ade69ac3d053042959b62a0f1076a5bbaa1b9526605a8a2"},
+    {file = "inflection-0.5.1.tar.gz", hash = "sha256:1a29730d366e996aaacffb2f1f1cb9593dc38e2ddd30c91250c6dde09ea9b417"},
 ]
 ipython = [
     {file = "ipython-7.20.0-py3-none-any.whl", hash = "sha256:1918dea4bfdc5d1a830fcfce9a710d1d809cbed123e85eab0539259cb0f56640"},
