@@ -12,8 +12,6 @@ sc_locale_dir = pathlib.Path('../../suttacentral/client/localization/elements/')
 folders = [sc_locale_dir] + list(sc_locale_dir.glob('*'))
 
 
-
-
 def simplify_name(filename):
     return regex.search(r'^(?:sc-|static_)?(.+?)(?:-page)?$', filename)[1]
 
@@ -56,6 +54,12 @@ renames = {
 seen = set()
 non_renamed = set()
 
+# Three data sources:
+# 
+# * Current translations
+# * SuttaCentral client code
+
+
 transformation_mapping = {}
 def make_key(base_name, k):
     new_k = k
@@ -80,6 +84,7 @@ def json_dump(data, f):
     if isinstance(data, dict):
         data = dict(sorted(data.items(), key=bilarasortkey))
     json.dump(data, f, ensure_ascii=False, indent=2)
+
 bad = {}
 global_data = defaultdict(dict)
 for i, folder in enumerate(folders):
@@ -119,7 +124,7 @@ for i, folder in enumerate(folders):
     for language_uid, data in split_data.items():
         if not data:
             continue
-        is_interface = folder.name.startswith('sc-') or folder.name == 'elements'
+        is_interface = not folder.parent.name == 'static-page'
         if language_uid == 'en':
             out_dir = repo_dir / 'root' / 'en' / 'site'
             new_name =  base_name + '_root-en-site'
@@ -149,13 +154,14 @@ existing_folders = [repo_dir / 'root/en/site', *(repo_dir.glob('translation/**/s
 l_renames = defaultdict(dict)
 
 for folder in existing_folders:
+    lang_uid = folder.relative_to(repo_dir).parts[1]
     for file in folder.glob('**/*.json'):
         if 'name' in file.parts:
             continue
         if file.name == 'interface.json':
             file.unlink()
 
-        lang_uid = file.relative_to(repo_dir).parts[1]
+        
         suffix = file.name.split('_')[1]
         
         with file.open() as f:
@@ -183,4 +189,4 @@ for folder in existing_folders:
     interface_file = folder / f'interface_{suffix}'
     if not dry:
         with interface_file.open('w') as f:
-            json_dump(interface_data, f)
+            json_dump(interface_data[lang_uid], f)
