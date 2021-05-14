@@ -1,9 +1,31 @@
 {
+  "de_blurb_translation": {
+    "name": "German blurb translation",
+    "root_path": "root/en/blurb",
+    "translation_path": "translation/de/blurb",
+    "translation_muids": "translation-de-blurb",
+    "collaborator": [
+      {
+        "author_github_handle": "sabbamitta"
+      }
+    ]
+  },
   "de_localization": {
-    "name": "German Localization",
+    "name": "German localization",
     "root_path": "root/en/site",
     "translation_path": "translation/de/site",
     "translation_muids": "translation-de-site",
+    "collaborator": [
+      {
+        "author_github_handle": "sabbamitta"
+      }
+    ]
+  },
+  "de_ms_translation_sabbamitta": {
+    "name": "German translation Anagarika Sabbamitta",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/de/sabbamitta/sutta",
+    "translation_muids": "translation-de-sabbamitta",
     "collaborator": [
       {
         "author_github_handle": "sabbamitta"
@@ -45,8 +67,8 @@
   },
   "en_sct_translation_patton": {
     "name": "Chinese root translation Charles Patton",
-    "root_path": "root/lzh/sct/sutta/",
-    "translation_path": "translation/en/patton/sutta/",
+    "root_path": "root/lzh/sct/sutta",
+    "translation_path": "translation/en/patton/sutta",
     "translation_muids": "translation-en-patton",
     "collaborator": [
       {
@@ -56,8 +78,8 @@
   },
   "en_sct_translation_vimalanyani": {
     "name": "Chinese root translation Bhikkhunī Vimalañāṇī",
-    "root_path": "root/lzh/sct/sutta/",
-    "translation_path": "translation/en/vimalanyani/sutta/",
+    "root_path": "root/lzh/sct/sutta",
+    "translation_path": "translation/en/vimalanyani/sutta",
     "translation_muids": "translation-en-vimalanyani",
     "collaborator": [
       {
@@ -77,7 +99,7 @@
     ]
   },
   "jpn_blurb_translation": {
-    "name": "Japanese blurbs translation",
+    "name": "Japanese blurb translation",
     "root_path": "root/en/blurb",
     "translation_path": "translation/jpn/blurb",
     "translation_muids": "translation-jpn-blurb",
@@ -113,7 +135,7 @@
     ]
   },
   "pl_localization": {
-    "name": "Polish Localization",
+    "name": "Polish localization",
     "root_path": "root/en/site",
     "translation_path": "translation/pl/site",
     "translation_muids": "translation-pl-site",
@@ -138,7 +160,7 @@
     ]
   },
   "pt_localization": {
-    "name": "Portuguese Localization",
+    "name": "Portuguese localization",
     "root_path": "root/en/site",
     "translation_path": "translation/pt/site",
     "translation_muids": "translation-pt-site",
@@ -152,8 +174,8 @@
     ]
   },
   "pt_translation": {
-    "name": "Portuguese Translation",
-    "root_path": "root/pli/ms/sutta/",
+    "name": "Portuguese translation",
+    "root_path": "root/pli/ms/sutta",
     "translation_path": "translation/pt/laera-quaresma/sutta",
     "translation_muids": "translation-pt-laera-quaresma",
     "collaborator": [
@@ -167,7 +189,7 @@
   },
   "si_ms_translation_madhu": {
     "name": "Sinhala translation",
-    "root_path": "root/pli/ms/sutta/",
+    "root_path": "root/pli/ms/sutta",
     "translation_path": "translation/si/madhu/sutta",
     "translation_muids": "translation-si-madhu",
     "collaborator": [
@@ -177,7 +199,7 @@
     ]
   },
   "zh_localization": {
-    "name": "Chinese Localization",
+    "name": "Chinese localization",
     "root_path": "root/en/site",
     "translation_path": "translation/zh/site",
     "translation_muids": "translation-zh-site",
