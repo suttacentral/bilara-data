@@ -1,4 +1,15 @@
 {
+  "cs_ms_translation_ashinsarana": {
+    "name": "Czech translation Ashin Sarana",
+    "root_path": "root/pli/ms/sutta/an",
+    "translation_path": "translation/cs/ashinsarana/sutta/an",
+    "translation_muids": "translation-cs-ashinsarana",
+    "collaborator": [
+      {
+        "author_github_handle": "ashinsarana"
+      }
+    ]
+  },
   "de_blurb_translation": {
     "name": "German blurb translation",
     "root_path": "root/en/blurb",
