@@ -21,6 +21,28 @@
       }
     ]
   },
+  "en_ms_translation_brahmali": {
+    "name": "English translation Bhikkhu Brahmali",
+    "root_path": "root/pli/ms/vinaya",
+    "translation_path": "translation/en/brahmali/vinaya",
+    "translation_muids": "translation-en-brahmali",
+    "collaborator": [
+      {
+        "author_github_handle": "brahmali"
+      }
+    ]
+  },
+  "en_ms_translation_sujato": {
+    "name": "English translation Bhikkhu Sujato",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/en/sujato/sutta",
+    "translation_muids": "translation-en-sujato",
+    "collaborator": [
+      {
+        "author_github_handle": "sujato"
+      }
+    ]
+  },
   "en_sct_translation_patton": {
     "name": "Chinese root translation Charles Patton",
     "root_path": "root/lzh/sct/sutta/",
