@@ -1,36 +1,4 @@
 {
-  "pl_localization": {
-    "name": "Polish Localization",
-    "root_path": "root/en/site",
-    "translation_path": "translation/pl/site",
-    "translation_muids": "translation-pl-site",
-    "collaborator": [
-      {
-        "author_github_handle": "sujato"
-      }
-    ]
-  },
-  "pt_localization": {
-    "name": "Portuguese Localization",
-    "root_path": "root/en/site",
-    "translation_path": "translation/pt/site",
-    "translation_muids": "translation-pt-site",
-    "collaborator": [
-      {
-        "author_github_handle": "gnlaera"
-      },
-      {
-        "author_github_handle": "nvsitr"
-      }
-    ]
-  },
-  "zh_localization": {
-    "name": "Chinese Localization",
-    "root_path": "root/en/site",
-    "translation_path": "translation/zh/site",
-    "translation_muids": "translation-zh-site",
-    "collaborator": []
-  },
   "de_localization": {
     "name": "German Localization",
     "root_path": "root/en/site",
@@ -50,31 +18,6 @@
     "collaborator": [
       {
         "author_github_handle": "sabbamitta"
-      }
-    ]
-  },
-  "pt_translation": {
-    "name": "Portuguese Translation",
-    "root_path": "root/pli/ms/sutta/",
-    "translation_path": "translation/pt/laera-quaresma/sutta",
-    "translation_muids": "translation-pt-laera-quaresma",
-    "collaborator": [
-      {
-        "author_github_handle": "gnlaera"
-      },
-      {
-        "author_github_handle": "nvsitr"
-      }
-    ]
-  },
-  "jpn_blurb_translation": {
-    "name": "Japanese blurbs translation",
-    "root_path": "root/en/blurb",
-    "translation_path": "translation/jpn/blurb",
-    "translation_muids": "translation-jpn-blurb",
-    "collaborator": [
-      {
-        "author_github_handle": "kaz-kaz"
       }
     ]
   },
@@ -100,14 +43,25 @@
       }
     ]
   },
-  "si_ms_translation_madhu": {
-    "name": "Sinhala translation",
-    "root_path": "root/pli/ms/sutta/",
-    "translation_path": "translation/si/madhu/sutta",
-    "translation_muids": "translation-si-madhu",
+  "id_sct_translation_seniya": {
+    "name": "Chinese root translation Seniya Ariyakumara",
+    "root_path": "root/lzh/sct/sutta",
+    "translation_path": "translation/id/seniya/sutta",
+    "translation_muids": "translation-id-seniya",
     "collaborator": [
       {
-        "author_github_handle": "Madhu-metta"
+        "author_github_handle": "0seniya"
+      }
+    ]
+  },
+  "jpn_blurb_translation": {
+    "name": "Japanese blurbs translation",
+    "root_path": "root/en/blurb",
+    "translation_path": "translation/jpn/blurb",
+    "translation_muids": "translation-jpn-blurb",
+    "collaborator": [
+      {
+        "author_github_handle": "kaz-kaz"
       }
     ]
   },
@@ -119,6 +73,17 @@
     "collaborator": [
       {
         "author_github_handle": "kaz-kaz"
+      }
+    ]
+  },
+  "pl_localization": {
+    "name": "Polish Localization",
+    "root_path": "root/en/site",
+    "translation_path": "translation/pl/site",
+    "translation_muids": "translation-pl-site",
+    "collaborator": [
+      {
+        "author_github_handle": "sujato"
       }
     ]
   },
@@ -136,15 +101,50 @@
       }
     ]
   },
-  "id_sct_translation_seniya": {
-    "name": "Chinese root translation Seniya Ariyakumara",
-    "root_path": "root/lzh/sct/sutta",
-    "translation_path": "translation/id/seniya/sutta",
-    "translation_muids": "translation-id-seniya",
+  "pt_localization": {
+    "name": "Portuguese Localization",
+    "root_path": "root/en/site",
+    "translation_path": "translation/pt/site",
+    "translation_muids": "translation-pt-site",
     "collaborator": [
       {
-        "author_github_handle": "0seniya"
+        "author_github_handle": "gnlaera"
+      },
+      {
+        "author_github_handle": "nvsitr"
       }
     ]
+  },
+  "pt_translation": {
+    "name": "Portuguese Translation",
+    "root_path": "root/pli/ms/sutta/",
+    "translation_path": "translation/pt/laera-quaresma/sutta",
+    "translation_muids": "translation-pt-laera-quaresma",
+    "collaborator": [
+      {
+        "author_github_handle": "gnlaera"
+      },
+      {
+        "author_github_handle": "nvsitr"
+      }
+    ]
+  },
+  "si_ms_translation_madhu": {
+    "name": "Sinhala translation",
+    "root_path": "root/pli/ms/sutta/",
+    "translation_path": "translation/si/madhu/sutta",
+    "translation_muids": "translation-si-madhu",
+    "collaborator": [
+      {
+        "author_github_handle": "Madhu-metta"
+      }
+    ]
+  },
+  "zh_localization": {
+    "name": "Chinese Localization",
+    "root_path": "root/en/site",
+    "translation_path": "translation/zh/site",
+    "translation_muids": "translation-zh-site",
+    "collaborator": []
   }
 }
