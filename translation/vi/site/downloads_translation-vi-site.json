@@ -9,5 +9,6 @@
   "downloads:9": "Các chi tiết trong quá trình soạn thảo văn bảo và các thay đổi được ghi trong Lời mở đầu của phiên bản SuttaCentral. Tất cả các phiên bản đều có tính năng như các đường dẫn liên kết, mục lục chi tiết, và hệ thống đánh số chương và câu được điều chỉnh lại.",
   "downloads:11": "Đây là trọn bộ 6 tập trong 1 tập tin <span class='smallcaps'>pdf</span>. Tập này được tạo bằng LaTex, và có chất lượng hiển thị phù hợp với mọi thiết bị, kể cả in ấn. Giấy phép bản quyền cho phép quý vị in ấn với điều kiện phát hành miễn phí. Nếu quý vị có nhu cầu, hãy liên hệ với chúng tôi để nhận được tập tin <span class='smallcaps'>pdf</span> sửa đổi tuỳ theo yêu cầu.",
   "downloads:13": "Phiên bản sách điện tử dành cho các thiết bị đọc sách điện tử. Các định dạng thông dụng là Mobi (Kindle) và ePub; nếu cần thiết phần mềm Calibre có thể chuyển đổi sang các định dạng khác.",
-  "downloads:15": "Tập tin nén <span class='smallcaps'>zip</span>, bao gồm mã nguồn <span class='smallcaps'>tex</span> để biên tập với phần mềm LuaLatex, và trọn bộ 6 tập trong 1 tập tin <span class='smallcaps'>html</span>. Đây là các tập tin gốc để tạo ra tất cả các dịnh dạng khác."
+  "downloads:15": "Tập tin nén <span class='smallcaps'>zip</span>, bao gồm mã nguồn <span class='smallcaps'>tex</span> để biên tập với phần mềm LuaLatex, và trọn bộ 6 tập trong 1 tập tin <span class='smallcaps'>html</span>. Đây là các tập tin gốc để tạo ra tất cả các dịnh dạng khác.",
+  "downloads:16": "Bản dịch bộ Kinh Tập bởi Laurence Mills"
 }
