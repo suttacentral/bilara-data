@@ -1,4 +1,5 @@
 {
   "donations:1": "Quyên góp hỗ trợ tài chính cho SuttaCentral",
-  "donations:2": "Chúng tôi rất cảm kích sự quyên góp tài chính của quý vị. Điều đó sẽ hỗ trợ chúng tôi phát triển SuttaCentral để có thể truyền bá Phật pháp đến với khắp mọi nơi."
+  "donations:2": "Chúng tôi rất cảm kích sự quyên góp tài chính của quý vị. Điều đó sẽ hỗ trợ chúng tôi phát triển SuttaCentral để có thể truyền bá Phật pháp đến với khắp mọi nơi.",
+  "donations:3": "<a class='donate-link' href='/donate-now'> <paper-button class='donate-button' raised=''>Quyên góp</paper-button> </a>"
 }
