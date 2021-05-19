@@ -2,5 +2,6 @@
   "downloads:1": "Tải về máy",
   "downloads:2": "Tải về sách điện tử EPUBs",
   "downloads:3": "Phiên bản mới nhất của các bản dịch quan trọng trên SuttaCentral.",
-  "downloads:4": "Dữ liệu và văn bản thô chưa qua xử lí"
+  "downloads:4": "Dữ liệu và văn bản thô chưa qua xử lí",
+  "downloads:5": "Tất cả dữ liệu thô của SuttaCentral (<code>json</code>, <code>html</code>, v.v.) đều có thể tìm thấy trên <a href='https://github.com/suttacentral/' rel='noopener' target='_blank'>trang GitHub</a>."
 }
