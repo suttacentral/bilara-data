@@ -10,5 +10,6 @@
   "home:10": "Tìm hiểu SuttaCentral",
   "home:11": "Tipiṭaka—tam tạng kinh điển",
   "home:14": "Kinh tạng",
-  "home:15": "Kinh tạng ghi chép lại các bài giảng của đức Phật về thiền, đạo đức, bản chất của thế gian, và con đường giải thoát. Các kinh văn này là nguồn sử liệu chính về cuộc đời và giáo pháp của đức Phật lịch sử. Chúng miêu tả đức Phật và các đồ đệ bằng những cuộc thảo luận nói chuyện với đa dạng nhân vật khác nhau hỏi về đạo pháp."
+  "home:15": "Kinh tạng ghi chép lại các bài giảng của đức Phật về thiền, đạo đức, bản chất của thế gian, và con đường giải thoát. Các kinh văn này là nguồn sử liệu chính về cuộc đời và giáo pháp của đức Phật lịch sử. Chúng miêu tả đức Phật và các đồ đệ bằng những cuộc thảo luận nói chuyện với đa dạng nhân vật khác nhau hỏi về đạo pháp.",
+  "home:16": "<a class='button-link' href='/discourses'> <paper-button class='button card-button' raised=''>XEM THÊM …</paper-button> </a>"
 }
