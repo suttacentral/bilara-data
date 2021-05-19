@@ -20,5 +20,6 @@
   "home:22": "<a class='button-link' href='/abhidhamma'> <paper-button class='button card-button' raised=''>XEM THÊM …</paper-button> </a>",
   "home:23": "Lý do đọc kinh",
   "home:24": "Hướng dẫn tìm đọc kinh văn Pali",
-  "home:25": "Các kinh trong đại tạng Pali (Tipiṭaka), đặc biệt là 4 bộ kinh <i lang='pi'>nikāyas</i>, là nền tảng cơ bản cho bất kì ai muốn tìm hiểu về đức Phật và giáo lí của ngài. Tỳ-kheo Sujato đã soạn thảo các bộ hướng dẫn đọc cho những đạo hữu ham học. Những hướng dẫn này cung cấp nền tảng và khái quát những ý chính theo đường lối Phật giáo sơ khai."
+  "home:25": "Các kinh trong đại tạng Pali (Tipiṭaka), đặc biệt là 4 bộ kinh <i lang='pi'>nikāyas</i>, là nền tảng cơ bản cho bất kì ai muốn tìm hiểu về đức Phật và giáo lí của ngài. Tỳ-kheo Sujato đã soạn thảo các bộ hướng dẫn đọc cho những đạo hữu ham học. Những hướng dẫn này cung cấp nền tảng và khái quát những ý chính theo đường lối Phật giáo sơ khai.",
+  "home:26": "<a class='button-link' href='/general-guide-sujato'><paper-button class='button card-button' raised>HƯỚNG DẪN</paper-button></a>"
 }
