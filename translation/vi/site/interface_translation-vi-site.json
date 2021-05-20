@@ -35,5 +35,6 @@
   "dictionary:relatedItems": "Các mục liên quan",
   "dictionary:rememberSettings": "Lưu lại thiết lập",
   "dictionary:rememberSettingsDescription": "Kích hoạt chức năng này để lưu lại thiết lập cho các lượt đọc trong tương lai.",
-  "dictionary:rememberSettingsDisabled": "Các thiết lập sẽ bị xoá vào lượt truy cập tới."
+  "dictionary:rememberSettingsDisabled": "Các thiết lập sẽ bị xoá vào lượt truy cập tới.",
+  "dictionary:rememberSettingsEnabled": "Các thiết lập sẽ được lưu lại vào lượt truy cập tới."
 }
