@@ -37,5 +37,6 @@
   "dictionary:rememberSettingsDescription": "Kích hoạt chức năng này để lưu lại thiết lập cho các lượt đọc trong tương lai.",
   "dictionary:rememberSettingsDisabled": "Các thiết lập sẽ bị xoá vào lượt truy cập tới.",
   "dictionary:rememberSettingsEnabled": "Các thiết lập sẽ được lưu lại vào lượt truy cập tới.",
-  "dictionary:scriptChanged": "Hiển thị tiếng Pali với cách viết {paliScript}."
+  "dictionary:scriptChanged": "Hiển thị tiếng Pali với cách viết {paliScript}.",
+  "dictionary:showHighlighting": "Đánh dấu các chi tiết quan trọng"
 }
