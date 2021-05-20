@@ -3,5 +3,6 @@
   "action:searchTooltip": "Tìm kiếm trên SuttaCentral",
   "dictionary:activateChineseDescription": "Tìm kiếm trong các bản văn tiếng Hán cổ. Định nghĩa được lấy từ từ điển Digital Dictionary of Buddhism.",
   "dictionary:activateChineseLookup": "Kích hoạt tìm kiếm từ vựng tiếng Trung",
-  "dictionary:activatePaliDescription": "Phân tích đoạn văn tiếng Pali và thử hiển thị nghĩa của từ. Lưu ý rằng đây chỉ là công cụ hỗ trợ không hoàn toàn chính xác. Định nghĩa được lấy từ từ điển New Concise Pali English Dictionary."
+  "dictionary:activatePaliDescription": "Phân tích đoạn văn tiếng Pali và thử hiển thị nghĩa của từ. Lưu ý rằng đây chỉ là công cụ hỗ trợ không hoàn toàn chính xác. Định nghĩa được lấy từ từ điển New Concise Pali English Dictionary.",
+  "dictionary:activatePaliLookup": "Kích hoạt tìm kiếm từ vựng tiếng Pali"
 }
