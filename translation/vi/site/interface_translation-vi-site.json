@@ -1,3 +1,4 @@
 {
-  "action:search": "Tìm kiếm"
+  "action:search": "Tìm kiếm",
+  "action:searchTooltip": "Tìm kiếm trên SuttaCentral"
 }
