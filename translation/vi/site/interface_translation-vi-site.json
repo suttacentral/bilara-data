@@ -1,4 +1,5 @@
 {
   "action:search": "Tìm kiếm",
-  "action:searchTooltip": "Tìm kiếm trên SuttaCentral"
+  "action:searchTooltip": "Tìm kiếm trên SuttaCentral",
+  "dictionary:activateChineseDescription": "Tìm kiếm trong các bản văn tiếng Hán cổ. Định nghĩa được lấy từ từ điển Digital Dictionary of Buddhism."
 }
