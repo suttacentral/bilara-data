@@ -13,5 +13,6 @@
   "dictionary:chineseLookupDictionaryDisabled": "Tra cứu tiếng Trung đã bị tắt.",
   "dictionary:definitionsFor": "Định nghĩa",
   "dictionary:dictionaryResultsText": "Kết quả tra cứu từ điển tiếng Pali",
-  "dictionary:displaysInfo": "Hiện thị thông tin về số tập/trang, dị bản, v.v."
+  "dictionary:displaysInfo": "Hiện thị thông tin về số tập/trang, dị bản, v.v.",
+  "dictionary:lineByLine": "Theo từng dòng"
 }
