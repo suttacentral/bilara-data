@@ -25,5 +25,6 @@
   "dictionary:noteDisplayTypeSidenotes": "Hiển thị chú giải ở lề",
   "dictionary:noteSummary": "Hiển thị ghi chú và dị bản của các đoạn văn",
   "dictionary:notes": "Ghi chú",
-  "dictionary:notesDescription": "Hiển thị ghi chú của dịch giả, dị bản, v.v."
+  "dictionary:notesDescription": "Hiển thị ghi chú của dịch giả, dị bản, v.v.",
+  "dictionary:onlyWorks": "Chức năng chỉ dành cho một số văn bản, ví dụ như bản dịch của Sujato và Brahmali."
 }
