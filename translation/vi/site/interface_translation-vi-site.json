@@ -32,5 +32,6 @@
   "dictionary:reference": "Tham khảo",
   "dictionary:referenceDescription": "Giao diện chính của SuttaCentral hiển thị tham khảo cho các phân đoạn và cho các văn bản khác. Các mục còn lại là các phiên bản Pali khác.",
   "dictionary:referenceDisplayTypeNone": "Không gì cả",
-  "dictionary:relatedItems": "Các mục liên quan"
+  "dictionary:relatedItems": "Các mục liên quan",
+  "dictionary:rememberSettings": "Lưu lại thiết lập"
 }
