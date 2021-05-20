@@ -24,5 +24,6 @@
   "dictionary:noteDisplayTypeNone": "Không gì cả",
   "dictionary:noteDisplayTypeSidenotes": "Hiển thị chú giải ở lề",
   "dictionary:noteSummary": "Hiển thị ghi chú và dị bản của các đoạn văn",
-  "dictionary:notes": "Ghi chú"
+  "dictionary:notes": "Ghi chú",
+  "dictionary:notesDescription": "Hiển thị ghi chú của dịch giả, dị bản, v.v."
 }
