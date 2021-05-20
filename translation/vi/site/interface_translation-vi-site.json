@@ -22,5 +22,6 @@
   "dictionary:noteDescription": "Nếu có thể, hiển thị chú giải về bản dịch và dị bản của văn bản gốc.",
   "dictionary:noteDisplayTypeAsterisk": "Chú thích với dấu sao *",
   "dictionary:noteDisplayTypeNone": "Không gì cả",
-  "dictionary:noteDisplayTypeSidenotes": "Hiển thị chú giải ở lề"
+  "dictionary:noteDisplayTypeSidenotes": "Hiển thị chú giải ở lề",
+  "dictionary:noteSummary": "Hiển thị ghi chú và dị bản của các đoạn văn"
 }
