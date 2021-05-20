@@ -6,5 +6,6 @@
   "dictionary:activatePaliDescription": "Phân tích đoạn văn tiếng Pali và thử hiển thị nghĩa của từ. Lưu ý rằng đây chỉ là công cụ hỗ trợ không hoàn toàn chính xác. Định nghĩa được lấy từ từ điển New Concise Pali English Dictionary.",
   "dictionary:activatePaliLookup": "Kích hoạt tìm kiếm từ vựng tiếng Pali",
   "dictionary:adjacentTerms": "Các thuật ngữ liên quan",
-  "dictionary:asterisk": "Chú thích với dấu sao *"
+  "dictionary:asterisk": "Chú thích với dấu sao *",
+  "dictionary:changePaliScript": "Chuyển đổi chữ viết tiếng Pali"
 }
