@@ -27,5 +27,6 @@
   "dictionary:notes": "Ghi chú",
   "dictionary:notesDescription": "Hiển thị ghi chú của dịch giả, dị bản, v.v.",
   "dictionary:onlyWorks": "Chức năng chỉ dành cho một số văn bản, ví dụ như bản dịch của Sujato và Brahmali.",
-  "dictionary:paliLookupDictionaryDisabled": "Tra cứu từ điển tiếng Pali đã bị tắt."
+  "dictionary:paliLookupDictionaryDisabled": "Tra cứu từ điển tiếng Pali đã bị tắt.",
+  "dictionary:plain": "Văn bản thuần"
 }
