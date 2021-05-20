@@ -17,5 +17,6 @@
   "dictionary:lineByLine": "Theo từng dòng",
   "dictionary:lookup": "Tra cứu",
   "dictionary:lookupDictionaryEnabled": "Tra cứu từ điển {lookupDictionary} đã được kích hoạt.",
-  "dictionary:metaDescriptionText": "Các kinh văn Phật giáo sơ khai và bản dịch đương đại. Các kinh văn trong các đại tạng Pali, Hán, Phạn, Tây Tạng về tỉnh thức, chánh kiến, trí huệ và thiền định."
+  "dictionary:metaDescriptionText": "Các kinh văn Phật giáo sơ khai và bản dịch đương đại. Các kinh văn trong các đại tạng Pali, Hán, Phạn, Tây Tạng về tỉnh thức, chánh kiến, trí huệ và thiền định.",
+  "dictionary:none": "Không gì cả"
 }
