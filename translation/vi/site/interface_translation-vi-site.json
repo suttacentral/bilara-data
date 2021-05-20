@@ -33,5 +33,6 @@
   "dictionary:referenceDescription": "Giao diện chính của SuttaCentral hiển thị tham khảo cho các phân đoạn và cho các văn bản khác. Các mục còn lại là các phiên bản Pali khác.",
   "dictionary:referenceDisplayTypeNone": "Không gì cả",
   "dictionary:relatedItems": "Các mục liên quan",
-  "dictionary:rememberSettings": "Lưu lại thiết lập"
+  "dictionary:rememberSettings": "Lưu lại thiết lập",
+  "dictionary:rememberSettingsDescription": "Kích hoạt chức năng này để lưu lại thiết lập cho các lượt đọc trong tương lai."
 }
