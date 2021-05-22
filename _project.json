@@ -76,6 +76,17 @@
       }
     ]
   },
+  "en_names_translation": {
+    "name": "English names translation",
+    "root_path": "root/misc/site",
+    "translation_path": "translation/en/sujato/name",
+    "translation_muids": "translation-en-sujato",
+    "collaborator": [
+      {
+        "author_github_handle": "sujato"
+      }
+    ]
+  },
   "en_sct_translation_patton": {
     "name": "Chinese root translation Charles Patton",
     "root_path": "root/lzh/sct/sutta",
@@ -219,7 +230,7 @@
         "author_github_handle": "phineas-pta"
       }
     ]
-  },  
+  },
   "zh_localization": {
     "name": "Chinese localization",
     "root_path": "root/en/site",
