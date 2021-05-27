@@ -268,9 +268,9 @@
 	"ma31:70.4" : "{}",
 	"ma31:70.5" : "{}</p>",
 	"ma31:71.1" : "<p>{}</p>",
-	"ma31:72.1" : "<blockquote class='gatha'><p>{}<br>",
-	"ma31:72.2" : "{}<br>",
-	"ma31:72.3" : "{}<br>",
+	"ma31:72.1" : "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+	"ma31:72.2" : "<span class='verse-line'>{}</span>",
+	"ma31:72.3" : "<span class='verse-line'>{}</span>",
 	"ma31:72.4" : "{}</p></blockquote>",
 	"ma31:73.1" : "<p>{}",
 	"ma31:73.2" : "{}</p></article>"
