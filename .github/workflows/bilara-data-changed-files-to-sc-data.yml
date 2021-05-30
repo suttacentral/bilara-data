@@ -11,12 +11,12 @@ jobs:
     
     env:
       FROM_REPO: suttacentral/bilara-data
-      FROM_REPO_BRANCH: feature/bilara-to-sc-action
+      FROM_REPO_BRANCH: published
       TO_REPO: suttacentral/sc-data
-      TO_REPO_BRANCH: research/test-for-pushing
+      TO_REPO_BRANCH: master
       TO_REPO_TARGET_FOLDER: sc_bilara_data
       TEST_REPO: suttacentral/sc-renumber-segments
-      TEST_REPO_BRANCH: feature/per-file-support
+      TEST_REPO_BRANCH: master
       PYTHON_VERSION: 3.7.5
       STARTING_COMMIT: ${{ github.event.before }}
 
