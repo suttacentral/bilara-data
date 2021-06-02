@@ -15,7 +15,7 @@ jobs:
       TO_REPO: suttacentral/sc-data
       TO_REPO_BRANCH: master
       TO_REPO_TARGET_FOLDER: sc_bilara_data
-      TEST_REPO: suttacentral/sc-renumber-segments
+      TEST_REPO: suttacentral/bilara-data-integrity
       TEST_REPO_BRANCH: master
       PYTHON_VERSION: 3.7.5
       STARTING_COMMIT: ${{ github.event.before }}
@@ -27,7 +27,7 @@ jobs:
           repository: ${{ env.TEST_REPO }}
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           ref: ${{ env.TEST_REPO_BRANCH }}
-          path: sc-renumber-segments
+          path: bilara-data-integrity
 
       - name: Checkout ${{ env.FROM_REPO }} repo
         uses: actions/checkout@v2
@@ -36,7 +36,7 @@ jobs:
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           ref: ${{ env.FROM_REPO_BRANCH }}
           fetch-depth: 0
-          path: sc-renumber-segments/bilara-data
+          path: bilara-data-integrity/bilara-data
 
       - name: Get commit ID of the last workflow run
         run: |
@@ -55,12 +55,12 @@ jobs:
       - name: Get changed files
         id: changed-files
         run: echo ::set-output name=FILES::$(git diff --diff-filter=ACMR --no-commit-id --name-only -r ${{ env.STARTING_COMMIT }}..${{ github.sha }} -- '*.json')
-        working-directory: sc-renumber-segments/bilara-data
+        working-directory: bilara-data-integrity/bilara-data
 
       - name: Get deleted files
         id: deleted-files
         run: echo ::set-output name=DELETED::$(git diff --diff-filter=D --no-commit-id --name-only -r ${{ env.STARTING_COMMIT }}..${{ github.sha }} -- '*.json')
-        working-directory: sc-renumber-segments/bilara-data
+        working-directory: bilara-data-integrity/bilara-data
 
       - name: Setup Python
         if: steps.changed-files.outputs.FILES
@@ -85,30 +85,30 @@ jobs:
           key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
           restore-keys: ${{ runner.os }}-pip-
 
-      - name: Install sc-renumber-segments Python dependencies
+      - name: Install bilara-data-integrity Python dependencies
         if: steps.changed-files.outputs.FILES
         run: pip install -r requirements.txt
-        working-directory: sc-renumber-segments
+        working-directory: bilara-data-integrity
 
       - name: Set up sutta-processor
         if: steps.changed-files.outputs.FILES
         run: pip install -e .
-        working-directory: sc-renumber-segments
+        working-directory: bilara-data-integrity
 
       - name: Install bilara-data Python dependencies
         if: steps.changed-files.outputs.FILES
         run: pip install -r requirements.txt
-        working-directory: sc-renumber-segments/bilara-data/nilakkhana
+        working-directory: bilara-data-integrity/bilara-data/nilakkhana
 
       - name: Run Nilakkhana transform only on changed files
         if: steps.changed-files.outputs.FILES
         run: python nilakkhana/per_file_parse.py -f ${{ steps.changed-files.outputs.FILES }}
-        working-directory: sc-renumber-segments/bilara-data
+        working-directory: bilara-data-integrity/bilara-data
 
       - name: Run sutta-processor
         if: steps.changed-files.outputs.FILES
         run: sutta-processor -c check_all_changes_config.yaml -f ${{ steps.changed-files.outputs.FILES }}
-        working-directory: sc-renumber-segments
+        working-directory: bilara-data-integrity
 
       - name: Copy changed files to the target directory
         if: steps.changed-files.outputs.FILES
@@ -116,7 +116,7 @@ jobs:
           for f in ${{ steps.changed-files.outputs.FILES }}
           do
             mkdir -p $TO_REPO_TARGET_FOLDER/$(dirname $f)
-            cp ../sc-renumber-segments/bilara-data/$f $TO_REPO_TARGET_FOLDER/$(dirname $f)/
+            cp ../bilara-data-integrity/bilara-data/$f $TO_REPO_TARGET_FOLDER/$(dirname $f)/
           done
         working-directory: sc-data
 

@@ -201,8 +201,8 @@ The full forms of the abbreviations may be found in `pali_edition.json`.
 ## GitHub Action
 
 The GitHub Action found here `.github/workflows/bilara-data-changed-files-to-sc-data.yml` performs the following steps:
-1. clones the `suttacentral/sc-renumber-segments` repo
-2. clones the `suttacentral/bilara-data` repo into the `sc-renumber-segments` repo
+1. clones the `suttacentral/bilara-data-integrity` repo
+2. clones the `suttacentral/bilara-data` repo into the `bilara-data-integrity` repo
 3. uses the GitHub API to get a list of the last 30 GitHub Action workflow runs. 
    This step requires more explanation.  After getting the last 30 runs, the script checks if the last run was successful or not.
    If it wasn't, the last successful run is found and its commit ID is saved in the `STARTING_COMMIT` environmental variable.
