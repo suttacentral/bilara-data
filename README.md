@@ -197,3 +197,28 @@ an11.6:1.1": "etthantare pāṭho si, sya-all, km, pts-vp-pli1ed potthakesu na
 The reference files contain detailed references to over a dozen editions of the Pali canon. These were originally collated by the Dhamma Society for their Mahsaṅgīti edition, and have been supplemented by SuttaCentral.
 
 The full forms of the abbreviations may be found in `pali_edition.json`.
+
+## GitHub Action
+
+The GitHub Action found here `.github/workflows/bilara-data-changed-files-to-sc-data.yml` performs the following steps:
+1. clones the `suttacentral/bilara-data-integrity` repo
+2. clones the `suttacentral/bilara-data` repo into the `bilara-data-integrity` repo
+3. uses the GitHub API to get a list of the last 30 GitHub Action workflow runs. 
+   This step requires more explanation.  After getting the last 30 runs, the script checks if the last run was successful or not.
+   If it wasn't, the last successful run is found and its commit ID is saved in the `STARTING_COMMIT` environmental variable.
+   This commit ID is used as the starting commit for the diffs in the following steps.  This was done since if there is 
+   a file that fails the `sutta-processor`tests, we still want the other files to be processed after the file that 
+   failed the test is fixed, committed, and pushed. If the last run was successful, the ID of the commit that triggered 
+   this run (`github.event.before`) is used as the starting commit.  Note that `github.event.before` is saved in the 
+   `STARTING_COMMIT` environmental variable.
+4. gets a list of JSON files that have been changed since the last successful run (if there are any) by calling `git diff` on the `bilara-data` repo
+5. gets a list of JSON files that have been deleted since the last successful run (if there are any) by calling `git diff` on the `bilara-data` repo
+5. clones the `suttacentral/sc-data` repo
+6. sets up the various dependencies
+7. runs Nilakkhana transform on the files from step 4
+8. passes those files to `sutta-processor`, which has been modified to run on a per-file basis, rather than on the whole
+   of `bilara-data`
+9. if there are no errors, then those files are pushed to the `sc-data` repo, or deleted from it
+
+All the steps after the two calls to `git diff` have conditional statements checking the existence of changed or deleted
+files.  If none are found, then the steps are skipped.
