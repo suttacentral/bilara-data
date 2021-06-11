@@ -3,7 +3,7 @@ name: Only test, transform, and move files that have been changed
 on:
   push:
     branches:
-      - feature/bilara-to-sc-action
+      - published
 
 jobs:
   test-transform-and-move-bilara-data-to-sc-data:
