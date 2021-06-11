@@ -99,7 +99,7 @@
   "donate:timeOfPayment": "Data do pagamento",
   "donate:typeOfPayment": "Tipo de pagamento",
   "donate:unknownError": "Erro na transação.",
-  "error:connectToInternet": "Por favor, ligue-se à internet para utilizar a pesquisa.",
+  "error:connectToInternet": "Por favor, conecte-se à internet para utilizar a pesquisa.",
   "error:dataLoadError": "Erro Da carga de dados",
   "error:error404": "Erro 404",
   "error:generalError": "Erro geral",
