@@ -35,17 +35,10 @@
   "ne9:9.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "ne9:10.1": "<p>{}",
   "ne9:10.2": "{}</p>",
-<<<<<<< HEAD
   "ne9:11.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
   "ne9:11.2": "<span class='verse-line'>{}</span>",
   "ne9:11.3": "<span class='verse-line'>{}</span>",
   "ne9:11.4": "<span class='verse-line'>{}</span></p></blockquote>",
-=======
-  "ne9:11.1": "<blockquote class='gatha'><p>{}<br>",
-  "ne9:11.2": "{}<br>",
-  "ne9:11.3": "{}<br>",
-  "ne9:11.4": "{}</p></blockquote>",
->>>>>>> published
   "ne9:12.1": "<p data-counter='2'>{}",
   "ne9:12.2": "{}",
   "ne9:12.3": "{}</p>",
@@ -90,17 +83,10 @@
   "ne9:25.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "ne9:26.1": "<p>{}",
   "ne9:26.2": "{}</p>",
-<<<<<<< HEAD
   "ne9:27.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
   "ne9:27.2": "<span class='verse-line'>{}</span>",
   "ne9:27.3": "<span class='verse-line'>{}</span>",
   "ne9:27.4": "<span class='verse-line'>{}</span></p></blockquote>",
-=======
-  "ne9:27.1": "<blockquote class='gatha'><p>{}<br>",
-  "ne9:27.2": "{}<br>",
-  "ne9:27.3": "{}<br>",
-  "ne9:27.4": "{}</p></blockquote>",
->>>>>>> published
   "ne9:28.1": "<p data-counter='3'>{}",
   "ne9:28.2": "{}</p>",
   "ne9:29.1": "<p>{}",

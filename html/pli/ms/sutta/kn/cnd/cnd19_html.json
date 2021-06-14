@@ -4,17 +4,10 @@
   "cnd19:0.3": "<li>{}</li></ul>",
   "cnd19:0.4": "<h1>{}</h1></header>",
   "cnd19:1.1": "<blockquote class='gatha'><p data-counter='1'>{}",
-<<<<<<< HEAD
   "cnd19:1.2": "<span class='speaker'>{}</span>",
   "cnd19:1.3": "<span class='verse-line'>{}</span>",
   "cnd19:1.4": "<span class='verse-line'>{}</span>",
   "cnd19:1.5": "<span class='verse-line'>{}</span></p></blockquote>",
-=======
-  "cnd19:1.2": "<span class='speaker'>{}</span><br>",
-  "cnd19:1.3": "{}<br>",
-  "cnd19:1.4": "{}<br>",
-  "cnd19:1.5": "{}</p></blockquote>",
->>>>>>> published
   "cnd19:2.1": "<p>{}",
   "cnd19:2.2": "{}",
   "cnd19:2.3": "{}",
@@ -154,7 +147,6 @@
   "cnd19:21.27": "{}",
   "cnd19:21.28": "{}",
   "cnd19:21.29": "{}</p>",
-<<<<<<< HEAD
   "cnd19:22.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
   "cnd19:22.2": "<span class='speaker'>{}</span>",
   "cnd19:22.3": "<span class='verse-line'>{}</span>",
@@ -164,17 +156,6 @@
   "cnd19:23.2": "<span class='verse-line'>{}</span>",
   "cnd19:23.3": "<span class='verse-line'>{}</span>",
   "cnd19:23.4": "<span class='verse-line'>{}</span></p></blockquote>",
-=======
-  "cnd19:22.1": "<blockquote class='gatha'><p>{}",
-  "cnd19:22.2": "<span class='speaker'>{}</span><br>",
-  "cnd19:22.3": "{}<br>",
-  "cnd19:22.4": "{}<br>",
-  "cnd19:22.5": "{}</p></blockquote>",
-  "cnd19:23.1": "<blockquote class='gatha'><p data-counter='2'>{}<br>",
-  "cnd19:23.2": "{}<br>",
-  "cnd19:23.3": "{}<br>",
-  "cnd19:23.4": "{}</p></blockquote>",
->>>>>>> published
   "cnd19:24.1": "<p>{}",
   "cnd19:24.2": "{}",
   "cnd19:24.3": "{}",
@@ -188,7 +169,6 @@
   "cnd19:27.2": "{}",
   "cnd19:27.3": "{}",
   "cnd19:27.4": "{}</p>",
-<<<<<<< HEAD
   "cnd19:28.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
   "cnd19:28.2": "<span class='verse-line'>{}</span>",
   "cnd19:28.3": "<span class='verse-line'>{}</span>",
@@ -197,16 +177,6 @@
   "cnd19:29.2": "<span class='verse-line'>{}</span>",
   "cnd19:29.3": "<span class='verse-line'>{}</span>",
   "cnd19:29.4": "<span class='verse-line'>{}</span></p></blockquote>",
-=======
-  "cnd19:28.1": "<blockquote class='gatha'><p>{}<br>",
-  "cnd19:28.2": "{}<br>",
-  "cnd19:28.3": "{}<br>",
-  "cnd19:28.4": "{}</p></blockquote>",
-  "cnd19:29.1": "<blockquote class='gatha'><p data-counter='3'>{}<br>",
-  "cnd19:29.2": "{}<br>",
-  "cnd19:29.3": "{}<br>",
-  "cnd19:29.4": "{}</p></blockquote>",
->>>>>>> published
   "cnd19:30.1": "<p>{}",
   "cnd19:30.2": "{}</p>",
   "cnd19:31.1": "<p>{}",
@@ -216,7 +186,6 @@
   "cnd19:33.1": "<p>{}",
   "cnd19:33.2": "{}",
   "cnd19:33.3": "{}</p>",
-<<<<<<< HEAD
   "cnd19:34.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
   "cnd19:34.2": "<span class='verse-line'>{}</span>",
   "cnd19:34.3": "<span class='verse-line'>{}</span>",
@@ -227,18 +196,6 @@
   "cnd19:35.4": "<span class='verse-line'>{}</span>",
   "cnd19:35.5": "<span class='verse-line'>{}</span>",
   "cnd19:35.6": "<span class='verse-line'>{}</span></p></blockquote>",
-=======
-  "cnd19:34.1": "<blockquote class='gatha'><p>{}<br>",
-  "cnd19:34.2": "{}<br>",
-  "cnd19:34.3": "{}<br>",
-  "cnd19:34.4": "{}</p></blockquote>",
-  "cnd19:35.1": "<blockquote class='gatha'><p data-counter='4'>{}<br>",
-  "cnd19:35.2": "{}<br>",
-  "cnd19:35.3": "{}<br>",
-  "cnd19:35.4": "{}<br>",
-  "cnd19:35.5": "{}<br>",
-  "cnd19:35.6": "{}</p></blockquote>",
->>>>>>> published
   "cnd19:36.1": "<p>{}",
   "cnd19:36.2": "{}",
   "cnd19:36.3": "{}",

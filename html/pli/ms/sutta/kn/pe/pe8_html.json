@@ -991,17 +991,10 @@
   "pe8:152.3": "{}",
   "pe8:152.4": "{}",
   "pe8:152.5": "{}</p>",
-<<<<<<< HEAD
   "pe8:153.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
   "pe8:153.2": "<span class='verse-line'>{}</span>",
   "pe8:153.3": "<span class='verse-line'>{}</span>",
   "pe8:153.4": "<span class='verse-line'>{}</span></p></blockquote>",
-=======
-  "pe8:153.1": "<blockquote class='gatha'><p>{}<br>",
-  "pe8:153.2": "{}<br>",
-  "pe8:153.3": "{}<br>",
-  "pe8:153.4": "{}</p></blockquote>",
->>>>>>> published
   "pe8:154.1": "<p data-counter='8'>{}",
   "pe8:154.2": "{}</p>",
   "pe8:155.1": "<p data-counter='9'>{}",
