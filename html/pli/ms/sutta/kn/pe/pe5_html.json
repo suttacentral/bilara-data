@@ -108,7 +108,6 @@
   "pe5:16.1": "<p>{}",
   "pe5:16.2": "{}",
   "pe5:16.3": "{}</p>",
-<<<<<<< HEAD
   "pe5:17.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
   "pe5:17.2": "<span class='verse-line'>{}</span>",
   "pe5:17.3": "<span class='verse-line'>{}</span>",
@@ -117,16 +116,6 @@
   "pe5:18.2": "<span class='verse-line'>{}</span>",
   "pe5:18.3": "<span class='verse-line'>{}</span>",
   "pe5:18.4": "<span class='verse-line'>{}</span></p></blockquote>",
-=======
-  "pe5:17.1": "<blockquote class='gatha'><p>{}<br>",
-  "pe5:17.2": "{}<br>",
-  "pe5:17.3": "{}<br>",
-  "pe5:17.4": "{}</p>",
-  "pe5:18.1": "<p>{}<br>",
-  "pe5:18.2": "{}<br>",
-  "pe5:18.3": "{}<br>",
-  "pe5:18.4": "{}</p></blockquote>",
->>>>>>> published
   "pe5:19.1": "<p data-counter='2'>{}",
   "pe5:19.2": "{}",
   "pe5:19.3": "{}",
@@ -298,17 +287,10 @@
   "pe5:46.3": "{}",
   "pe5:46.4": "{}</p>",
   "pe5:47.1": "<p>{}</p>",
-<<<<<<< HEAD
   "pe5:48.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
   "pe5:48.2": "<span class='verse-line'>{}</span>",
   "pe5:48.3": "<span class='verse-line'>{}</span>",
   "pe5:48.4": "<span class='verse-line'>{}</span></p></blockquote>",
-=======
-  "pe5:48.1": "<blockquote class='gatha'><p>{}<br>",
-  "pe5:48.2": "{}<br>",
-  "pe5:48.3": "{}<br>",
-  "pe5:48.4": "{}</p></blockquote>",
->>>>>>> published
   "pe5:49.1": "<p data-counter='10'>{}",
   "pe5:49.2": "{}",
   "pe5:49.3": "{}",
@@ -412,17 +394,10 @@
   "pe5:58.5": "{}",
   "pe5:58.6": "{}",
   "pe5:58.7": "{}</p>",
-<<<<<<< HEAD
   "pe5:59.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
   "pe5:59.2": "<span class='verse-line'>{}</span>",
   "pe5:59.3": "<span class='verse-line'>{}</span>",
   "pe5:59.4": "<span class='verse-line'>{}</span></p></blockquote>",
-=======
-  "pe5:59.1": "<blockquote class='gatha'><p>{}<br>",
-  "pe5:59.2": "{}<br>",
-  "pe5:59.3": "{}<br>",
-  "pe5:59.4": "{}</p></blockquote>",
->>>>>>> published
   "pe5:60.1": "<p data-counter='13'>{}",
   "pe5:60.2": "{}",
   "pe5:60.3": "{}",

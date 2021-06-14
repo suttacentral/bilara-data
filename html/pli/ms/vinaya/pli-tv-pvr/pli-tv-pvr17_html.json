@@ -52,7 +52,6 @@
   "pli-tv-pvr17:9.2": "{}",
   "pli-tv-pvr17:9.3": "{}",
   "pli-tv-pvr17:9.4": "<span data-content='1'></span>{}</p>",
-<<<<<<< HEAD
   "pli-tv-pvr17:10.1": "<p>{}",
   "pli-tv-pvr17:10.2": "{}",
   "pli-tv-pvr17:10.3": "{}",
@@ -82,37 +81,6 @@
   "pli-tv-pvr17:16.3": "{}",
   "pli-tv-pvr17:16.4": "<span data-content='8'></span>{}</p>",
   "pli-tv-pvr17:17.1": "<p>{}",
-=======
-  "pli-tv-pvr17:10.1": "<p data-content='2'>{}",
-  "pli-tv-pvr17:10.2": "{}",
-  "pli-tv-pvr17:10.3": "{}",
-  "pli-tv-pvr17:10.4": "<span data-content='2'></span>{}</p>",
-  "pli-tv-pvr17:11.1": "<p data-content='3'>{}",
-  "pli-tv-pvr17:11.2": "{}",
-  "pli-tv-pvr17:11.3": "{}",
-  "pli-tv-pvr17:11.4": "<span data-content='3'></span>{}</p>",
-  "pli-tv-pvr17:12.1": "<p data-content='4'>{}",
-  "pli-tv-pvr17:12.2": "{}",
-  "pli-tv-pvr17:12.3": "{}",
-  "pli-tv-pvr17:12.4": "<span data-content='4'></span>{}</p>",
-  "pli-tv-pvr17:13.1": "<p data-content='5'>{}",
-  "pli-tv-pvr17:13.2": "{}",
-  "pli-tv-pvr17:13.3": "{}",
-  "pli-tv-pvr17:13.4": "<span data-content='5'></span>{}</p>",
-  "pli-tv-pvr17:14.1": "<p data-content='6'>{}",
-  "pli-tv-pvr17:14.2": "{}",
-  "pli-tv-pvr17:14.3": "{}",
-  "pli-tv-pvr17:14.4": "<span data-content='6'></span>{}</p>",
-  "pli-tv-pvr17:15.1": "<p data-content='7'>{}",
-  "pli-tv-pvr17:15.2": "{}",
-  "pli-tv-pvr17:15.3": "<span data-content='1'></span>{}",
-  "pli-tv-pvr17:15.4": "<span data-content='7'></span>{}</p>",
-  "pli-tv-pvr17:16.1": "<p data-content='8'>{}",
-  "pli-tv-pvr17:16.2": "{}",
-  "pli-tv-pvr17:16.3": "{}",
-  "pli-tv-pvr17:16.4": "<span data-content='8'></span>{}</p>",
-  "pli-tv-pvr17:17.1": "<p data-content='9'>{}",
->>>>>>> published
   "pli-tv-pvr17:17.2": "{}",
   "pli-tv-pvr17:17.3": "{}",
   "pli-tv-pvr17:17.4": "<span data-content='9'></span>{}</p>",
@@ -132,7 +100,6 @@
   "pli-tv-pvr17:23.2": "{}",
   "pli-tv-pvr17:23.3": "<span data-content='1'></span>{}",
   "pli-tv-pvr17:23.4": "<span data-content='1'></span>{}</p>",
-<<<<<<< HEAD
   "pli-tv-pvr17:24.1": "<p>{}",
   "pli-tv-pvr17:24.2": "{}",
   "pli-tv-pvr17:24.3": "{}",
@@ -142,17 +109,6 @@
   "pli-tv-pvr17:25.3": "{}",
   "pli-tv-pvr17:25.4": "<span data-content='3'></span>{}</p>",
   "pli-tv-pvr17:26.1": "<p>{}",
-=======
-  "pli-tv-pvr17:24.1": "<p data-content='2'>{}",
-  "pli-tv-pvr17:24.2": "{}",
-  "pli-tv-pvr17:24.3": "{}",
-  "pli-tv-pvr17:24.4": "<span data-content='2'></span>{}</p>",
-  "pli-tv-pvr17:25.1": "<p data-content='3'>{}",
-  "pli-tv-pvr17:25.2": "{}",
-  "pli-tv-pvr17:25.3": "{}",
-  "pli-tv-pvr17:25.4": "<span data-content='3'></span>{}</p>",
-  "pli-tv-pvr17:26.1": "<p data-content='4'>{}",
->>>>>>> published
   "pli-tv-pvr17:26.2": "{}",
   "pli-tv-pvr17:26.3": "{}",
   "pli-tv-pvr17:26.4": "<span data-content='4'></span>{}</p>",
@@ -173,11 +129,7 @@
   "pli-tv-pvr17:30.6": "{}",
   "pli-tv-pvr17:30.7": "{}",
   "pli-tv-pvr17:30.8": "<span data-content='1'></span>{}</p>",
-<<<<<<< HEAD
   "pli-tv-pvr17:31.1": "<p>{}",
-=======
-  "pli-tv-pvr17:31.1": "<p data-content='2'>{}",
->>>>>>> published
   "pli-tv-pvr17:31.2": "{}",
   "pli-tv-pvr17:31.3": "{}",
   "pli-tv-pvr17:31.4": "{}",
@@ -185,11 +137,7 @@
   "pli-tv-pvr17:31.6": "{}",
   "pli-tv-pvr17:31.7": "{}",
   "pli-tv-pvr17:31.8": "<span data-content='2'></span>{}</p>",
-<<<<<<< HEAD
   "pli-tv-pvr17:32.1": "<p>{}",
-=======
-  "pli-tv-pvr17:32.1": "<p data-content='3'>{}",
->>>>>>> published
   "pli-tv-pvr17:32.2": "{}",
   "pli-tv-pvr17:32.3": "{}",
   "pli-tv-pvr17:32.4": "{}",
@@ -219,11 +167,7 @@
   "pli-tv-pvr17:40.6": "{}",
   "pli-tv-pvr17:40.7": "{}",
   "pli-tv-pvr17:40.8": "<span data-content='1'></span>{}</p>",
-<<<<<<< HEAD
   "pli-tv-pvr17:41.1": "<p>{}",
-=======
-  "pli-tv-pvr17:41.1": "<p data-content='2'>{}",
->>>>>>> published
   "pli-tv-pvr17:41.2": "{}",
   "pli-tv-pvr17:41.3": "<span data-content='Sp.5.424'></span>{}",
   "pli-tv-pvr17:41.4": "{}",
@@ -231,11 +175,7 @@
   "pli-tv-pvr17:41.6": "{}",
   "pli-tv-pvr17:41.7": "{}",
   "pli-tv-pvr17:41.8": "<span data-content='2'></span>{}</p>",
-<<<<<<< HEAD
   "pli-tv-pvr17:42.1": "<p>{}",
-=======
-  "pli-tv-pvr17:42.1": "<p data-content='3'>{}",
->>>>>>> published
   "pli-tv-pvr17:42.2": "{}",
   "pli-tv-pvr17:42.3": "{}",
   "pli-tv-pvr17:42.4": "{}",
@@ -243,11 +183,7 @@
   "pli-tv-pvr17:42.6": "{}",
   "pli-tv-pvr17:42.7": "{}",
   "pli-tv-pvr17:42.8": "<span data-content='3'></span>{}</p>",
-<<<<<<< HEAD
   "pli-tv-pvr17:43.1": "<p>{}",
-=======
-  "pli-tv-pvr17:43.1": "<p data-content='4'>{}",
->>>>>>> published
   "pli-tv-pvr17:43.2": "{}",
   "pli-tv-pvr17:43.3": "{}",
   "pli-tv-pvr17:43.4": "{}",
@@ -255,11 +191,7 @@
   "pli-tv-pvr17:43.6": "{}",
   "pli-tv-pvr17:43.7": "{}",
   "pli-tv-pvr17:43.8": "<span data-content='4'></span>{}</p>",
-<<<<<<< HEAD
   "pli-tv-pvr17:44.1": "<p>{}",
-=======
-  "pli-tv-pvr17:44.1": "<p data-content='5'>{}",
->>>>>>> published
   "pli-tv-pvr17:44.2": "{}",
   "pli-tv-pvr17:44.3": "<span data-content='Sp.5.424'></span>{}",
   "pli-tv-pvr17:44.4": "{}",
@@ -267,11 +199,7 @@
   "pli-tv-pvr17:44.6": "{}",
   "pli-tv-pvr17:44.7": "{}",
   "pli-tv-pvr17:44.8": "<span data-content='5'></span>{}</p>",
-<<<<<<< HEAD
   "pli-tv-pvr17:45.1": "<p>{}",
-=======
-  "pli-tv-pvr17:45.1": "<p data-content='6'>{}",
->>>>>>> published
   "pli-tv-pvr17:45.2": "{}",
   "pli-tv-pvr17:45.3": "<span data-content='Sp.5.424'></span>{}",
   "pli-tv-pvr17:45.4": "{}",
@@ -279,11 +207,7 @@
   "pli-tv-pvr17:45.6": "{}",
   "pli-tv-pvr17:45.7": "{}",
   "pli-tv-pvr17:45.8": "<span data-content='6'></span>{}</p>",
-<<<<<<< HEAD
   "pli-tv-pvr17:46.1": "<p>{}",
-=======
-  "pli-tv-pvr17:46.1": "<p data-content='7'>{}",
->>>>>>> published
   "pli-tv-pvr17:46.2": "{}",
   "pli-tv-pvr17:46.3": "{}",
   "pli-tv-pvr17:46.4": "{}",
@@ -291,11 +215,7 @@
   "pli-tv-pvr17:46.6": "{}",
   "pli-tv-pvr17:46.7": "{}",
   "pli-tv-pvr17:46.8": "<span data-content='7'></span>{}</p>",
-<<<<<<< HEAD
   "pli-tv-pvr17:47.1": "<p>{}",
-=======
-  "pli-tv-pvr17:47.1": "<p data-content='8'>{}",
->>>>>>> published
   "pli-tv-pvr17:47.2": "{}",
   "pli-tv-pvr17:47.3": "{}",
   "pli-tv-pvr17:47.4": "{}",
@@ -303,11 +223,7 @@
   "pli-tv-pvr17:47.6": "{}",
   "pli-tv-pvr17:47.7": "{}",
   "pli-tv-pvr17:47.8": "<span data-content='8'></span>{}</p>",
-<<<<<<< HEAD
   "pli-tv-pvr17:48.1": "<p>{}",
-=======
-  "pli-tv-pvr17:48.1": "<p data-content='9'>{}",
->>>>>>> published
   "pli-tv-pvr17:48.2": "{}",
   "pli-tv-pvr17:48.3": "{}",
   "pli-tv-pvr17:48.4": "{}",
@@ -315,11 +231,7 @@
   "pli-tv-pvr17:48.6": "{}",
   "pli-tv-pvr17:48.7": "{}",
   "pli-tv-pvr17:48.8": "<span data-content='9'></span>{}</p>",
-<<<<<<< HEAD
   "pli-tv-pvr17:49.1": "<p>{}",
-=======
-  "pli-tv-pvr17:49.1": "<p data-content='10'>{}",
->>>>>>> published
   "pli-tv-pvr17:49.2": "{}",
   "pli-tv-pvr17:49.3": "<span data-content='Sp.5.424'></span>{}",
   "pli-tv-pvr17:49.4": "{}",
@@ -327,11 +239,7 @@
   "pli-tv-pvr17:49.6": "{}",
   "pli-tv-pvr17:49.7": "{}",
   "pli-tv-pvr17:49.8": "<span data-content='10'></span>{}</p>",
-<<<<<<< HEAD
   "pli-tv-pvr17:50.1": "<p>{}",
-=======
-  "pli-tv-pvr17:50.1": "<p data-content='11'>{}",
->>>>>>> published
   "pli-tv-pvr17:50.2": "{}",
   "pli-tv-pvr17:50.3": "<span data-content='Sp.5.424'></span>{}",
   "pli-tv-pvr17:50.4": "{}",
@@ -348,11 +256,7 @@
   "pli-tv-pvr17:53.5": "<span class='verse-line'>{}</span>",
   "pli-tv-pvr17:53.6": "<span class='verse-line'>{}</span></p></blockquote></section>",
   "pli-tv-pvr17:54.0": "<h2>{}</h2>",
-<<<<<<< HEAD
   "pli-tv-pvr17:54.1": "<p><span data-content='Sp.5.425'></span>{}</p>",
-=======
-  "pli-tv-pvr17:54.1": "<p data-content='1'><span data-content='Sp.5.425'></span>{}</p>",
->>>>>>> published
   "pli-tv-pvr17:55.1": "<p>{}",
   "pli-tv-pvr17:55.2": "{}",
   "pli-tv-pvr17:55.3": "<span data-content='Sp.5.425'></span>{}",
@@ -643,11 +547,7 @@
   "pli-tv-pvr17:133.3": "{}",
   "pli-tv-pvr17:133.4": "{}",
   "pli-tv-pvr17:133.5": "{}</p>",
-<<<<<<< HEAD
   "pli-tv-pvr17:134.1": "<p>{}",
-=======
-  "pli-tv-pvr17:134.1": "<p data-content='2'>{}",
->>>>>>> published
   "pli-tv-pvr17:134.2": "{}",
   "pli-tv-pvr17:134.3": "{}",
   "pli-tv-pvr17:134.4": "{}</p>",
