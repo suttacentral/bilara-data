@@ -5,5 +5,6 @@
   "home:4": "Was man hier findet ",
   "home:5": "SuttaCentral beherbergt frühe buddhistische Texte, die als Tipiṭaka oder „drei Körbe“ bekannt sind. Es ist eine große Sammlung von Lehren, die dem Buddha oder seinen frühesten Schülern und Schülerinnen zugeschrieben werden, die vor etwa 2500 Jahren in Indien gelehrt haben. Diese Texte gelten in allen Schulen des Buddhismus als heiliger Kanon. ",
   "home:6": "Wo soll ich anfangen? ",
-  "home:7": "Es gibt Tausende von frühen buddhistischen Texten, und sie sind nicht zum leichten Lesen strukturiert. Die gute Nachricht: Sie sind nicht allein! Wir sind selbst diesen Weg gegangen und haben versucht, es für Sie ein bisschen leichter zu machen. Hier sind ein paar Dinge, die Sie ausprobieren können. "
+  "home:7": "Es gibt Tausende von frühen buddhistischen Texten, und sie sind nicht zum leichten Lesen strukturiert. Die gute Nachricht: Sie sind nicht allein! Wir sind selbst diesen Weg gegangen und haben versucht, es für Sie ein bisschen leichter zu machen. Hier sind ein paar Dinge, die Sie ausprobieren können. ",
+  "home:8": "<a class='button-link first-card-button grid-button' href='/introduction'> <paper-button class='button' raised=''>EINFÜHRUNG</paper-button> </a> "
 }
