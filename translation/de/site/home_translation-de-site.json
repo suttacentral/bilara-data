@@ -19,5 +19,6 @@
   "home:18": "Die Texte über das Ordensrecht (Vinaya) erläutern detailliert den Lebensstil, die Regeln und Abläufe für die buddhistischen Mönche und Nonnen. Sie stellen bis heute die Leitlinien für buddhistische Ordinierte und zeichnen zudem ein lebhaftes Bild des täglichen Lebens im alten Indien. ",
   "home:19": "<a class='button-link' href='/vinaya'> <paper-button class='button card-button' raised=''>WEITER …</paper-button> </a> ",
   "home:20": "Abhidhamma ",
-  "home:21": "Abhidhammatexte sind systematische Zusammenfassungen und Analysen der Lehren, die von den früheren Lehrreden abgeleitet sind. Der Abhidhamma (Abhidharma auf Sanskrit) ist etwas jünger als die Lehrreden und der Vinaya. "
+  "home:21": "Abhidhammatexte sind systematische Zusammenfassungen und Analysen der Lehren, die von den früheren Lehrreden abgeleitet sind. Der Abhidhamma (Abhidharma auf Sanskrit) ist etwas jünger als die Lehrreden und der Vinaya. ",
+  "home:22": "<a class='button-link' href='/abhidhamma'> <paper-button class='button card-button' raised=''>WEITER …</paper-button> </a> "
 }
