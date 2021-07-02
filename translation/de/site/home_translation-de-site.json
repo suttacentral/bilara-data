@@ -20,5 +20,6 @@
   "home:19": "<a class='button-link' href='/vinaya'> <paper-button class='button card-button' raised=''>WEITER …</paper-button> </a> ",
   "home:20": "Abhidhamma ",
   "home:21": "Abhidhammatexte sind systematische Zusammenfassungen und Analysen der Lehren, die von den früheren Lehrreden abgeleitet sind. Der Abhidhamma (Abhidharma auf Sanskrit) ist etwas jünger als die Lehrreden und der Vinaya. ",
-  "home:22": "<a class='button-link' href='/abhidhamma'> <paper-button class='button card-button' raised=''>WEITER …</paper-button> </a> "
+  "home:22": "<a class='button-link' href='/abhidhamma'> <paper-button class='button card-button' raised=''>WEITER …</paper-button> </a> ",
+  "home:23": "Warum lesen Sie? "
 }
