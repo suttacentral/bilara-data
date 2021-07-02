@@ -65,6 +65,17 @@
       }
     ]
   },
+  "en_ms_translation_soma": {
+    "name": "English translation Ayya Soma",
+    "root_path": "root/pli/ms/sutta/kn/thig",
+    "translation_path": "translation/en/soma/sutta/kn/thig",
+    "translation_muids": "translation-en-soma",
+    "collaborator": [
+      {
+        "author_github_handle": "ayyasoma"
+      }
+    ]
+  },
   "en_ms_translation_sujato": {
     "name": "English translation Bhikkhu Sujato",
     "root_path": "root/pli/ms/sutta",
