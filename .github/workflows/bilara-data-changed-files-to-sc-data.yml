@@ -1,4 +1,4 @@
-name: Get related files Action test
+name: Only test, transform, and move files that have been changed.
 
 on:
   push:
