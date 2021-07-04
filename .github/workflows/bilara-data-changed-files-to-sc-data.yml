@@ -1,4 +1,4 @@
-name: Only test, transform, and move files that have been changed
+name: Get related files Action test
 
 on:
   push:
@@ -57,19 +57,31 @@ jobs:
         run: echo ::set-output name=FILES::$(git diff --diff-filter=ACMR --no-commit-id --name-only -r ${{ env.STARTING_COMMIT }}..${{ github.sha }} -- '*.json')
         working-directory: bilara-data-integrity/bilara-data
 
+      - name: Get related files for changed files
+        if: steps.changed-files.outputs.FILES
+        id: related-changed-files
+        run: echo ::set-output name=RELATED_FILES::$(python .github/workflows/get_related_files.py -f ${{ steps.changed-files.outputs.FILES }})
+        working-directory: bilara-data-integrity/bilara-data
+
       - name: Get deleted files
         id: deleted-files
         run: echo ::set-output name=DELETED::$(git diff --diff-filter=D --no-commit-id --name-only -r ${{ env.STARTING_COMMIT }}..${{ github.sha }} -- '*.json')
         working-directory: bilara-data-integrity/bilara-data
 
+      - name: Get related files for deleted files
+        if: steps.deleted-files.outputs.DELETED
+        id: related-deleted-files
+        run: echo ::set-output name=RELATED_DELETED::$(python .github/workflows/get_related_files.py --files ${{ steps.deleted-files.outputs.DELETED }})
+        working-directory: bilara-data-integrity/bilara-data
+
       - name: Setup Python
-        if: steps.changed-files.outputs.FILES
+        if: steps.related-changed-files.outputs.RELATED_FILES
         uses: actions/setup-python@v2.2.1
         with:
           python-version: ${{ env.PYTHON_VERSION }}
 
       - name: Checkout ${{ env.TO_REPO }} repo
-        if: steps.changed-files.outputs.FILES || steps.deleted-files.outputs.DELETED
+        if: steps.related-changed-files.outputs.RELATED_FILES || steps.deleted-files.outputs.DELETED
         uses: actions/checkout@v2
         with:
           repository: ${{ env.TO_REPO }}
@@ -78,7 +90,7 @@ jobs:
           path: sc-data
 
       - name: Cache pip
-        if: steps.changed-files.outputs.FILES
+        if: steps.related-changed-files.outputs.RELATED_FILES
         uses: actions/cache@v2
         with:
           path: ~/.cache/pip
@@ -86,34 +98,34 @@ jobs:
           restore-keys: ${{ runner.os }}-pip-
 
       - name: Install bilara-data-integrity Python dependencies
-        if: steps.changed-files.outputs.FILES
+        if: steps.related-changed-files.outputs.RELATED_FILES
         run: pip install -r requirements.txt
         working-directory: bilara-data-integrity
 
       - name: Set up sutta-processor
-        if: steps.changed-files.outputs.FILES
+        if: steps.related-changed-files.outputs.RELATED_FILES
         run: pip install -e .
         working-directory: bilara-data-integrity
 
       - name: Install bilara-data Python dependencies
-        if: steps.changed-files.outputs.FILES
+        if: steps.related-changed-files.outputs.RELATED_FILES
         run: pip install -r requirements.txt
         working-directory: bilara-data-integrity/bilara-data/nilakkhana
 
       - name: Run Nilakkhana transform only on changed files
-        if: steps.changed-files.outputs.FILES
-        run: python nilakkhana/per_file_parse.py -f ${{ steps.changed-files.outputs.FILES }}
+        if: steps.related-changed-files.outputs.RELATED_FILES
+        run: python nilakkhana/per_file_parse.py -f ${{ steps.related-changed-files.outputs.RELATED_FILES }}
         working-directory: bilara-data-integrity/bilara-data
 
       - name: Run sutta-processor
-        if: steps.changed-files.outputs.FILES
-        run: sutta-processor -c check_all_changes_config.yaml -f ${{ steps.changed-files.outputs.FILES }}
+        if: steps.related-changed-files.outputs.RELATED_FILES
+        run: sutta-processor -c check_all_changes_config.yaml -f ${{ steps.related-changed-files.outputs.RELATED_FILES }}
         working-directory: bilara-data-integrity
 
       - name: Copy changed files to the target directory
-        if: steps.changed-files.outputs.FILES
+        if: steps.related-changed-files.outputs.RELATED_FILES
         run: |
-          for f in ${{ steps.changed-files.outputs.FILES }}
+          for f in ${{ steps.related-changed-files.outputs.RELATED_FILES }}
           do
             mkdir -p $TO_REPO_TARGET_FOLDER/$(dirname $f)
             cp ../bilara-data-integrity/bilara-data/$f $TO_REPO_TARGET_FOLDER/$(dirname $f)/
@@ -121,11 +133,11 @@ jobs:
         working-directory: sc-data
 
       - name: Remove deleted files from ${{ env.TO_REPO }}
-        if: steps.deleted-files.outputs.DELETED
+        if: steps.related-deleted-files.outputs.RELATED_DELETED
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          for f in ${{ steps.deleted-files.outputs.DELETED }}
+          for f in ${{ steps.related-deleted-files.outputs.RELATED_DELETED }}
           do
             git rm --ignore-unmatch $TO_REPO_TARGET_FOLDER/$f
           done
@@ -134,7 +146,7 @@ jobs:
         working-directory: sc-data
 
       - name: Push changed files to ${{ env.TO_REPO }}
-        if: steps.changed-files.outputs.FILES
+        if: steps.related-changed-files.outputs.RELATED_FILES
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
