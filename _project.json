@@ -245,6 +245,17 @@
       }
     ]
   },
+  "vi_ms_translation_phantuananh": {
+    "name": "Vietnamese translation",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/vi/phantuananh/sutta",
+    "translation_muids": "translation-vi-phantuananh",
+    "collaborator": [
+      {
+        "author_github_handle": "phineas-pta"
+      }
+    ]
+  },
   "zh_localization": {
     "name": "Chinese localization",
     "root_path": "root/en/site",
