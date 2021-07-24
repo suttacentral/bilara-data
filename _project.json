@@ -134,6 +134,17 @@
       }
     ]
   },
+  "it_ms_translation_soma": {
+    "name": "Italian translation Ayya Soma",
+    "root_path": "root/pli/ms/sutta/kn/thig",
+    "translation_path": "translation/it/soma/sutta/kn/thig",
+    "translation_muids": "translation-it-soma",
+    "collaborator": [
+      {
+        "author_github_handle": "ayyasoma"
+      }
+    ]
+  },
   "jpn_blurb_translation": {
     "name": "Japanese blurb translation",
     "root_path": "root/en/blurb",
