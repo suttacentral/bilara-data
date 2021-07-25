@@ -82,5 +82,9 @@
   "phantuananh": {
     "type": "translator",
     "name": "Phan Tuấn Anh"
+  },
+  "kovilo": {
+    "type": "translator",
+    "name": "Kovilo Bhikkhu"
   }
 }
