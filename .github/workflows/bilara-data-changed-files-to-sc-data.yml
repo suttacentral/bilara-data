@@ -110,11 +110,11 @@ jobs:
       - name: Install bilara-data Python dependencies
         if: steps.related-changed-files.outputs.RELATED_FILES
         run: pip install -r requirements.txt
-        working-directory: bilara-data-integrity/bilara-data/nilakkhana
+        working-directory: bilara-data-integrity/bilara-data/.nilakkhana
 
       - name: Run Nilakkhana transform only on changed files
         if: steps.related-changed-files.outputs.RELATED_FILES
-        run: python nilakkhana/per_file_parse.py -f ${{ steps.related-changed-files.outputs.RELATED_FILES }}
+        run: python .nilakkhana/per_file_parse.py -f ${{ steps.related-changed-files.outputs.RELATED_FILES }}
         working-directory: bilara-data-integrity/bilara-data
 
       - name: Run sutta-processor

@@ -19,7 +19,7 @@ def update_file_content(file_content: Dict[str, str]) -> Dict[str, str]:
 
 
 if __name__ == '__main__':
-    """A modified version of nilakkhana/parse.py that works on a list of files.
+    """A modified version of .nilakkhana/parse.py that works on a list of files.
     The list of files represents files changed in a commit."""
     for file in args.files:
         print(f'{file} file in progress')
