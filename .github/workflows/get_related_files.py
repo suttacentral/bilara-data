@@ -74,6 +74,9 @@ def get_related_files(file_paths: List[Path]) -> None:
         for related_dir in related_dirs:
             for walk_root, _, walk_files in os.walk(related_dir):
                 for walk_file in walk_files:
+                    # A quick fix to stop the translations here bilara-data/translation/id from being pulled in.
+                    if 'id' in walk_file:
+                        continue
                     walk_file_id = walk_file.split('_')[0]
                     if walk_file_id == file_id:
                         all_files.append(os.path.join(walk_root, walk_file))
