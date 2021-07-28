@@ -54,6 +54,11 @@
     "name": "ру́сский язы́к",
     "is_root": false
   },
+  "san": {
+      "type": "language",
+      "name": "Sanskrit",
+      "is_root": true
+  },
   "si": {
     "type": "language",
     "name": "සිංහල",
