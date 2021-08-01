@@ -1,6 +1,8 @@
 name: Only test, transform, and move files that have been changed.
 
 on:
+  # For triggering manual workflow.
+  workflow_dispatch:
   push:
     branches:
       - published
