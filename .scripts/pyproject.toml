@@ -15,6 +15,8 @@ numpy = "^1.20.1"
 biopython = "^1.78"
 pip = "^21.0.1"
 inflection = "^0.5.1"
+pyexcel = "^0.6.6"
+pyyaml = "^5.4.1"
 
 [tool.poetry.dev-dependencies]
 black = {version = "^20.8b1", allow-prereleases = true}

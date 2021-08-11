@@ -7,6 +7,8 @@ import pyexcel
 import regex
 import sys
 import pathlib
+import yaml
+
 from itertools import groupby
 from common import iter_json_files, repo_dir, bilarasortkey
 
@@ -16,12 +18,34 @@ def check_segment_id(segment_id, file):
         return False
     return True
 
+def load_paths_file(paths_file):
+    paths, muids_mapping = None, None
+    with open(paths_file, 'r', encoding='utf-8') as f:
+        data = yaml.load(f)
+        print(data)
+        if 'PATHS' in data:
+            paths = {k: repo_dir / v  for k,v in data['PATHS'].items()}
+        if 'MUIDS' in data:
+            muids_mapping = data['MUIDS']
+    
+    return paths, muids_mapping
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Import Spreadsheet")
     parser.add_argument('file', help='Spreadsheet file to import. CSV, TSV, ODS, XLS')
+    parser.add_argument('-p', '--paths-file', help='.yaml file describing how to generate paths')
     parser.add_argument('-q', '--quiet', help='Do not display changes to files')
     parser.add_argument('--update', help="Instead of overwriting files, just update entries")
     args = parser.parse_args()
+
+    paths = None
+    muids_mapping = None
+    if args.paths_file:
+        paths, muids_mapping = load_paths_file(args.paths_file)
+        
+    
+    print(paths)
+    print(muids_mapping)
 
     rows = pyexcel.iget_records(file_name=args.file)
     
@@ -29,41 +53,43 @@ if __name__ == '__main__':
 
     segment_uid_to_file_mapping = {}
 
-    file_uid = pathlib.Path(args.file).stem
+    if not paths:
 
-    def get_file(uid, file_uid, muids):
-        filestem = f'{uid}_{muids}'
-        if filestem in files:
-            return files[filestem]
-        
-        alt_filestem = f'{file_uid}_{muids}'
-        if alt_filestem in files:
-            return files[alt_filestem]
+        file_uid = pathlib.Path(args.file).stem
 
-        uid_stem = regex.match(r'[a-z]+(\d+\.)?', uid)[0]
+        def get_file(uid, file_uid, muids):
+            filestem = f'{uid}_{muids}'
+            if filestem in files:
+                return files[filestem]
+            
+            alt_filestem = f'{file_uid}_{muids}'
+            if alt_filestem in files:
+                return files[alt_filestem]
 
-        rex = regex.compile(f'{regex.escape(uid_stem)}.*_{muids}')
+            uid_stem = regex.match(r'[a-z]+(\d+\.)?', uid)[0]
 
-        if muids not in segment_uid_to_file_mapping:
-            segment_uid_to_file_mapping[muids] = {}
+            rex = regex.compile(f'{regex.escape(uid_stem)}.*_{muids}')
 
-        for i in range(0, 2):
-            file = segment_uid_to_file_mapping[muids].get(uid)
-            if file:
-                return file
-            if i > 0:
-                break
+            if muids not in segment_uid_to_file_mapping:
+                segment_uid_to_file_mapping[muids] = {}
 
-            for filestem, file in files.items():
-                if rex.fullmatch(filestem):
-                    with file.open('r') as f:
-                        data = json.load(f)
-                    for segment_id in data:
-                        if check_segment_id(segment_id, file):
-                            segment_uid = segment_id.split(':')[0]
-                            segment_uid_to_file_mapping[muids][segment_uid] = file
-        
-        raise ValueError('Could not find file for {}_{}'.format(uid, muids))
+            for i in range(0, 2):
+                file = segment_uid_to_file_mapping[muids].get(uid)
+                if file:
+                    return file
+                if i > 0:
+                    break
+
+                for filestem, file in files.items():
+                    if rex.fullmatch(filestem):
+                        with file.open('r') as f:
+                            data = json.load(f)
+                        for segment_id in data:
+                            if check_segment_id(segment_id, file):
+                                segment_uid = segment_id.split(':')[0]
+                                segment_uid_to_file_mapping[muids][segment_uid] = file
+            
+            raise ValueError('Could not find file for {}_{}'.format(uid, muids))
 
     errors = 0
 
@@ -89,19 +115,32 @@ if __name__ == '__main__':
         for field in fields:
             if not data[field]:
                 continue
-            file = get_file(uid=uid, file_uid=file_uid, muids=field)
-            if not file:
-                print('ERROR: Could not find file for {}_{}'.format(uid, field), file=sys.stderr)
-                errors += 1
-                continue
+            if paths:
+                if field in paths:
+                    if muids_mapping and field in muids_mapping:
+                        muids = muids_mapping[field]
+                    else:
+                        muids = field
+                    file = paths[field] / f'{uid}_{muids}.json'
+                
+                else:
+                    print(f'ERROR: Could not find field "{field}" in {args.paths_file}')
+                    errors += 1
+            else:
+                file = get_file(uid=uid, file_uid=file_uid, muids=field)
+                if not file:
+                    print('ERROR: Could not find file for {}_{}'.format(uid, field), file=sys.stderr)
+                    errors += 1
+                    continue
             
-            if args.update or file in files_erased:
+            if args.update or file in files_erased and file.exists():
                 with file.open('r') as f:
                     old_data = json.load(f)
             else:
                 old_data = {}
-                files_erased.add(file)
-            
+                if file.exists():
+                    files_erased.add(file)
+        
             merged_data = {}
 
             segment_ids = sorted(set(old_data) | set(data[field]), key=bilarasortkey)
@@ -120,7 +159,9 @@ if __name__ == '__main__':
                 if not args.quiet and old_value != value:
                     print('{uid}_{field}:{segment_id}: {old_value} -> {value}'.format(**locals()))
                 merged_data[segment_id] = value
-
+            if paths:
+                if not file.parent.exists():
+                    file.parent.mkdir(parents=True)
             with file.open('w') as f:
                 json.dump(merged_data, f, ensure_ascii=False, indent=2)
     if errors > 0:
