@@ -55,10 +55,6 @@
     "type": "translator",
     "name": "Carmi Cronje"
   },
-  "xtest": {
-    "type": "translator",
-    "name": "Test Project"
-  },
   "vimalanyani": {
     "type": "translator",
     "name": "Bhikkhunī Vimalañāṇī"
@@ -74,5 +70,25 @@
   "seniya": {
     "type": "translator",
     "name": "Seniya Ariyakumara"
+  },
+  "soma": {
+    "type": "translator",
+    "name": "Ayya Soma"
+  },
+  "wynne": {
+    "type": "translator",
+    "name": "Alexander Wynne"
+  },
+  "phantuananh": {
+    "type": "translator",
+    "name": "Phan Tuấn Anh"
+  },
+  "kovilo": {
+    "type": "translator",
+    "name": "Kovilo Bhikkhu"
+  },
+  "suvira": {
+    "type": "translator",
+    "name": "Bhikkhuni Suvira"
   }
 }

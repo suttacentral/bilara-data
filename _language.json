@@ -29,6 +29,11 @@
     "name": "Indonesian",
     "is_root": false
   },
+  "it": {
+    "type": "language",
+    "name": "Italiano",
+    "is_root": false
+  },
   "jpn": {
     "type": "language",
     "name": "日本語",
@@ -48,6 +53,11 @@
     "type": "language",
     "name": "ру́сский язы́к",
     "is_root": false
+  },
+  "san": {
+      "type": "language",
+      "name": "Sanskrit",
+      "is_root": true
   },
   "si": {
     "type": "language",
