@@ -7,7 +7,9 @@ import pyexcel
 import regex
 import sys
 import pathlib
-import yaml
+
+
+sys.path.append('..')
 
 from itertools import groupby
 from common import iter_json_files, repo_dir, bilarasortkey
@@ -21,31 +23,53 @@ def check_segment_id(segment_id, file):
 def load_paths_file(paths_file):
     paths, muids_mapping = None, None
     with open(paths_file, 'r', encoding='utf-8') as f:
-        data = yaml.load(f)
+        data = json.load(f)
         print(data)
-        if 'PATHS' in data:
-            paths = {k: repo_dir / v  for k,v in data['PATHS'].items()}
-        if 'MUIDS' in data:
-            muids_mapping = data['MUIDS']
+        if 'paths' in data:
+            paths = {k: repo_dir / v  for k,v in data['paths'].items()}
+        if 'muids' in data:
+            muids_mapping = data['muids']
     
     return paths, muids_mapping
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Import Spreadsheet")
     parser.add_argument('file', help='Spreadsheet file to import. CSV, TSV, ODS, XLS')
-    parser.add_argument('-p', '--paths-file', help='.yaml file describing how to generate paths')
-    parser.add_argument('-q', '--quiet', help='Do not display changes to files')
+    parser.add_argument('-c', '--create', action='store_true', help='Create new files')
+    parser.add_argument('--config', nargs=1, help='config for create')
+    parser.add_argument('-v', '--verbose', help="Display changes to files")
     parser.add_argument('--update', help="Instead of overwriting files, just update entries")
+    parser.add_argument('-o', '--output-dir', type=pathlib.Path, help="Write files to this directory instead of to the repo")
     args = parser.parse_args()
+
+    file = pathlib.Path(args.file)
 
     paths = None
     muids_mapping = None
-    if args.paths_file:
-        paths, muids_mapping = load_paths_file(args.paths_file)
+    if args.create:
+        print('Running in create mode')
+        if not args.config:
+            # No config file defined
+            config_dir = pathlib.Path('./config')
+            config_file = (config_dir / file.stem).with_suffix('.json')
+            alt_config_file = (config_dir / regex.match(r'[a-z]+', file.stem)[0]).with_suffix('.json')
+            if not config_file.exists():
+                if not alt_config_file.exists():
+                    logging.error(f'Expected config file either {config_file} or {alt_config_file}\nA config file can also be passed as a parameter to --config')
+                    exit(1)
+                config_file = alt_config_file
+            print(f'Using config file {config_file}')
+        else:
+            config_file = pathlib.Path(args.config)
+            if not config_file.exists():
+                logging.error('Config file does not exist')
+                exit(1)
         
-    
-    print(paths)
-    print(muids_mapping)
+        paths, muids_mapping = load_paths_file(config_file)
+        
+    if args.verbose:
+        print(f'paths: {paths}')
+        print('muid mapping: {muids_mapping}')
 
     rows = pyexcel.iget_records(file_name=args.file)
     
@@ -156,13 +180,19 @@ if __name__ == '__main__':
                     value = old_value
                 value = str(value) if isinstance(value, int) else value
                 old_value = str(old_value) if isinstance(value, int) else old_value
-                if not args.quiet and old_value != value:
+                if args.verbose and old_value != value:
                     print('{uid}_{field}:{segment_id}: {old_value} -> {value}'.format(**locals()))
                 merged_data[segment_id] = value
-            if paths:
-                if not file.parent.exists():
-                    file.parent.mkdir(parents=True)
-            with file.open('w') as f:
+            
+            if args.output_dir:
+                out_file = args.output_dir / file.relative_to(repo_dir)            
+            else:
+                out_file = file
+
+            
+            if not out_file.parent.exists():
+                out_file.parent.mkdir(parents=True)
+            with out_file.open('w') as f:
                 json.dump(merged_data, f, ensure_ascii=False, indent=2)
     if errors > 0:
         print(f'{errors} occured while importing sheet, not all data was imported', file=sys.stderr)
