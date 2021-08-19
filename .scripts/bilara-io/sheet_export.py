@@ -5,7 +5,7 @@ import argparse
 import pyexcel
 import regex
 import sys
-
+sys.path.append('..')
 
 
 from common import iter_json_files, repo_dir, bilarasortkey, json_load, bcolors

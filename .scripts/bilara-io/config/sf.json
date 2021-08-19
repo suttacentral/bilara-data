@@ -1,0 +1,12 @@
+{
+  "muids": {
+    "comment": "comment",
+    "html": "html",
+    "root": "root-skt"
+  },
+  "paths": {
+    "comment": "comment/en/",
+    "html": "html/skt/sf/",
+    "root": "root/skt/sf/"
+  }
+}

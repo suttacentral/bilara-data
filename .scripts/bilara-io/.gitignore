@@ -1,0 +1,7 @@
+# ignore all files
+*
+!*/
+# except python files and such
+!config/*.json
+!*.py
+!.gitignore
