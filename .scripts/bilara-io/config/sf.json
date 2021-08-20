@@ -2,15 +2,15 @@
   "muids": {
     "comment": "comment",
     "html": "html",
-    "root": "root-san",
+    "root": "root",
     "variant": "variant",
     "reference": "reference"
   },
   "paths": {
-    "comment": "comment/en/",
-    "html": "html/san/sf/",
-    "root": "root/san/sf/",
-    "variant": "variant/san/sf/",
-    "reference": "reference/san/sf"
+    "comment": "comment/san/sutta/sf/",
+    "html": "html/san/sutta/sf/",
+    "root": "root/san/sutta/sf/",
+    "variant": "variant/san/sutta/sf/",
+    "reference": "reference/san/sutta/sf/"
   }
 }
