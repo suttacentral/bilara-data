@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="viewport" content="width=device-width" /><title>http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_candrasUtra.xml</title><link rel="stylesheet" type="text/css" href="resource://content-accessible/viewsource.css" /></head><body id="viewsource" class="highlight" style="tab-size: 4"><pre id="line1"><span></span><span class="pi">&lt;?xml version="1.0" encoding="UTF-8"?&gt;</span><span>
+<span id="line2"></span></span><span class="pi">&lt;?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?&gt;</span><span>
+<span id="line3"></span></span><span class="pi">&lt;?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?&gt;</span><span>
+<span id="line4"></span></span><span>&lt;<span class="start-tag">TEI</span> <span class="attribute-name">xmlns</span>="<a class="attribute-value">http://www.tei-c.org/ns/1.0</a>" <span class="attribute-name">xml:id</span>="<a class="attribute-value">sa_candrasUtra</a>"&gt;</span><span>
+<span id="line5"></span>  </span><span>&lt;<span class="start-tag">teiHeader</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>
+<span id="line6"></span>  </span><span>&lt;<span class="start-tag">fileDesc</span>&gt;</span><span>
+<span id="line7"></span>  </span><span>&lt;<span class="start-tag">titleStmt</span>&gt;</span><span>
+<span id="line8"></span>	</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Candras&#363;tra</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line9"></span>	</span><span>&lt;<span class="start-tag">author</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">author</span>&gt;</span><span>
+<span id="line10"></span>	</span><span>&lt;<span class="start-tag">respStmt</span>&gt;</span><span>
+<span id="line11"></span>	 </span><span>&lt;<span class="start-tag">resp</span>&gt;</span><span>data entry</span><span>&lt;/<span class="end-tag">resp</span>&gt;</span><span>
+<span id="line12"></span>	 </span><span>&lt;<span class="start-tag">name</span>&gt;</span><span>Klaus Wille</span><span>&lt;/<span class="end-tag">name</span>&gt;</span><span>
+<span id="line13"></span>	</span><span>&lt;/<span class="end-tag">respStmt</span>&gt;</span><span>
+<span id="line14"></span>	</span><span>&lt;<span class="start-tag">respStmt</span>&gt;</span><span>
+<span id="line15"></span>	 </span><span>&lt;<span class="start-tag">resp</span>&gt;</span><span>contribution to GRETIL</span><span>&lt;/<span class="end-tag">resp</span>&gt;</span><span>
+<span id="line16"></span>	 </span><span>&lt;<span class="start-tag">name</span>&gt;</span><span>Klaus Wille</span><span>&lt;/<span class="end-tag">name</span>&gt;</span><span>
+<span id="line17"></span>	</span><span>&lt;/<span class="end-tag">respStmt</span>&gt;</span><span>
+<span id="line18"></span>	</span><span>&lt;<span class="start-tag">respStmt</span>&gt;</span><span>
+<span id="line19"></span>	 </span><span>&lt;<span class="start-tag">resp</span>&gt;</span><span>initial normalization and conversion to legacy GRETIL formats</span><span>&lt;/<span class="end-tag">resp</span>&gt;</span><span>
+<span id="line20"></span>	 </span><span>&lt;<span class="start-tag">name</span>&gt;</span><span>Reinhold Grünendahl</span><span>&lt;/<span class="end-tag">name</span>&gt;</span><span>
+<span id="line21"></span>	</span><span>&lt;/<span class="end-tag">respStmt</span>&gt;</span><span>
+<span id="line22"></span>	</span><span>&lt;<span class="start-tag">respStmt</span>&gt;</span><span>
+<span id="line23"></span>	 </span><span>&lt;<span class="start-tag">resp</span>&gt;</span><span>normalization and conversion to TEI-conformant markup</span><span>&lt;/<span class="end-tag">resp</span>&gt;</span><span>
+<span id="line24"></span>	 </span><span>&lt;<span class="start-tag">name</span>&gt;</span><span>Maximilian Mehner</span><span>&lt;/<span class="end-tag">name</span>&gt;</span><span>
+<span id="line25"></span>	</span><span>&lt;/<span class="end-tag">respStmt</span>&gt;</span><span>
+<span id="line26"></span>  </span><span>&lt;/<span class="end-tag">titleStmt</span>&gt;</span><span>
+<span id="line27"></span>
+<span id="line28"></span>  </span><span>&lt;<span class="start-tag">publicationStmt</span>&gt;</span><span>
+<span id="line29"></span>	</span><span>&lt;<span class="start-tag">publisher</span>&gt;</span><span>Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen</span><span>&lt;/<span class="end-tag">publisher</span>&gt;</span><span>
+<span id="line30"></span>	</span><span>&lt;<span class="start-tag">availability</span>&gt;</span><span>
+<span id="line31"></span>	 </span><span>&lt;<span class="start-tag">p</span>&gt;</span><span>This e-text was provided to GRETIL in good faith that no copyright rights have been infringed.
+<span id="line32"></span>	 If anyone wishes to assert copyright over this file, please contact the GRETIL management at </span><span>&lt;<span class="start-tag">email</span>&gt;</span><span>gretil(at)sub(dot)uni-goettingen(dot)de</span><span>&lt;/<span class="end-tag">email</span>&gt;</span><span>.
+<span id="line33"></span>	 The file will be immediately removed pending resolution of the claim.</span><span>&lt;/<span class="end-tag">p</span>&gt;</span><span>
+<span id="line34"></span>
+<span id="line35"></span>	 </span><span>&lt;<span class="start-tag">licence</span> <span class="attribute-name">target</span>="<a class="attribute-value">https://creativecommons.org/licenses/by-nc-sa/4.0/</a>"&gt;</span><span>Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</span><span>&lt;/<span class="end-tag">licence</span>&gt;</span><span>
+<span id="line36"></span>	</span><span>&lt;/<span class="end-tag">availability</span>&gt;</span><span>
+<span id="line37"></span>	</span><span>&lt;<span class="start-tag">date</span> <span class="attribute-name">when-iso</span>="<a class="attribute-value">2020-07-31</a>"<span>/</span>&gt;</span><span>
+<span id="line38"></span>  </span><span>&lt;/<span class="end-tag">publicationStmt</span>&gt;</span><span>
+<span id="line39"></span>
+<span id="line40"></span>  </span><span>&lt;<span class="start-tag">notesStmt</span>&gt;</span><span>
+<span id="line41"></span>	</span><span>&lt;<span class="start-tag">note</span>&gt;</span><span>This file has been created by mass conversion of GRETIL's Sanskrit corpus from </span><span>&lt;<span class="start-tag">ref</span> <span class="attribute-name">target</span>="<a class="attribute-value">http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/4_rellit/buddh/candras_tu.htm</a>"&gt;</span><span>candras_tu.htm</span><span>&lt;/<span class="end-tag">ref</span>&gt;</span><span>. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the </span><span>&lt;<span class="start-tag">gi</span>&gt;</span><span>note</span><span>&lt;/<span class="end-tag">gi</span>&gt;</span><span> element below:</span><span>&lt;/<span class="end-tag">note</span>&gt;</span><span>
+<span id="line42"></span>	</span><span>&lt;<span class="start-tag">note</span> <span class="attribute-name">type</span>="<a class="attribute-value">legacyheader</a>"&gt;</span><span>
+<span id="line43"></span>	 Candrasutra
+<span id="line44"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span>
+<span id="line45"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span>Based on the ed. by K. Wille: "Neue Fragmente des Candras&#363;tra".
+<span id="line46"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span>In: Bauddhas&#257;hityastabak&#257;val&#299;, Essays and Studies on Buddhist Sanskrit Literature dedicated to Claus Vogel by Colleagues, Students, and Friends, ed. D. Dimitrov, M. Hahn, and R. Steiner. Marburg 2008 (Indica et Tibetica, 36), pp. 339-351.
+<span id="line47"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span>
+<span id="line48"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span>Input by Klaus Wille
+<span id="line49"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span>[GRETIL-Version: 2018-05-25]
+<span id="line50"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span>
+<span id="line51"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span>MARKUP
+<span id="line52"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span></span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>restored passages</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>
+<span id="line53"></span>
+<span id="line54"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span></span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">blue</a>"&gt;</span><span>remarks</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>
+<span id="line55"></span>
+<span id="line56"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span>
+<span id="line57"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span>' = avagraha, not written in the MS
+<span id="line58"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span>* = vir&#257;ma
+<span id="line59"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span>
+<span id="line60"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span>+ = lost ak&#7779;ara
+<span id="line61"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span>.. = illegible ak&#7779;ara
+<span id="line62"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span>. = single element thereof
+<span id="line63"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span>(...) = restored ak&#7779;ara
+<span id="line64"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span>[...] = damaged ak&#7779;ara
+<span id="line65"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span>&#10216;...&#10217; = omitted ak&#7779;ara or corrected vocal quantity (.&#10216;&#257;&#10217; corrected from .a)
+<span id="line66"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span>&#10216;&#10216;...&#10217;&#10217; = interlinear correction or insertion
+<span id="line67"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span>/// = leaf broken off here
+<span id="line68"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span>/ = single da&#7751;&#7693;a
+<span id="line69"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span>// = double da&#7751;&#7693;a
+<span id="line70"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span>· = interpunct
+<span id="line71"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span>
+<span id="line72"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span>Metrics:
+<span id="line73"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span> ^ = short syllable
+<span id="line74"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span> - = long syllable
+<span id="line75"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span> x = short/long
+<span id="line76"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span> xx = short-short/long
+<span id="line77"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span>
+<span id="line78"></span></span><span>&lt;<span class="start-tag">lb</span><span>/</span>&gt;</span><span>TRANSLITERATION
+<span id="line79"></span>	</span><span>&lt;/<span class="end-tag">note</span>&gt;</span><span>
+<span id="line80"></span>  </span><span>&lt;/<span class="end-tag">notesStmt</span>&gt;</span><span>
+<span id="line81"></span>
+<span id="line82"></span>  </span><span>&lt;<span class="start-tag">sourceDesc</span>&gt;</span><span>
+<span id="line83"></span>	</span><span>&lt;<span class="start-tag">bibl</span>&gt;</span><span>K. Wille: "Neue Fragmente des Candras&#363;tra". In: Bauddhas&#257;hityastabak&#257;val&#299;, Essays and Studies on Buddhist Sanskrit Literature dedicated to Claus Vogel by Colleagues, Students, and Friends, ed. D. Dimitrov, M. Hahn, and R. Steiner. Marburg 2008 (Indica et Tibetica, 36), pp. 339-351.</span><span>&lt;/<span class="end-tag">bibl</span>&gt;</span><span>
+<span id="line84"></span>  </span><span>&lt;/<span class="end-tag">sourceDesc</span>&gt;</span><span>
+<span id="line85"></span>  </span><span>&lt;/<span class="end-tag">fileDesc</span>&gt;</span><span>
+<span id="line86"></span>
+<span id="line87"></span>  </span><span>&lt;<span class="start-tag">encodingDesc</span>&gt;</span><span>
+<span id="line88"></span>  </span><span>&lt;<span class="start-tag">projectDesc</span>&gt;</span><span>
+<span id="line89"></span>	</span><span>&lt;<span class="start-tag">p</span>&gt;</span><span>The Göttingen Register of Electronic Texts in Indian Languages (GRETIL) is a resource platform providing standardized machine-readable texts in Indian languages that have been contributed by various individuals and institutions.</span><span>&lt;/<span class="end-tag">p</span>&gt;</span><span>
+<span id="line90"></span>  </span><span>&lt;/<span class="end-tag">projectDesc</span>&gt;</span><span>
+<span id="line91"></span>
+<span id="line92"></span>  </span><span>&lt;<span class="start-tag">editorialDecl</span>&gt;</span><span>
+<span id="line93"></span>	</span><span>&lt;<span class="start-tag">correction</span>&gt;</span><span>
+<span id="line94"></span>	 </span><span>&lt;<span class="start-tag">p</span>&gt;</span><span>Apparent errors have been silently corrected.</span><span>&lt;/<span class="end-tag">p</span>&gt;</span><span>
+<span id="line95"></span>	</span><span>&lt;/<span class="end-tag">correction</span>&gt;</span><span>
+<span id="line96"></span>
+<span id="line97"></span>	</span><span>&lt;<span class="start-tag">normalization</span>&gt;</span><span>
+<span id="line98"></span>	 </span><span>&lt;<span class="start-tag">p</span>&gt;</span><span>GRETIL normalizes all texts contributed consistently for each language.
+<span id="line99"></span>	 Sanskrit texts are normalized in accordance with the scheme of the International Alphabet of Sanskrit Transliteration (IAST) in order to facilitate word search across its corpus without additional transformations.</span><span>&lt;/<span class="end-tag">p</span>&gt;</span><span>
+<span id="line100"></span>
+<span id="line101"></span>	 </span><span>&lt;<span class="start-tag">p</span>&gt;</span><span>All characters that were fully equivalent to an IAST-conformant character in the text file contributed have been made to conform to the character list below.
+<span id="line102"></span>	 Non-conformant characters with additional information including accents, capitalization, and whitespace have been preserved as </span><span>&lt;<span class="start-tag">gi</span>&gt;</span><span>orig</span><span>&lt;/<span class="end-tag">gi</span>&gt;</span><span> elements inside </span><span>&lt;<span class="start-tag">gi</span>&gt;</span><span>choice</span><span>&lt;/<span class="end-tag">gi</span>&gt;</span><span> elements with their IAST-conformant equivalent in </span><span>&lt;<span class="start-tag">gi</span>&gt;</span><span>reg</span><span>&lt;/<span class="end-tag">gi</span>&gt;</span><span> elements for the creation of a plain text.
+<span id="line103"></span>	 These additional informations will be available only in those transformations of this file that display the original information.</span><span>&lt;/<span class="end-tag">p</span>&gt;</span><span>
+<span id="line104"></span>
+<span id="line105"></span>	 </span><span>&lt;<span class="start-tag">p</span>&gt;</span><span></span><span>&lt;<span class="start-tag">table</span>&gt;</span><span>
+<span id="line106"></span>	 </span><span>&lt;<span class="start-tag">head</span>&gt;</span><span>Characters Used for the Transliteration of Sanskrit according to IAST</span><span>&lt;/<span class="end-tag">head</span>&gt;</span><span>
+<span id="line107"></span>	 </span><span>&lt;<span class="start-tag">row</span> <span class="attribute-name">role</span>="<a class="attribute-value">label</a>"&gt;</span><span>
+<span id="line108"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>Character</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line109"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>Character Name</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line110"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>Unicode Code Point</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line111"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line112"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line113"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>a</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line114"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER A</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line115"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+0061</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line116"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line117"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line118"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>&#257;</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line119"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER A WITH MACRON</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line120"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+0101</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line121"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line122"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line123"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>i</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line124"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER I</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line125"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+0069</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line126"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line127"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line128"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>&#299;</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line129"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER I WITH MACRON</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line130"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+012B</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line131"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line132"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line133"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>u</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line134"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER U</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line135"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+0075</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line136"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line137"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line138"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>&#363;</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line139"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER U WITH MACRON</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line140"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+016B</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line141"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line142"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line143"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>&#7771;</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line144"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER R WITH DOT BELOW</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line145"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+1E5B</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line146"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line147"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line148"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>&#7773;</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line149"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER R WITH DOT BELOW AND MACRON</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line150"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+1E5D</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line151"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line152"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line153"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>&#7735;</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line154"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER L WITH DOT BELOW</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line155"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+1E37</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line156"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line157"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line158"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>&#7737;</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line159"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER L WITH DOT BELOW AND MACRON</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line160"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+1E39</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line161"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line162"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line163"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>e</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line164"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER E</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line165"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+0065</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line166"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line167"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line168"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>o</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line169"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER O</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line170"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+006F</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line171"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line172"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line173"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>&#7747;</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line174"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER M WITH DOT BELOW</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line175"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+1E43</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line176"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line177"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line178"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>&#7717;</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line179"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER H WITH DOT BELOW</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line180"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+1E25</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line181"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line182"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line183"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>'</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line184"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>APOSTROPHE</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line185"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+0027</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line186"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line187"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line188"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>k</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line189"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER K</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line190"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+006B</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line191"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line192"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line193"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>g</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line194"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER G</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line195"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+0067</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line196"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line197"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line198"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>&#7749;</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line199"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER N WITH DOT ABOVE</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line200"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+1E45</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line201"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line202"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line203"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>c</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line204"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER C</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line205"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+0063</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line206"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line207"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line208"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>j</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line209"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER J</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line210"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+006A</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line211"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line212"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line213"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>ñ</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line214"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER N WITH TILDE</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line215"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+00F1</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line216"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line217"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line218"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>&#7789;</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line219"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER T WITH DOT BELOW</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line220"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+1E6D</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line221"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line222"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line223"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>&#7693;</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line224"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER D WITH DOT BELOW</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line225"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+1E0D</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line226"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line227"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line228"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>&#7751;</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line229"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER N WITH DOT BELOW</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line230"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+1E47</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line231"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line232"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line233"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>p</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line234"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER P</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line235"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+0070</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line236"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line237"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line238"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>b</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line239"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER B</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line240"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+0062</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line241"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line242"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line243"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>m</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line244"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER M</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line245"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+006D</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line246"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line247"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line248"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>y</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line249"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER Y</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line250"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+0079</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line251"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line252"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line253"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>r</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line254"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER R</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line255"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+0072</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line256"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line257"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line258"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>l</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line259"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER L</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line260"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+006C</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line261"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line262"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line263"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>v</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line264"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER V</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line265"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+0076</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line266"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line267"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line268"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>&#347;</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line269"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER S WITH ACUTE</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line270"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+x015B</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line271"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line272"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line273"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>&#7779;</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line274"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER S WITH DOT BELOW</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line275"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+1E63</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line276"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line277"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line278"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>s</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line279"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER S</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line280"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+0073</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line281"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line282"></span>	 </span><span>&lt;<span class="start-tag">row</span>&gt;</span><span>
+<span id="line283"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>h</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line284"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>LATIN SMALL LETTER H</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line285"></span>	 </span><span>&lt;<span class="start-tag">cell</span>&gt;</span><span>U+0068</span><span>&lt;/<span class="end-tag">cell</span>&gt;</span><span>
+<span id="line286"></span>	 </span><span>&lt;/<span class="end-tag">row</span>&gt;</span><span>
+<span id="line287"></span>	 </span><span>&lt;/<span class="end-tag">table</span>&gt;</span><span>
+<span id="line288"></span>	</span><span>&lt;/<span class="end-tag">p</span>&gt;</span><span>
+<span id="line289"></span>  </span><span>&lt;/<span class="end-tag">normalization</span>&gt;</span><span>
+<span id="line290"></span>
+<span id="line291"></span>  </span><span>&lt;<span class="start-tag">quotation</span> <span class="attribute-name">marks</span>="<a class="attribute-value">some</a>"&gt;</span><span>
+<span id="line292"></span>	</span><span>&lt;<span class="start-tag">p</span>&gt;</span><span>If indicated unambiguously in the text file contributed quotation marks have been replaced with the </span><span>&lt;<span class="start-tag">gi</span>&gt;</span><span>q</span><span>&lt;/<span class="end-tag">gi</span>&gt;</span><span> element and, in case a reference was provided, have been nested inside a </span><span>&lt;<span class="start-tag">gi</span>&gt;</span><span>cit</span><span>&lt;/<span class="end-tag">gi</span>&gt;</span><span> with the respective reference provided in a </span><span>&lt;<span class="start-tag">gi</span>&gt;</span><span>ref</span><span>&lt;/<span class="end-tag">gi</span>&gt;</span><span> element after the quote.</span><span>&lt;/<span class="end-tag">p</span>&gt;</span><span>
+<span id="line293"></span>  </span><span>&lt;/<span class="end-tag">quotation</span>&gt;</span><span>
+<span id="line294"></span>
+<span id="line295"></span>  </span><span>&lt;<span class="start-tag">segmentation</span>&gt;</span><span>
+<span id="line296"></span>	</span><span>&lt;<span class="start-tag">p</span>&gt;</span><span>Unnumbered </span><span>&lt;<span class="start-tag">gi</span>&gt;</span><span>div</span><span>&lt;/<span class="end-tag">gi</span>&gt;</span><span> elements are used to structure the text, using the </span><span>&lt;<span class="start-tag">att</span>&gt;</span><span>type</span><span>&lt;/<span class="end-tag">att</span>&gt;</span><span> and </span><span>&lt;<span class="start-tag">att</span>&gt;</span><span>n</span><span>&lt;/<span class="end-tag">att</span>&gt;</span><span> attributes in accordance with the </span><span>&lt;<span class="start-tag">gi</span>&gt;</span><span>refsDecl</span><span>&lt;/<span class="end-tag">gi</span>&gt;</span><span>.</span><span>&lt;/<span class="end-tag">p</span>&gt;</span><span>
+<span id="line297"></span>  </span><span>&lt;/<span class="end-tag">segmentation</span>&gt;</span><span>
+<span id="line298"></span>
+<span id="line299"></span>  </span><span>&lt;<span class="start-tag">interpretation</span>&gt;</span><span>
+<span id="line300"></span>	</span><span>&lt;<span class="start-tag">p</span>&gt;</span><span>Interpretive markup which is visible only in analytic transformations of this file consists of:
+<span id="line301"></span>	</span><span>&lt;<span class="start-tag">list</span>&gt;</span><span>
+<span id="line302"></span>	 </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>Highlighting in </span><span>&lt;<span class="start-tag">gi</span>&gt;</span><span>hi</span><span>&lt;/<span class="end-tag">gi</span>&gt;</span><span> elements,</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line303"></span>	 </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>Corruptions in </span><span>&lt;<span class="start-tag">gi</span>&gt;</span><span>sic</span><span>&lt;/<span class="end-tag">gi</span>&gt;</span><span> elements,</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line304"></span>	 </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>Remarks in </span><span>&lt;<span class="start-tag">gi</span>&gt;</span><span>note</span><span>&lt;/<span class="end-tag">gi</span>&gt;</span><span> elements with the @resp attribute identifying the agency.</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line305"></span>	</span><span>&lt;/<span class="end-tag">list</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">p</span>&gt;</span><span>
+<span id="line306"></span>  </span><span>&lt;/<span class="end-tag">interpretation</span>&gt;</span><span>
+<span id="line307"></span>  </span><span>&lt;/<span class="end-tag">editorialDecl</span>&gt;</span><span>
+<span id="line308"></span>
+<span id="line309"></span>  </span><span>&lt;<span class="start-tag">refsDecl</span>&gt;</span><span>
+<span id="line310"></span>  </span><span>&lt;<span class="start-tag">p</span>&gt;</span><span>A reference is given in the </span><span>&lt;<span class="start-tag">att</span>&gt;</span><span>xml:id</span><span>&lt;/<span class="end-tag">att</span>&gt;</span><span> attributes consisting of
+<span id="line311"></span>  </span><span>&lt;<span class="start-tag">list</span>&gt;</span><span>
+<span id="line312"></span>	</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>a pragmatic abbreviation of the </span><span>&lt;<span class="start-tag">label</span>&gt;</span><span>title</span><span>&lt;/<span class="end-tag">label</span>&gt;</span><span>: Candras&#363;tra = </span><span class="comment">&lt;!-- abbreviation --&gt;</span><span>,</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line313"></span>	</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>the number of the </span><span>&lt;<span class="start-tag">label</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">label</span>&gt;</span><span> in arabic numerals,</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line314"></span>	</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>the number of the </span><span>&lt;<span class="start-tag">label</span>&gt;</span><span>verse</span><span>&lt;/<span class="end-tag">label</span>&gt;</span><span> in arabic numerals.</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line315"></span>  </span><span>&lt;/<span class="end-tag">list</span>&gt;</span><span>
+<span id="line316"></span>  </span><span>&lt;/<span class="end-tag">p</span>&gt;</span><span>
+<span id="line317"></span>  </span><span>&lt;/<span class="end-tag">refsDecl</span>&gt;</span><span>
+<span id="line318"></span>  </span><span>&lt;/<span class="end-tag">encodingDesc</span>&gt;</span><span>
+<span id="line319"></span>
+<span id="line320"></span>  </span><span>&lt;<span class="start-tag">profileDesc</span>&gt;</span><span>
+<span id="line321"></span>  </span><span>&lt;<span class="start-tag">langUsage</span>&gt;</span><span>
+<span id="line322"></span>  </span><span>&lt;<span class="start-tag">language</span> <span class="attribute-name">ident</span>="<a class="attribute-value">en</a>"&gt;</span><span>English</span><span>&lt;/<span class="end-tag">language</span>&gt;</span><span>
+<span id="line323"></span>  </span><span>&lt;<span class="start-tag">language</span> <span class="attribute-name">ident</span>="<a class="attribute-value">sa-Latn</a>"&gt;</span><span>Sanskrit</span><span>&lt;/<span class="end-tag">language</span>&gt;</span><span>
+<span id="line324"></span>  </span><span>&lt;/<span class="end-tag">langUsage</span>&gt;</span><span>
+<span id="line325"></span>
+<span id="line326"></span>  </span><span>&lt;<span class="start-tag">textClass</span>&gt;</span><span>
+<span id="line327"></span>  </span><span>&lt;<span class="start-tag">keywords</span> <span class="attribute-name">scheme</span>="<a class="attribute-value">http://gretil.sub.uni-goettingen.de/</a>"&gt;</span><span>
+<span id="line328"></span>	</span><span>&lt;<span class="start-tag">term</span>&gt;</span><span>Sanskrit -- Religious Literature -- Buddhist</span><span>&lt;/<span class="end-tag">term</span>&gt;</span><span>
+<span id="line329"></span>  </span><span>&lt;/<span class="end-tag">keywords</span>&gt;</span><span>
+<span id="line330"></span>  </span><span>&lt;/<span class="end-tag">textClass</span>&gt;</span><span>
+<span id="line331"></span>  </span><span>&lt;/<span class="end-tag">profileDesc</span>&gt;</span><span>
+<span id="line332"></span>
+<span id="line333"></span>  </span><span>&lt;<span class="start-tag">revisionDesc</span>&gt;</span><span>
+<span id="line334"></span>  </span><span>&lt;<span class="start-tag">listChange</span>&gt;</span><span>
+<span id="line335"></span>  </span><span>&lt;<span class="start-tag">change</span> <span class="attribute-name">when-iso</span>="<a class="attribute-value">2020-07-31</a>" <span class="attribute-name">who</span>="<a class="attribute-value">Maximilian Mehner</a>"&gt;</span><span>TEI encoding by mass conversion of GRETIL's Sanskrit corpus</span><span>&lt;/<span class="end-tag">change</span>&gt;</span><span>
+<span id="line336"></span>  </span><span>&lt;/<span class="end-tag">listChange</span>&gt;</span><span>
+<span id="line337"></span>  </span><span>&lt;/<span class="end-tag">revisionDesc</span>&gt;</span><span>
+<span id="line338"></span>
+<span id="line339"></span></span><span>&lt;/<span class="end-tag">teiHeader</span>&gt;</span><span>
+<span id="line340"></span>
+<span id="line341"></span></span><span>&lt;<span class="start-tag">text</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">sa-Latn</a>"&gt;</span><span>
+<span id="line342"></span>  </span><span>&lt;<span class="start-tag">body</span>&gt;</span><span>
+<span id="line343"></span>
+<span id="line344"></span></span><span>&lt;<span class="start-tag">p</span>&gt;</span><span>Candras&#363;tra</span><span>&lt;/<span class="end-tag">p</span>&gt;</span><span>
+<span id="line345"></span>
+<span id="line346"></span></span><span>&lt;<span class="start-tag">p</span>&gt;</span><span>1. eva&#7747; may&#257; &#347;rutam ekasama</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>ya&#7747; bhagav&#257;ñ</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span> &#347;r&#257;vasty&#257;&#7747; viharati jet</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>a</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>v</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>a</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>n</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>a</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span> an&#257;thapi&#7751;&#7693;ad</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>&#257;</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>r</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>&#257;</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>m</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>e /</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>
+<span id="line347"></span>2. tena khalu samayena r&#257;hu&#7751;&#257; asurendre&#7751;a sarva&#7747; candrama&#7751;&#7693;alam &#257;v&#7771;tam* </span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>/</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>
+<span id="line348"></span>3. </span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>atha</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span> y&#257; devat&#257; tasmi&#7747;</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>&#347;</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span> candrama&#7751;&#7693;ala adhyu&#7779;it&#257; s&#257; bh&#299;t&#257; trast</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>&#257;</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span> sa&#7747;vign&#257; &#257;h&#7771;&#7779;&#7789;aromak&#363;p&#257; yena bhagav&#257;&#7747;s teno</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>pajag&#257;ma /</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span> upetya bha</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>ga</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>v</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>a</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>tp&#257;dau &#347;iras&#257; </span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>vanditvaik&#257;&#7747;</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>te 'sth&#257;d ek&#257;ntasthit&#257; s&#257; devat&#257; tasy&#257;&#7747; vel&#257;y&#257;&#7747; g&#257;th&#257; babh&#257;&#7779;e //</span><span>&lt;/<span class="end-tag">p</span>&gt;</span><span>
+<span id="line349"></span>
+<span id="line350"></span></span><span>&lt;<span class="start-tag">p</span>&gt;</span><span></span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">blue</a>"&gt;</span><span>Ed. bhit&#257; but MS reads bh&#299;t&#257;</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>
+<span id="line351"></span>4.
+<span id="line352"></span>buddhav&#299;ra namas te 'stu vipramukt&#257;ya sarvata&#7717;
+<span id="line353"></span>sa&#7747;b&#257;dhapratipann&#257;smi tasya me &#347;ara&#7751;a&#7747; bhava :
+<span id="line354"></span></span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">blue</a>"&gt;</span><span>Ed. buddha v&#299;ra</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">p</span>&gt;</span><span>
+<span id="line355"></span>
+<span id="line356"></span></span><span>&lt;<span class="start-tag">lg</span>&gt;</span><span>
+<span id="line357"></span></span><span>&lt;<span class="start-tag">l</span>&gt;</span><span>5.</span><span>&lt;/<span class="end-tag">l</span>&gt;</span><span>
+<span id="line358"></span></span><span>&lt;<span class="start-tag">l</span>&gt;</span><span>arhanta&#7747; sugata&#7747; loke candram&#257;&#7717; &#347;ara&#7751;a&#7747; gata&#7717;</span><span>&lt;/<span class="end-tag">l</span>&gt;</span><span>
+<span id="line359"></span></span><span>&lt;<span class="start-tag">l</span>&gt;</span><span>r&#257;ho&#347; candramasa&#7747; muñca buddh&#257; lok&#257;nukampak&#257;&#7717; //</span><span>&lt;/<span class="end-tag">l</span>&gt;</span><span>
+<span id="line360"></span></span><span>&lt;/<span class="end-tag">lg</span>&gt;</span><span>
+<span id="line361"></span>
+<span id="line362"></span></span><span>&lt;<span class="start-tag">p</span>&gt;</span><span>6. bhagav&#257;n &#257;ha //</span><span>&lt;/<span class="end-tag">p</span>&gt;</span><span>
+<span id="line363"></span>
+<span id="line364"></span></span><span>&lt;<span class="start-tag">p</span>&gt;</span><span>tamonuda&#7747; ta&#7747; nabhasi prabh&#257;kara&#7747; virocana&#7747; &#347;ukla</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>v</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>i&#347;uddhavarcasam*
+<span id="line365"></span>r&#257;ho &#347;</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>a</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>&#347;&#257;&#7749;ka&#7747; grasa m&#257;ntar&#299;k&#7779;e praj</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>&#257;</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>pr</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>a</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>d&#299;pa&#7747; drutam uts&#7771;jainam* //</span><span>&lt;/<span class="end-tag">p</span>&gt;</span><span>
+<span id="line366"></span>
+<span id="line367"></span></span><span>&lt;<span class="start-tag">p</span>&gt;</span><span>7. atha r&#257;hu&#7751;&#257; as</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>u</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>rendre&#7751;a tvaritatvarita&#7747; candrama&#7751;&#7693;alam uts&#7771;&#7779;&#7789;am* &#10216;/&#10217;
+<span id="line368"></span>tata&#7717; sa</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>&#7747;</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>tvaram&#257;&#7751;o 'sau r&#257;hu&#347; candram av&#257;s&#7771;</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>jat*</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>
+<span id="line369"></span></span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>sa&#7747;svinnag&#257;tro vya</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>thita&#7717; sa&#7747;bhr</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>&#257;nta &#257;turo ya</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>th&#257; //</span><span>&lt;/<span class="end-tag">p</span>&gt;</span><span>
+<span id="line370"></span>
+<span id="line371"></span></span><span>&lt;<span class="start-tag">p</span>&gt;</span><span>8. adr&#257;k&#7779;&#299;d ba&#7693;ir vairocano </span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>r&#257;hu&#7751;&#257;</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span> asurendre&#7751;a tvaritatvarita&#7747; candr</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>a</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>ma&#7751;&#7693;ala</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>m uts&#7771;&#7779;&#7789;am* / d&#7771;&#7779;&#7789;v&#257; ca ba&#7693;i</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>r g&#257;th&#257;&#7747; babh&#257;&#7779;e //</span><span>&lt;/<span class="end-tag">p</span>&gt;</span><span>
+<span id="line372"></span>
+<span id="line373"></span></span><span>&lt;<span class="start-tag">p</span>&gt;</span><span>9.
+<span id="line374"></span>ki</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>&#7747;</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span> nu sa</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>&#7747;</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>tv</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>aram&#257;&#7751;as</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span> tv</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>a&#7747;</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span> r&#257;hu&#347; candra&#7747; vimuñcasi ·
+<span id="line375"></span>sa&#7747;svinnag&#257;tro vyathita&#7717; sa&#7747;</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>bhr&#257;nta &#257;turo yath&#257;</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span> </span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>//</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">p</span>&gt;</span><span>
+<span id="line376"></span>
+<span id="line377"></span></span><span>&lt;<span class="start-tag">l</span> <span class="attribute-name">rend</span>="<a class="attribute-value">blue</a>"&gt;</span><span>Cf. Pelliot Sanskrit bleu 449 Ac: /// ro yath&#257; //</span><span>&lt;/<span class="end-tag">l</span>&gt;</span><span>
+<span id="line378"></span></span><span>&lt;<span class="start-tag">p</span>&gt;</span><span>10. </span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>r&#257;hur avocat* //</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">p</span>&gt;</span><span>
+<span id="line379"></span>
+<span id="line380"></span></span><span>&lt;<span class="start-tag">p</span>&gt;</span><span></span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>sa</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>ptadh&#257; me sphalen m&#363;rdh&#257;</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span> j&#299;van na sukha</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>m &#257;p</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>nu</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>y&#257;&#7747;
+<span id="line381"></span>ta</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>tra buddh</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>&#257;bhig&#299;tena muñceya&#7747; &#347;a&#347;ina&#7747; na cet*
+<span id="line382"></span></span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">blue</a>"&gt;</span><span>Cf. Pelliot Sanskrit bleu 449 Ac: r&#257;hu pr&#257;ha // saptadh&#257; me sphal[e] m&#363;rdh&#257;</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>
+<span id="line383"></span>11. </span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>ba&#7693;ir vairocano 'vocat* /</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>
+<span id="line384"></span>x x x x x - - - x x x x madar&#347;i</span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>n&#257;&#7747;
+<span id="line385"></span>te&#7779;&#257;&#7747; g&#257;th&#257;bhig&#299;tena r&#257;hu&#347; candra&#7747; vimuñcati //</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>
+<span id="line386"></span></span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">blue</a>"&gt;</span><span>Cf. Pelliot Sanskrit bleu 449 Ad: + + + + + .. .. .. .. .. .. .. (bh)i(g)itena muñce</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>
+<span id="line387"></span>12. </span><span>&lt;<span class="start-tag">hi</span> <span class="attribute-name">rend</span>="<a class="attribute-value">it</a>"&gt;</span><span>candras&#363;tra&#7747; sam&#257;ptam* //</span><span>&lt;/<span class="end-tag">hi</span>&gt;</span><span>
+<span id="line388"></span></span><span>&lt;/<span class="end-tag">p</span>&gt;</span><span>
+<span id="line389"></span>  </span><span>&lt;/<span class="end-tag">body</span>&gt;</span><span>
+<span id="line390"></span></span><span>&lt;/<span class="end-tag">text</span>&gt;</span><span>
+<span id="line391"></span></span><span>&lt;/<span class="end-tag">TEI</span>&gt;</span><span>
+<span id="line392"></span></span></pre></body></html>
