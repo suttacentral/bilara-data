@@ -707,7 +707,7 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "pt",
     "translation_lang_name": "Português",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/pt/laera-quaresma/",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/pt/laera-quaresma/sutta/an",
     "author_uid": "laera-quaresma",
     "collaborator": [
       {
@@ -716,32 +716,37 @@
         "author_github_handle": "gnlaera"
       },
       {
+        "collaborator_uid": "quaresma",
+        "author_name": "Marco Quaresma",
+        "author_github_handle": "marcoquaresma"
+      },
+      {
         "collaborator_uid": "vitor",
         "author_name": "Vitor Guimarães",
         "author_github_handle": "nvsitr"
       }
     ],
-    "text_uid": "sutta",
-    "translation_title": "",
-    "translation_subtitle": "",
-    "root_title": "",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": false,
-    "publication_status": "",
+    "text_uid": "an",
+    "translation_title": "Discursos Numerados",
+    "translation_subtitle": "Uma tradução do Aṅguttara Nikāya",
+    "root_title": "Aṅguttaranikāya",
+    "translation_process": "A fonte principal é a tradução em inglês de Sujato Bhikkhu e a edição digital Mahāsaṅgīti do Tipiṭaka em páli.",
+    "translation_description": "Esta tradução é parte de um projeto de tradução para o português dos quatro Nikāyas em páli com os seguintes objetivos: linguagem acessível; terminologia consistente; interpretação precisa do original em páli; livre de direitos autorais. A tradução está em andamento desde 2016.",
+    "is_published": true,
+    "publication_status": "Em andamento, com revisão também em andamento.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+      "license_statement": "Esta tradução é uma expressão de um antigo texto sobre assuntos espirituais que foi transmitido pela tradição budista para o benefício de todos os seres sencientes. Ela é dedicada ao domínio público através do Creative Commons Zero (CC0). Todos são encorajados a copiar, reproduzir, adaptar, alterar ou de outra forma fazer uso desta tradução. Os tradutores solicitam respeitosamente que qualquer uso esteja de acordo com os valores e princípios da comunidade budista."
     },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
-        "publisher": "",
-        "publication_type": "",
-        "edition_url": ""
+        "edition_number": "1",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/an"
       }
     ]
   },
@@ -1111,29 +1116,29 @@
     "translation_lang_name": "Čeština",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/cs/ashinsarana/sutta/an",
     "author_uid": "ashinsarana",
-    "author_name": "Ashin Sarana",
+    "author_name": "Ashin Saraṅa",
     "author_github_handle": "ashinsarana",
     "text_uid": "an",
-    "translation_title": "Numbered Discourses",
-    "translation_subtitle": "",
+    "translation_title": "Číslované Rozpravy",
+    "translation_subtitle": "Překlad Aṅguttara Nikáji",
     "root_title": "Aṅguttaranikāya",
-    "translation_process": "",
-    "translation_description": "",
+    "translation_process": "Hlavním zdrojem je digitální vydání Páḷi Tipiṭaky “Mahāsaṅgīti.” Rád používám barmský oficiální překlad, Páḷi Komentáře, doslovné Páḷi-barmské překlady Páḷi Komentářů, a (hlavně) elektronickou verzi monumentálního Páḷi-barmského slovníku (ပါဠိ-မြန်မာ အဘိဓာန်). Někdy používám Páḷi-anglický minislovník v Chaṭṭhasaṅgāyanā Tipiṭaka aplikaci (verze 4.0). Překlad byl z velké části zrychlen anglickým překladem od Bhikkhu Sujāto, který posloužil zejména k nahlédnutí a coby průvodce při práci.",
+    "translation_description": "Tento překlad je jeden z mých prvních pokusů překládat z původního jazyka Páḷi do češtiny. Zatím se nejedná o ucelený pokud o překlad, proto, prosím, odpusťte literární neucelenost přeložených částí. Hlavní důraz byl kladen na srozumitelnost, přestože přesnost by měla být na spolehlivé úrovni. Žádná autorská práva. Vytvořeno v Myanmaru, 2020.",
     "is_published": true,
-    "publication_status": "",
+    "publication_status": "Všechny zveřejněné překlady rozprav jsou hotové v rozsahu té které rozpravy. Přepracování, návrhy, opravy, a kritika budou velice vítané.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+      "license_statement": "Tento překlad je projevem starověkého duchovního textu, který byl předán z generace na generaci buddhistickou traidicí ku prospěchu všech živých bytostí. Je darován do veřejného vlastnictví (public domain) skrze Creative COmmons Zero (CC0). Povzbuzuji vás ke kopírování, reprodukci, adaptaci, změně, nebo jakémukoliv jinému užití tohoto překladu. Překladatel slušně žádá, aby bylo jakékoliv užití tohoto textu v souladu s hodnotami a principy buddhistického společenství."
     },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
-        "publisher": "",
-        "publication_type": "",
-        "edition_url": ""
+        "edition_number": "1",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/an"
       }
     ]
   },
