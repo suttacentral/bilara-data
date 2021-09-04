@@ -8,7 +8,7 @@
   "downloads:9": "有关创建这些文献的过程和相关更改的详细信息，请参见SuttaCentral版的前言。所有版本包括含增强功能如可点击链接之12,000个内部参考，详细的目录和修订的参考系统。",
   "downloads:10": "<a class='file' href='https://github.com/suttacentral/suttacentral-files/blob/master/Book_of_the_Discipline.pdf?raw=true'>PDF</a> (9.8mb)",
   "downloads:11": "这整六卷都在一个<span class='smallcaps'>pdf</span>文件中。该文件是用LaTeX创建的，是一种高质量的<span class='smallcaps'>pdf</span>，适用于所有设备以及打印。根据许可条款，可允许免费发行印刷。如有兴趣，请联系我们，我们可以根据您的需求定制<span class='smallcaps'>pdf</span>文件。",
-  "downloads:12": "<a class='file' href='https://github.com/suttacentral/suttacentral-files/blob/master/Book_of_the_Discipline.epub?raw=true'>EPUB</a> (3.0mb)<br/> <a class='file' href='https://github.com/suttacentral/suttacentral-files/blob/master/Book_of_the_Discipline.mobi?raw=true'>MOBI</a> (5.6mb)",
+  "downloads:12": "<a class='file' href='https://github.com/suttacentral/suttacentral-files/blob/master/Book_of_the_Discipline.epub?raw=true'>EPUB</a> (3.0mb)<br> <a class='file' href='https://github.com/suttacentral/suttacentral-files/blob/master/Book_of_the_Discipline.mobi?raw=true'>MOBI</a> (5.6mb)",
   "downloads:13": "电子书版本适合与电子阅读器一起使用。 Mobi（Kindle）和ePub是最常见的电子书格式，Caliber软件可以转换为其他格式。",
   "downloads:14": "<a class='file' href='https://github.com/suttacentral/suttacentral-files/blob/master/Book_of_the_Discipline_source.zip?raw=true'>ZIP</a> (3.6mb)",
   "downloads:15": "源存档，包含适用于使用LuaLatex进行编译的<span class='smallcaps'>tex</span>源文件，以及作为一个大型<span class='smallcaps'>html</span>文件的整个六个卷。这些是从其他格式的基本文件。",
