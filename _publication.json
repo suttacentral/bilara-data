@@ -1884,5 +1884,93 @@
         "edition_url": ""
       }
     ]
+  },
+  "scpub47": {
+    "publication_number": "scpub47",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "pt",
+    "translation_lang_name": "Português",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/pt/laera-quaresma/sutta/mn",
+    "author_uid": "laera-quaresma",
+    "collaborator": [
+      {
+        "collaborator_uid": "gnlaera",
+        "author_name": "Gabriel Laera",
+        "author_github_handle": "gnlaera"
+      },
+      {
+        "collaborator_uid": "vitor",
+        "author_name": "Vitor Guimarães",
+        "author_github_handle": "nvsitr"
+      }
+    ],
+    "text_uid": "mn",
+    "translation_title": "Discursos Médios",
+    "translation_subtitle": "Uma tradução do Majjhima Nikāya",
+    "root_title": "Majjhimanikāya",
+    "translation_process": "A fonte principal é a tradução em inglês de Sujato Bhikkhu e a edição digital Mahāsaṅgīti do Tipiṭaka em páli.",
+    "translation_description": "Esta tradução é parte de um projeto de tradução para o português dos quatro Nikāyas em páli com os seguintes objetivos: linguagem acessível; terminologia consistente; interpretação precisa do original em páli; livre de direitos autorais. A tradução está em andamento desde 2016.",
+    "is_published": true,
+    "publication_status": "Em andamento, com revisão também em andamento.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Esta tradução é uma expressão de um antigo texto sobre assuntos espirituais que foi transmitido pela tradição budista para o benefício de todos os seres sencientes. Ela é dedicada ao domínio público através do Creative Commons Zero (CC0). Todos são encorajados a copiar, reproduzir, adaptar, alterar ou de outra forma fazer uso desta tradução. Os tradutores solicitam respeitosamente que qualquer uso esteja de acordo com os valores e princípios da comunidade budista."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/mn"
+      }
+    ]
+  },
+  "scpub48": {
+    "publication_number": "scpub48",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "pt",
+    "translation_lang_name": "Português",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/pt/laera-quaresma/sutta/sn",
+    "author_uid": "laera-quaresma",
+    "collaborator": [
+      {
+        "collaborator_uid": "gnlaera",
+        "author_name": "Gabriel Laera",
+        "author_github_handle": "gnlaera"
+      },
+      {
+        "collaborator_uid": "vitor",
+        "author_name": "Vitor Guimarães",
+        "author_github_handle": "nvsitr"
+      }
+    ],
+    "text_uid": "sn",
+    "translation_title": "Discursos Conectados ou Vinculados",
+    "translation_subtitle": "Uma tradução do Saṁyutta Nikāya",
+    "root_title": "Saṁyuttanikāya",
+    "translation_process": "A fonte principal é a tradução em inglês de Sujato Bhikkhu e a edição digital Mahāsaṅgīti do Tipiṭaka em páli.",
+    "translation_description": "Esta tradução é parte de um projeto de tradução para o português dos quatro Nikāyas em páli com os seguintes objetivos: linguagem acessível; terminologia consistente; interpretação precisa do original em páli; livre de direitos autorais. A tradução está em andamento desde 2016.",
+    "is_published": true,
+    "publication_status": "Em andamento, com revisão também em andamento.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Esta tradução é uma expressão de um antigo texto sobre assuntos espirituais que foi transmitido pela tradição budista para o benefício de todos os seres sencientes. Ela é dedicada ao domínio público através do Creative Commons Zero (CC0). Todos são encorajados a copiar, reproduzir, adaptar, alterar ou de outra forma fazer uso desta tradução. Os tradutores solicitam respeitosamente que qualquer uso esteja de acordo com os valores e princípios da comunidade budista."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/sn"
+      }
+    ]
   }
 }
