@@ -53,7 +53,7 @@
   "donate:payWithCard": "ZAPŁAĆ KARTĄ",
   "donate:paymentSuccessful": "Sadhu! Twoja wpłata przebiegła pomyślnie!",
   "donate:redirectNotice": "Zostaniesz przekierowany na stronę startową za 5 sekund.",
-  "donate:storageDisclaimer": "SuttaCentral nie obsługuje płatności ani nie przechowuje danych Twojej karty kredytowej. Wszystkie transakcje są obsługiwane bezpiecznie za pomocą <a href='https://stripe.com' target='blank'>Stripe</a>.",
+  "donate:storageDisclaimer": "SuttaCentral nie obsługuje płatności ani nie przechowuje danych Twojej karty kredytowej. Wszystkie transakcje są obsługiwane bezpiecznie za pomocą <a href='https://stripe.com' target='_blank'>Stripe</a>.",
   "donate:stripeLimitations": "Z powodu limitacji Strip'a, dokonaj bezpośredniej płatności albo skontaktuj się z nami.",
   "donate:unknownError": "Błąd podczas wysyłania dotacji.",
   "error:connectToInternet": "Aby skorzystać z wyszukiwania, należy połączyć się z Internetem.",

@@ -1,12 +1,14 @@
 # bilara-data
 
-This repository contains the published and unpublished translations, root texts and other data from the Bilara translation app.
+This repository contains the published and unpublished translations, root texts, and other data from the Bilara translation app.
 
 The **published** branch is the main branch and contains finished translations and other texts which can considered to be proofed. 
-In software terms it can be considered to be "stable".
+
+In software terms it can be considered to be “stable”.
 
 The **unpublished** branch contains translations which are still in progress.
-In software terms it can be considered to be the "develop" branch. There should be no data integrity issues but there are no guarantee about the content.
+
+In software terms it can be considered to be the “develop” branch. There should be no data integrity issues but there are no guarantee about the content.
 
 ## Warning
 

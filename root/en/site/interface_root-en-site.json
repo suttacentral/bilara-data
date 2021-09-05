@@ -93,7 +93,7 @@
   "donate:paymentService": "Payment service",
   "donate:paymentSuccessful": "Sadhu! Your payment has been completed successfully.",
   "donate:redirectNotice": "You will be redirected to the homepage in 5 seconds.",
-  "donate:storageDisclaimer": "SuttaCentral does not handle or store your credit card details. All credit card transactions are handled securely by <a href='https://stripe.com' target='blank'>Stripe</a>.",
+  "donate:storageDisclaimer": "SuttaCentral does not handle or store your credit card details. All credit card transactions are handled securely by <a href='https://stripe.com' target='_blank'>Stripe</a>.",
   "donate:stripeLimitations": "Due to Stripe limitations,  please make a direct payment, or else contact us for help.",
   "donate:suttaCentralDevelopmentTrustDescription": "SuttaCentral Development Trust is a charitable trust registered in Australia. Your donation will be used for the development of SuttaCentral.",
   "donate:timeOfPayment": "Time of payment",

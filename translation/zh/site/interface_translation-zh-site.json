@@ -66,7 +66,7 @@
   "donate:payWithCard": "用卡付款",
   "donate:paymentSuccessful": "善哉！您的付款已成功完成。",
   "donate:redirectNotice": "您将在五秒内回到主页。",
-  "donate:storageDisclaimer": "SuttaCentral并不处理或储存您的信用卡信息。所有信用卡交易都将由 <a href='https://stripe.com' target='blank'>Stripe</a> 进行安全处理。",
+  "donate:storageDisclaimer": "SuttaCentral并不处理或储存您的信用卡信息。所有信用卡交易都将由 <a href='https://stripe.com' target='_blank'>Stripe</a> 进行安全处理。",
   "donate:stripeLimitations": "由于磁卡（Stripe）限制，请使用直接付款，或者联系我们寻求帮助。",
   "donate:unknownError": "捐款传输出现错误。",
   "error:connectToInternet": "请连接到互联网以使用搜索功能。",
