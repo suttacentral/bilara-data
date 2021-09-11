@@ -297,6 +297,21 @@
     "root_path": "root/en/site",
     "translation_path": "translation/zh/site",
     "translation_muids": "translation-zh-site",
-    "collaborator": []
+    "collaborator": [
+      {
+        "author_github_handle": "ihongda"
+      }
+    ]
+  },
+  "zh_names_translation": {
+    "name": "Chinese names translation",
+    "root_path": "root/misc/site",
+    "translation_path": "translation/zh/site",
+    "translation_muids": "translation-zh-site",
+    "collaborator": [
+      {
+        "author_github_handle": "ihongda"
+      }
+    ]
   }
 }
