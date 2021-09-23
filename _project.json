@@ -101,7 +101,7 @@
   "en_san_translation_suvira": {
     "name": "English translation of Sanskrit Sutras by Bhikkhuni Suvira",
     "root_path": "root/san/sutta/sf",
-    "translation_path": "translation/en/suvira/sutta",
+    "translation_path": "translation/en/suvira/sutta/sf",
     "translation_muids": "translation-en-suvira",
     "collaborator": [
       {
