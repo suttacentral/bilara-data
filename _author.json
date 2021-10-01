@@ -90,5 +90,9 @@
   "suvira": {
     "type": "translator",
     "name": "Bhikkhuni Suvira"
+  },
+  "sumano": {
+    "type": "translator",
+    "name": "Bhante Sumano"
   }
 }
