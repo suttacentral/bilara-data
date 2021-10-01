@@ -24,6 +24,11 @@
     "name": "English",
     "is_root": false
   },
+  "es": {
+    "type": "language",
+    "name": "Español",
+    "is_root": false
+  },
   "id": {
     "type": "language",
     "name": "Indonesian",
