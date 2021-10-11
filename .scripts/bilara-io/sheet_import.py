@@ -3,8 +3,8 @@
 import logging
 import json
 import argparse
-import pyexcel
-import regex
+import csv
+import re
 import sys
 import pathlib
 
@@ -13,6 +13,26 @@ sys.path.append('..')
 
 from itertools import groupby
 from common import iter_json_files, repo_dir, bilarasortkey
+
+def load_sheet(file):
+    m = re.search(r'.*(\.\w+)$', file.name)
+    if not m:
+        suffix = '.csv'
+    else:
+        suffix = m[1]
+    
+    if suffix in {'.csv', '.tsv'}:
+        dialect = {
+            '.csv': csv.excel,
+            '.tsv': csv.excel_tab
+        }[suffix]
+
+        with file.open('r', encoding='utf8') as f:
+            reader = csv.DictReader(f, dialect=dialect)
+            return list(reader)
+    else:
+        import pyexcel
+        return pyexcel.iget_records(file_name=file.name)
 
 def check_segment_id(segment_id, file):
     if segment_id.count(':') != 1:
@@ -52,7 +72,7 @@ if __name__ == '__main__':
             # No config file defined
             config_dir = pathlib.Path('./config')
             config_file = (config_dir / file.stem).with_suffix('.json')
-            alt_config_file = (config_dir / regex.match(r'[a-z]+', file.stem)[0]).with_suffix('.json')
+            alt_config_file = (config_dir / re.match(r'[a-z]+', file.stem)[0]).with_suffix('.json')
             if not config_file.exists():
                 if not alt_config_file.exists():
                     logging.error(f'Expected config file either {config_file} or {alt_config_file}\nA config file can also be passed as a parameter to --config')
@@ -71,7 +91,7 @@ if __name__ == '__main__':
         print(f'paths: {paths}')
         print('muid mapping: {muids_mapping}')
 
-    rows = pyexcel.iget_records(file_name=args.file)
+    rows = load_sheet(file)
     
     files = {file.stem: file for file in iter_json_files()}
 
@@ -90,9 +110,9 @@ if __name__ == '__main__':
             if alt_filestem in files:
                 return files[alt_filestem]
 
-            uid_stem = regex.match(r'[a-z]+(\d+\.)?', uid)[0]
+            uid_stem = re.match(r'[a-z]+(\d+\.)?', uid)[0]
 
-            rex = regex.compile(f'{regex.escape(uid_stem)}.*_{muids}')
+            rex = re.compile(f'{re.escape(uid_stem)}.*_{muids}')
 
             if muids not in segment_uid_to_file_mapping:
                 segment_uid_to_file_mapping[muids] = {}
@@ -148,7 +168,7 @@ if __name__ == '__main__':
                     file = paths[field] / f'{uid}_{muids}.json'
                 
                 else:
-                    print(f'ERROR: Could not find field "{field}" in {args.paths_file}')
+                    print(f'ERROR: Could not find field "{field}" in {config_file}')
                     errors += 1
             else:
                 file = get_file(uid=uid, file_uid=file_uid, muids=field)

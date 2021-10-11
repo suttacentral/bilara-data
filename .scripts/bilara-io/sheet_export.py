@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 
+import re
 import json
 import argparse
-import pyexcel
-import regex
 import sys
 sys.path.append('..')
 
@@ -19,6 +18,33 @@ def muid_sort_key(string):
         return (2, string)
     else:
         return (3, string)
+
+
+def save_sheet(rows, filename):
+    
+    m = re.search(r'.*(\.\w+)$', filename)
+    if not m:
+        suffix = '.csv'
+    else:
+        suffix = m[1]
+    print(suffix)
+    
+    
+    if suffix in {'.csv', '.tsv'}:
+        import csv
+
+        dialect = {
+            '.csv': csv.excel,
+            '.tsv': csv.excel_tab
+        }[suffix]
+
+        with open(filename, 'w', encoding='utf8', newline='') as f:
+            writer = csv.writer(f, dialect=dialect)
+            writer.writerows(rows)
+    else:
+        import pyexcel
+        pyexcel.isave_as(array=rows, dest_file_name=args.out or (','.join(args.uid) + '.ods'))
+
 
 
 def yield_rows(muid_strings, file_uid_mapping):
@@ -111,7 +137,7 @@ if __name__ == '__main__':
     
     rows = yield_rows(muid_strings, file_uid_mapping)
 
-    pyexcel.isave_as(array=rows, dest_file_name=args.out or (','.join(args.uid) + '.ods'))
+    save_sheet(rows, args.out)
 
         
         
