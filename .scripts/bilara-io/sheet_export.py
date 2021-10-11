@@ -26,9 +26,7 @@ def save_sheet(rows, filename):
     if not m:
         suffix = '.csv'
     else:
-        suffix = m[1]
-    print(suffix)
-    
+        suffix = m[1]  
     
     if suffix in {'.csv', '.tsv'}:
         import csv
