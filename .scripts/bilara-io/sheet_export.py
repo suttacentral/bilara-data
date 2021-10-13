@@ -51,7 +51,7 @@ def yield_rows(muid_strings, file_uid_mapping):
 
     field_mapping = {field:i for i, field in enumerate(fields)}
     
-    for file_num, (uid, file_mapping) in enumerate(file_uid_mapping.items()):
+    for file_num, (uid, file_mapping) in enumerate(sorted(file_uid_mapping.items(), key=bilarasortkey)):
         data = {}
         segment_ids = set()
         for muid_string in muid_strings:
