@@ -106,7 +106,7 @@ jobs:
 
       - name: Set up sutta-processor
         if: steps.related-changed-files.outputs.RELATED_FILES
-        run: pip install -e .
+        run: pip install .
         working-directory: bilara-data-integrity
 
       - name: Install bilara-data Python dependencies
