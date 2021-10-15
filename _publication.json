@@ -21,7 +21,7 @@
     ],
     "text_uid": "thag",
     "translation_title": "Verses of the Senior Monks",
-    "translation_subtitle": "A translation of the Theragāthā",
+    "translation_subtitle": "An approachable translation of the Theragāthā",
     "root_title": "Theragāthā",
     "translation_process": "Translated from the Pali. Primary source was the Mahāsaṅgīti edition, with reference to several English translations, especially those of K.R. Norman.",
     "translation_description": "This translation aims to make a clear, readable, and accurate rendering of the Theragāthā. The initial edition was by Jessica Walton and Bhikkhu Sujato was published in 2014 through SuttaCentral. A revised edition, bringing the terminology in line with the subsequently-translated four Nikāyas, was published in 2019.",
@@ -66,9 +66,9 @@
     "author_github_handle": "sujato",
     "text_uid": "dn",
     "translation_title": "Long Discourses",
-    "translation_subtitle": "A translation of the Dīgha Nikāya",
+    "translation_subtitle": "A faithful translation of the Dīgha Nikāya",
     "root_title": "Dīghanikāya",
-    "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations, especially those of Bhikkhu Bodhi.",
+    "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations, especially those of Bhikkhu Bodhi. Older translations by Maurice Walshe and T.W. and C.A.F. Rhys Davids were also consulted.",
     "translation_description": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Taiwan.",
     "is_published": true,
     "publication_status": "Completed, revision is ongoing.",
@@ -100,7 +100,7 @@
     "author_github_handle": "sujato",
     "text_uid": "mn",
     "translation_title": "Middle Discourses",
-    "translation_subtitle": "A translation of the Majjhima Nikāya",
+    "translation_subtitle": "A lucid translation of the Majjhima Nikāya",
     "root_title": "Majjhimanikāya",
     "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations, especially those of Bhikkhu Bodhi.",
     "translation_description": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Taiwan.",
@@ -146,7 +146,7 @@
     "author_github_handle": "sujato",
     "text_uid": "sn",
     "translation_title": "Linked Discourses",
-    "translation_subtitle": "A translation of the Saṁyutta Nikāya",
+    "translation_subtitle": "A plain translation of the Saṁyutta Nikāya",
     "root_title": "Saṁyuttanikāya",
     "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations, especially those of Bhikkhu Bodhi.",
     "translation_description": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Taiwan.",
@@ -180,7 +180,7 @@
     "author_github_handle": "sujato",
     "text_uid": "an",
     "translation_title": "Numbered Discourses",
-    "translation_subtitle": "A translation of the Aṅguttara Nikāya",
+    "translation_subtitle": "A sensible translation of the Aṅguttara Nikāya",
     "root_title": "Aṅguttaranikāya",
     "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations, especially those of Bhikkhu Bodhi.",
     "translation_description": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Taiwan.",
@@ -224,7 +224,7 @@
     ],
     "text_uid": "thig",
     "translation_title": "Verses of the Senior Nuns",
-    "translation_subtitle": "A translation of the Therīgāthā",
+    "translation_subtitle": "A friendly translation of the Therīgāthā",
     "root_title": "Therīgāthā",
     "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations, especially those of K.R. Norman.",
     "translation_description": "This translation aims to make a clear, readable, and accurate rendering of the Therīgāthā. The initial draft was by Jessica Walton, and it was completed by Bhikkhu Sujato in 2019. The terminology has been brought in line with Bhikkhu Sujato’s translation of the four Nikāyas.",
@@ -258,10 +258,10 @@
     "author_github_handle": "sujato",
     "text_uid": "dhp",
     "translation_title": "Sayings of the Dhamma",
-    "translation_subtitle": "An approachable translation of the Dhammapada",
+    "translation_subtitle": "A meaningful translation of the Dhammapada",
     "root_title": "Dhammapada",
     "translation_process": "Translated from the Pali. Primary source was the Mahāsaṅgīti edition, with reference to several English translations, especially those of K.R. Norman and Venerable Buddharakkhita.",
-    "translation_description": "This translation aims to make a clear, readable, and accurate rendering of the Dhammapada. Unlike most Dhammapadas in English, this is a new translation from the source Pali text.",
+    "translation_description": "This translation aims to make a clear, readable, and accurate rendering of the Dhammapada. Unlike most Dhammapadas in English, this is a new translation from the source Pali text. The aim was to make the sense as transparent as possible.",
     "is_published": true,
     "publication_status": "Completed, revision is ongoing.",
     "license": {
@@ -762,10 +762,10 @@
     "author_github_handle": "sujato",
     "text_uid": "iti",
     "translation_title": "So It Was Said",
-    "translation_subtitle": "",
+    "translation_subtitle": "A delectable translation of the Itivuttaka",
     "root_title": "Itivuttaka",
-    "translation_process": "",
-    "translation_description": "",
+    "translation_process": "Translated from the Pali. Primary source was the Mahāsaṅgīti edition, with reference to several English translations, especially those of John Ireland.",
+    "translation_description": "This translation aims to make a clear, readable, and accurate rendering of the Itivuttaka, preserving consistency with Sujato’s renderings of the main nikāyas. ",
     "is_published": true,
     "publication_status": "",
     "license": {
@@ -776,11 +776,11 @@
     },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
-        "publisher": "",
-        "publication_type": "",
-        "edition_url": ""
+        "edition_number": "1",
+        "publication_date": "2020",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/iti"
       }
     ]
   },
@@ -795,13 +795,13 @@
     "author_name": "Bhikkhu Sujato",
     "author_github_handle": "sujato",
     "text_uid": "snp",
-    "translation_title": "Collected Sayings",
-    "translation_subtitle": "",
+    "translation_title": "Anthology of Discourses",
+    "translation_subtitle": "A refreshing translation of the Suttanipāta",
     "root_title": "Suttanipāta",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": false,
-    "publication_status": "",
+    "translation_process": "Translated from the Pali. Primary source was the Mahāsaṅgīti edition, with reference to several English translations, especially those of K.R. Norman, Bhikkhu Bodhi, and Bhikkhu Ñāṇadīpa.",
+    "translation_description": "This translation aims to retain the directness and urgency of the Suttanipāta. The Suttanipāta includes verses from the earliest and latest periods within the period encompassed by the early texts, and so it covers a challenging variety of styles and themes, by turns fierce, devotional, or incisive. In several portions, most notably the Aṭṭhakavagga, there are a range of highly specific usages that demand careful attention.",
+    "is_published": true,
+    "publication_status": "Completed, revision is ongoing.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
@@ -810,11 +810,11 @@
     },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
-        "publisher": "",
-        "publication_type": "",
-        "edition_url": ""
+        "edition_number": "1",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/snp"
       }
     ]
   },
@@ -830,12 +830,12 @@
     "author_github_handle": "sujato",
     "text_uid": "ud",
     "translation_title": "Heartfelt Sayings",
-    "translation_subtitle": "",
+    "translation_subtitle": "An uplifting translation of the Udāna.",
     "root_title": "Udāna",
-    "translation_process": "",
-    "translation_description": "",
+    "translation_process": "Translated from the Pali. Primary source was the Mahāsaṅgīti edition, with reference to several English translations, especially those of John Ireland and Bhikkhu Ānandajoti.",
+    "translation_description": "The Udāna has a distinctive form, being comprised of Dhammapada-style verses together with contextual narratives in prose. It thus straddles the styles of the prose and verse Suttas. This translation aims to make a clear, readable, and accurate rendering.",
     "is_published": true,
-    "publication_status": "",
+    "publication_status": "Completed, revision is ongoing.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
@@ -844,11 +844,11 @@
     },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
-        "publisher": "",
-        "publication_type": "",
-        "edition_url": ""
+        "edition_number": "1",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/ud"
       }
     ]
   },
@@ -864,12 +864,12 @@
     "author_github_handle": "sujato",
     "text_uid": "kp",
     "translation_title": "Basic Passages",
-    "translation_subtitle": "",
+    "translation_subtitle": "An incisive translation of the Khuddakapāṭha",
     "root_title": "Khuddakapāṭha",
-    "translation_process": "",
-    "translation_description": "",
+    "translation_process": "Translated from the Pali. Primary source was the Mahāsaṅgīti edition, with reference to several English translations, especially those of Bhikkhu Ñāṇamoḷi, Bhikkhu Ānandajoti, and K.R. Norman.",
+    "translation_description": "This translation aims to make a clear, readable, and accurate rendering of the Khuddakapāṭha. These short passages, evidently selected as a primer for novices, serve as a handy introduction to the Suttas.",
     "is_published": true,
-    "publication_status": "",
+    "publication_status": "Completed, revision is ongoing.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
@@ -878,11 +878,11 @@
     },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
-        "publisher": "",
-        "publication_type": "",
-        "edition_url": ""
+        "edition_number": "1",
+        "publication_date": "2020",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/kp"
       }
     ]
   },
