@@ -14,7 +14,7 @@
     "name": "German blurb translation",
     "root_path": "root/en/blurb",
     "translation_path": "translation/de/blurb",
-    "translation_muids": "translation-de-blurb",
+    "translation_muids": "translation-de",
     "collaborator": [
       {
         "author_github_handle": "sabbamitta"
@@ -196,7 +196,7 @@
     "name": "Japanese blurb translation",
     "root_path": "root/en/blurb",
     "translation_path": "translation/jpn/blurb",
-    "translation_muids": "translation-jpn-blurb",
+    "translation_muids": "translation-jpn",
     "collaborator": [
       {
         "author_github_handle": "kaz-kaz"
@@ -243,7 +243,7 @@
     "name": "Portuguese blurb translation",
     "root_path": "root/en/blurb",
     "translation_path": "translation/pt/blurb",
-    "translation_muids": "translation-pt-blurb",
+    "translation_muids": "translation-pt",
     "collaborator": [
       {
         "author_github_handle": "gnlaera"
