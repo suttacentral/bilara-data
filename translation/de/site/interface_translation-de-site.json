@@ -73,6 +73,7 @@
   "donate:monthly": "Monatlich ",
   "donate:oneTime": "Einmalig ",
   "donate:payWithCard": "Mit Karte spenden ",
+  "donate:storageDisclaimer": "SuttaCentral benutzt oder speichert Ihre Kreditkarten-Daten nicht. Alle Kreditkarten-Transaktionen werden sicher von <a href='https://stripe.com' target='blank'>Stripe</a> durchgeführt. ",
   "error:connectToInternet": "Das Nutzen der Suchfunktion erfordert eine Internetverbindung. ",
   "error:dataLoadError": "Fehler beim Laden der Daten ",
   "error:error404": "Fehler 404 ",
