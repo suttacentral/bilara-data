@@ -277,6 +277,7 @@
   "suttaplex:translations": "Übersetzungen ",
   "suttaplex:translationsIn": "Übersetzungen ",
   "suttaplex:volumeAndPage": "Band und Seite ",
+  "suttaplex:volumeAndPagePTS1": "PTS Band und Seite: 1. Auflage = {pts-vp-pli1ed} 2. Auflage = {pts-vp-pli2ed} ",
   "text:languagePromptMessage": "Sie können die Sprache über das Menü in der Werkzeugleiste ändern. ",
   "text:segmentNumber": "SuttaCentral-Segmentnummer ",
   "text:viewImage": "Seitenaufbau ansehen "
