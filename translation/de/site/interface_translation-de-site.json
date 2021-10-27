@@ -255,6 +255,7 @@
   "suttaplex:countParallels": "{count} Parallelen ",
   "suttaplex:edition": "Ausgabe ",
   "suttaplex:editions": "Ausgaben ",
+  "suttaplex:fullParallel": "Vollständige Parallele: verschiedene Versionen desselben Textes. ",
   "suttaplex:goToTextInOriginalLanguage": "Zum Text in der Originalsprache ",
   "suttaplex:goToTranslation": "Zu einer Übersetzung von {author} ",
   "suttaplex:hasNoParallels": "Für diesen Text sind keine Parallelen verzeichnet. ",
