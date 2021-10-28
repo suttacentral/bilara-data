@@ -1,12 +1,12 @@
 {
   "sa1202:0.1" : "<article id='sa1202'><header><ul><li class='division'>{}</li></ul>",
-	"sa1202:0.2" : "<h1 class='sutta-title'>{}</h1></header>",
-	"sa1202:1.1" : "<p>{}",
-	"sa1202:1.2" : "{}</p>",
-	"sa1202:2.1" : "<p>{}",
-	"sa1202:2.2" : "{}",
+  "sa1202:0.2" : "<h1 class='sutta-title'>{}</h1></header>",
+  "sa1202:1.1" : "<p>{}",
+  "sa1202:1.2" : "{}</p>",
+  "sa1202:2.1" : "<p>{}",
+  "sa1202:2.2" : "{}",
   "sa1202:2.3" : "{}",
-	"sa1202:2.4" : "{}</p>",
+  "sa1202:2.4" : "{}</p>",
   "sa1202:3.1" : "<p>{}",
   "sa1202:3.2" : "{}",
   "sa1202:3.3" : "{}",
@@ -19,7 +19,7 @@
   "sa1202:4.2" : "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
   "sa1202:4.3" : "<span class='verse-line'>{}</span>",
   "sa1202:4.4" : "<span class='verse-line'>{}</span>",
-	"sa1202:4.5" : "<span class='verse-line'>{}</span></p></blockquote>",
+  "sa1202:4.5" : "<span class='verse-line'>{}</span></p></blockquote>",
   "sa1202:5.1" : "<p>{}",
   "sa1202:5.2" : "{}",
   "sa1202:5.3" : "{}",
@@ -46,5 +46,5 @@
   "sa1202:6.19" : "<span class='verse-line'>{}</span></p></blockquote>",
   "sa1202:7.1" : "<p>{}",
   "sa1202:7.2" : "{}",
-	"sa1202:7.3" : "{}</p>"
+  "sa1202:7.3" : "{}</p>"
 }
