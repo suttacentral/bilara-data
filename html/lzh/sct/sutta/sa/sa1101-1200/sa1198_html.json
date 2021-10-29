@@ -27,7 +27,7 @@
   "sa1198:6.4" : "{}",
   "sa1198:6.5" : "{}</p>",
   "sa1198:7.1" : "<p>{}</p>",
-  "sa1198:7.2" : "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",*gathas*
+  "sa1198:7.2" : "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
   "sa1198:7.3" : "<span class='verse-line'>{}</span>",
   "sa1198:7.4" : "<span class='verse-line'>{}</span>",
   "sa1198:7.5" : "<span class='verse-line'>{}</span>",
