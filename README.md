@@ -31,7 +31,21 @@ Bilara consumes `json` objects where:
 - the key is a unique segment identifier
 - the value is a string corresponding to the identifier.
 
-The value may be root text, translation, comments, variant readings, markup and so on. Each different kind of data is contained in a separate directory.
+### cognate files
+
+The value may be root text, translation, comments, variant readings, markup and so on. Each different kind of data is contained in files in separate directories, with one file per text.  The different files pertaining to the same text are referred to as “**cognate**”.
+
+The text `mn1`, for example, may have cognate files in:
+
+    - /root
+    - /html
+    - /translation/en
+    - /translation/de
+    - /variant
+    
+And so on. There is no theoretical limit to the number of cognates.
+
+### example
 
 Let us look at a simple example. Here is a text with in the /root/ directory with the segment ID `mn1:1.1`.
 
@@ -94,7 +108,7 @@ Text inside segment strings should avoid using markup. A subset of markdown may 
 
 ## Bilara i/o
 
-This is a utility for importing and exporting data from Bilara. It allows you to pull together the data for the same text from different directories. It is a very flexible tool, but we envisage two main use-cases:
+This is a utility for importing and exporting data from Bilara. It allows you to pull together the data for the same text from different directories; i.e. it collates the cognate files. It is a very flexible tool, but we envisage two main use-cases:
 
 1. Internal SC work, especially changing segments in bilara-data
 2. Consumption of `bilara-data` in external apps
