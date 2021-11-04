@@ -70,12 +70,6 @@ jobs:
         run: echo ::set-output name=DELETED::$(git diff --diff-filter=D --no-commit-id --name-only -r ${{ env.STARTING_COMMIT }}..${{ github.sha }} -- '*.json')
         working-directory: bilara-data-integrity/bilara-data
 
-      - name: Get related files for deleted files
-        if: steps.deleted-files.outputs.DELETED
-        id: related-deleted-files
-        run: echo ::set-output name=RELATED_DELETED::$(python .github/workflows/get_related_files.py --files ${{ steps.deleted-files.outputs.DELETED }})
-        working-directory: bilara-data-integrity/bilara-data
-
       - name: Setup Python
         if: steps.related-changed-files.outputs.RELATED_FILES
         uses: actions/setup-python@v2.2.1
@@ -127,11 +121,11 @@ jobs:
         working-directory: sc-data
 
       - name: Remove deleted files from ${{ env.TO_REPO }}
-        if: steps.related-deleted-files.outputs.RELATED_DELETED
+        if: steps.deleted-files.outputs.DELETED
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          for f in ${{ steps.related-deleted-files.outputs.RELATED_DELETED }}
+          for f in ${{ steps.deleted-files.outputs.DELETED }}
           do
             git rm --ignore-unmatch $TO_REPO_TARGET_FOLDER/$f
           done
