@@ -8,4 +8,4 @@ class DoubleStarsToBoldExtension(Extension):
 
     def extendMarkdown(self, md: Markdown) -> None:
         md.registerExtension(self)
-        md.inlinePatterns.register(SimpleTagInlineProcessor(self.PATTERN, 'b'), 'b', 175)
+        md.inlinePatterns.register(SimpleTagInlineProcessor(self.PATTERN, 'b'), 'b', 60)

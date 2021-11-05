@@ -35,7 +35,6 @@ class DeregisterStandardFunctionsExtension(Extension):
         'autolink',
         'automail',
         'linebreak',
-        'html',
         'entity',
         'not_strong',
         'em_strong',

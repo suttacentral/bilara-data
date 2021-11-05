@@ -28,7 +28,7 @@ class UnderscoreToItalicLangExtension(Extension):
 
     def add_inline(self, md: Markdown, name: str, pattern_class: Type[UnderscoreToItalicLangPattern]) -> None:
         pattern = pattern_class(self.PATTERN, md)
-        md.inlinePatterns.register(pattern, name, 175)
+        md.inlinePatterns.register(pattern, name, 50)
 
     def extendMarkdown(self, md: Markdown) -> None:
         md.registerExtension(self)
