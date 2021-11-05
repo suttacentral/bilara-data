@@ -1,6 +1,7 @@
 import pytest
 
-from parser.parser import parse
+#from parser.parser import parse
+from fast_nilakkhana import transform
 
 @pytest.mark.parametrize(
     "string",
@@ -15,7 +16,7 @@ from parser.parser import parse
     ]
 )
 def test_no_change(string):
-    assert parse(string) == string
+    assert transform(string) == string
 
 @pytest.mark.parametrize(
     "string,expected",
@@ -27,4 +28,4 @@ def test_no_change(string):
     ]
 )
 def test_transform(string, expected):
-    assert parse(string) == expected
+    assert transform(string) == expected

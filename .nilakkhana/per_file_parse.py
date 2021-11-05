@@ -3,7 +3,7 @@ import json
 from pathlib import Path
 from typing import Dict
 
-from parser import parse
+from fast_nilakkhana import parse
 
 # Set up argparse to get the files passed by git diff-tree
 arg_parser = argparse.ArgumentParser()

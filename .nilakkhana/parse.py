@@ -4,9 +4,9 @@ from typing import Dict
 
 from tqdm import tqdm
 
-from parser import parse
+from fast_nilakkhana import parse
 
-WORK_DIR = Path(__file__).parent.parent
+WORK_DIR = Path(__file__).absolute().parent.parent
 
 TARGET_FOLDERS = (
     WORK_DIR / 'root',
