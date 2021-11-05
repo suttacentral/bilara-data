@@ -47,7 +47,7 @@
   "dictionary:rememberSettingsDescription": "Auswählen, um die Einstellungen für Ihren nächsten Besuch auf SuttaCentral zu speichern. ",
   "dictionary:rememberSettingsDisabled": "Die ausgewählten Einstellungen werden nicht bis zu Ihrem nächsten Besuch auf SuttaCentral gespeichert. ",
   "dictionary:rememberSettingsEnabled": "Die ausgewählten Einstellungen werden bis zu Ihrem nächsten Besuch auf SuttaCentral gespeichert. ",
-  "dictionary:scriptChanged": "Pali wird nun in {paliScript} Schrift gezeigt. ",
+  "dictionary:scriptChanged": "Pali wird nun in {paliScript}-Schrift gezeigt. ",
   "dictionary:showHighlighting": "Textkritische Angaben hervorheben ",
   "dictionary:showHighlightingDescription": "Text wird hervorgehoben, um zusätzliche Einzelheiten wie abweichende Lesarten, Korrekturen, Strukturelemente usw. zu zeigen, wo vorhanden. ",
   "dictionary:showHighlightingDisabled": "Hervorheben ist jetzt ausgeschaltet. ",
