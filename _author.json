@@ -94,5 +94,9 @@
   "sumano": {
     "type": "translator",
     "name": "Bhante Sumano"
+  },
+  "mudito": {
+    "type": "translator",
+    "name": "Ajahn Mudito"
   }
 }
