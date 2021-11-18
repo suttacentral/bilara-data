@@ -29,6 +29,11 @@
     "name": "Español",
     "is_root": false
   },
+  "fi": {
+    "type": "language",
+    "name": "Suomi",
+    "is_root": false
+  },
   "id": {
     "type": "language",
     "name": "Indonesian",
