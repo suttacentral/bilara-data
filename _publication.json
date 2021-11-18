@@ -2041,5 +2041,39 @@
         "edition_url": "https://suttacentral.net/vinaya"
       }
     ]
+  },
+  "scpub51": {
+    "publication_number": "scpub51",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "fi",
+    "translation_lang_name": "Suomi",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/fi/mudito/sutta/an",
+    "author_uid": "mudito",
+    "author_name": "Ajahn Mudito",
+    "author_github_handle": "Muditassa",
+    "text_uid": "an",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "Aṅguttaranikāya",
+    "translation_process": "",
+    "translation_description": "",
+    "is_published": false,
+    "publication_status": "",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/an"
+      }
+    ]
   }
 }
