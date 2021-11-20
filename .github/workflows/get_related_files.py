@@ -16,6 +16,7 @@ bilara_check_variant     ->  variant and root
 
 import argparse
 import os
+import sys
 from collections import defaultdict
 from copy import deepcopy
 from pathlib import Path
@@ -86,4 +87,8 @@ def get_related_files(file_paths: List[Path]) -> None:
 
 
 if __name__ == '__main__':
-    get_related_files(file_paths=args.files)
+    try:
+        get_related_files(file_paths=args.files)
+    except Exception as e:
+        print(f'The Python script raised an exception: {e}')
+        sys.exit(1)
