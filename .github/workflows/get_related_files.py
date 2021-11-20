@@ -64,11 +64,14 @@ def get_related_files(file_paths: List[Path]) -> None:
     file_paths_data = _build_paths_data_dict(file_paths=file_paths)
     all_files = []
 
-    for file_id, roo_dirs in file_paths_data.items():
+    for file_id, root_dirs in file_paths_data.items():
+        if not file_id:
+            # These might be top level files, like _author, _category, etc.
+            continue
         related_dirs = deepcopy(DIRECTORIES)
         # To avoid getting duplicates of the files given to the script,
         # exclude their directories.
-        for root_dir in roo_dirs:
+        for root_dir in root_dirs:
             related_dirs.remove(root_dir)
 
         for related_dir in related_dirs:
