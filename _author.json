@@ -98,5 +98,9 @@
   "mudito": {
     "type": "translator",
     "name": "Ajahn Mudito"
+  },
+  "hardao": {
+    "type": "translator",
+    "name": "Piotr Jagodziński"
   }
 }

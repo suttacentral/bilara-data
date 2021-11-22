@@ -54,6 +54,11 @@
     "name": "မြန်မာစာ",
     "is_root": false
   },
+  "pl": {
+    "type": "language",
+    "name": "Polski",
+    "is_root": false
+  },
   "pt": {
     "type": "language",
     "name": "Português",
