@@ -90,5 +90,4 @@ if __name__ == '__main__':
     try:
         get_related_files(file_paths=args.files)
     except Exception as e:
-        print(f'The Python script raised an exception: {e}')
         sys.exit(1)
