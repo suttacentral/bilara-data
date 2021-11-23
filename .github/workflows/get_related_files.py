@@ -27,7 +27,7 @@ arg_parser = argparse.ArgumentParser()
 arg_parser.add_argument('-f', '--files', required=True, type=Path, nargs='*')
 args = arg_parser.parse_args()
 
-DIRECTORIES = ['html', 'reference', 'root', 'translation', 'variant']
+DIRECTORIES = ['comment', 'html', 'reference', 'root', 'translation', 'variant']
 
 
 def _build_paths_data_dict(file_paths: List[Path]) -> dict:
