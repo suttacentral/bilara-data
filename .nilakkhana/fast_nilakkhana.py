@@ -7,8 +7,15 @@ def transform(string, extra_rules=True):
     * -> <em>
     _ -> <i lang="pi" translate="no">
     ** -> <b>
+    [label](ref) -> <a href="/ref">label</a>
+    [label](https://example.com) -> <a href="https://example.com">label</a>
+    [ref]() or [](ref) -> <a href="/ref">ref</a>
     
-    
+
+    Extra Rules:
+
+    "a -> “a
+    a" -> a”
     
     """
 
@@ -39,6 +46,24 @@ def transform(string, extra_rules=True):
     string = re.sub(r'\*(.*?)\*', r'<em>\1</em>', string)
     string = re.sub(r'\_(.*?)\_', r'<i lang="pi" translate="no">\1</i>', string)
     
+    def link_fn(m):
+        label = m[1]
+        link = m[2]
+
+        if label and not link:
+            link = label
+
+        if link and not label:
+            label = link
+
+        if re.match(r'https?://|#', link) or '/' in link:
+            pass
+        else:
+            link = '/' + link
+        
+        return f'<a href="{link}">{label}</a>'
+    
+    string = re.sub(r'\[(.*?)\]\((.*?)\)', link_fn, string)
 
             
     
