@@ -44,7 +44,7 @@ def transform(string, extra_rules=True):
     string = re.sub(r'\*\*(.*?)\*\*', r'<b>\1</b>', string)
 
     string = re.sub(r'\*(.*?)\*', r'<em>\1</em>', string)
-    string = re.sub(r'\_(.*?)\_', r'<i lang="pi" translate="no">\1</i>', string)
+    string = re.sub(r'\_(.*?)\_', r"<i lang='pi' translate='no'>\1</i>", string)
     
     def link_fn(m):
         label = m[1]
@@ -61,7 +61,7 @@ def transform(string, extra_rules=True):
         else:
             link = '/' + link
         
-        return f'<a href="{link}">{label}</a>'
+        return f"<a href='{link}'>{label}</a>"
     
     string = re.sub(r'\[(.*?)\]\((.*?)\)', link_fn, string)
 
