@@ -6,7 +6,7 @@ on:
   pull_request:
     # Change me before merging into published
     branches:
-      - technical/split-workflow
+      - test/run-on-pr
 
 jobs:
   test-changes-on-pull-request:
