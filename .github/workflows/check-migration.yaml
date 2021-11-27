@@ -2,7 +2,7 @@ name: Check integrity of bilara-data and yuttadhammo texts
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '* 13 * * 5'
 
 jobs:
   check-migration:
