@@ -1,8 +1,6 @@
 name: Test changes on a pull request.
 
 on:
-  # For triggering manual workflow.
-  workflow_dispatch:
   pull_request:
     # Change me before merging into published
     branches:
@@ -14,9 +12,7 @@ jobs:
     
     env:
       FROM_REPO: suttacentral/bilara-data
-      # Change me before merging into published
-      FROM_REPO_BRANCH: technical/split-workflow
-      # Can leave this
+      FROM_REPO_BRANCH: published
       TEST_REPO: suttacentral/bilara-data-integrity
       TEST_REPO_BRANCH: master
       PYTHON_VERSION: 3.7.5
@@ -44,7 +40,7 @@ jobs:
         run: |
           workflows=$(curl \
           -H 'Accept: application/vnd.github.v3+json' \
-          "https://api.github.com/repos/suttacentral/bilara-data/actions/workflows/bilara-data-changed-files-to-sc-data.yml/runs")
+          "https://api.github.com/repos/suttacentral/bilara-data/actions/workflows/run-tests-on-pr.yml/runs")
           last_run_conclusion=$(echo $workflows | jq -r '.workflow_runs[1].conclusion')
           echo "Conclusion of last run:"
           echo $last_run_conclusion
