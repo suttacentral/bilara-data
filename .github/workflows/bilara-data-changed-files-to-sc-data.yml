@@ -107,7 +107,7 @@ jobs:
 
       - name: Run sutta-processor
         if: steps.related-changed-files.outputs.RELATED_FILES
-        run: sutta-processor -c check_all_changes_config.yaml -f ${{ steps.related-changed-files.outputs.RELATED_FILES }}
+        run: sutta-processor -e check_all_changes -c sutta_processor_config.yaml -f ${{ steps.related-changed-files.outputs.RELATED_FILES }}
         working-directory: bilara-data-integrity
 
       - name: Copy changed files to the target directory
