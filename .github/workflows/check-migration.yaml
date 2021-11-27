@@ -24,7 +24,7 @@ jobs:
           ref: ${{ env.TEST_REPO_BRANCH }}
           path: bilara-data-integrity
 
-      - name: Checkout ${{ env.FROM_REPO }} repo
+      - name: Checkout ${{ env.BD_REPO }} repo
         uses: actions/checkout@v2
         with:
           repository: ${{ env.BD_REPO }}
