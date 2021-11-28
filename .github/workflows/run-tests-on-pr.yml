@@ -4,7 +4,7 @@ on:
   pull_request:
     # Change me before merging into published
     branches:
-      - test/run-on-pr
+      - $ {{ github.event.pull_request.head.ref }}
 
 jobs:
   test-changes-on-pull-request:
@@ -12,7 +12,7 @@ jobs:
     
     env:
       FROM_REPO: suttacentral/bilara-data
-      FROM_REPO_BRANCH: test/fail-pr
+      FROM_REPO_BRANCH: $ {{ github.event.pull_request.head.ref }}
       TEST_REPO: suttacentral/bilara-data-integrity
       TEST_REPO_BRANCH: master
       PYTHON_VERSION: 3.7.5
