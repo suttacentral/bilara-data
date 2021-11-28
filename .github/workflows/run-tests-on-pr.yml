@@ -60,7 +60,7 @@ jobs:
 
       - name: Get changed files
         id: changed-files
-        run: echo ::set-output name=FILES::$(git diff --diff-filter=ACMR --no-commit-id --name-only -r ${{ github.event.before }}..${{ github.sha }} -- '*.json')
+        run: echo ::set-output name=FILES::$(git diff --diff-filter=ACMR --no-commit-id --name-only -r ${{ github.event.pull_request.base.sha }} ${{ github.sha }} -- '*.json')
         working-directory: bilara-data-integrity/bilara-data
 
       - name: Get related files for changed files
@@ -71,7 +71,7 @@ jobs:
 
       - name: Get deleted files
         id: deleted-files
-        run: echo ::set-output name=DELETED::$(git diff --diff-filter=D --no-commit-id --name-only -r ${{ github.event.before }}..${{ github.sha }} -- '*.json')
+        run: echo ::set-output name=DELETED::$(git diff --diff-filter=D --no-commit-id --name-only -r ${{ github.event.pull_request.base.sha }} ${{ github.sha }} -- '*.json')
         working-directory: bilara-data-integrity/bilara-data
 
       - name: Setup Python
