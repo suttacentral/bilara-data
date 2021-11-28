@@ -19,6 +19,14 @@ jobs:
       STARTING_COMMIT: ${{ github.event.before }}
 
     steps:
+      - name: Print event name
+        run: echo ${{ github.event_name }}
+      
+      - name: Dump GitHub context
+        env:
+          GITHUB_CONTEXT: ${{ toJson(github) }}
+        run: echo "$GITHUB_CONTEXT"
+      
       - name: Checkout ${{ env.TEST_REPO }} repo
         uses: actions/checkout@v2
         with:
