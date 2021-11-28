@@ -4,7 +4,7 @@ on:
   pull_request:
     # Change me before merging into published
     branches:
-      - $ {{ github.event.pull_request.head.ref }}
+      - test/run-on-pr
 
 jobs:
   test-changes-on-pull-request:
