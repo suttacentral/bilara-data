@@ -1,7 +1,6 @@
 import pytest
-
-#from parser.parser import parse
-from fast_nilakkhana import transform
+from pathlib import Path
+from fast_nilakkhana import create_reference_url_pattern, transform
 
 @pytest.mark.parametrize(
     "string",
@@ -41,14 +40,17 @@ def test_hyperlink_transform(string, expected):
     assert transform(string) == expected
     
 @pytest.mark.parametrize(
-    "string,expected",
+    "reference_url_pattern,string,expected",
     [
-        ('comment-en-brahmali', 'Text reference: [pli-tv-bu-vb-pj3]()', "Text reference: <a href='/pli-tv-bu-vb-pj3/en/brahmali'>Pli-Tv-Bu-Vb-Pj3</a>"),
-        ('comment-en-sujato', '[Murder](pli-tv-bu-vb-pj3) is bad.', "<a href='/pli-tv-bu-vb-pj3/en/brahmali'>Murder</a> is bad."),
-        ('comment-en-sujato', 'Uppercasing [sn1.1]()', "<a href='/sn1.1/en/sujato'>SN 1.1</a>"),
-        ('comment-en-sujato', 'Colons hashed [sn1.1:1.7]()', "<a href='/sn1.1/en/sujato#1.7'>SN 1.1:1.7</a>"),
+        ('/{uid}/en/brahmali', 'Text reference: [pli-tv-bu-vb-pj3]()', "Text reference: <a href='/pli-tv-bu-vb-pj3/en/brahmali'>Pli Tv Bu Vb Pj 3</a>"),
+        ('/{uid}/en/brahmali', '[Murder](pli-tv-bu-vb-pj3) is bad.', "<a href='/pli-tv-bu-vb-pj3/en/brahmali'>Murder</a> is bad."),
+        ('/{uid}/en/sujato', 'Uppercasing [sn1.1]()', "Uppercasing <a href='/sn1.1/en/sujato'>SN 1.1</a>"),
+        ('/{uid}/en/sujato', 'Colons hashed [sn1.1:1.7]()', "Colons hashed <a href='/sn1.1/en/sujato#1.7'>SN 1.1:1.7</a>"),
     ]
 )
-def test_reference_transform(string, expected):
-    assert transform(string) == expected
-    
+def test_reference_transform(string, reference_url_pattern, expected):
+    assert transform(string, reference_url_pattern) == expected
+
+
+def test_create_reference_url_pattern():
+    assert create_reference_url_pattern(Path('foo/sn1.1_comment-en-sujato.json')) == '/{uid}/en/sujato'

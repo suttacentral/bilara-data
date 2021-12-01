@@ -1,7 +1,10 @@
 import re
+import json
 from hashlib import md5
 
-def transform(string, extra_rules=True):
+from uid_to_acro import uid_to_acro
+
+def transform(string, reference_url_pattern=None):
     """
 
     * -> <em>
@@ -10,6 +13,10 @@ def transform(string, extra_rules=True):
     [label](ref) -> <a href="/ref">label</a>
     [label](https://example.com) -> <a href="https://example.com">label</a>
     [ref]() or [](ref) -> <a href="/ref">ref</a>
+
+    reference_url_pattern:
+
+    '/{uid}/en/sujato'
     
 
     Extra Rules:
@@ -19,6 +26,9 @@ def transform(string, extra_rules=True):
     
     """
 
+
+    if not reference_url_pattern:
+        reference_url_pattern = '/{uid}'
     html_mapping = {}
 
     def subfn(m):
@@ -28,16 +38,6 @@ def transform(string, extra_rules=True):
     
     
     string = re.sub(r'<[a-z].*?>', subfn, string)
-
-    if extra_rules:
-        string, n = re.subn(r'\"(\w)', r'“\1', string)
-        if n > 0:
-            print(f'corrected: {string}')
-
-        string, n = re.subn(r'(\w)"', r'\1”', string)
-        if n > 0:
-            print(f'corrected: {string}')
-
 
     # Rules
     string = re.sub(r'\_\_(.*?)\_\_', r'<b>\1</b>', string)
@@ -50,27 +50,59 @@ def transform(string, extra_rules=True):
         label = m[1]
         link = m[2]
 
+        maybe_ref = (label and not link) or (link and not label)
+
         if label and not link:
             link = label
-
         if link and not label:
             label = link
 
         if re.match(r'https?://|#', link) or '/' in link:
-            pass
+            url = link
+            if not label:
+                label = link
         else:
-            link = '/' + link
+            if maybe_ref:
+                label = uid_to_acro(label)
+            if ':' in link:
+                uid, bookmark = link.split(':', 1)
+            else:
+                uid, bookmark = link, None
+
+            url = reference_url_pattern.format(uid=uid)
+            if bookmark:
+                url = f'{url}#{bookmark}'
+            
         
-        return f"<a href='{link}'>{label}</a>"
+        return f"<a href='{url}'>{label}</a>"
     
     string = re.sub(r'\[(.*?)\]\((.*?)\)', link_fn, string)
 
-            
-    
     def reverse_subfn(m):
         return html_mapping[m[0]]
 
     string = re.sub(r'TAG\w{20}', reverse_subfn, string)
     return string.lstrip()
-    
-parse = transform
+
+def create_reference_url_pattern(file):
+    uid, muids = file.stem.split('_')
+    muids = muids.split('-')
+    if muids[0] == 'comment':
+        return '/'.join(['', '{uid}'] + muids[1:])
+    else:
+        return '/{uid}'
+
+
+def process_file(file):
+    reference_url_pattern = create_reference_url_pattern(file)
+
+    print(f'For file {file.stem} using {reference_url_pattern}')
+    with open(file, 'r+', encoding='utf-8') as target_file:
+
+        data = json.load(target_file)
+        target_file.seek(0)
+        target_file.truncate()
+        new_data = {}
+        for k,v in data.items():
+            new_data[k] = transform(v, reference_url_pattern)
+        json.dump(new_data, target_file, indent=2, ensure_ascii=False)
