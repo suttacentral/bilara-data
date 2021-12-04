@@ -16,17 +16,8 @@ jobs:
       TEST_REPO: suttacentral/bilara-data-integrity
       TEST_REPO_BRANCH: master
       PYTHON_VERSION: 3.7.5
-      STARTING_COMMIT: ${{ github.event.before }}
 
     steps:
-      - name: Print event name
-        run: echo ${{ github.event_name }}
-      
-      - name: Dump GitHub context
-        env:
-          GITHUB_CONTEXT: ${{ toJson(github) }}
-        run: echo "$GITHUB_CONTEXT"
-      
       - name: Checkout ${{ env.TEST_REPO }} repo
         uses: actions/checkout@v2
         with:
@@ -43,20 +34,6 @@ jobs:
           ref: ${{ env.FROM_REPO_BRANCH }}
           fetch-depth: 0
           path: bilara-data-integrity/bilara-data
-
-      - name: Get commit ID of the last workflow run
-        run: |
-          workflows=$(curl \
-          -H 'Accept: application/vnd.github.v3+json' \
-          "https://api.github.com/repos/suttacentral/bilara-data/actions/workflows/run-tests-on-pr.yml/runs")
-          last_run_conclusion=$(echo $workflows | jq -r '.workflow_runs[1].conclusion')
-          echo "Conclusion of last run:"
-          echo $last_run_conclusion
-          if [[ "$last_run_conclusion" == "failure" ]]
-          then
-            last_successfull_commit_id=$(echo $workflows | jq -r "first(.workflow_runs[] | select(.conclusion == \"success\")) | .head_commit[\"id\"]")
-            echo "STARTING_COMMIT=$last_successfull_commit_id" >> $GITHUB_ENV
-          fi
 
       - name: Get changed files
         id: changed-files
@@ -94,11 +71,6 @@ jobs:
         if: steps.related-changed-files.outputs.RELATED_FILES
         run: pip install -r requirements.txt
         working-directory: bilara-data-integrity/bilara-data/.nilakkhana
-
-      - name: Run Nilakkhana transform only on changed files
-        if: steps.related-changed-files.outputs.RELATED_FILES
-        run: python .nilakkhana/per_file_parse.py -f ${{ steps.related-changed-files.outputs.RELATED_FILES }}
-        working-directory: bilara-data-integrity/bilara-data
 
       - name: Run sutta-processor
         if: steps.related-changed-files.outputs.RELATED_FILES
