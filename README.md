@@ -212,7 +212,19 @@ The reference files contain detailed references to over a dozen editions of the 
 
 The full forms of the abbreviations may be found in `pali_edition.json`.
 
-## GitHub Action
+## GitHub Actions
+
+There are three GitHub Actions workflows that are run in this repository.
+
+1. `run-tests-on-pr.yml`
+2. `push-changes-to-sc-data.yml`
+3. `check-migration.yml`
+
+All three found here: `bilara-data/.github/workflows`.  
+
+`run-tests-on-pr.yml` is run whenever a pull request is made for the `published` branch of `bilara-data`.  This workflow 
+is responsible for running tests that insure the integrity of `bilara-data`.  The tests are run everytime a pull request 
+is opened, updated via a push, or re-opened.  If the tests fail, the pull Below is an overview of
 
 The GitHub Action found here `.github/workflows/bilara-data-changed-files-to-sc-data.yml` performs the following steps:
 1. clones the `suttacentral/bilara-data-integrity` repo

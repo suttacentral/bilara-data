@@ -2,9 +2,8 @@ name: Push changed files to sc-data
 
 on:
   push:
-    # Change me before merging into published
     branches:
-      - test/run-on-pr
+      - published
 
 jobs:
   push-to-sc-data:
@@ -12,11 +11,9 @@ jobs:
     
     env:
       FROM_REPO: suttacentral/bilara-data
-      # Change me before merging into published
-      FROM_REPO_BRANCH: test/run-on-pr
+      FROM_REPO_BRANCH: published
       TO_REPO: suttacentral/sc-data
-      # Change me before merging into published
-      TO_REPO_BRANCH: test/new-workflow
+      TO_REPO_BRANCH: master
       TO_REPO_TARGET_FOLDER: sc_bilara_data
       TEST_REPO: suttacentral/bilara-data-integrity
       TEST_REPO_BRANCH: master

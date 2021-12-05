@@ -2,9 +2,8 @@ name: Test changes on a pull request.
 
 on:
   pull_request:
-    # Change me before merging into published
     branches:
-      - test/run-on-pr
+      - published
 
 jobs:
   test-changes-on-pull-request:
