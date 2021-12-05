@@ -224,27 +224,39 @@ All three found here: `bilara-data/.github/workflows`.
 
 `run-tests-on-pr.yml` is run whenever a pull request is made for the `published` branch of `bilara-data`.  This workflow 
 is responsible for running tests that insure the integrity of `bilara-data`.  The tests are run everytime a pull request 
-is opened, updated via a push, or re-opened.  If the tests fail, the pull Below is an overview of
+is opened, updated via a push, or re-opened.  If the tests fail, ability to merge the pull request will be blocked. 
+Below is an overview of the steps performed in the workflow:
 
-The GitHub Action found here `.github/workflows/bilara-data-changed-files-to-sc-data.yml` performs the following steps:
-1. clones the `suttacentral/bilara-data-integrity` repo
-2. clones the `suttacentral/bilara-data` repo into the `bilara-data-integrity` repo
-3. uses the GitHub API to get a list of the last 30 GitHub Action workflow runs. 
-   This step requires more explanation.  After getting the last 30 runs, the script checks if the last run was successful or not.
-   If it wasn't, the last successful run is found and its commit ID is saved in the `STARTING_COMMIT` environmental variable.
-   This commit ID is used as the starting commit for the diffs in the following steps.  This was done since if there is 
-   a file that fails the `sutta-processor`tests, we still want the other files to be processed after the file that 
-   failed the test is fixed, committed, and pushed. If the last run was successful, the ID of the commit that triggered 
-   this run (`github.event.before`) is used as the starting commit.  Note that `github.event.before` is saved in the 
-   `STARTING_COMMIT` environmental variable.
-4. gets a list of JSON files that have been changed since the last successful run (if there are any) by calling `git diff` on the `bilara-data` repo
-5. gets a list of JSON files that have been deleted since the last successful run (if there are any) by calling `git diff` on the `bilara-data` repo
-5. clones the `suttacentral/sc-data` repo
-6. sets up the various dependencies
-7. runs Nilakkhana transform on the files from step 4
-8. passes those files to `sutta-processor`, which has been modified to run on a per-file basis, rather than on the whole
+* clones the `suttacentral/bilara-data-integrity` repo
+* clones the `suttacentral/bilara-data` repo into the `bilara-data-integrity` repo
+* gets a list of JSON files that have been changed since the last successful run (if there are any) by calling `git diff` on the `bilara-data` repo
+* gets a list of JSON files that have been deleted since the last successful run (if there are any) by calling `git diff` on the `bilara-data` repo
+* passes those files to `sutta-processor`, which has been modified to run on a per-file basis, rather than on the whole
    of `bilara-data`
-9. if there are no errors, then those files are pushed to the `sc-data` repo, or deleted from it
+* if there are no errors, the ability to merge the pull request is enabled
 
+The commit IDs used in the calls to `git diff` are `github.event.pull_request.base.sha` and 
+`github.event.pull_request.head.sha`.  `github.event.pull_request.base.sha` is the commit ID of the target branch (`published`).
+`github.event.pull_request.head.sha` is the commit ID of the source branch (the branch that will be merged into `published`).
+
+1. the commit ID that triggered this run (`github.event.before`).  Note that `github.event.before` is saved in the 
+   `STARTING_COMMIT` environmental variable.
+   
 All the steps after the two calls to `git diff` have conditional statements checking the existence of changed or deleted
+files.  If none are found, then the steps are skipped.
+
+* clones the `suttacentral/bilara-data-integrity` repo
+* clones the `suttacentral/bilara-data` repo into the `bilara-data-integrity` repo
+* gets a list of JSON files that have been changed since the last successful run (if there are any) by calling `git diff` on the `bilara-data` repo
+* gets a list of JSON files that have been deleted since the last successful run (if there are any) by calling `git diff` on the `bilara-data` repo
+* clones the `suttacentral/sc-data` repo
+* sets up the various dependencies
+* runs Nilakkhana transform on the files from step 4
+* passes those files to `sutta-processor`, which has been modified to run on a per-file basis, rather than on the whole
+   of `bilara-data`
+* if there are no errors, then those files are pushed to the `sc-data` repo, or deleted from it
+
+the ID of the commit that triggered 
+   this run (`github.event.before`) is used as the starting commit.  Note that `github.event.before` is saved in the 
+   `STARTING_COMMIT` environmental variable. All the steps after the two calls to `git diff` have conditional statements checking the existence of changed or deleted
 files.  If none are found, then the steps are skipped.

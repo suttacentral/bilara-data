@@ -38,20 +38,6 @@ jobs:
           fetch-depth: 0
           path: bilara-data-integrity/bilara-data
 
-      - name: Get commit ID of the last workflow run
-        run: |
-          workflows=$(curl \
-          -H 'Accept: application/vnd.github.v3+json' \
-          "https://api.github.com/repos/suttacentral/bilara-data/actions/workflows/push-changes-to-sc-data.yml/runs")
-          last_run_conclusion=$(echo $workflows | jq -r '.workflow_runs[1].conclusion')
-          echo "Conclusion of last run:"
-          echo $last_run_conclusion
-          if [[ "$last_run_conclusion" == "failure" ]]
-          then
-            last_successfull_commit_id=$(echo $workflows | jq -r "first(.workflow_runs[] | select(.conclusion == \"success\")) | .head_commit[\"id\"]")
-            echo "STARTING_COMMIT=$last_successfull_commit_id" >> $GITHUB_ENV
-          fi
-
       - name: Get changed files
         id: changed-files
         run: echo ::set-output name=FILES::$(git diff --diff-filter=ACMR --no-commit-id --name-only -r ${{ env.STARTING_COMMIT }}..${{ github.sha }} -- '*.json')
