@@ -235,28 +235,20 @@ Below is an overview of the steps performed in the workflow:
    of `bilara-data`
 * if there are no errors, the ability to merge the pull request is enabled
 
-The commit IDs used in the calls to `git diff` are `github.event.pull_request.base.sha` and 
-`github.event.pull_request.head.sha`.  `github.event.pull_request.base.sha` is the commit ID of the target branch (`published`).
-`github.event.pull_request.head.sha` is the commit ID of the source branch (the branch that will be merged into `published`).
+The commit SHAs used in the calls to `git diff` are `github.event.pull_request.base.sha` and 
+`github.event.pull_request.head.sha`.  `github.event.pull_request.base.sha` is the commit SHA of the target branch (`published`).
+`github.event.pull_request.head.sha` is the commit SHA of the source branch (the branch that will be merged into `published`).
 
-1. the commit ID that triggered this run (`github.event.before`).  Note that `github.event.before` is saved in the 
-   `STARTING_COMMIT` environmental variable.
-   
-All the steps after the two calls to `git diff` have conditional statements checking the existence of changed or deleted
-files.  If none are found, then the steps are skipped.
+`push-changes-to-sc-data.yml` is responsible for pushing the changes to `sc-data` after `run-tests-on-pr.yml` has 
+completed successfully.  It performs a similar series of steps to `run-tests-on-pr.yml`, but doesn't run the tests and 
+runs the Nilakkhana transform script on the changed files before pushing them to `sc-data`.  It also uses different 
+commit SHAs.  It uses `github.event.before`, which is the SHA of the most recent commit before the push and `github.sha`,
+which is the commit SHA of the pull request's merge commit.
 
-* clones the `suttacentral/bilara-data-integrity` repo
-* clones the `suttacentral/bilara-data` repo into the `bilara-data-integrity` repo
-* gets a list of JSON files that have been changed since the last successful run (if there are any) by calling `git diff` on the `bilara-data` repo
-* gets a list of JSON files that have been deleted since the last successful run (if there are any) by calling `git diff` on the `bilara-data` repo
-* clones the `suttacentral/sc-data` repo
-* sets up the various dependencies
-* runs Nilakkhana transform on the files from step 4
-* passes those files to `sutta-processor`, which has been modified to run on a per-file basis, rather than on the whole
-   of `bilara-data`
-* if there are no errors, then those files are pushed to the `sc-data` repo, or deleted from it
+All the steps after the calls to `git diff` in both workflows have conditional statements checking the existence of 
+changed or deleted files.  If none are found, then the steps are skipped.
 
-the ID of the commit that triggered 
-   this run (`github.event.before`) is used as the starting commit.  Note that `github.event.before` is saved in the 
-   `STARTING_COMMIT` environmental variable. All the steps after the two calls to `git diff` have conditional statements checking the existence of changed or deleted
-files.  If none are found, then the steps are skipped.
+`check-migration.yml` compares the `bilara-data` files and the Yuttadhammo source texts.  It ensures that the work done
+on the `bilara-data` texts haven't introduced unwanted changes or deletions.    It uses the `on.schedule` event to 
+trigger the workflow.  This workflow run independently of the `bilara-data` -> `sc-data` workflows.  So failure of this 
+workflow does not affect the ability to create or merge pull requests.
