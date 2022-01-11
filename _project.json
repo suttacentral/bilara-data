@@ -247,6 +247,17 @@
       }
     ]
   },
+  "lt_ms_translation_piyadassi": {
+    "name": "Lithuanian translation Sayalay Piyadassi",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/lt/piyadassi/sutta",
+    "translation_muids": "translation-lt-piyadassi",
+    "collaborator": [
+      {
+        "author_github_handle": "Piyadassii"
+      }
+    ]
+  },
   "my_ms_translation_my-team": {
     "name": "Burmese translation",
     "root_path": "root/pli/ms/sutta/dn",
