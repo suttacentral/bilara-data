@@ -1,5 +1,5 @@
 {
-  "dn2-a:150.0.1": "<article id='dn2-a'><header><h1>{}</h1></header>",
+  "dn2-a:150.0.1": "<article id='dn2-a'><header><h1 class='sutta-title'>{}</h1></header>",
   "dn2-a:150.0.2": "<h2>{}</h2>",
   "dn2-a:150.1": "<p>{}",
   "dn2-a:150.2": "{}",
