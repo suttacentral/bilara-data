@@ -5,14 +5,12 @@ import json
 import argparse
 import csv
 import re
-import sys
 import pathlib
 
-
-sys.path.append('..')
-
 from itertools import groupby
-from common import iter_json_files, repo_dir, bilarasortkey
+from common import iter_json_files, bilarasortkey
+
+repo_dir = pathlib.Path(__file__).resolve().parent.parent.parent
 
 def load_sheet(file):
     m = re.search(r'.*(\.\w+)$', file.name)
@@ -93,7 +91,7 @@ if __name__ == '__main__':
 
     rows = load_sheet(file)
     
-    files = {file.stem: file for file in iter_json_files()}
+    files = {file.stem: file for file in iter_json_files(repo_dir)}
 
     segment_uid_to_file_mapping = {}
 
