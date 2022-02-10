@@ -1,6 +1,6 @@
 import sys
 import json
-import regex
+import re as regex
 import pathlib
 
 repo_dir = pathlib.Path(__file__).resolve().parent.parent
