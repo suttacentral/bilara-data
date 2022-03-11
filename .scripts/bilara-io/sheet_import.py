@@ -8,9 +8,9 @@ import re
 import pathlib
 
 from itertools import groupby
-from common import iter_json_files, bilarasortkey
+from common import iter_json_files, bilarasortkey, repo_dir
 
-repo_dir = pathlib.Path(__file__).resolve().parent.parent.parent
+
 
 def load_sheet(file):
     m = re.search(r'.*(\.\w+)$', file.name)
