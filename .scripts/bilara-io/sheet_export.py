@@ -6,7 +6,7 @@ import pathlib
 import argparse
 from get_data import get_data
 
-repo_dir = pathlib.Path(__file__).resolve().parent.parent.parent
+from common import repo_dir
 
 def save_sheet(rows, filename):
     
