@@ -1,0 +1,6 @@
+segment_id	html	root	comment
+donuts:0.1	<article id='donuts'><header><h1>{}</h1></header>	donuts A	
+chocolate:1.1	<p>  {}	donuts B	
+chocolate:1.2	{}</p>	donuts C	
+glazed:1.1	<p>  {}	donuts D	
+glazed:1.2	{}</p></article>	donuts E	
