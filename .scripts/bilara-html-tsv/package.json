@@ -1,0 +1,24 @@
+{
+  "name": "bilara-html-tsv",
+  "version": "1.0.0",
+  "description": "Scrips for Sanskrit HTML => JSON conversion for Bilara",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test:verbose",
+    "test:action": "scripts/test-action",
+    "test:test": "mocha -w --watch-ignore node_modules,.git,local -R min --inline-diffs -g TEST './@(src|test)/**/*.js'",
+    "test:verbose": "mocha --inline-diffs",
+    "test:watch": "mocha -w --inline-diffs"
+  },
+  "keywords": [
+    "bilara-data",
+    "suttacentral"
+  ],
+  "author": "Karl Lew",
+  "license": "MIT",
+  "dependencies": {
+    "log-instance": "^0.2.6",
+    "mocha": "^9.0.3",
+    "should": "^13.2.3"
+  }
+}
