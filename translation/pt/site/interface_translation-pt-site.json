@@ -229,6 +229,7 @@
   "search:all": "Tudo",
   "search:dictionaries": "Dicionários",
   "search:filter": "Filtro",
+  "search:hint": "Dica: Pesquise, por exemplo mn34 ou sn3.2 para ir direto para aquele sutta.",
   "search:resultsFor": "resultados para",
   "search:rootTexts": "Textos raiz",
   "search:search": "Procurar",
