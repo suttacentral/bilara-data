@@ -16,12 +16,6 @@ command options:
 ```
 
 ### Convert an HTML file
-To convert an HTML file, first create a 
-local temporary folder to store the generated TSV file:
-
-```
-mkdir -p local/tsv
-```
 
 To convert and save an html file to a TSV file, 
 [redirect the terminal output to a file](https://askubuntu.com/questions/420981/how-do-i-save-terminal-output-to-a-file)
