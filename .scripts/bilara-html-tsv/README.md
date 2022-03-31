@@ -20,7 +20,9 @@ command options:
 To convert and save an html file to a TSV file, 
 [redirect the terminal output to a file](https://askubuntu.com/questions/420981/how-do-i-save-terminal-output-to-a-file)
 ```
-./scripts/html-tsv test/data/sf276.html > ../bilara-io/tsv/sf276.tsv
+
+./scripts/html-tsv html/sf36.html > ../bilara-io/tsv/sf36.tsv
+
 ```
 
 The `local` folder is ignored by Git and can be used as a repository-local 
