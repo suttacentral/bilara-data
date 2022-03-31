@@ -110,8 +110,12 @@
           .slice(1)
           .map(c=>c.replace(/<.comment>.*/iu, ''));
         let comment = commentParts.join('; ');
+        let referenceParts = line.split('<reference>')
+          .slice(1)
+          .map(c=>c.replace(/<.reference>.*/iu, ''));
+        let reference = referenceParts.join('; ');
 
-        yield { segment_id, html, root, comment, };
+        yield { segment_id, html, root, comment, reference};
         html = '';
       }
     }
