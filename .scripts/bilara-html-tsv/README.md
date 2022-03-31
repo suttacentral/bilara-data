@@ -28,6 +28,14 @@ To convert and save an html file to a TSV file,
 The `local` folder is ignored by Git and can be used as a repository-local 
 playground.
 
+For testing HTML files, you can use `ugly.css`, add the following to the HTML document head:
+
+```
+<link rel="stylesheet" href="ugly.css">
+```
+
+This aims to style every element is a distinct and ugly way so you can easily spot differences. Add or change anything, it is meant to be ugly!
+
 ### Segment numbering
 Default numbering is by paragraph and segment number. 
 Each `<p>` encountered increments the paragraph number.
