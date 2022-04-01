@@ -222,6 +222,7 @@
   "offline:paliLookupsDescription": "Selecione aqui o idioma desejado para o dicionário de pesquisa termo por termo em Pali:",
   "offline:pwaDescription": "SuttaCentral é um <a href='https://developers.google.com/web/progressive-web-apps/' target='_blank' rel='noopener'>Progressive Web App (PWA)</a>. Em aparelhos suportados, várias funcionalidades, inclusive navegação e histórico de páginas já visitadas, continuará a funcionar mesmo quando não há conexão.",
   "offline:resetButton": "Limpar histórico de download",
+  "offline:resetComplete": "O histórico de download foi removido",
   "offline:selectDifferentLang": "Os Suttas serão baixados no idioma do site. Caso deseje um outro idioma, selecione-o no menu.",
   "offline:supportsPWAs": "Seu navegador suporta Progressive Web Apps!",
   "offline:suttasOnly": "Disponível apenas para os Suttas, não para Vinaya ou Abhidhamma.",
