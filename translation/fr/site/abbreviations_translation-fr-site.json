@@ -2,5 +2,6 @@
   "abbreviations:1": "Abréviations",
   "abbreviations:2": "SuttaCentral est structuré autour de l'idée d'une entité distincte — généralement un sutta, une règle du Vinaya ou une section de texte — qui possède une identité unique. Cette identité est représentée par une abréviation, qui sert à la fois à étiqueter le texte et à créer l'URL de ce texte. Ces abréviations sont aussi courtes et flexibles que possible. Bien que nous ne nous écartions pas arbitrairement de l'usage accepté, dans certains cas, les exigences particulières de SuttaCentral nous ont amenés à adopter de nouvelles abréviations. Toutes les abréviations doivent répondre aux critères suivants.",
   "abbreviations:3": "Unique dans l'ensemble du corpus de SuttaCentral ;",
-  "abbreviations:4": "Pas de caractères spéciaux ni de signes diacritiques (qui ne peuvent pas être utilisés dans les URL) ;"
+  "abbreviations:4": "Pas de caractères spéciaux ni de signes diacritiques (qui ne peuvent pas être utilisés dans les URL) ;",
+  "abbreviations:5": "Insensible à la casse ;"
 }
