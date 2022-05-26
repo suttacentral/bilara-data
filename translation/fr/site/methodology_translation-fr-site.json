@@ -7,5 +7,6 @@
   "methodology:13": "Les données des parallèles sont conservées dans un seul fichier texte, <a href='https://github.com/suttacentral/sc-data/blob/master/relationship/parallels.json' rel='noopener' target='_blank'>parallels.json</a>, qui peut être trouvé sur <a href='https://github.com/suttacentral' rel='noopener' target='_blank' title='SuttaCentral on Github'>SuttaCentral’s Github repository</a>.",
   "methodology:14": "En plus des parallèles, SuttaCentral héberge les textes originaux et les traductions lorsqu’ils sont disponibles. Une brève note sur les sources de ces textes se trouve ci-dessous.",
   "methodology:15": "Parallèles des Sutta",
-  "methodology:16": "Rod Bucknell, mis à jour par Sujato"
+  "methodology:16": "Rod Bucknell, mis à jour par Sujato",
+  "methodology:17": "Types de parallèles"
 }
