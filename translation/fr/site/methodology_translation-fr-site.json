@@ -6,5 +6,6 @@
   "methodology:12": "En 2014, Bhikkhu Sujato a préparé un ensemble de parallèles pour les Vinayas qui a été ajouté à SuttaCentral, et en 2016, Ayya Vimala a ajouté des parallèles de versets pour les Dhammapadas.",
   "methodology:13": "Les données des parallèles sont conservées dans un seul fichier texte, <a href='https://github.com/suttacentral/sc-data/blob/master/relationship/parallels.json' rel='noopener' target='_blank'>parallels.json</a>, qui peut être trouvé sur <a href='https://github.com/suttacentral' rel='noopener' target='_blank' title='SuttaCentral on Github'>SuttaCentral’s Github repository</a>.",
   "methodology:14": "En plus des parallèles, SuttaCentral héberge les textes originaux et les traductions lorsqu’ils sont disponibles. Une brève note sur les sources de ces textes se trouve ci-dessous.",
-  "methodology:15": "Parallèles entre les Sutta"
+  "methodology:15": "Parallèles entre les Sutta",
+  "methodology:16": "Rod Bucknell, mis à jour par Sujato"
 }
