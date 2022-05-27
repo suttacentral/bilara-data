@@ -51,5 +51,6 @@
   "methodology:54": "Nos textes tibétains proviennent du texte de la Tibetan and Himalayan Library, qui est basé sur l’édition Derge du Kangyur. Notez que les numéros de base des textes tels qu’utilisés par la THLIB diffèrent généralement d’une unité des numéros utilisés sur SuttaCentral et ailleurs. Les numéros utilisés par SuttaCentral sont équivalents au « Master Catalog Number » sur THLIB.",
   "methodology:55": "Sanskrit et Autres",
   "methodology:56": "Comme les textes en sanskrit et dans les autres langues indiennes ne forment pas un canon cohérent, mais proviennent de multiples découvertes fortuites, il n’existe pas de source unique. Les éditions sont celles indiquées dans les textes. Les textes numériques proviennent pour la plupart du Göttingen Register of Electronic Texts in Indian Languages (GRETIL).",
-  "methodology:57": "Traductions"
+  "methodology:57": "Traductions",
+  "methodology:58": "Les traductions proviennent de nombreuses sources différentes, comme indiqué dans chaque texte."
 }
