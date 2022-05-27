@@ -53,5 +53,6 @@
   "methodology:56": "Comme les textes en sanskrit et dans les autres langues indiennes ne forment pas un canon cohérent, mais proviennent de multiples découvertes fortuites, il n’existe pas de source unique. Les éditions sont celles indiquées dans les textes. Les textes numériques proviennent pour la plupart du Göttingen Register of Electronic Texts in Indian Languages (GRETIL).",
   "methodology:57": "Traductions",
   "methodology:58": "Les traductions proviennent de nombreuses sources différentes, comme indiqué dans chaque texte.",
-  "methodology:59": "Balisage"
+  "methodology:59": "Balisage",
+  "methodology:60": "Les textes de SuttaCentral sont dotés d’un balisage clair, précis et détaillé utilisant un HTML5 valide, sémantique et conforme aux normes. L’une de nos principales tâches a été de transformer les nombreux textes dont nous avons hérité de diverses sources et de les mettre tous dans le même format. Il s’agit d’une tâche extrêmement complexe, car les textes sources ont rarement un balisage sémantique clair, mais vont du texte brut non balisé au désordre verbeux produit par les traitements de texte. Notre objectif est de restituer toute cette complexité dans un balisage clair et simple, sans perdre de détails."
 }
