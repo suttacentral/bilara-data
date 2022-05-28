@@ -69,5 +69,6 @@
   "methodology:70": "Nous utilisons un balisage sémantique avec une centaine de classes différentes pour indiquer la structure détaillée des textes. Celles-ci comprennent des éléments tels que :",
   "methodology:71": "Titres, avec des titres correctement structurés utilisant les balises hX. Les textes pali ont une hiérarchie si détaillée que dans certains cas, nous utilisons toutes les balises jusqu’à h6.",
   "methodology:72": "_Uddānas_, qui résument les vaggas et les éléments structurels similaires.",
-  "methodology:73": "Différents types de nombres, tels que les nombres de règles."
+  "methodology:73": "Différents types de nombres, tels que les nombres de règles.",
+  "methodology:74": "Versets."
 }
