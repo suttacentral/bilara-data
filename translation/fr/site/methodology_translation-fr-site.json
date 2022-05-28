@@ -66,5 +66,6 @@
   "methodology:67": "Les informations essentielles au texte sont marquées dans les fichiers avec des classes telles que « var » pour les lectures variantes, « supplied » pour le texte fourni, et ainsi de suite. En général, nous les indiquons visuellement avec des styles, et affichons une infobulle expliquant la signification. La plupart de ces éléments peuvent être activés de manière facultative.",
   "methodology:68": "<a href='/zz1/zz/test' title='Balisage de critique textuelle sur SuttaCentral'>Voir la liste des classes de balisage de critique textuelle ici</a>.",
   "methodology:69": "Structurel et Autres",
-  "methodology:70": "Nous utilisons un balisage sémantique avec une centaine de classes différentes pour indiquer la structure détaillée des textes. Celles-ci comprennent des éléments tels que :"
+  "methodology:70": "Nous utilisons un balisage sémantique avec une centaine de classes différentes pour indiquer la structure détaillée des textes. Celles-ci comprennent des éléments tels que :",
+  "methodology:71": "Titres, avec des titres correctement structurés utilisant les balises hX. Les textes pali ont une hiérarchie si détaillée que dans certains cas, nous utilisons toutes les balises jusqu’à h6."
 }
