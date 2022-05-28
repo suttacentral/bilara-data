@@ -61,6 +61,6 @@
   "methodology:62": "Je vais donner ici les grandes lignes de certains détails moins évidents.",
   "methodology:63": "Références",
   "methodology:64": "Nos fichiers texte comprennent des données de référence complexes. Actuellement, nous répertorions plus d’une centaine de sources de référence différentes. Il manque un système de référence centralisé, détaillé et uniforme pour les textes bouddhistes, donc nous avons fait du mieux que nous pouvions. Les données sont encodées sous forme de balises vides, et peuvent être affichées de manière facultative via javascript.",
-  "methodology:65": "Informations Essentielles sur le Texte",
+  "methodology:65": "Informations Essentielles au Texte",
   "methodology:66": "Nos textes en langue originale comprennent une série d’informations essentielles sur le texte intéressant les chercheurs. Nous nous efforçons de présenter ces informations de manière à ce qu’elles ne soient pas intrusives pour les lecteurs, mais qu’elles soient informatives lors des recherches. Les fichiers numériques traditionnels utilisent souvent des conventions basées sur l’impression, comme les [crochets], pour indiquer ces informations. Mais cela est laid et interrompt le flux de lecture. Pire encore, cela n’est pas informatif. Il est souvent difficile de trouver la signification exacte de ces différentes marques ; en fait, nous avons parfois dû recourir à des suppositions avisées."
 }
