@@ -125,6 +125,14 @@
   },
   "brankokovacevic": {
     "type": "translator",
-    "name": "Branko Kovačević"
+    "name": "Branislav Kovačević"
+  },
+  "noeismet": {
+    "type": "translator",
+    "name": "Noé Ismet"
+  },
+  "laera-quaresma": {
+    "type": "translator",
+    "name": "Laera et al."
   }
 }
