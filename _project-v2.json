@@ -160,6 +160,14 @@
     "creator_github_handle": "EnoMetis"
   },
   {
+    "project_uid": "fr_ms_translation_cittadhammo",
+    "name": "French sutta translation Cittadhammo Bhikkhu",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/fr/cittadhammo/sutta",
+    "translation_muids": "translation-fr-cittadhammo",
+    "creator_github_handle": "cittadhammo"
+  },
+  {
     "project_uid": "fr_ms_translation_noeismet",
     "name": "French sutta translation Noé Ismet",
     "root_path": "root/pli/ms/sutta",
@@ -314,6 +322,14 @@
     "translation_path": "translation/sr/brankokovacevic/sutta/dn",
     "translation_muids": "translation-sr-brankokovacevic",
     "creator_github_handle": "Bundi-py"
+  },
+  {
+    "project_uid": "th_ms_translation_korakot",
+    "name": "Thai translation Korakot Chaovavanich",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/th/korakot/sutta",
+    "translation_muids": "translation-th-korakot",
+    "creator_github_handle": "korakot"
   },
   {
     "project_uid": "vi_localization",
