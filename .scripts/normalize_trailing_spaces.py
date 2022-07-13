@@ -24,7 +24,7 @@ def process_file(file):
                 new_value = v.rstrip()
             else:
                 new_value = v
-            if len(new_value) > 0 and new_value[-1] != '—':
+            if len(new_value) > 0 and new_value[-1] != '—' and len(new_value.strip()) != 0:
                 new_text[k] = new_value.ljust(len(new_value) + 1, ' ')
             else:
                 new_text[k] = new_value
