@@ -3,7 +3,7 @@ name: Normalize trailing spaces
 on:
   push:
     branches:
-      - "Hong-test"
+      - "published"
 
 jobs:
   Normalize-trailing-spaces:
@@ -31,5 +31,5 @@ jobs:
           git config user.email github-actions@github.com
           git add .
           git commit -m "Normalize trailing spaces"
-          git push origin Hong-test:Hong-test
+          git push origin published:published
         working-directory: bilara-data-integrity/bilara-data
