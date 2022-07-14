@@ -22,7 +22,7 @@ jobs:
 
     steps:
       - name: Checkout ${{ env.TEST_REPO }} repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           repository: ${{ env.TEST_REPO }}
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
@@ -30,7 +30,7 @@ jobs:
           path: bilara-data-integrity
 
       - name: Checkout ${{ env.FROM_REPO }} repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           repository: ${{ env.FROM_REPO }}
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
@@ -62,7 +62,7 @@ jobs:
 
       - name: Checkout ${{ env.TO_REPO }} repo
         if: steps.related-changed-files.outputs.RELATED_FILES || steps.deleted-files.outputs.DELETED
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           repository: ${{ env.TO_REPO }}
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
