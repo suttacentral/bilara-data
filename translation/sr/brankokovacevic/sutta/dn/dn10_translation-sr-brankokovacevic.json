@@ -198,5 +198,7 @@
   "dn10:2.28.11": "ushićen um on razume kao ushićen,",
   "dn10:2.28.12": "a neushićen um kao neushićen.",
   "dn10:2.28.13": "Nadmašiv um on razume kao nadmašiv,",
-  "dn10:2.28.14": "a nenadmašiv um kao nenadmašiv;"
+  "dn10:2.28.14": "a nenadmašiv um kao nenadmašiv;",
+  "dn10:2.28.15": "koncentrisan um on razume kao koncentrisan,",
+  "dn10:2.28.16": "a nekoncentrisan um kao nekoncentrisan."
 }
