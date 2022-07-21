@@ -200,5 +200,7 @@
   "dn10:2.28.13": "Nadmašiv um on razume kao nadmašiv,",
   "dn10:2.28.14": "a nenadmašiv um kao nenadmašiv;",
   "dn10:2.28.15": "koncentrisan um on razume kao koncentrisan,",
-  "dn10:2.28.16": "a nekoncentrisan um kao nekoncentrisan."
+  "dn10:2.28.16": "a nekoncentrisan um kao nekoncentrisan.",
+  "dn10:2.28.17": "Oslobođen um on razume kao oslobođen,",
+  "dn10:2.28.18": "a neoslobođen um kao neoslobođen."
 }
