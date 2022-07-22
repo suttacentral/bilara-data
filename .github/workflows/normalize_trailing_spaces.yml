@@ -31,6 +31,6 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git diff --exit-code || git commit -m "Normalize trailing spaces"
+          git commit -m "Normalize trailing spaces"
           git push origin published:published
         working-directory: bilara-data-integrity/bilara-data
