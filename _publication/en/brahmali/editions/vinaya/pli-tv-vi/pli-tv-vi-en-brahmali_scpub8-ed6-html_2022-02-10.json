@@ -1,0 +1,52 @@
+{
+  "publication_number": "scpub8",
+  "text_uid": "pli-tv-vi",
+  "edition_number": "ed6",
+  "publication_isbn": "978-1-76132-025-5",
+  "publication_blurb": false,
+  "cip": false,
+  "publication_type": "html",
+  "page_width": false,
+  "page_height": false,
+  "cover_bleed": false,
+  "cover_flap_width": false,
+  "cover_theme_color": false,
+  "main_toc_depth": "1",
+  "secondary_toc": true,
+  "sources": {
+    "main_text": "translation-en-brahmali",
+    "notes": "comment-en-brahmali",
+    "reference": "reference",
+    "markup": "html"
+  },
+  "number_of_volumes": 1,
+  "volumes": [
+    {
+      "volume_number": false,
+      "volume_isbn": false,
+      "volume_acronym": false,
+      "cover_background_image": false,
+      "cover_image": false,
+      "frontmatter": [
+        "titlepage",
+        "imprint",
+        "halftitlepage",
+        "main-toc",
+        "./matter/foreword.html",
+        "./matter/preface.html",
+        "./matter/introduction.html",
+        "./matter/acknowledgements.html"
+      ],
+      "mainmatter": [
+        "pli-tv-bu-vb",
+        "pli-tv-bi-vb",
+        "pli-tv-kd",
+        "pli-tv-pvr"
+      ],
+      "backmatter": [
+        "endnotes",
+        "colophon"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "publication_number": "scpub8",
+  "text_uid": "pli-tv-vi",
+  "edition_number": "ed5",
+  "publication_isbn": "978-1-76132-017-0",
+  "publication_blurb": false,
+  "cip": false,
+  "publication_type": "paperback",
+  "page_width": "6in",
+  "page_height": "9in",
+  "cover_bleed": "3mm",
+  "cover_flap_width": false,
+  "cover_theme_color": "green",
+  "main_toc_depth": "1",
+  "secondary_toc": true,
+  "sources": {
+    "main_text": "translation-en-brahmali",
+    "notes": "comment-en-brahmali",
+    "reference": "reference",
+    "markup": "html"
+  },
+  "number_of_volumes": 6,
+  "volumes": [
+    {
+      "volume_number": "vol1",
+      "volume_isbn": "978-1-76132-018-7",
+      "volume_acronym": "Bu Vb",
+      "volume_translation_title": "Analysis of Rules for Monks (1)",
+      "volume_root_title": "Bhikkhu Vibhaṅga",
+      "volume_blurb": "This volume includes the first three categories of rules for monks. <i lang='pi'>Pārājika</i> entails immediate and permanent expulsion from the saṅgha; <i lang='pi'>Saṅghādisesa</i> entails a period of suspension after consideration by the Saṅgha; and <i lang='pi'>Aniyata</i> is a procedure requiring consideration of an accusation by a laywoman against a monk.",
+      "cover_background_image": "green1.png",
+      "cover_image": "paperback_cover_6inx9in_vol1.pdf",
+      "frontmatter": [
+        "titlepage",
+        "imprint",
+        "halftitlepage",
+        "main-toc",
+        "./matter/foreword.html",
+        "./matter/preface.html",
+        "./matter/introduction.html",
+        "./matter/acknowledgements.html"
+      ],
+      "mainmatter": [
+        "pli-tv-bu-vb-pj",
+        "pli-tv-bu-vb-ss",
+        "pli-tv-bu-vb-ay"
+      ],
+      "backmatter": [
+        "endnotes",
+        "colophon"
+      ]
+    },
+    {
+      "volume_number": "vol2",
+      "volume_isbn": "978-1-76132-019-4",
+      "volume_acronym": "Bu Vb",
+      "volume_translation_title": "Analysis of Rules for Monks (2)",
+      "volume_root_title": "Bhikkhu Vibhaṅga",
+      "volume_blurb": "The minor rules for monks. <i lang='pi'>Nissaggiya pācittiya</i> entails confession with forfeiture; <i lang='pi'>pācittya</i> a simple confession; <i lang='pi'>pāṭidesanīya</i> are a special set of rules also requiring confession; <i lang='pi'>sekhiya</i> are guidelines for good manners and conduct; and <i lang='pi'>adhikaraṇasamatha</i> are seven procedures for settling disputes.",
+      "cover_background_image": "green2.png",
+      "cover_image": "paperback_cover_6inx9in_vol2.pdf",
+      "frontmatter": [
+        "titlepage",
+        "imprint",
+        "halftitlepage",
+        "main-toc"
+      ],
+      "mainmatter": [
+        "pli-tv-bu-vb-np",
+        "pli-tv-bu-vb-pc",
+        "pli-tv-bu-vb-pd",
+        "pli-tv-bu-vb-sk",
+        "pli-tv-bu-vb-as"
+      ],
+      "backmatter": [
+        "endnotes",
+        "colophon"
+      ]
+    },
+    {
+      "volume_number": "vol3",
+      "volume_isbn": "978-1-76132-020-0",
+      "volume_acronym": "Bi Vb",
+      "volume_translation_title": "Analysis of Rules for Nuns",
+      "volume_root_title": "Bhikkhunī Vibhaṅga",
+      "volume_blurb": "The entire collection of rules for nuns. The canon only includes those that are specially laid down for nuns, while those shared with the monks are implicit.",
+      "cover_background_image": "green3.png",
+      "cover_image": "paperback_cover_6inx9in_vol3.pdf",
+      "frontmatter": [
+        "titlepage",
+        "imprint",
+        "halftitlepage",
+        "main-toc"
+      ],
+      "mainmatter": [
+        "pli-tv-bi-vb"
+      ],
+      "backmatter": [
+        "endnotes",
+        "colophon"
+      ]
+    },
+    {
+      "volume_number": "vol4",
+      "volume_isbn": "978-1-76132-021-7",
+      "volume_acronym": "Mv",
+      "volume_translation_title": "Great Division",
+      "volume_root_title": "Mahāvagga",
+      "volume_blurb": "The first ten of the 22 <i lang='pi'>khandhakas</i> make up the “Great Division” in the Pali Vinaya.",
+      "cover_background_image": "green4.png",
+      "cover_image": "paperback_cover_6inx9in_vol4.pdf",
+      "frontmatter": [
+        "titlepage",
+        "imprint",
+        "halftitlepage",
+        "main-toc"
+      ],
+      "mainmatter": [
+        "pli-tv-kd1",
+        "pli-tv-kd2",
+        "pli-tv-kd3",
+        "pli-tv-kd4",
+        "pli-tv-kd5",
+        "pli-tv-kd6",
+        "pli-tv-kd7",
+        "pli-tv-kd8",
+        "pli-tv-kd9",
+        "pli-tv-kd10"
+      ],
+      "backmatter": [
+        "endnotes",
+        "colophon"
+      ]
+    },
+    {
+      "volume_number": "vol5",
+      "volume_isbn": "978-1-76132-022-4",
+      "volume_acronym": "Cv",
+      "volume_translation_title": "Lesser Division",
+      "volume_root_title": "Cūḷavagga",
+      "volume_blurb": "Sections eleven through twenty-two of the <i lang='pi'>khandhakas</i> make up the “Lesser Division” of the Pali Vinaya.",
+      "cover_background_image": "green5.png",
+      "cover_image": "paperback_cover_6inx9in_vol4.pdf",
+      "frontmatter": [
+        "titlepage",
+        "imprint",
+        "halftitlepage",
+        "main-toc"
+      ],
+      "mainmatter": [
+        "pli-tv-kd11",
+        "pli-tv-kd12",
+        "pli-tv-kd13",
+        "pli-tv-kd14",
+        "pli-tv-kd15",
+        "pli-tv-kd16",
+        "pli-tv-kd17",
+        "pli-tv-kd18",
+        "pli-tv-kd19",
+        "pli-tv-kd20",
+        "pli-tv-kd21",
+        "pli-tv-kd22"
+      ],
+      "backmatter": [
+        "endnotes",
+        "colophon"
+      ]
+    },
+    {
+      "volume_number": "vol6",
+      "volume_isbn": "978-1-76132-023-1",
+      "volume_acronym": "Pvr",
+      "volume_translation_title": "The Compendium",
+      "volume_root_title": "Parivāra",
+      "volume_blurb": "A textbook that assembles the material from the Vinaya and arranges it for study.",
+      "cover_background_image": "green6.png",
+      "cover_image": "paperback_cover_6inx9in_vol4.pdf",
+      "frontmatter": [
+        "titlepage",
+        "imprint",
+        "halftitlepage",
+        "main-toc"
+      ],
+      "mainmatter": [
+        "pli-tv-pvr"
+      ],
+      "backmatter": [
+        "endnotes",
+        "colophon"
+      ]
+    }
+  ]
+}
