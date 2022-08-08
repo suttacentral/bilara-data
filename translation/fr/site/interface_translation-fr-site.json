@@ -210,5 +210,6 @@
   "offline:downloadParallels": "Inclure les parallèles",
   "offline:downloadParallelsDescription": "Sélectionner pour télécharger les tables de parallèles pour les textes aussi.",
   "offline:downloadPaused": "Télécharger pausé.",
-  "offline:downloadRootTexts": "Inclure les textes sources"
+  "offline:downloadRootTexts": "Inclure les textes sources",
+  "offline:downloadRootTextsDescription": "Sélectionner pour télécharger les textes dans les langues sources aussi. Ceci inclut un dictionnaire de recherche Pali > {toLang}. Pour modifier votre recherche, cliquez sur"
 }
