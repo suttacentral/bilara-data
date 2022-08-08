@@ -4,7 +4,7 @@
   "dictionary:activatePaliDescription": "Cela permet de rechercher des mots dans les textes chinois anciens. Les significations des mots proviennent du Dictionnaire numérique du bouddhisme.Analyse le texte pali et tente d’afficher la signification des mots. Notez qu’il s’agit uniquement d’une aide, et qu’elle n’est pas toujours précise. Les significations des mots proviennent du New Concise Pali English Dictionary.",
   "dictionary:activatePaliLookup": "Activer la recherche de mots en pali",
   "dictionary:adjacentTerms": "Termes Adjacents",
-  "dictionary:asterisk": "Infobulle sur l'astérisque",
+  "dictionary:asterisk": "Infobulle sur l’astérisque",
   "dictionary:changePaliScript": "Changer l’écriture Pali",
   "dictionary:changePaliScriptDescription": "Cela vous permet de lire le texte pali dans différents scripts.",
   "dictionary:changePaliScriptLabel": "Script",
