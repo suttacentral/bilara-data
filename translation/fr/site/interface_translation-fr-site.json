@@ -59,6 +59,7 @@
   "dictionary:textViewDescription": "Certains textes sur SuttaCentral sont « segmentés » ; le texte original et la traduction correspondent approximativement ligne par ligne. Pour de tels textes, voir à la fois le texte original et la traduction.",
   "dictionary:textViewDisabled": "L’affichage en pali-anglais est maintenant désactivé.",
   "dictionary:textViewEnabled": "La vue {textView} est désormais activée sur les textes applicables.",
+  "dictionary:textualInformationDisabled": "Les informations textuelles sont maintenant désactivées.",
   "interface:abhidhammaEssayTitle": "Abhidhamma : une analyse systématique de la doctrine ",
   "interface:suttaEssayTitle": "Discours : conversations avec le Bouddha ",
   "interface:vinayaEssayTitle": "La Discipline Monastique : de quelle manière les communautés monastiques devraient-elles vivre"
