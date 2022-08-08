@@ -273,5 +273,6 @@
   "suttaplex:share": "Partager",
   "suttaplex:suttaCentralID": "Code SuttaCentral",
   "suttaplex:translation": "traduction",
-  "suttaplex:translationIn": "traduction"
+  "suttaplex:translationIn": "traduction",
+  "suttaplex:translations": "traductions"
 }
