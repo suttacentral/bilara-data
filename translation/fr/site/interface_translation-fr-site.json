@@ -224,5 +224,6 @@
   "offline:paliLookups": "Recherches en pali",
   "offline:paliLookupsDescription": "Sélectionnez pour télécharger les recherches de dictionnaires de mots pali dans les langues suivantes :",
   "offline:pwaDescription": "SuttaCentral est une <a href='https://developers.google.com/web/progressive-web-apps/' target='_blank' rel='noopener'>application Web progressive</a>. Sur les appareils pris en charge, de nombreuses fonctions, notamment la navigation et les pages précédemment visitées, continueront de fonctionner même si vous n’avez pas de connexion internet.",
-  "offline:resetButton": "Effacer l’historique des téléchargements"
+  "offline:resetButton": "Effacer l’historique des téléchargements",
+  "offline:resetComplete": "L’historique des téléchargements a été effacé"
 }
