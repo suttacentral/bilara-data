@@ -275,5 +275,6 @@
   "suttaplex:translation": "traduction",
   "suttaplex:translationIn": "traduction",
   "suttaplex:translations": "traductions",
-  "suttaplex:translationsIn": "traductions"
+  "suttaplex:translationsIn": "traductions",
+  "suttaplex:volumeAndPage": "Volume et page"
 }
