@@ -69,6 +69,7 @@
   "donate:donateNow": "Faites un don maintenant",
   "donate:errorMessage": "Le service est temporairement indisponible, veuillez essayer plus tard",
   "donate:feeDisclaimer": "Les frais de gestion de Stripe déduits d’un don sont de 1,75 % + 30 ¢ pour les cartes australiennes, et de 2,9 % + 30 ¢ pour les cartes internationales, plus des frais de conversion de devises de 1,8 % le cas échéant.",
+  "donate:invalidValue": "Valeur non valide",
   "interface:abhidhammaEssayTitle": "Abhidhamma : une analyse systématique de la doctrine ",
   "interface:suttaEssayTitle": "Discours : conversations avec le Bouddha ",
   "interface:vinayaEssayTitle": "La Discipline Monastique : de quelle manière les communautés monastiques devraient-elles vivre"
