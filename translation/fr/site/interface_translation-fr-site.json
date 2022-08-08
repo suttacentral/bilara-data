@@ -229,5 +229,6 @@
   "offline:selectDifferentLang": "Par défaut, vos suttas seront téléchargés dans la langue du site. Si vous souhaitez choisir une autre langue, sélectionnez-la dans le menu.",
   "offline:supportsPWAs": "Votre navigateur prend en charge les applications Web progressives !",
   "offline:suttasOnly": "Suttas uniquement, pas Vinaya ou Abhidhamma.",
-  "offline:usingOffline": "Utiliser SuttaCentral hors connexion"
+  "offline:usingOffline": "Utiliser SuttaCentral hors connexion",
+  "search:all": "Tous"
 }
