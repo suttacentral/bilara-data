@@ -269,5 +269,6 @@
   "suttaplex:ofRootText": "du texte source",
   "suttaplex:originalTitle": "Titre original",
   "suttaplex:resemblingParallel": "Parallèle ressemblant : les textes sont comparables.",
-  "suttaplex:retellingParallel": "Reprise : les événements d’un texte sont repris dans un autre."
+  "suttaplex:retellingParallel": "Reprise : les événements d’un texte sont repris dans un autre.",
+  "suttaplex:share": "Partager"
 }
