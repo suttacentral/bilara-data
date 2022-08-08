@@ -200,5 +200,6 @@
   "offline:alreadyDownloaded": "Déjà téléchargé.",
   "offline:canceled": "Vous avez annulé le téléchargement.",
   "offline:certainFunctions": "Certaines fonctions, dont la recherche, nécessitent une connexion internet.",
-  "offline:chineseLookups": "Recherches en chinois"
+  "offline:chineseLookups": "Recherches en chinois",
+  "offline:chineseLookupsDescription": "Sélectionner pour télécharger les recherches de dictionnaires de mots chinois dans les langues suivantes :"
 }
