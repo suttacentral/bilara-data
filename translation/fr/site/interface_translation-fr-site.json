@@ -242,5 +242,6 @@
   "search:searchTooltip": "Rechercher sur SuttaCentral",
   "search:translations": "Traductions",
   "share:cite": "Citer",
-  "share:citeCopied": "Citation copiée dans le presse-papiers !"
+  "share:citeCopied": "Citation copiée dans le presse-papiers !",
+  "share:copyLink": "Copier le lien"
 }
