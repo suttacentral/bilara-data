@@ -268,5 +268,6 @@
   "suttaplex:mention": "Mention : un texte est cité ou mentionné dans un autre.",
   "suttaplex:ofRootText": "du texte source",
   "suttaplex:originalTitle": "Titre original",
-  "suttaplex:resemblingParallel": "Parallèle ressemblant : les textes sont comparables."
+  "suttaplex:resemblingParallel": "Parallèle ressemblant : les textes sont comparables.",
+  "suttaplex:retellingParallel": "Reprise : les événements d’un texte sont repris dans un autre."
 }
