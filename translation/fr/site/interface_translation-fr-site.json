@@ -196,5 +196,6 @@
   "interface:xct": "Tibétain Classique",
   "interface:xto": "Tokharian A",
   "offline:addToHomeScreen": "Ajouter à l’écran d’accueil",
-  "offline:additionalInfo": "De plus, vous pouvez télécharger des textes dans les langues de votre choix et les lire lorsque vous êtes hors connexion. Ceci est particulièrement utile pour les utilisateurs de mobiles avec des données limitées, ou dans des régions avec une mauvaise couverture. Si vos données sont limitées, nous vous recommandons de vous connecter au wifi avant de télécharger."
+  "offline:additionalInfo": "De plus, vous pouvez télécharger des textes dans les langues de votre choix et les lire lorsque vous êtes hors connexion. Ceci est particulièrement utile pour les utilisateurs de mobiles avec des données limitées, ou dans des régions avec une mauvaise couverture. Si vos données sont limitées, nous vous recommandons de vous connecter au wifi avant de télécharger.",
+  "offline:alreadyDownloaded": "Déjà téléchargé."
 }
