@@ -94,6 +94,7 @@
   "interface:aboutTitle": "À propos de SuttaCentral",
   "interface:acknowledgments": "Remerciements",
   "interface:acknowledgmentsTitle": "Remerciements",
+  "interface:alwaysShowToolbar": "Toujours afficher la barre d’outils",
   "interface:suttaEssayTitle": "Discours : conversations avec le Bouddha ",
   "interface:vinayaEssayTitle": "La Discipline Monastique : de quelle manière les communautés monastiques devraient-elles vivre"
 }
