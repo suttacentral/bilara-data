@@ -214,5 +214,6 @@
   "offline:downloadRootTextsDescription": "Sélectionner pour télécharger les textes dans les langues sources aussi. Ceci inclut un dictionnaire de recherche Pali > {toLang}. Pour modifier votre recherche, cliquez sur",
   "offline:downloadStarted": "Votre téléchargement a commencé. Vous pouvez continuer à utiliser le site et nous vous ferons savoir quand il sera terminé.",
   "offline:downloading": "En cours de téléchargement",
-  "offline:extraFeatures": "Si vous souhaitez des fonctionnalités supplémentaires, faites-le nous savoir."
+  "offline:extraFeatures": "Si vous souhaitez des fonctionnalités supplémentaires, faites-le nous savoir.",
+  "offline:language": "Langue"
 }
