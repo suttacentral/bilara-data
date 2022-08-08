@@ -240,5 +240,6 @@
   "search:search": "Recherche",
   "search:searchResultsText": "Résultats de la recherche pour",
   "search:searchTooltip": "Rechercher sur SuttaCentral",
-  "search:translations": "Traductions"
+  "search:translations": "Traductions",
+  "share:cite": "Citer"
 }
