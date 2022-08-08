@@ -201,5 +201,6 @@
   "offline:canceled": "Vous avez annulé le téléchargement.",
   "offline:certainFunctions": "Certaines fonctions, dont la recherche, nécessitent une connexion internet.",
   "offline:chineseLookups": "Recherches en chinois",
-  "offline:chineseLookupsDescription": "Sélectionner pour télécharger les recherches de dictionnaires de mots chinois dans les langues suivantes :"
+  "offline:chineseLookupsDescription": "Sélectionner pour télécharger les recherches de dictionnaires de mots chinois dans les langues suivantes :",
+  "offline:doesntSupportPWAs": "Malheureusement, nous ne prenons pas en charge les fonctionnalités avancées de Progressive Web App (PWA) sur votre plateforme. Si vous souhaitez une utilisation hors connexion complète, veuillez utiliser une version actualisée de Chrome. Nous prévoyons d’implémenter davantage de fonctionnalités PWA sur d’autres navigateurs à l’avenir."
 }
