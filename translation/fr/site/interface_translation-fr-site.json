@@ -67,6 +67,7 @@
   "donate:chooseFrequency": "Vous pouvez faire un don unique ou un don mensuel.",
   "donate:currency": "Devise",
   "donate:donateNow": "Faites un don maintenant",
+  "donate:errorMessage": "Le service est temporairement indisponible, veuillez essayer plus tard",
   "interface:abhidhammaEssayTitle": "Abhidhamma : une analyse systématique de la doctrine ",
   "interface:suttaEssayTitle": "Discours : conversations avec le Bouddha ",
   "interface:vinayaEssayTitle": "La Discipline Monastique : de quelle manière les communautés monastiques devraient-elles vivre"
