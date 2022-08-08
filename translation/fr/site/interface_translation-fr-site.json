@@ -77,6 +77,7 @@
   "error:connectToInternet": "Veuillez vous connecter à internet pour utiliser la recherche.",
   "error:dataLoadError": "Erreur de chargement de données",
   "error:error404": "Erreur 404",
+  "error:generalError": "Erreur générale",
   "interface:abhidhammaEssayTitle": "Abhidhamma : une analyse systématique de la doctrine ",
   "interface:suttaEssayTitle": "Discours : conversations avec le Bouddha ",
   "interface:vinayaEssayTitle": "La Discipline Monastique : de quelle manière les communautés monastiques devraient-elles vivre"
