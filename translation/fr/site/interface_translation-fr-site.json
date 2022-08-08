@@ -252,5 +252,6 @@
   "suttaplex:alternateText": "Numéro alternatif dans l’édition {book} :",
   "suttaplex:beginner": "Recommandé pour les étudiants débutants",
   "suttaplex:blurb": "Aperçu",
-  "suttaplex:countParallel": "{count} parallèle"
+  "suttaplex:countParallel": "{count} parallèle",
+  "suttaplex:countParallels": "{count} parallèles"
 }
