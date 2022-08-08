@@ -79,7 +79,7 @@
   "error:error404": "Erreur 404",
   "error:generalError": "Erreur générale",
   "error:networkError": "Erreur de réseau",
-  "error:offline": "Vous êtes hors ligne.",
+  "error:offline": "Vous êtes hors connexion.",
   "error:pageNoFound": "Page non trouvée",
   "error:translationDataLoadError": "Erreur de chargement des données de traduction",
   "interface:aNewBeginning": "SuttaCentral 2018",
