@@ -208,5 +208,5 @@
   "offline:downloadErrored": "Votre téléchargement est terminé, mais nous n’avons pas été en mesure de télécharger tous les textes demandés. {échec} sur {total} des demandes n’ont pas abouti correctement.",
   "offline:downloadInProgress": "Téléchargement en cours.",
   "offline:downloadParallels": "Inclure les parallèles",
-  "offline:downloadParallelsDescription": "Sélectionnez pour télécharger les tables de parallèles pour les textes aussi."
+  "offline:downloadParallelsDescription": "Sélectionner pour télécharger les tables de parallèles pour les textes aussi."
 }
