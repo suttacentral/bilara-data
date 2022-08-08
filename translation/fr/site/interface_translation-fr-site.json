@@ -245,5 +245,6 @@
   "share:citeCopied": "Citation copiée dans le presse-papiers !",
   "share:copyLink": "Copier le lien",
   "share:copyTable": "Table de copie",
-  "share:error": "Une erreur s’est produite."
+  "share:error": "Une erreur s’est produite.",
+  "share:linkCopied": "Lien copié dans le presse-papiers !"
 }
