@@ -254,5 +254,6 @@
   "suttaplex:blurb": "Aperçu",
   "suttaplex:countParallel": "{count} parallèle",
   "suttaplex:countParallels": "{count} parallèles",
-  "suttaplex:edition": "édition"
+  "suttaplex:edition": "édition",
+  "suttaplex:fullParallel": "Parallèle intégral : différentes versions d’un même texte."
 }
