@@ -81,6 +81,7 @@
   "error:networkError": "Erreur de réseau",
   "error:offline": "Vous êtes hors ligne.",
   "error:pageNoFound": "Page non trouvée",
+  "error:translationDataLoadError": "Erreur de chargement des données de traduction",
   "interface:abhidhammaEssayTitle": "Abhidhamma : une analyse systématique de la doctrine ",
   "interface:suttaEssayTitle": "Discours : conversations avec le Bouddha ",
   "interface:vinayaEssayTitle": "La Discipline Monastique : de quelle manière les communautés monastiques devraient-elles vivre"
