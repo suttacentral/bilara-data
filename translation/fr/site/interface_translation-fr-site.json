@@ -255,5 +255,6 @@
   "suttaplex:countParallel": "{count} parallèle",
   "suttaplex:countParallels": "{count} parallèles",
   "suttaplex:edition": "édition",
-  "suttaplex:fullParallel": "Parallèle intégral : différentes versions du même texte."
+  "suttaplex:fullParallel": "Parallèle intégral : différentes versions du même texte.",
+  "suttaplex:goToTextInOriginalLanguage": "Aller au texte dans la langue originale"
 }
