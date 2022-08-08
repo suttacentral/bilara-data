@@ -226,5 +226,6 @@
   "offline:pwaDescription": "SuttaCentral est une <a href='https://developers.google.com/web/progressive-web-apps/' target='_blank' rel='noopener'>application Web progressive</a>. Sur les appareils pris en charge, de nombreuses fonctions, notamment la navigation et les pages précédemment visitées, continueront de fonctionner même si vous n’avez pas de connexion internet.",
   "offline:resetButton": "Effacer l’historique des téléchargements",
   "offline:resetComplete": "L’historique des téléchargements a été effacé",
-  "offline:selectDifferentLang": "Par défaut, vos suttas seront téléchargés dans la langue du site. Si vous souhaitez choisir une autre langue, sélectionnez-la dans le menu."
+  "offline:selectDifferentLang": "Par défaut, vos suttas seront téléchargés dans la langue du site. Si vous souhaitez choisir une autre langue, sélectionnez-la dans le menu.",
+  "offline:supportsPWAs": "Votre navigateur prend en charge les applications Web progressives !"
 }
