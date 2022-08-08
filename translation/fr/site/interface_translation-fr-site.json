@@ -239,5 +239,6 @@
   "search:rootTexts": "Textes sources",
   "search:search": "Recherche",
   "search:searchResultsText": "Résultats de la recherche pour",
-  "search:searchTooltip": "Rechercher sur SuttaCentral"
+  "search:searchTooltip": "Rechercher sur SuttaCentral",
+  "search:translations": "Traductions"
 }
