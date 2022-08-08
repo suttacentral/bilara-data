@@ -237,5 +237,6 @@
   "search:loadMore": "Charger plus",
   "search:resultsFor": "résultats pour",
   "search:rootTexts": "Textes sources",
-  "search:search": "Recherche"
+  "search:search": "Recherche",
+  "search:searchResultsText": "Résultats de la recherche pour"
 }
