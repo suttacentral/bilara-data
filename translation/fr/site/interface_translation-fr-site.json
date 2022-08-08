@@ -130,6 +130,7 @@
   "interface:home": "Page d’accueil",
   "interface:introduction": "Introduction",
   "interface:introductionPitaka": "Introduction au {pitaka}",
+  "interface:introductionTitle": "Introduction à SuttaCentral",
   "interface:suttaEssayTitle": "Discours : conversations avec le Bouddha ",
   "interface:vinayaEssayTitle": "La Discipline Monastique : de quelle manière les communautés monastiques devraient-elles vivre"
 }
