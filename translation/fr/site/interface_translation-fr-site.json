@@ -6,6 +6,7 @@
   "dictionary:adjacentTerms": "Termes Adjacents",
   "dictionary:asterisk": "Infobulle sur l'astérisque",
   "dictionary:changePaliScript": "Changer l'écriture Pali",
+  "dictionary:changePaliScriptDescription": "Cela vous permet de lire le texte pali dans différents scripts.",
   "interface:abhidhammaEssayTitle": "Abhidhamma : une analyse systématique de la doctrine ",
   "interface:suttaEssayTitle": "Discours : conversations avec le Bouddha ",
   "interface:vinayaEssayTitle": "La Discipline Monastique : de quelle manière les communautés monastiques devraient-elles vivre"
