@@ -231,5 +231,6 @@
   "offline:suttasOnly": "Suttas uniquement, pas Vinaya ou Abhidhamma.",
   "offline:usingOffline": "Utiliser SuttaCentral hors connexion",
   "search:all": "Tous",
-  "search:dictionaries": "Dictionnaires"
+  "search:dictionaries": "Dictionnaires",
+  "search:filter": "Filtre"
 }
