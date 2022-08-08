@@ -56,6 +56,7 @@
   "dictionary:sidenotes": "Afficher en tant que notes secondaires",
   "dictionary:similarSpelling": "Orthographe similaire",
   "dictionary:textView": "Texte original et traduction",
+  "dictionary:textViewDescription": "Certains textes sur SuttaCentral sont « segmentés » ; le texte original et la traduction correspondent approximativement ligne par ligne. Pour de tels textes, voir à la fois le texte original et la traduction.",
   "interface:abhidhammaEssayTitle": "Abhidhamma : une analyse systématique de la doctrine ",
   "interface:suttaEssayTitle": "Discours : conversations avec le Bouddha ",
   "interface:vinayaEssayTitle": "La Discipline Monastique : de quelle manière les communautés monastiques devraient-elles vivre"
