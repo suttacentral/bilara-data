@@ -14,6 +14,7 @@
   "dictionary:displaysInfo": "Affiche des informations telles que les références de volume/page, les lectures de variantes, etc.",
   "dictionary:lineByLine": "Ligne par ligne",
   "dictionary:lookup": "Consulter",
+  "dictionary:lookupDictionaryEnabled": "Le dictionnaire de recherche {lookupDictionary} est maintenant activé.",
   "interface:abhidhammaEssayTitle": "Abhidhamma : une analyse systématique de la doctrine ",
   "interface:suttaEssayTitle": "Discours : conversations avec le Bouddha ",
   "interface:vinayaEssayTitle": "La Discipline Monastique : de quelle manière les communautés monastiques devraient-elles vivre"
