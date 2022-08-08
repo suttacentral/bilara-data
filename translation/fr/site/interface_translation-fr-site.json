@@ -217,5 +217,6 @@
   "offline:extraFeatures": "Si vous souhaitez des fonctionnalités supplémentaires, faites-le nous savoir.",
   "offline:language": "Langue",
   "offline:networkError": "Erreur de réseau",
-  "offline:networkLost": "Connexion internet perdue. Mise en pause du téléchargement."
+  "offline:networkLost": "Connexion internet perdue. Mise en pause du téléchargement.",
+  "offline:networkRecovered": "Connexion internet rétablie. Reprise du téléchargement."
 }
