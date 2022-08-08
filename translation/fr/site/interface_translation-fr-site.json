@@ -236,5 +236,6 @@
   "search:hint": "Conseil : recherchez par exemple mn34 ou sn3.2 pour aller directement à ce sutta.",
   "search:loadMore": "Charger plus",
   "search:resultsFor": "résultats pour",
-  "search:rootTexts": "Textes sources"
+  "search:rootTexts": "Textes sources",
+  "search:search": "Recherche"
 }
