@@ -215,5 +215,6 @@
   "offline:downloadStarted": "Votre téléchargement a commencé. Vous pouvez continuer à utiliser le site et nous vous ferons savoir quand il sera terminé.",
   "offline:downloading": "En cours de téléchargement",
   "offline:extraFeatures": "Si vous souhaitez des fonctionnalités supplémentaires, faites-le nous savoir.",
-  "offline:language": "Langue"
+  "offline:language": "Langue",
+  "offline:networkError": "Erreur de réseau"
 }
