@@ -209,5 +209,6 @@
   "offline:downloadInProgress": "Téléchargement en cours.",
   "offline:downloadParallels": "Inclure les parallèles",
   "offline:downloadParallelsDescription": "Sélectionner pour télécharger les tables de parallèles pour les textes aussi.",
-  "offline:downloadPaused": "Télécharger pausé."
+  "offline:downloadPaused": "Télécharger pausé.",
+  "offline:downloadRootTexts": "Inclure les textes sources"
 }
