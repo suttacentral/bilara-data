@@ -203,5 +203,6 @@
   "offline:chineseLookups": "Recherches en chinois",
   "offline:chineseLookupsDescription": "Sélectionner pour télécharger les recherches de dictionnaires de mots chinois dans les langues suivantes :",
   "offline:doesntSupportPWAs": "Malheureusement, nous ne prenons pas en charge les fonctionnalités avancées de Progressive Web App (PWA) sur votre plateforme. Si vous souhaitez une utilisation hors connexion complète, veuillez utiliser une version actualisée de Chrome. Nous prévoyons d’implémenter davantage de fonctionnalités PWA sur d’autres navigateurs à l’avenir.",
-  "offline:downloadButton": "Télécharger les textes en {languageName}"
+  "offline:downloadButton": "Télécharger les textes en {languageName}",
+  "offline:downloadComplete": "Votre téléchargement est terminé. Vous pouvez maintenant lire les suttas en {lang} hors connexion."
 }
