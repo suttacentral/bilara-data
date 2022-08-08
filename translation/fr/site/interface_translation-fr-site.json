@@ -258,5 +258,6 @@
   "suttaplex:fullParallel": "Parallèle intégral : différentes versions du même texte.",
   "suttaplex:goToTextInOriginalLanguage": "Aller au texte dans la langue originale",
   "suttaplex:goToTranslation": "Aller à une traduction de {author}",
-  "suttaplex:hasNoParallels": "Ce texte n’a aucun parallèle enregistré."
+  "suttaplex:hasNoParallels": "Ce texte n’a aucun parallèle enregistré.",
+  "suttaplex:inAncientTexts": "dans les textes anciens"
 }
