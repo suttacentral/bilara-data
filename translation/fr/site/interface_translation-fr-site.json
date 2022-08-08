@@ -48,6 +48,7 @@
   "dictionary:rememberSettingsDisabled": "Les paramètres que vous avez choisis ne seront pas mémorisés la prochaine fois que vous visiterez SuttaCentral.",
   "dictionary:rememberSettingsEnabled": "Les paramètres que vous avez choisis seront mémorisés la prochaine fois que vous visiterez SuttaCentral.",
   "dictionary:scriptChanged": "Le pali est maintenant affiché en script {paliScript}.",
+  "dictionary:showHighlighting": "Mettre en évidence les détails critiques du texte",
   "interface:abhidhammaEssayTitle": "Abhidhamma : une analyse systématique de la doctrine ",
   "interface:suttaEssayTitle": "Discours : conversations avec le Bouddha ",
   "interface:vinayaEssayTitle": "La Discipline Monastique : de quelle manière les communautés monastiques devraient-elles vivre"
