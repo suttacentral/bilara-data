@@ -218,5 +218,6 @@
   "offline:language": "Langue",
   "offline:networkError": "Erreur de réseau",
   "offline:networkLost": "Connexion internet perdue. Mise en pause du téléchargement.",
-  "offline:networkRecovered": "Connexion internet rétablie. Reprise du téléchargement."
+  "offline:networkRecovered": "Connexion internet rétablie. Reprise du téléchargement.",
+  "offline:newTech": "Les PWA sont une nouvelle technologie. Pour l’instant, l’utilisation hors connexion présente certaines limites :"
 }
