@@ -266,5 +266,6 @@
   "suttaplex:itemNotFound": "Erreur 404 : Article non trouvé.",
   "suttaplex:listenSutta": "Écouter ce sutta",
   "suttaplex:mention": "Mention : un texte est cité ou mentionné dans un autre.",
-  "suttaplex:ofRootText": "du texte source"
+  "suttaplex:ofRootText": "du texte source",
+  "suttaplex:originalTitle": "Titre original"
 }
