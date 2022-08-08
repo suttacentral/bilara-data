@@ -205,7 +205,7 @@
   "offline:doesntSupportPWAs": "Malheureusement, nous ne prenons pas en charge les fonctionnalités avancées de Progressive Web App (PWA) sur votre plateforme. Si vous souhaitez une utilisation hors connexion complète, veuillez utiliser une version actualisée de Chrome. Nous prévoyons d’implémenter davantage de fonctionnalités PWA sur d’autres navigateurs à l’avenir.",
   "offline:downloadButton": "Télécharger les textes en {languageName}",
   "offline:downloadComplete": "Votre téléchargement est terminé. Vous pouvez maintenant lire les suttas en {lang} hors connexion.",
-  "offline:downloadErrored": "Votre téléchargement est terminé, mais nous n’avons pas été en mesure de télécharger tous les textes demandés. {échec} sur {total} des demandes n’ont pas abouti correctement.",
+  "offline:downloadErrored": "Votre téléchargement est terminé, mais nous n’avons pas été en mesure de télécharger tous les textes demandés. {failed} sur {total} des demandes n’ont pas abouti correctement.",
   "offline:downloadInProgress": "Téléchargement en cours.",
   "offline:downloadParallels": "Inclure les parallèles",
   "offline:downloadParallelsDescription": "Sélectionner pour télécharger les tables de parallèles pour les textes aussi.",
