@@ -253,5 +253,6 @@
   "suttaplex:beginner": "Recommandé pour les étudiants débutants",
   "suttaplex:blurb": "Aperçu",
   "suttaplex:countParallel": "{count} parallèle",
-  "suttaplex:countParallels": "{count} parallèles"
+  "suttaplex:countParallels": "{count} parallèles",
+  "suttaplex:edition": "édition"
 }
