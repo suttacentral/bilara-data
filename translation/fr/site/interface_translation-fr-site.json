@@ -244,5 +244,6 @@
   "share:cite": "Citer",
   "share:citeCopied": "Citation copiée dans le presse-papiers !",
   "share:copyLink": "Copier le lien",
-  "share:copyTable": "Table de copie"
+  "share:copyTable": "Table de copie",
+  "share:error": "Une erreur s’est produite."
 }
