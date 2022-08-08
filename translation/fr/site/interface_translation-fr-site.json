@@ -241,5 +241,6 @@
   "search:searchResultsText": "Résultats de la recherche pour",
   "search:searchTooltip": "Rechercher sur SuttaCentral",
   "search:translations": "Traductions",
-  "share:cite": "Citer"
+  "share:cite": "Citer",
+  "share:citeCopied": "Citation copiée dans le presse-papiers !"
 }
