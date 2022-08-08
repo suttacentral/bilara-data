@@ -230,5 +230,6 @@
   "offline:supportsPWAs": "Votre navigateur prend en charge les applications Web progressives !",
   "offline:suttasOnly": "Suttas uniquement, pas Vinaya ou Abhidhamma.",
   "offline:usingOffline": "Utiliser SuttaCentral hors connexion",
-  "search:all": "Tous"
+  "search:all": "Tous",
+  "search:dictionaries": "Dictionnaires"
 }
