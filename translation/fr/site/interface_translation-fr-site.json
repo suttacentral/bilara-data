@@ -248,5 +248,6 @@
   "share:error": "Une erreur s’est produite.",
   "share:linkCopied": "Lien copié dans le presse-papiers !",
   "share:tableCopied": "La table de parallels copiée dans le presse-papiers !",
-  "suttaplex:advanced": "Recommandé pour les étudiants avancés"
+  "suttaplex:advanced": "Recommandé pour les étudiants avancés",
+  "suttaplex:alternateText": "Numéro alternatif dans l’édition {book} :"
 }
