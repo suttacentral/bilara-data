@@ -190,5 +190,6 @@
   "interface:view": "Voir {pitaka}",
   "interface:vinaya": "Discipline Monastique",
   "interface:vinayaEssayTitle": "La Discipline Monastique : de quelle manière les communautés monastiques devraient-elles vivre",
-  "interface:vinayaTitle": "Discipline Monastique"
+  "interface:vinayaTitle": "Discipline Monastique",
+  "interface:voice": "Écouter sur SC Voice"
 }
