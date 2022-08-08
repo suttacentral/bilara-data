@@ -260,5 +260,6 @@
   "suttaplex:goToTranslation": "Aller à une traduction de {author}",
   "suttaplex:hasNoParallels": "Ce texte n’a aucun parallèle enregistré.",
   "suttaplex:inAncientTexts": "dans les textes anciens",
-  "suttaplex:inModernLanguages": "dans d’autres langues modernes"
+  "suttaplex:inModernLanguages": "dans d’autres langues modernes",
+  "suttaplex:inYourLanguage": "dans la langue de votre choix"
 }
