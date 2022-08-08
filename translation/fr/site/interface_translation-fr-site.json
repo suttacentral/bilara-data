@@ -263,5 +263,6 @@
   "suttaplex:inModernLanguages": "dans d’autres langues modernes",
   "suttaplex:inYourLanguage": "dans la langue de votre choix",
   "suttaplex:intermediate": "Recommandé pour les étudiants intermédiaires",
-  "suttaplex:itemNotFound": "Erreur 404 : Article non trouvé."
+  "suttaplex:itemNotFound": "Erreur 404 : Article non trouvé.",
+  "suttaplex:listenSutta": "Écouter ce sutta"
 }
