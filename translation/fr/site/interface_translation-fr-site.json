@@ -221,5 +221,6 @@
   "offline:networkRecovered": "Connexion internet rétablie. Reprise du téléchargement.",
   "offline:newTech": "Les PWA sont une nouvelle technologie. Pour l’instant, l’utilisation hors connexion présente certaines limites :",
   "offline:oneLang": "Une seule langue.",
-  "offline:paliLookups": "Recherches en pali"
+  "offline:paliLookups": "Recherches en pali",
+  "offline:paliLookupsDescription": "Sélectionnez pour télécharger les recherches de dictionnaires de mots pali dans les langues suivantes :"
 }
