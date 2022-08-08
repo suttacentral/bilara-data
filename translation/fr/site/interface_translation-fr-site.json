@@ -206,5 +206,6 @@
   "offline:downloadButton": "Télécharger les textes en {languageName}",
   "offline:downloadComplete": "Votre téléchargement est terminé. Vous pouvez maintenant lire les suttas en {lang} hors connexion.",
   "offline:downloadErrored": "Votre téléchargement est terminé, mais nous n’avons pas été en mesure de télécharger tous les textes demandés. {échec} sur {total} des demandes n’ont pas abouti correctement.",
-  "offline:downloadInProgress": "Téléchargement en cours."
+  "offline:downloadInProgress": "Téléchargement en cours.",
+  "offline:downloadParallels": "Inclure les parallèles"
 }
