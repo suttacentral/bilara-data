@@ -243,5 +243,6 @@
   "search:translations": "Traductions",
   "share:cite": "Citer",
   "share:citeCopied": "Citation copiée dans le presse-papiers !",
-  "share:copyLink": "Copier le lien"
+  "share:copyLink": "Copier le lien",
+  "share:copyTable": "Table de copie"
 }
