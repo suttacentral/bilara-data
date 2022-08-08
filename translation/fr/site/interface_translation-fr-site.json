@@ -73,6 +73,7 @@
   "donate:monthly": "Mensuel",
   "donate:oneTime": "Une fois",
   "donate:payWithCard": "Faire un don avec une carte",
+  "donate:storageDisclaimer": "SuttaCentral ne traite ni ne stocke les données de votre carte de crédit. Toutes les transactions par carte de crédit sont traitées de manière sécurisée par <a href='https://stripe.com' target='blank'>Stripe</a>.",
   "interface:abhidhammaEssayTitle": "Abhidhamma : une analyse systématique de la doctrine ",
   "interface:suttaEssayTitle": "Discours : conversations avec le Bouddha ",
   "interface:vinayaEssayTitle": "La Discipline Monastique : de quelle manière les communautés monastiques devraient-elles vivre"
