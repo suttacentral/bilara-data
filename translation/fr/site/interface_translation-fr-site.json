@@ -194,5 +194,6 @@
   "interface:voice": "Écouter sur SC Voice",
   "interface:whatsnew": "Nouveautés",
   "interface:xct": "Tibétain Classique",
-  "interface:xto": "Tokharian A"
+  "interface:xto": "Tokharian A",
+  "offline:addToHomeScreen": "Ajouter à l’écran d’accueil"
 }
