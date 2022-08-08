@@ -271,5 +271,6 @@
   "suttaplex:resemblingParallel": "Parallèle ressemblant : les textes sont comparables.",
   "suttaplex:retellingParallel": "Reprise : les événements d’un texte sont repris dans un autre.",
   "suttaplex:share": "Partager",
-  "suttaplex:suttaCentralID": "Code SuttaCentral"
+  "suttaplex:suttaCentralID": "Code SuttaCentral",
+  "suttaplex:translation": "traduction"
 }
