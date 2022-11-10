@@ -120,6 +120,28 @@
       }
     ]
   },
+  "es_ms_translation_sumano_sutta": {
+    "name": "Spanish sutta translation Bhante Sumano",
+    "root_path": "root/pli/ms/sutta/an",
+    "translation_path": "translation/es/sumano/sutta/an",
+    "translation_muids": "translation-es-sumano",
+    "collaborator": [
+      {
+        "author_github_handle": "vensumano"
+      }
+    ]
+  },
+  "es_ms_translation_sumano_vinaya": {
+    "name": "Spanish vinaya translation Bhante Sumano",
+    "root_path": "root/pli/ms/vinaya",
+    "translation_path": "translation/es/sumano/vinaya",
+    "translation_muids": "translation-es-sumano",
+    "collaborator": [
+      {
+        "author_github_handle": "vensumano"
+      }
+    ]
+  },
   "en_ms_translation_sujato": {
     "name": "English translation Bhikkhu Sujato",
     "root_path": "root/pli/ms/sutta",
@@ -181,25 +203,14 @@
       }
     ]
   },
-  "es_ms_translation_sumano_sutta": {
-    "name": "Spanish sutta translation Bhante Sumano",
-    "root_path": "root/pli/ms/sutta/an",
-    "translation_path": "translation/es/sumano/sutta/an",
-    "translation_muids": "translation-es-sumano",
+  "en_vri_translation_pasanna": {
+    "name": "English translation Venerable Pasanna",
+    "root_path": "root/pli/vri/vinaya",
+    "translation_path": "translation/en/pasanna/vinaya",
+    "translation_muids": "translation-en-pasanna",
     "collaborator": [
       {
-        "author_github_handle": "vensumano"
-      }
-    ]
-  },
-  "es_ms_translation_sumano_vinaya": {
-    "name": "Spanish vinaya translation Bhante Sumano",
-    "root_path": "root/pli/ms/vinaya",
-    "translation_path": "translation/es/sumano/vinaya",
-    "translation_muids": "translation-es-sumano",
-    "collaborator": [
-      {
-        "author_github_handle": "vensumano"
+        "author_github_handle": "delightedbydhamma"
       }
     ]
   },
