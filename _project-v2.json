@@ -136,6 +136,14 @@
     "creator_github_handle": "vimalanyani"
   },
   {
+    "project_uid": "en_vri_translation_brahmali",
+    "name": "English translation Bhikkhu Brahmali",
+    "root_path": "root/pli/vri/vinaya",
+    "translation_path": "translation/en/brahmali/vinaya",
+    "translation_muids": "translation-en-brahmali",
+    "creator_github_handle": "brahmali"
+  },
+  {
     "project_uid": "en_vri_translation_comm-team",
     "name": "English translation of the commentaries",
     "root_path": "root/pli/vri/sutta/atthakatha",
@@ -150,6 +158,14 @@
     "translation_path": "translation/en/pasanna/vinaya",
     "translation_muids": "translation-en-pasanna",
     "creator_github_handle": "delightedbydhamma"
+  },
+  {
+    "project_uid": "en_vri_translation_sujato",
+    "name": "English translation Bhikkhu Sujato",
+    "root_path": "root/pli/vri/vinaya",
+    "translation_path": "translation/en/sujato/vinaya",
+    "translation_muids": "translation-en-sujato",
+    "creator_github_handle": "sujato"
   },
   {
     "project_uid": "fi_ms_translation_mudito_sutta",
