@@ -235,5 +235,9 @@
   "dn17:1.31.9": "Srebrna ograda je imala srebrne stubove i zlatne rukohvate.",
   "dn17:1.32.1": "Okruživalo ga je sedam redova palmi,",
   "dn17:1.32.2": "načinjenih od zlata, srebra, lapisa, kristala, rubina, safira i sedmi od sveg drugog dragog kamenja.",
-  "dn17:1.32.3": "Zlatne palme imale su trup od zlata, a lišće i plodove od srebra."
+  "dn17:1.32.3": "Zlatne palme imale su trup od zlata, a lišće i plodove od srebra.",
+  "dn17:1.32.4": "Srebrne palme male su trup od srebra, a lišće i plodove od zlata.",
+  "dn17:1.32.5": "Lapis palme imale su trup od lapisa, a lišće i plodove od kristala.",
+  "dn17:1.32.6": "Kristalne palme imale su trup od kristala, a lišće i plodove od lapisa.",
+  "dn17:1.32.7": "Rubin palme imale su trup od rubina, a lišće i plodove od safira."
 }
