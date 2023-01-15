@@ -219,7 +219,7 @@
   "pli-tv-bu-vb-ss3:4.9.5": "<p data-counter='9'>{}",
   "pli-tv-bu-vb-ss3:4.9.6": "{}",
   "pli-tv-bu-vb-ss3:4.9.7": "{}</p>",
-  "pli-tv-bu-vb-ss3:4.10.1": "<hr><p>{}",
+  "pli-tv-bu-vb-ss3:4.10.1": "<hr><p data-counter='10–12'>{}",
   "pli-tv-bu-vb-ss3:4.10.2": "{}",
   "pli-tv-bu-vb-ss3:4.10.3": "{}",
   "pli-tv-bu-vb-ss3:4.10.4": "{}",
@@ -227,6 +227,6 @@
   "pli-tv-bu-vb-ss3:4.10.6": "{}",
   "pli-tv-bu-vb-ss3:4.10.7": "{}",
   "pli-tv-bu-vb-ss3:4.10.8": "{}",
-  "pli-tv-bu-vb-ss3:4.10.9": "<span data-content='10–12'></span>{}</p></section>",
+  "pli-tv-bu-vb-ss3:4.10.9": "{}</p></section>",
   "pli-tv-bu-vb-ss3:4.10.10": "<p class='endsutta'>{}</p></article>"
 }
