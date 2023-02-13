@@ -25,5 +25,5 @@
   "sn11.25:4.2": "<span class='verse-line'>{}</span>",
   "sn11.25:4.3": "<span class='verse-line'>{}</span>",
   "sn11.25:4.4": "<span class='verse-line'>{}</span></p></blockquote>",
-  "sn11.25:4.5": "<p class='endbook'>{}</p></article>"
+  "sn11.25:4.5": "<p class='xendbook'>{}</p></article>"
 }

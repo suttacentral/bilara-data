@@ -38,5 +38,5 @@
   "sn21.12:6.3": "<span class='verse-line'>{}</span>",
   "sn21.12:6.4": "<span class='verse-line'>{}</span>",
   "sn21.12:6.5": "<span class='verse-line'>{}</span></p></blockquote>",
-  "sn21.12:6.6": "<p class='endbook'>{}</p></article>"
+  "sn21.12:6.6": "<p class='xendbook'>{}</p></article>"
 }
