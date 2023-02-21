@@ -9,5 +9,6 @@
   "acknowledgments:8": "Coordination du projet ; conception du système et de la base de données ; administration de la base de données et des données ; saisie des données. ",
   "acknowledgments:9": "Hugo Gayosso, Chris Kang ",
   "acknowledgments:10": "Saisie des données. ",
-  "acknowledgments:11": "Version 2—2012 "
+  "acknowledgments:11": "Version 2—2012 ",
+  "acknowledgments:12": "Fin 2012, nous avons entamé une nouvelle refonte, dont l’équipe principale était composée de Rod Bucknell, John Kelly et Bhante Sujato. Cette démarche était à l’origine motivée par le travail de John Kelly qui assistait Bhikkhu Bodhi à la traduction de l’Aṅguttara Nikāya, ce qui a permis de découvrir un certain nombre de nouveaux parallèles. Cependant, nous avons décidé d’aller au-delà de quelques ajouts et nous nous sommes lancés dans une refonte complète. Alors que la structure des données a été conservée avec seulement des progrès marginaux, l’ensemble du code du site internet a été réécrit. Pour cette nouvelle édition, l’équipe principale est la suivante. "
 }
