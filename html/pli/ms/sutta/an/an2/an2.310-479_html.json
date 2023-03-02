@@ -1,7 +1,6 @@
 {
-  "an2.310-319:0.1": "<section class='range' id='an2.310-479'><header><ul><li class='division'>{}</li>",
-  "an2.310-319:0.2": "<li>{}</li></ul>",
-  "an2.310-319:0.3": "<h1 class='range-title'>{}</h1></header>",
+  "an2.310-319:0.1": "<section class='range' id='an2.310-479'><header><ul><li class='division'>{}</li></ul>",
+  "an2.310-319:0.2": "<h1 class='range-title'>{}</h1></header>",
   "an2.310-319:1.0": "<article id='an2.310-319'><h2 class='sutta-title'>{}</h2>",
   "an2.310-319:1.1": "<p data-counter='1'>{}",
   "an2.310-319:1.2": "{}",
@@ -15,6 +14,6 @@
   "an2.320-479:1.4": "{}</p>",
   "an2.320-479:2.1": "<p>{}",
   "an2.320-479:2.2": "{}</p>",
-  "an2.320-479:2.3": "<p class='endsection'>{}</p>",
+  "an2.320-479:2.3": "<p class='endsutta'>{}</p>",
   "an2.320-479:2.4": "<p class='endbook'>{}</p></article></section>"
 }
