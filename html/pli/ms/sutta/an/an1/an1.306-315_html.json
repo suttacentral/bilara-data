@@ -1,7 +1,6 @@
 {
-  "an1.306:0.1": "<section class='range' id='an1.306-315'><header><ul><li class='division'>{}</li>",
-  "an1.306:0.2": "<li>{}</li></ul>",
-  "an1.306:0.3": "<h1 class='range-title'>{}</h1></header>",
+  "an1.306:0.1": "<section class='range' id='an1.306-315'><header><ul><li class='division'>{}</li></ul>",
+  "an1.306:0.2": "<h1 class='range-title'>{}</h1></header>",
   "an1.306:1.0": "<article id='an1.306'><h2 class='sutta-title'>{}</h2>",
   "an1.306:1.1": "<p>{}",
   "an1.306:1.2": "{}</p></article>",
@@ -46,5 +45,5 @@
   "an1.315:1.7": "{}",
   "an1.315:1.8": "{}",
   "an1.315:1.9": "{}</p>",
-  "an1.315:1.10": "<p class='endsection'>{}</p></article></section>"
+  "an1.315:1.10": "<p class='endsutta'>{}</p></article></section>"
 }

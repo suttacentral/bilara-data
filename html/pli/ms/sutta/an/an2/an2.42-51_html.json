@@ -1,7 +1,6 @@
 {
-  "an2.42:0.1": "<section class='range' id='an2.42-51'><header><ul><li class='division'>{}</li>",
-  "an2.42:0.2": "<li>{}</li></ul>",
-  "an2.42:0.3": "<h1 class='range-title'>{}</h1></header>",
+  "an2.42:0.1": "<section class='range' id='an2.42-51'><header><ul><li class='division'>{}</li></ul>",
+  "an2.42:0.2": "<h1 class='range-title'>{}</h1></header>",
   "an2.42:1.0": "<article id='an2.42'><h2 class='sutta-title'>{}</h2>",
   "an2.42:1.1": "<p>{}",
   "an2.42:1.2": "{}",
@@ -138,11 +137,11 @@
   "an2.51:2.6": "{}",
   "an2.51:2.7": "{}",
   "an2.51:2.8": "{}</p>",
-  "an2.51:2.9": "<p class='endsection'>{}</p>",
+  "an2.51:2.9": "<p class='endvagga'>{}</p>",
   "an2.51:3.0": "<p class='uddana-intro'>{}</p>",
   "an2.51:3.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "an2.51:3.2": "<span class='verse-line'>{}</span>",
   "an2.51:3.3": "<span class='verse-line'>{}</span>",
   "an2.51:3.4": "<span class='verse-line'>{}</span></p></blockquote>",
-  "an2.51:3.5": "<p class='endsutta'>{}</p></article></section>"
+  "an2.51:3.5": "<p class='endbook'>{}</p></article></section>"
 }

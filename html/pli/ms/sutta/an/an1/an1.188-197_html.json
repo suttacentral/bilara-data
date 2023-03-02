@@ -1,7 +1,6 @@
 {
-  "an1.188:0.1": "<section class='range' id='an1.188-197'><header><ul><li class='division'>{}</li>",
-  "an1.188:0.2": "<li>{}</li></ul>",
-  "an1.188:0.3": "<h1 class='range-title sutta-title'>{}</h1></header>",
+  "an1.188:0.1": "<section class='range' id='an1.188-197'><header><ul><li class='division'>{}</li></ul>",
+  "an1.188:0.2": "<h1 class='range-title'>{}</h1></header>",
   "an1.188:1.1": "<article id='an1.188'><p data-counter='1'>{}</p></article>",
   "an1.189:1.1": "<article id='an1.189'><p data-counter='2'>{}</p></article>",
   "an1.190:1.1": "<article id='an1.190'><p data-counter='3'>{}</p></article>",
@@ -12,5 +11,5 @@
   "an1.195:1.1": "<article id='an1.195'><p data-counter='8'>{}</p></article>",
   "an1.196:1.1": "<article id='an1.196'><p data-counter='9'>{}</p></article>",
   "an1.197:1.1": "<article id='an1.197'><p data-counter='10'>{}</p>",
-  "an1.197:1.2": "<p class='endsection'>{}</p></article></section>"
+  "an1.197:1.2": "<p class='endsutta'>{}</p></article></section>"
 }

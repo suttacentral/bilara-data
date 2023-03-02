@@ -146,5 +146,17 @@
   "sekha": {
     "type": "translator",
     "name": "Bhikkhu Sekha"
+  },
+  "davis": {
+    "type": "translator",
+    "name": "Dr Joongpyo Lee"
+  },
+  "pasanna": {
+    "type": "translator",
+    "name": "Venerable Pasanna"
+  },
+  "marcinow": {
+    "type": "translator",
+    "name": "Piotr Marcinów"
   }
 }
