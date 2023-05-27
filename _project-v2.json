@@ -82,8 +82,16 @@
   {
     "project_uid": "en_ms_translation_soma",
     "name": "English translation Ayya Soma",
-    "root_path": "root/pli/ms/sutta/kn/thig",
-    "translation_path": "translation/en/soma/sutta/kn/thig",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/en/soma/sutta",
+    "translation_muids": "translation-en-soma",
+    "creator_github_handle": "ayyasoma"
+  },
+  {
+    "project_uid": "en_ms_translation_soma_vinaya",
+    "name": "English Vinaya translation Ayya Soma",
+    "root_path": "root/pli/ms/vinaya",
+    "translation_path": "translation/en/soma/vinaya",
     "translation_muids": "translation-en-soma",
     "creator_github_handle": "ayyasoma"
   },
@@ -266,8 +274,16 @@
   {
     "project_uid": "it_ms_translation_soma",
     "name": "Italian translation Ayya Soma",
-    "root_path": "root/pli/ms/sutta/kn/thig",
-    "translation_path": "translation/it/soma/sutta/kn/thig",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/it/soma/sutta",
+    "translation_muids": "translation-it-soma",
+    "creator_github_handle": "ayyasoma"
+  },
+  {
+    "project_uid": "it_ms_translation_soma_vinaya",
+    "name": "Italian Vinaya translation Ayya Soma",
+    "root_path": "root/pli/ms/vinaya",
+    "translation_path": "translation/it/soma/vinaya",
     "translation_muids": "translation-it-soma",
     "creator_github_handle": "ayyasoma"
   },
