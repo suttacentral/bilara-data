@@ -243,6 +243,7 @@
   "suttaplex:translationsIn": "翻译 ",
   "suttaplex:volumeAndPage": "卷和页 ",
   "suttaplex:volumeAndPagePTS1": "PTS 卷和页：第一版= {pts-vp-pli1ed}; 第二版= {pts-vp-pli2ed} ",
+  "text:languagePromptMessage": "您可以从工具栏中的菜单更改语言。 ",
   "text:segmentNumber": "SuttaCentral 段号 ",
   "text:viewImage": "查看页面图像"
 }
