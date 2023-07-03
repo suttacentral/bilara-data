@@ -39,6 +39,7 @@
   "dictionary:showHighlightingDisabled": "高亮显示现已停用 ",
   "dictionary:showHighlightingEnabled": "启用高亮显示 ",
   "dictionary:sideBySide": "译文和原文并排显示 ",
+  "dictionary:sidenotes": "显示为旁注 ",
   "dictionary:similarSpelling": "相似的拼写 ",
   "dictionary:textViewDescription": "一些SuttaCentral的文本已经被分段; 原文与译文逐行匹配. (<a href='' title='查看已分段的文本' class='tools'>See list of segmented texts.</a>)对于此类文本, 可同时参阅原文与译文。 ",
   "dictionary:textViewDisabled": "巴利文-英文 现已停用 ",
