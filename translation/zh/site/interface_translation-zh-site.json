@@ -1,4 +1,7 @@
 {
+  "badge:aligned": "与根文本对齐翻译",
+  "badge:annotated": "带注释",
+  "badge:legacy": "legacy",
   "dictionary:activateChineseDescription": "这启动古中文查找。单词解读来自佛教数据字典（Digital Dictionary of Buddhism） ",
   "dictionary:activateChineseLookup": "启用中文查找 ",
   "dictionary:activatePaliDescription": "分析巴利文与尝试显示单词的含义。请注意，这只是一个辅助，并不一定准确。单词的解读来自New Concise Pali English Dictionary。 ",
