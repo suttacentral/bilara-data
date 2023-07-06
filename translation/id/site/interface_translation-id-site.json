@@ -4,6 +4,7 @@
   "badge:legacy": "warisan ",
   "dictionary:activateChineseLookup": "Aktifkan _lookup_ kata bahasa Cina ",
   "dictionary:activatePaliLookup": "Aktifkan _lookup_ kata bahasa Pali ",
+  "dictionary:changePaliScript": "Ganti aksara Pali ",
   "dictionary:changePaliScriptDescription": "Untuk membaca naskah Pali dalam berbagai jenis aksara. ",
   "dictionary:changePaliScriptLabel": "Aksara ",
   "dictionary:lineByLine": "Baris demi baris ",
