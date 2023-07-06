@@ -14,6 +14,7 @@
   "dictionary:lookupDictionaryEnabled": "Kamus lookup {lookupDictionary} telah diaktifkan. ",
   "dictionary:none": "Nonaktif ",
   "dictionary:noteDisplayTypeNone": "Nonaktif ",
+  "dictionary:noteDisplayTypeSidenotes": "Tampilkan sebagai sidenote ",
   "dictionary:notes": "Catatan ",
   "dictionary:referenceDisplayTypeNone": "Nonaktif ",
   "dictionary:referenceDisplayTypePts": "PTS ",
