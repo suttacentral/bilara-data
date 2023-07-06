@@ -10,5 +10,6 @@
   "dictionary:lineByLine": "Baris demi baris ",
   "dictionary:none": "Nonaktif ",
   "dictionary:noteDisplayTypeNone": "Nonaktif ",
-  "dictionary:notes": "Catatan "
+  "dictionary:notes": "Catatan ",
+  "dictionary:referenceDisplayTypeNone": "Nonaktif "
 }
