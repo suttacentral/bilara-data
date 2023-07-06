@@ -11,6 +11,7 @@
   "dictionary:dictionaryResultsText": "Hasil kamus Pali untuk ",
   "dictionary:lineByLine": "Baris demi baris ",
   "dictionary:lookup": "Lookup ",
+  "dictionary:lookupDictionaryEnabled": "Kamus lookup {lookupDictionary} telah diaktifkan. ",
   "dictionary:none": "Nonaktif ",
   "dictionary:noteDisplayTypeNone": "Nonaktif ",
   "dictionary:notes": "Catatan ",
