@@ -17,5 +17,6 @@
   "dictionary:referenceDisplayTypeSya": "Edisi Thai 2436, 2469–2471, 2538 ",
   "dictionary:referenceDisplayTypeVri": "Vipassanā Research Institute 2537–2542 ",
   "error:error404": "Kesalahan 404 ",
-  "error:generalError": "Kesalahan Umum "
+  "error:generalError": "Kesalahan Umum ",
+  "error:networkError": "Kesalahan Jaringan "
 }
