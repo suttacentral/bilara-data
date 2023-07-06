@@ -2,5 +2,6 @@
   "badge:aligned": "selaras ",
   "badge:annotated": "beranotasi ",
   "badge:legacy": "warisan ",
-  "dictionary:lineByLine": "Baris demi baris "
+  "dictionary:lineByLine": "Baris demi baris ",
+  "dictionary:noteDisplayTypeNone": "Tidak ada "
 }
