@@ -85,6 +85,7 @@
   "error:offline": "Vous êtes hors connexion.",
   "error:pageNoFound": "Page non trouvée",
   "error:translationDataLoadError": "Erreur de chargement des données de traduction",
+  "footer:about": "À propos ",
   "interface:aNewBeginning": "SuttaCentral 2018",
   "interface:aNewBeginningTitle": "SuttaCentral 2018",
   "interface:ab": "Traités systématiques",
