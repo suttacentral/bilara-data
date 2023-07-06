@@ -21,5 +21,6 @@
   "error:networkError": "Kesalahan Jaringan ",
   "error:offline": "Anda sedang luring. ",
   "error:pageNoFound": "Halaman Tidak Ditemukan ",
-  "footer:about": "Tentang SuttaCentral "
+  "footer:about": "Tentang SuttaCentral ",
+  "footer:acknowledgments": "Apresiasi "
 }
