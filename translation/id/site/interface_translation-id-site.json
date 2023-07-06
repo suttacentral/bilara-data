@@ -11,5 +11,6 @@
   "dictionary:none": "Nonaktif ",
   "dictionary:noteDisplayTypeNone": "Nonaktif ",
   "dictionary:notes": "Catatan ",
-  "dictionary:referenceDisplayTypeNone": "Nonaktif "
+  "dictionary:referenceDisplayTypeNone": "Nonaktif ",
+  "dictionary:referenceDisplayTypePts": "PTS "
 }
