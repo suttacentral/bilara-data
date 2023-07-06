@@ -20,5 +20,6 @@
   "error:generalError": "Kesalahan Umum ",
   "error:networkError": "Kesalahan Jaringan ",
   "error:offline": "Anda sedang luring. ",
-  "error:pageNoFound": "Halaman Tidak Ditemukan "
+  "error:pageNoFound": "Halaman Tidak Ditemukan ",
+  "footer:about": "Tentang "
 }
