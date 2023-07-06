@@ -3,5 +3,6 @@
   "badge:annotated": "beranotasi ",
   "badge:legacy": "warisan ",
   "dictionary:lineByLine": "Baris demi baris ",
+  "dictionary:none": "Nonaktif ",
   "dictionary:noteDisplayTypeNone": "Tidak ada "
 }
