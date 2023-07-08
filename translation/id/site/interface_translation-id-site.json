@@ -200,5 +200,6 @@
   "offline:downloadInProgress": "Unduhan sedang berlangsung. ",
   "offline:downloadParallels": "Sertakan paralel ",
   "offline:downloadParallelsDescription": "Pilih juga jika ingin mengunduh tabel paralel untuk naskah ",
+  "offline:downloadPaused": "Unduhan dijeda. ",
   "text:viewImage": "Lihat gambar halaman "
 }
