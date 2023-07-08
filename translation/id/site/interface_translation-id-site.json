@@ -117,6 +117,6 @@
   "interface:hideParallelsAndDetails": "Sembunyikan paralel dan rincian ",
   "interface:home": "Home ",
   "interface:introduction": "Pengantar ",
-  "interface:introductionPitaka": "Pengantar {pitaka} ",
+  "interface:introductionPitaka": "Pengantar untuk {pitaka} ",
   "text:viewImage": "Lihat gambar halaman "
 }
