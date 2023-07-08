@@ -69,6 +69,7 @@
   "donate:chooseFrequency": "Anda dapat memberikan donasi satu kali atau donasi bulanan. ",
   "donate:currency": "Mata Uang ",
   "donate:donateNow": "Donasi Sekarang ",
+  "donate:errorMessage": "Layanan untuk sementara tidak tersedia, silakan coba lagi nanti ",
   "error:error404": "Kesalahan 404 ",
   "error:generalError": "Kesalahan Umum ",
   "error:networkError": "Kesalahan Jaringan ",
