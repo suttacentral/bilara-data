@@ -196,5 +196,6 @@
   "offline:doesntSupportPWAs": "Sayangnya, kami tidak mendukung fitur Progressive Web App (PWA) lanjutan di perangkat Anda. Jika Anda ingin penggunaan luring sepenuhnya, harap gunakan Chrome versi terbaru. Kami berencana untuk mengimplementasikan lebih banyak fitur PWA di peramban web lain di masa mendatang. ",
   "offline:downloadButton": "Unduh naskah dalam {languageName} ",
   "offline:downloadComplete": "Unduhan Anda selesai. Anda sekarang dapat membaca sutta dalam {lang} secara luring. ",
+  "offline:downloadErrored": "Unduhan Anda selesai, tapi kami tidak dapat mengunduh semua naskah yang diminta. {failed} dari {total} permintaan tidak diselesaikan dengan benar. ",
   "text:viewImage": "Lihat gambar halaman "
 }
