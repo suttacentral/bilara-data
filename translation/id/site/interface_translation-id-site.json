@@ -210,5 +210,6 @@
   "offline:networkError": "Kesalahan jaringan. ",
   "offline:networkLost": "Koneksi jaringan terputus. Menjeda unduhan. ",
   "offline:networkRecovered": "Koneksi jaringan pulih. Melanjutkan unduhan. ",
+  "offline:newTech": "PWA adalah teknologi baru. Untuk saat ini, penggunaan versi luring memiliki beberapa batasan: ",
   "text:viewImage": "Lihat gambar halaman "
 }
