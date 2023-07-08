@@ -52,6 +52,7 @@
   "dictionary:showHighlighting": "Sorot rincian penting naskah ",
   "dictionary:showHighlightingDescription": "Jika memungkinkan, sorot naskah untuk menampilkan rincian tambahan seperti pembacaan varian, koreksi, struktur, dll. ",
   "dictionary:showHighlightingDisabled": "Fitur sorotan sekarang dinonaktifkan. ",
+  "dictionary:showHighlightingEnabled": "Fitur sorotan sekarang diaktifkan. ",
   "dictionary:sideBySide": "Bersebelahan ",
   "error:error404": "Kesalahan 404 ",
   "error:generalError": "Kesalahan Umum ",
