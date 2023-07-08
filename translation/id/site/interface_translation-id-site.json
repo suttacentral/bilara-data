@@ -216,5 +216,6 @@
   "offline:paliLookupsDescription": "Pilih untuk mengunduh lookup kamus kata Pali dalam bahasa berikut: ",
   "offline:pwaDescription": "SuttaCentral adalah sebuah <a href='https://developers.google.com/web/progressive-web-apps/' target='_blank' rel='noopener'>Progressive Web App</a>. Pada perangkat yang didukung, beberapa fitur, termasuk navigasi dan halaman yang dikunjungi sebelumnya, akan tetap berfungsi meskipun Anda tidak memiliki koneksi internet. ",
   "offline:resetButton": "Hapus riwayat unduhan ",
+  "offline:resetComplete": "Riwayat unduhan telah dihapus ",
   "text:viewImage": "Lihat gambar halaman "
 }
