@@ -6,6 +6,7 @@
   "dictionary:activateChineseLookup": "Aktifkan _lookup_ kata bahasa Cina ",
   "dictionary:activatePaliDescription": "Menganalisis naskah Pali dan memunculkan makna kata. Sebagai catatan: hanya sebagai panduan, dan tidak selalu akurat. Makna kata berasal dari New Concise Pali English Dictionary. ",
   "dictionary:activatePaliLookup": "Aktifkan _lookup_ kata bahasa Pali ",
+  "dictionary:asterisk": "Tooltip pada tanda bintang ",
   "dictionary:changePaliScript": "Ganti aksara Pali ",
   "dictionary:changePaliScriptDescription": "Untuk membaca naskah Pali dalam berbagai jenis aksara. ",
   "dictionary:changePaliScriptLabel": "Aksara ",
