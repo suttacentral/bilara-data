@@ -199,6 +199,6 @@
   "offline:downloadErrored": "Unduhan Anda selesai, tapi kami tidak dapat mengunduh semua naskah yang diminta. {failed} dari {total} permintaan tidak diselesaikan dengan benar. ",
   "offline:downloadInProgress": "Unduhan sedang berlangsung. ",
   "offline:downloadParallels": "Sertakan paralel ",
-  "offline:downloadParallelsDescription": "Pilih untuk menyertakan pengunduhan tabel paralel untuk naskahh. ",
+  "offline:downloadParallelsDescription": "Pilih jika ingin mengunduh tabel paralel untuk naskah juga ",
   "text:viewImage": "Lihat gambar halaman "
 }
