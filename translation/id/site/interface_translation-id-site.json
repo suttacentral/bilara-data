@@ -51,7 +51,7 @@
   "dictionary:scriptChanged": "Pali sekarang ditampilkan dalam aksara {paliScript}. ",
   "dictionary:showHighlighting": "Sorot rincian penting naskah ",
   "dictionary:showHighlightingDescription": "Jika memungkinkan, sorot naskah untuk menampilkan rincian tambahan seperti pembacaan varian, koreksi, struktur, dll. ",
-  "dictionary:showHighlightingDisabled": "Fitur sorotan sekarang dinonaktifkan. ",
+  "dictionary:showHighlightingDisabled": "Fitur sorotan sekarang nonaktif. ",
   "dictionary:showHighlightingEnabled": "Fitur sorotan sekarang aktif. ",
   "dictionary:sideBySide": "Bersebelahan ",
   "error:error404": "Kesalahan 404 ",
