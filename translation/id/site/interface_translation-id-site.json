@@ -273,5 +273,6 @@
   "suttaplex:volumeAndPage": "Volume dan halaman ",
   "suttaplex:volumeAndPagePTS1": "Volume dan halaman PTS: edisi pertama = {pts-vp-pli1ed}; edisi kedua = {pts-vp-pli2ed} ",
   "text:languagePromptMessage": "Anda dapat mengubah bahasa dari menu di toolbar. ",
+  "text:segmentNumber": "Nomor segmen SuttaCentral ",
   "text:viewImage": "Lihat gambar halaman "
 }
