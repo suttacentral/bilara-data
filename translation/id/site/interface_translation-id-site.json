@@ -220,7 +220,7 @@
   "offline:resetButton": "Hapus riwayat unduhan ",
   "offline:resetComplete": "Riwayat unduhan telah dihapus ",
   "offline:selectDifferentLang": "Secara pengaturan bawaan, sutta Anda akan diunduh dalam bahasa situs yang Anda pilih. Jika Anda ingin memilih bahasa lain, pilih salah satu bahasa dari menu. ",
-  "offline:supportsPWAs": "Peramban web Anda mendukung Progressive Web Apps! ",
+  "offline:supportsPWAs": "Browser Anda mendukung Progressive Web Apps! ",
   "offline:suttasOnly": "Sutta saja, tidak termasuk Vinaya atau Abhidhamma. ",
   "offline:usingOffline": "Menggunakan SuttaCentral versi luring ",
   "search:all": "Semua ",
