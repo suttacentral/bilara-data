@@ -253,5 +253,6 @@
   "suttaplex:goToTextInOriginalLanguage": "Buka naskah dalam bahasa asli ",
   "suttaplex:goToTranslation": "Buka terjemahan oleh {author} ",
   "suttaplex:hasNoParallels": "Naskah ini tidak memiliki paralel yang tercatat. ",
+  "suttaplex:inAncientTexts": "dalam naskah kuno ",
   "text:viewImage": "Lihat gambar halaman "
 }
