@@ -202,5 +202,6 @@
   "offline:downloadParallelsDescription": "Pilih juga jika ingin mengunduh tabel paralel untuk naskah ",
   "offline:downloadPaused": "Unduhan dijeda. ",
   "offline:downloadRootTexts": "Sertakan teks sumber ",
+  "offline:downloadRootTextsDescription": "Pilih untuk mengunduh naskah dalam bahasa sumber juga. Pilihan ini termasuk kamus lookup Pali > {toLang}. Untuk mengubah lookup Anda, klik ",
   "text:viewImage": "Lihat gambar halaman "
 }
