@@ -218,5 +218,6 @@
   "offline:resetButton": "Hapus riwayat unduhan ",
   "offline:resetComplete": "Riwayat unduhan telah dihapus ",
   "offline:selectDifferentLang": "Secara pengaturan bawaan, sutta Anda akan diunduh dalam bahasa situs yang Anda pilih. Jika Anda ingin memilih bahasa lain, pilih salah satu bahasa dari menu. ",
+  "offline:supportsPWAs": "Peramban Anda mendukung Progressive Web Apps! ",
   "text:viewImage": "Lihat gambar halaman "
 }
