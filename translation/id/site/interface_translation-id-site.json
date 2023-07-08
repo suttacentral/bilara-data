@@ -47,6 +47,7 @@
   "dictionary:rememberSettings": "Ingat pengaturan ",
   "dictionary:rememberSettingsDescription": "Pilih ini agar pengaturan saat ini tidak berubah pada kunjungan ke SuttaCentral berikutnya. ",
   "dictionary:rememberSettingsDisabled": "Pengaturan yang Anda pilih tidak akan diingat saat Anda mengunjungi SuttaCentral lagi. ",
+  "dictionary:rememberSettingsEnabled": "Pengaturan yang Anda pilih akan diingat saat Anda mengunjungi SuttaCentral di lain waktu. ",
   "dictionary:sideBySide": "Bersebelahan ",
   "error:error404": "Kesalahan 404 ",
   "error:generalError": "Kesalahan Umum ",
