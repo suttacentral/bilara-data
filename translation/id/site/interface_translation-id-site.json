@@ -18,7 +18,7 @@
   "dictionary:lookupDictionaryEnabled": "Kamus _lookup_ {lookupDictionary} telah diaktifkan. ",
   "dictionary:none": "Nonaktif ",
   "dictionary:noteDescription": "Jika tersedia, fitur ini menampilkan komentar pada terjemahan dan varian bacaan untuk naskah sumber. ",
-  "dictionary:noteDisplayTypeAsterisk": "_Tooltip_ pada tanda bintang ",
+  "dictionary:noteDisplayTypeAsterisk": "Tooltip pada tanda bintang ",
   "dictionary:noteDisplayTypeNone": "Nonaktif ",
   "dictionary:noteDisplayTypeSidenotes": "Tampilkan sebagai sidenote ",
   "dictionary:notes": "Catatan ",
