@@ -271,5 +271,6 @@
   "suttaplex:translations": "terjemahan ",
   "suttaplex:translationsIn": "terjemahan ",
   "suttaplex:volumeAndPage": "Volume dan halaman ",
+  "suttaplex:volumeAndPagePTS1": "Volume dan halaman PTS: edisi pertama = {pts-vp-pli1ed}; edisi kedua = {pts-vp-pli2ed} ",
   "text:viewImage": "Lihat gambar halaman "
 }
