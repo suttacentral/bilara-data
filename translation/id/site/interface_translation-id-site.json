@@ -83,6 +83,7 @@
   "error:networkError": "Kesalahan Jaringan ",
   "error:offline": "Anda sedang luring. ",
   "error:pageNoFound": "Halaman Tidak Ditemukan ",
+  "error:translationDataLoadError": "Kesalahan Pembuatan Data Terjemahan ",
   "footer:about": "Tentang SuttaCentral ",
   "footer:acknowledgments": "Ucapan Terima Kasih ",
   "footer:buddhaNexus": "BuddhaNexus—memetakan sutta dengan AI ",
