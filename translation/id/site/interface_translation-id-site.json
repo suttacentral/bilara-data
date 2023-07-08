@@ -208,5 +208,6 @@
   "offline:extraFeatures": "Jika Anda menginginkan fitur tambahan, beri tahu kami.\n​ ",
   "offline:language": "Bahasa ",
   "offline:networkError": "Kesalahan jaringan. ",
+  "offline:networkLost": "Koneksi jaringan terputus. Menjeda unduhan. ",
   "text:viewImage": "Lihat gambar halaman "
 }
