@@ -59,6 +59,7 @@
   "dictionary:similarSpelling": "Ejaan Serurpa ",
   "dictionary:textView": "Naskah asli dan terjemahan ",
   "dictionary:textViewDescription": "Beberapa naskah di SuttaCentral “disesuaikan”; naskah asli dan terjemahannya kira-kira cocok baris demi baris. Untuk naskah semacam itu, lihat naskah sumber dan terjemahannya. ",
+  "dictionary:textViewDisabled": "Tampilan Inggris-Pali sekarang nonaktifkan. ",
   "error:error404": "Kesalahan 404 ",
   "error:generalError": "Kesalahan Umum ",
   "error:networkError": "Kesalahan Jaringan ",
