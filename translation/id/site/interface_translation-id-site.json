@@ -49,6 +49,7 @@
   "dictionary:rememberSettingsDisabled": "Pengaturan yang Anda pilih tidak akan diingat saat Anda mengunjungi SuttaCentral lagi. ",
   "dictionary:rememberSettingsEnabled": "Pengaturan yang Anda pilih akan diingat saat Anda mengunjungi SuttaCentral di lain waktu. ",
   "dictionary:scriptChanged": "Pali sekarang ditampilkan dalam aksara {paliScript}. ",
+  "dictionary:showHighlighting": "Sorot rincian penting teks ",
   "dictionary:sideBySide": "Bersebelahan ",
   "error:error404": "Kesalahan 404 ",
   "error:generalError": "Kesalahan Umum ",
