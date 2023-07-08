@@ -73,6 +73,7 @@
   "donate:feeDisclaimer": "Biaya penanganan Stripe yang dipotong dari donasi adalah 1,75% + 30¢ untuk kartu Australia, dan 2,9% + 30¢ untuk kartu Internasional, ditambah biaya konversi mata uang 1,8% bila berlaku. ",
   "donate:invalidValue": "Nilai tidak valid ",
   "donate:monthly": "Bulanan ",
+  "donate:oneTime": "Sekali ",
   "error:error404": "Kesalahan 404 ",
   "error:generalError": "Kesalahan Umum ",
   "error:networkError": "Kesalahan Jaringan ",
