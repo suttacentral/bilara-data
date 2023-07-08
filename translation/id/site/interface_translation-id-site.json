@@ -251,5 +251,6 @@
   "suttaplex:editions": "edisi ",
   "suttaplex:fullParallel": "Paralel penuh: versi berbeda dari naskah yang sama. ",
   "suttaplex:goToTextInOriginalLanguage": "Buka naskah dalam bahasa asli ",
+  "suttaplex:goToTranslation": "Buka terjemahan oleh {author} ",
   "text:viewImage": "Lihat gambar halaman "
 }
