@@ -209,5 +209,6 @@
   "offline:language": "Bahasa ",
   "offline:networkError": "Kesalahan jaringan. ",
   "offline:networkLost": "Koneksi jaringan terputus. Menjeda unduhan. ",
+  "offline:networkRecovered": "Koneksi jaringan pulih. Melanjutkan unduhan. ",
   "text:viewImage": "Lihat gambar halaman "
 }
