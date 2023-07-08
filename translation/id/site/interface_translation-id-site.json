@@ -207,5 +207,6 @@
   "offline:downloading": "Mengunduh ",
   "offline:extraFeatures": "Jika Anda menginginkan fitur tambahan, beri tahu kami.\n​ ",
   "offline:language": "Bahasa ",
+  "offline:networkError": "Kesalahan jaringan. ",
   "text:viewImage": "Lihat gambar halaman "
 }
