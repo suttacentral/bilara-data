@@ -252,5 +252,6 @@
   "suttaplex:fullParallel": "Paralel penuh: versi berbeda dari naskah yang sama. ",
   "suttaplex:goToTextInOriginalLanguage": "Buka naskah dalam bahasa asli ",
   "suttaplex:goToTranslation": "Buka terjemahan oleh {author} ",
+  "suttaplex:hasNoParallels": "Naskah ini tidak memiliki paralel yang terekam. ",
   "text:viewImage": "Lihat gambar halaman "
 }
