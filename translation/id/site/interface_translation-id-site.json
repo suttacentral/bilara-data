@@ -77,7 +77,7 @@
   "donate:payWithCard": "Donasi dengan kartu ",
   "donate:storageDisclaimer": "SuttaCentral tidak menangani atau menyimpan rincian kartu kredit Anda. Semua transaksi kartu kredit ditangani secara aman oleh <a href='https://stripe.com' target='blank'>Stripe</a>. ",
   "error:connectToInternet": "Sambungkan ke internet untuk menggunakan penelusuran. ",
-  "error:dataLoadError": "Kesalahan memuat data ",
+  "error:dataLoadError": "Kesalahan pemuatan data ",
   "error:error404": "Kesalahan 404 ",
   "error:generalError": "Kesalahan Umum ",
   "error:networkError": "Kesalahan Jaringan ",
