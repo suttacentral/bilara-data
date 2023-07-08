@@ -62,6 +62,7 @@
   "dictionary:textViewDisabled": "Tampilan Inggris-Pali sekarang nonaktif. ",
   "dictionary:textViewEnabled": "Tampilan {textView} sekarang aktif pada naskah yang berlaku. ",
   "dictionary:textualInformationDisabled": "Informasi tekstual sekarang nonaktif. ",
+  "dictionary:textualInformationEnabled": "Informasi tekstual sekarang nonaktif. ",
   "error:error404": "Kesalahan 404 ",
   "error:generalError": "Kesalahan Umum ",
   "error:networkError": "Kesalahan Jaringan ",
