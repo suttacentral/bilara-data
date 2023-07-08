@@ -15,7 +15,7 @@
   "dictionary:displaysInfo": "Menampilkan informasi seperti referensi volume/halaman, pembacaan varian, dll. ",
   "dictionary:lineByLine": "Baris demi baris ",
   "dictionary:lookup": "Lookup ",
-  "dictionary:lookupDictionaryEnabled": "Kamus lookup {lookupDictionary} telah diaktifkan. ",
+  "dictionary:lookupDictionaryEnabled": "Kamus _lookup_ {lookupDictionary} telah diaktifkan. ",
   "dictionary:none": "Nonaktif ",
   "dictionary:noteDisplayTypeNone": "Nonaktif ",
   "dictionary:noteDisplayTypeSidenotes": "Tampilkan sebagai sidenote ",
