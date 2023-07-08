@@ -197,5 +197,6 @@
   "offline:downloadButton": "Unduh naskah dalam {languageName} ",
   "offline:downloadComplete": "Unduhan Anda selesai. Anda sekarang dapat membaca sutta dalam {lang} secara luring. ",
   "offline:downloadErrored": "Unduhan Anda selesai, tapi kami tidak dapat mengunduh semua naskah yang diminta. {failed} dari {total} permintaan tidak diselesaikan dengan benar. ",
+  "offline:downloadInProgress": "Unduhan sedang berlangsung. ",
   "text:viewImage": "Lihat gambar halaman "
 }
