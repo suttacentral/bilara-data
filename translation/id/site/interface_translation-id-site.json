@@ -192,5 +192,6 @@
   "offline:canceled": "Anda telah membatalkan pengunduhan. ",
   "offline:certainFunctions": "Fitur-fitur tertentu, termasuk pencarian, memerlukan koneksi internet. ",
   "offline:chineseLookups": "Lookup bahasa Cina ",
+  "offline:chineseLookupsDescription": "Pilih untuk mengunduh lookup kamus dari kata-kata bahasa Cina dalam bahasa berikut: ",
   "text:viewImage": "Lihat gambar halaman "
 }
