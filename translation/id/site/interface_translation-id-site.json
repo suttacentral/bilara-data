@@ -203,5 +203,6 @@
   "offline:downloadPaused": "Unduhan dijeda. ",
   "offline:downloadRootTexts": "Sertakan teks sumber ",
   "offline:downloadRootTextsDescription": "Pilih untuk mengunduh naskah dalam bahasa sumber juga. Pilihan ini termasuk kamus lookup Pali > {toLang}. Untuk mengubah lookup Anda, klik ",
+  "offline:downloadStarted": "Unduhan Anda sekarang telah dimulai. Anda dapat terus menggunakan situs ini dan kami akan memberi tahu Anda jika sudah selesai.\n​ ",
   "text:viewImage": "Lihat gambar halaman "
 }
