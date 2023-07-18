@@ -4,5 +4,6 @@
   "donations:3": "<a class='donate-link' href='/donate-now'> <paper-button class='donate-button' raised=''>DONASI</paper-button> </a> ",
   "donations:4": "SuttaCentral membelanjakan uang untuk apa? ",
   "donations:5": "Pengembangan TI: kami mempekerjakan pemrogram profesional selain sukarelawan. ",
-  "donations:6": "Server: biaya server dan infrastruktur lainnya. "
+  "donations:6": "Server: biaya server dan infrastruktur lainnya. ",
+  "donations:7": "Perangkat keras: komputer dan perangkat keras lainnya untuk pekerja di SC, khususnya monastik. "
 }
