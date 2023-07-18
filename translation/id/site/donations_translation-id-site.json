@@ -2,5 +2,6 @@
   "donations:1": "Donasi SuttaCentral ",
   "donations:2": "Donasi Anda sangat dihargai. Donasi tersebut akan mendukung pengembangan berkelanjutan dari SuttaCentral sehingga kami dapat terus menyampaikan sabda Buddha kepada orang-orang di seluruh dunia. ",
   "donations:3": "<a class='donate-link' href='/donate-now'> <paper-button class='donate-button' raised=''>DONASI</paper-button> </a> ",
-  "donations:4": "SuttaCentral membelanjakan uang untuk apa? "
+  "donations:4": "SuttaCentral membelanjakan uang untuk apa? ",
+  "donations:5": "Pengembangan TI: kami mempekerjakan pemrogram profesional selain sukarelawan. "
 }
