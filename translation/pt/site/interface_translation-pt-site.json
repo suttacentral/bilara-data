@@ -1,6 +1,7 @@
 {
   "badge:aligned": "alinhado ",
   "badge:annotated": "anotado ",
+  "badge:legacy": "legado ",
   "dictionary:activateChineseDescription": "Esta opção permite a busca de termos para textos chineses antigos. As definições foram traduzidas a partir do dicionário chinês-inglês Digital Dictionary of Buddhism. ",
   "dictionary:activateChineseLookup": "Ativar busca automática por termos em chinês ",
   "dictionary:activatePaliDescription": "Analisa o texto páli e apresenta significados para estes. Note que esta funcionalidade existe apenas como elemento auxiliar, apresentando definições para termos não necessariamente em contexto e/ou de forma exata. As definições foram traduzidas a partir do dicionário páli-inglês New Concise Pali English Dictionary. ",
