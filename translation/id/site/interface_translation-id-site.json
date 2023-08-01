@@ -235,7 +235,7 @@
   "offline:doesntSupportPWAs": "Sayangnya, kami tidak mendukung fitur Progressive Web App (PWA) lanjutan di perangkat Anda. Jika Anda ingin penggunaan luring sepenuhnya, harap gunakan Chrome versi terbaru. Kami berencana untuk mengimplementasikan lebih banyak fitur PWA di browser lain di masa mendatang. ",
   "offline:downloadButton": "Unduh teks dalam {languageName} ",
   "offline:downloadComplete": "Unduhan Anda selesai. Anda sekarang dapat membaca sutta dalam {lang} secara luring. ",
-  "offline:downloadErrored": "Unduhan Anda selesai, tapi kami tidak dapat mengunduh semua naskah yang diminta. {failed} dari {total} permintaan tidak diselesaikan dengan benar. ",
+  "offline:downloadErrored": "Unduhan Anda selesai, tapi kami tidak dapat mengunduh semua teks yang diminta. {failed} dari {total} permintaan tidak diselesaikan dengan benar. ",
   "offline:downloadInProgress": "Unduhan sedang berlangsung. ",
   "offline:downloadParallels": "Sertakan paralel ",
   "offline:downloadParallelsDescription": "Pilih juga jika ingin mengunduh tabel paralel untuk naskah ",
