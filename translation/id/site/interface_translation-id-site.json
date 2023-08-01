@@ -52,7 +52,7 @@
   "dictionary:rememberSettingsEnabled": "Pengaturan yang Anda pilih akan diingat saat Anda mengunjungi SuttaCentral di lain waktu. ",
   "dictionary:scriptChanged": "Pali sekarang ditampilkan dalam aksara {paliScript}. ",
   "dictionary:showHighlighting": "Sorot rincian penting teks ",
-  "dictionary:showHighlightingDescription": "Jika memungkinkan, sorot naskah untuk menampilkan rincian tambahan seperti pembacaan varian, koreksi, struktur, dll. ",
+  "dictionary:showHighlightingDescription": "Jika memungkinkan, sorot teks untuk menampilkan rincian tambahan seperti pembacaan varian, koreksi, struktur, dll. ",
   "dictionary:showHighlightingDisabled": "Fitur sorotan sekarang nonaktif. ",
   "dictionary:showHighlightingEnabled": "Fitur sorotan sekarang aktif. ",
   "dictionary:sideBySide": "Bersebelahan ",
