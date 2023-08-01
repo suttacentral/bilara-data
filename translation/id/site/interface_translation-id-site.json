@@ -238,7 +238,7 @@
   "offline:downloadErrored": "Unduhan Anda selesai, tapi kami tidak dapat mengunduh semua teks yang diminta. {failed} dari {total} permintaan tidak diselesaikan dengan benar. ",
   "offline:downloadInProgress": "Unduhan sedang berlangsung. ",
   "offline:downloadParallels": "Sertakan paralel ",
-  "offline:downloadParallelsDescription": "Pilih juga jika ingin mengunduh tabel paralel untuk naskah ",
+  "offline:downloadParallelsDescription": "Pilih juga jika ingin mengunduh tabel paralel untuk teks ",
   "offline:downloadPaused": "Unduhan dijeda. ",
   "offline:downloadRootTexts": "Sertakan naskah sumber ",
   "offline:downloadRootTextsDescription": "Pilih untuk mengunduh naskah dalam bahasa sumber juga. Pilihan ini termasuk kamus lookup Pali > {toLang}. Untuk mengubah lookup Anda, klik ",
