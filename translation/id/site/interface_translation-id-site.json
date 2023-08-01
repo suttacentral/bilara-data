@@ -240,7 +240,7 @@
   "offline:downloadParallels": "Sertakan paralel ",
   "offline:downloadParallelsDescription": "Pilih juga jika ingin mengunduh tabel paralel untuk teks ",
   "offline:downloadPaused": "Unduhan dijeda. ",
-  "offline:downloadRootTexts": "Sertakan naskah sumber ",
+  "offline:downloadRootTexts": "Sertakan teks sumber ",
   "offline:downloadRootTextsDescription": "Pilih untuk mengunduh naskah dalam bahasa sumber juga. Pilihan ini termasuk kamus lookup Pali > {toLang}. Untuk mengubah lookup Anda, klik ",
   "offline:downloadStarted": "Unduhan Anda sekarang telah dimulai. Anda dapat terus menggunakan situs ini dan kami akan memberi tahu Anda jika sudah selesai.\n​ ",
   "offline:downloading": "Mengunduh ",
