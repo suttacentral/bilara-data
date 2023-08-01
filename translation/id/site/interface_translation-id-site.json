@@ -61,7 +61,7 @@
   "dictionary:textView": "Teks asli dan terjemahan ",
   "dictionary:textViewDescription": "Beberapa teks di SuttaCentral “tersegmentasi”; teks asli dan terjemahannya kira-kira cocok baris demi baris. Untuk teks semacam itu, lihat teks sumber dan terjemahannya. ",
   "dictionary:textViewDisabled": "Tampilan Inggris-Pali sekarang nonaktif. ",
-  "dictionary:textViewEnabled": "Tampilan {textView} sekarang aktif pada naskah yang berlaku. ",
+  "dictionary:textViewEnabled": "Tampilan {textView} sekarang aktif pada teks yang berlaku. ",
   "dictionary:textualInformationDisabled": "Informasi tekstual sekarang nonaktif. ",
   "dictionary:textualInformationEnabled": "Informasi tekstual sekarang nonaktif. ",
   "dictionary:viewRoot": "Lihat naskah sumber dengan terjemahan ",
