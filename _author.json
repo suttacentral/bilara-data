@@ -154,5 +154,29 @@
   "pasanna": {
     "type": "translator",
     "name": "Venerable Pasanna"
+  },
+  "marcinow": {
+    "type": "translator",
+    "name": "Piotr Marcinów"
+  },
+  "sv": {
+    "type": "translator",
+    "name": "SV theravada.ru"
+  },
+  "anandajoti": {
+    "type": "translator",
+    "name": "Bhikkhu Ānandajoti"
+  },
+  "maggatr": {
+    "type": "translator",
+    "name": "Magga Traducciones"
+  },
+  "kelly": {
+    "type": "translator",
+    "name": "John Kelly"
+  },
+  "buddhadassa": {
+    "type": "translator",
+    "name": "Ryan John Guilfoyle"
   }
 }
