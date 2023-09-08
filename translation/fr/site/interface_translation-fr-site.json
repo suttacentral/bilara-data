@@ -306,7 +306,7 @@
   "suttaplex:translation": "Traduction ",
   "suttaplex:translationIn": "Traduction ",
   "suttaplex:translations": "Traductions ",
-  "suttaplex:translationsIn": "traductions",
+  "suttaplex:translationsIn": "Traductions ",
   "suttaplex:volumeAndPage": "Volume et page",
   "suttaplex:volumeAndPagePTS1": "Volume et page du PTS : 1ère édition = {pts-vp-pli1ed} ; 2ème édition = {pts-vp-pli2ed}",
   "text:languagePromptMessage": "Vous pouvez changer la langue à partir du menu de la barre d’outils.",
