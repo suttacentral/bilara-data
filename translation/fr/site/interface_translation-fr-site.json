@@ -154,6 +154,7 @@
   "interface:goHome": "Aller à la page d’accueil",
   "interface:hideParallelsAndDetails": "Cacher les parallèles et les détails",
   "interface:home": "Page d’accueil",
+  "interface:infoButtonText": "Info ",
   "interface:introduction": "Introduction",
   "interface:introductionPitaka": "Introduction au {pitaka}",
   "interface:introductionTitle": "Introduction à SuttaCentral",
