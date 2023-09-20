@@ -196,6 +196,7 @@
   "interface:rootLangTitle": "Langue source : {lang}",
   "interface:san": "Sanskrit",
   "interface:scrollForToolbar": "Défiler jusqu’à la barre d’outils ",
+  "interface:searchFilterButtonText": "Filtre ",
   "interface:searchResults": "SuttaCentral — Résultats de la recherche",
   "interface:shortcutToFullList": "Raccourci vers tous les suttas",
   "interface:showParallelsAndDetails": "Montrer les parallèles et les détails",
