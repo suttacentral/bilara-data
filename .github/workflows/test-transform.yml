@@ -1,0 +1,45 @@
+name: Transform and sync
+
+on:
+  push:
+    branches:
+      - hongda-work
+
+jobs:
+  nilakkhana-transform:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout hongda-work branch
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11.3
+
+      - name: Execute Python script to transform
+        run: |
+          python .nilakkhana/process_all_supported_files.py
+
+      - name: Check for changes
+        id: check-changes
+        run: |
+          if [[ -n $(git status --porcelain) ]]; then
+            echo "There are changes to commit."
+            echo "changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "No changes to commit."
+            echo "changes=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Push changes
+        if: steps.check-changes.outputs.changes == 'true'
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "[GHA] Nilakkhana transform"
+          git push origin hongda-work:hongda-work      
+          
