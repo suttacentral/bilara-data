@@ -28,7 +28,7 @@ def transform(string, reference_url_pattern=None):
 
 
     if not reference_url_pattern:
-        reference_url_pattern = '/{uid}'
+        reference_url_pattern = 'https://suttacentral.net/{uid}'
     html_mapping = {}
 
     def subfn(m):
@@ -88,9 +88,9 @@ def create_reference_url_pattern(file):
     uid, muids = file.stem.split('_')
     muids = muids.split('-')
     if muids[0] == 'comment':
-        return '/'.join(['', '{uid}'] + muids[1:])
+        return 'https://suttacentral.net/'.join(['', '{uid}'] + muids[1:])
     else:
-        return '/{uid}'
+        return 'https://suttacentral.net/{uid}'
 
 
 def process_file(file):
