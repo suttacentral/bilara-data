@@ -81,7 +81,7 @@
   "mn10:32.4": "Quando prova una sensazione neutra, sa: ‘Sto provando una sensazione neutra’. ",
   "mn10:32.5": "Quando prova una sensazione materiale piacevole, sa: ‘Sto provando una sensazione materiale piacevole’. ",
   "mn10:32.6": "Quando prova una sensazione spirituale piacevole sa: ‘Sto provando una sensazione spirituale piacevole’. ",
-  "mn10:32.7": "Quando prova una sensazione materiale dolorosa, sa: ‘Sto provando una sensazione materiale dolorosa’. ",
+  "mn10:32.7": "Quando prova una reazione dolorosa a una sensazione materiale sa: ‘Sto provando una sensazione materiale dolorosa’. ",
   "mn10:32.8": "Quando prova una reazione doloroa a una sensazione spirituale sa: ‘Sto provando una reazione dolorosa a una sensazione spirituale’. ",
   "mn10:32.9": "Quando prova una reazione neutra a una sensazione materiale sa: ‘Sto provando una reazione neutra a una sensazione materiale’. ",
   "mn10:32.10": "Quando prova una reazione neutra a una sensazione spirituale sa: ‘Sto provando una reazione neutra a una sensazione spirituale’. ",
