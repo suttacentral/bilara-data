@@ -63,5 +63,6 @@
   "general-guide-sujato:63": "Dans le Dīgha et le Majjhima, les textes sont référencés par l’ID du recueil (DN et MN respectivement) et le numéro du sutta, comptés dans une séquence simple depuis le début. ",
   "general-guide-sujato:64": "Dans le Saṁyutta, l’ID du recueil (SN), le _saṁyutta_ (groupe thématique) et le sutta. ",
   "general-guide-sujato:65": "Dans l’Aṅguttara, l’ID du recueil (AN), le _nipāta_ (groupe numérique) et le sutta. ",
-  "general-guide-sujato:66": "Un référencement plus granulaire est fourni par les numéros de section. Ceux-ci suivent des conventions préexistantes : "
+  "general-guide-sujato:66": "Un référencement plus granulaire est fourni par les numéros de section. Ceux-ci suivent des conventions préexistantes : ",
+  "general-guide-sujato:67": "Dans le Dīgha, les numéros de section de l’édition pali PTS, qui ont été largement adoptés dans les traductions. "
 }
