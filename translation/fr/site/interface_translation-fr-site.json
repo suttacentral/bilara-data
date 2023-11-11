@@ -278,6 +278,7 @@
   "search:inAllLanguage": "Dans toutes les langues ",
   "search:inputSearchTerm": "Saisir le terme de recherche ",
   "search:loadMore": "Charger plus",
+  "search:matchPartial": "Correspondance partielle ",
   "search:resultsFor": "résultats pour",
   "search:rootTexts": "Textes sources",
   "search:search": "Recherche",
