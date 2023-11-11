@@ -1,4 +1,4 @@
-{
+{  
   "badge:aligned": "aligned",
   "badge:annotated": "annotated",
   "badge:legacy": "legacy",
@@ -55,6 +55,7 @@
   "dictionary:showHighlightingDescription": "Where applicable, highlight the text to show extra details such as variant readings, corrections, structure, etc.",
   "dictionary:showHighlightingDisabled": "Show highlighting is now disabled.",
   "dictionary:showHighlightingEnabled": "Show highlighting is now enabled.",
+  "dictionary:showHighlightingTitle": "Show Highlighting",
   "dictionary:sideBySide": "Side by side",
   "dictionary:sidenotes": "Show as sidenotes",
   "dictionary:similarSpelling": "Similar Spelling",
