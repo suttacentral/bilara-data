@@ -58,5 +58,6 @@
   "mn38:8.8": "Wie ein Feuer: Es wird nach genau derselben Bedingung gerechnet, durch die bedingt es brennt. ",
   "mn38:8.9": "Ein Feuer, das in Abhängigkeit von Holz brennt, wird als Holzfeuer gerechnet. ",
   "mn38:8.10": "Ein Feuer, das in Abhängigkeit von Zweigen brennt, wird als Zweigfeuer gerechnet. ",
-  "mn38:8.11": "Ein Feuer, das in Abhängigkeit von Gras brennt, wird als Grasfeuer gerechnet. "
+  "mn38:8.11": "Ein Feuer, das in Abhängigkeit von Gras brennt, wird als Grasfeuer gerechnet. ",
+  "mn38:8.12": "Ein Feuer, das in Abhängigkeit von Kuhmist brennt, wird als Kuhmistfeuer gerechnet. "
 }
