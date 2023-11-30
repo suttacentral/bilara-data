@@ -1,8 +1,8 @@
 {
-  "autocomplete:collection": "Sammlung",
+  "autocomplete:collection": "Sammlung gehen ",
   "autocomplete:filterSearch": "Suche auf frühe buddhistische Suttas eingrenzen ",
-  "autocomplete:goto": "Gehe zu",
-  "autocomplete:textOr": "Text oder",
+  "autocomplete:goto": "Zu ",
+  "autocomplete:textOr": "Text oder ",
   "badge:aligned": "ausgerichtet ",
   "badge:annotated": "annotiert ",
   "badge:legacy": "übernommen ",
