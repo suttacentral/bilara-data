@@ -310,7 +310,7 @@
   "search:matchPartial": "Correspondance partielle ",
   "search:noResult": "Il n’existe aucun résultat pour '{searchTerm}'. <br/> Pensez à <a target='_blank' href='https://discourse.suttacentral.net/search?q={searchTerm}'>chercher sur le forum</a> ou à poster une <a target='_blank' href='https://discourse.suttacentral.net'>nouvelle question</a>. ",
   "search:resultsFor": "résultats pour",
-  "search:rootTexts": "Textes sources",
+  "search:rootTexts": "Textes originaux ",
   "search:search": "Recherche",
   "search:searchInAllText": "Recherche dans tous les textes ",
   "search:searchResultsText": "Résultats de la recherche pour",
