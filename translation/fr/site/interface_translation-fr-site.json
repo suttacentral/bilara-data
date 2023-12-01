@@ -200,7 +200,7 @@
   "interface:pli": "Pali",
   "interface:pra": "Langues prakrites",
   "interface:publicationDetails": "Détails de la publication",
-  "interface:rootLangTitle": "Langue source : {lang}",
+  "interface:rootLangTitle": "Langue originale : {lang} ",
   "interface:san": "Sanskrit",
   "interface:scrollForToolbar": "Défiler jusqu’à la barre d’outils ",
   "interface:searchFilterButtonText": "filtre ",
