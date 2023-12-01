@@ -69,7 +69,7 @@
   "dictionary:textViewEnabled": "La vue {textView} est désormais activée sur les textes applicables.",
   "dictionary:textualInformationDisabled": "Les informations textuelles sont maintenant désactivées.",
   "dictionary:textualInformationEnabled": "Les informations textuelles sont maintenant activées.",
-  "dictionary:viewRoot": "Afficher le texte source avec traduction",
+  "dictionary:viewRoot": "Afficher le texte original avec traduction ",
   "dictionary:viewTextualInfo": "Afficher les informations textuelles",
   "donate:amount": "Montant ",
   "donate:chooseFrequency": "Vous pouvez faire un don unique ou un don mensuel.",
