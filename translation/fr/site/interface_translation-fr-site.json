@@ -294,6 +294,7 @@
   "publication:textUid": "Identifiant de texte (UID) ",
   "publication:title": "Détails de la publication ",
   "publication:titleDescription": "Ce texte est inclus dans la publication suivante. ",
+  "publication:translationDescription": "Description de la traduction ",
   "search:all": "Tous",
   "search:dictionaries": "Dictionnaires",
   "search:filter": "Filtre",
