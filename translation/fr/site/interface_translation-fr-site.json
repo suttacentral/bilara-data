@@ -329,6 +329,7 @@
   "suttaplex:alignedOperationGuide": "Cliquez sur la traduction, puis sur le bouton « Vues » de la barre d’outils pour voir le texte et la traduction ligne par ligne ou côte à côte. ",
   "suttaplex:alternateText": "Numéro alternatif dans l’édition {book} :",
   "suttaplex:annotated": "Annoté ",
+  "suttaplex:annotatedDescription": "les traductions comportent des notes sur le texte et la traduction. ",
   "suttaplex:beginner": "Recommandé pour les étudiants débutants",
   "suttaplex:blurb": "Aperçu",
   "suttaplex:countParallel": "{count} parallèle",
