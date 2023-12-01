@@ -325,6 +325,7 @@
   "share:tableCopied": "La table de parallels copiée dans le presse-papiers !",
   "suttaplex:advanced": "Recommandé pour les étudiants avancés",
   "suttaplex:aligned": "Aligné ",
+  "suttaplex:alignedDescription": "les traductions sont comparées segment par segment au texte original. Elles sont produites par SuttaCentral avec notre application de traduction Bilara. ",
   "suttaplex:alternateText": "Numéro alternatif dans l’édition {book} :",
   "suttaplex:beginner": "Recommandé pour les étudiants débutants",
   "suttaplex:blurb": "Aperçu",
