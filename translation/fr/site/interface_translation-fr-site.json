@@ -326,6 +326,7 @@
   "suttaplex:advanced": "Recommandé pour les étudiants avancés",
   "suttaplex:aligned": "Aligné ",
   "suttaplex:alignedDescription": "les traductions sont comparées segment par segment au texte original. Elles sont produites par SuttaCentral avec notre application de traduction Bilara. ",
+  "suttaplex:alignedOperationGuide": "Cliquez sur la traduction, puis sur le bouton « Vues » de la barre d’outils pour voir le texte et la traduction ligne par ligne ou côte à côte. ",
   "suttaplex:alternateText": "Numéro alternatif dans l’édition {book} :",
   "suttaplex:annotated": "Annoté ",
   "suttaplex:beginner": "Recommandé pour les étudiants débutants",
