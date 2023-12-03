@@ -286,6 +286,7 @@
   "publication:publicationStatus": "Status terbitan ",
   "publication:publicationType": "Jenis terbitan ",
   "publication:publisher": "Penerbit ",
+  "publication:rootLanguage": "Bahasa sumber ",
   "search:all": "Semua ",
   "search:dictionaries": "Kamus ",
   "search:filter": "Filter ",
