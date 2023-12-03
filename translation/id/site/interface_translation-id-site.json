@@ -308,6 +308,7 @@
   "search:inputSearchTerm": "Kata kunci pencarian ",
   "search:loadMore": "Muat lebih banyak ",
   "search:matchPartial": "Cocok sebagian ",
+  "search:noResult": "Tidak ditemukan hasil untuk '{searchTerm}'.\nPertimbangkan untuk mencari di forum atau memposting pertanyaan baru. ",
   "search:resultsFor": "hasil untuk ",
   "search:rootTexts": "Teks sumber ",
   "search:search": "Pencarian ",
