@@ -262,7 +262,7 @@
   "offline:downloadRootTextsDescription": "Pilih untuk mengunduh teks dalam bahasa sumber juga. Pilihan ini termasuk kamus lookup Pali > {toLang}. Untuk mengubah lookup Anda, klik ",
   "offline:downloadStarted": "Unduhan Anda sekarang telah dimulai. Anda dapat terus menggunakan situs ini dan kami akan memberi tahu Anda jika sudah selesai.​ ",
   "offline:downloading": "Mengunduh ",
-  "offline:extraFeatures": "Jika Anda menginginkan fitur tambahan, beri tahu kami.\n​ ",
+  "offline:extraFeatures": "Jika Anda menginginkan fitur tambahan, beri tahu kami.​ ",
   "offline:language": "Bahasa ",
   "offline:networkError": "Kesalahan jaringan. ",
   "offline:networkLost": "Koneksi jaringan terputus. Menjeda unduhan. ",
