@@ -308,7 +308,7 @@
   "search:inputSearchTerm": "Kata kunci pencarian ",
   "search:loadMore": "Muat lebih banyak ",
   "search:matchPartial": "Cocok sebagian ",
-  "search:noResult": "Tidak ada hasil untuk '{searchTerm}'.Pertimbangkan untuk mencari di forum atau memposting pertanyaan baru. ",
+  "search:noResult": "Tidak ada hasil untuk '{searchTerm}'.Pertimbangkan untuk <a href='https://discourse.suttacentral.net/search?q={searchTerm}' target='blank'>mencari di forum</a> atau memposting pertanyaan baru. ",
   "search:resultsFor": "hasil untuk ",
   "search:rootTexts": "Teks sumber ",
   "search:search": "Pencarian ",
