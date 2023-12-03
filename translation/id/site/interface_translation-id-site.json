@@ -299,6 +299,7 @@
   "suttaplex:alternateText": "Nomor alternatif dalam edisi {book}: ",
   "suttaplex:annotated": "Beranotasi ",
   "suttaplex:annotatedDescription": "terjemahan memiliki anotasi catatan-catatan. ",
+  "suttaplex:annotatedOperationGuide": "Buka terjemahannya, klik tombol “Tampilan” pada toolbar untuk mengaktifkan opsi catatan. ",
   "suttaplex:beginner": "Direkomendasikan untuk siswa pemula ",
   "suttaplex:blurb": "Uraian singkat ",
   "suttaplex:countParallel": "{count} paralel ",
