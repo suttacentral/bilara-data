@@ -113,7 +113,7 @@
   "interface:browseTooltip": "Se nettstedet i et annet språk",
   "interface:collectionOf": "Samling av {pitaka} {sutta}",
   "interface:chooseYourLanguage": "Velg språk",
-  "interface:chooseYourLanguageDescription": "Der det er tilgjengelig, kan du se transaksjoner og nettstedets brukergrensesnitt på det valgte språk.",
+  "interface:chooseYourLanguageDescription": "Når mulig kan du se transaksjoner og brukergrensesnitt på valgt språk",
   "interface:darkTheme": "Bruk mørkt tema",
   "interface:dictionaryResults": "SuttaCentral — Ordbokresultater",
   "interface:discourses": "Tekster",
