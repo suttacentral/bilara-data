@@ -6,6 +6,7 @@
   "badge:aligned": "ausgerichtet ",
   "badge:annotated": "annotiert ",
   "badge:legacy": "übernommen ",
+  "bottomsheet:close": "Schließen ",
   "dictionary:activateChineseDescription": "Ermöglicht das Nachschlagen von Wörtern in altchinesischen Texten. Wortbedeutungen stammen aus dem Digital Dictionary of Buddhism. ",
   "dictionary:activateChineseLookup": "Chinesisches Nachschlagewerkzeug einschalten ",
   "dictionary:activatePaliDescription": "Analysiert den Palitext und versucht, die Wortbedeutung darzustellen. Man beachte, dass das nur eine Hilfe ist; es ist nicht immer genau. Wortbedeutungen stammen aus dem New Concise Pali English Dictionary. ",
