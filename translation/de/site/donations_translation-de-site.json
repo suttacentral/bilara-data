@@ -36,5 +36,5 @@
   "donations:monthly": "Monatlich ",
   "donations:oneTime": "Einmalig ",
   "donations:payWithCard": "Mit Karte spenden ",
-  "donations:storageDisclaimer": "SuttaCentral benutzt oder speichert Ihre Kreditkarten-Daten nicht. Alle Kreditkarten-Transaktionen werden sicher von <a href='https://stripe.com' target='blank'>Stripe</a> durchgeführt. ",
+  "donations:storageDisclaimer": "SuttaCentral benutzt oder speichert Ihre Kreditkarten-Daten nicht. Alle Kreditkarten-Transaktionen werden sicher von <a href='https://stripe.com' target='blank'>Stripe</a> durchgeführt. "
 }
