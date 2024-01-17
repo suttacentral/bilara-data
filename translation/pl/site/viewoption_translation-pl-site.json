@@ -1,0 +1,21 @@
+{
+  "viewoption:activateChineseDescription": "Analizuje starożytne teksty w języku chińskim i wyświetla znaczenia słów. Znaczenia słów pochodzą z “Cyfrowego Słownika Buddyzmu”. ",
+  "viewoption:activateChineseLookup": "Aktywuj spoglądanie do słownika Chińskiego ",
+  "viewoption:activatePaliDescription": "Analizuje tekst w Pali w celu odnalezienia znaczenia słów. Ta funkcja to jedynie pomoc, a wyświetlane znaczenia są czasami niedokładne. Znaczenia słów pochodzą ze słownika “New Concise Pali English”. ",
+  "viewoption:activatePaliLookup": "Aktywuj spoglądanie do słownika Pali ",
+  "viewoption:changePaliScript": "Zmień skrypt tekstu Pali. ",
+  "viewoption:changePaliScriptDescription": "Ta funkcja pozwala czytać Palijskie teksty w różnych skryptach. ",
+  "viewoption:changePaliScriptLabel": "Skrypt ",
+  "viewoption:chineseLookupDictionaryDisabled": "Słownik odnośników 汉语 jest teraz wyłączony. ",
+  "viewoption:displaysInfo": "Pokazuje informacje, takie jak referencje do wolumenów/stron, odmienne czytania tekstów, itp. ",
+  "viewoption:lineByLine": "Linia pod linią ",
+  "viewoption:lookup": "Słownik ",
+  "viewoption:lookupDictionaryEnabled": "{lookupDictionary} słownik odnośników jest teraz włączony. ",
+  "viewoption:none": "Wyłączone ",
+  "viewoption:paliLookupDictionaryDisabled": "Słownik odnośników Pali jest teraz wyłączony. ",
+  "viewoption:scriptChanged": "Pali jest teraz pokazywany w alfabecie {paliScript}. ",
+  "viewoption:sideBySide": "Obok ",
+  "viewoption:textViewDisabled": "Widok Pali-English jest teraz wyłączony. ",
+  "viewoption:textViewEnabled": "{textView}-widok jest teraz włączony w odpowiednich tekstach. ",
+  "viewoption:viewRoot": "Pokaż oryginalny tekst i tłumaczenie "
+}
