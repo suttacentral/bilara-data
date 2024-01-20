@@ -1,4 +1,5 @@
 {
+  "search:filter": "过滤器 ",
   "search:inputSearchTerm": "输入关键字 ",
   "search:loadMore": "更多 ",
   "search:matchPartial": "部分匹配 ",
