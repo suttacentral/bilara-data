@@ -1,5 +1,6 @@
 {
   "search:loadMore": "更多 ",
+  "search:matchPartial": "部分匹配 ",
   "search:rootTexts": "根文本 ",
   "search:search": "搜索 ",
   "search:searchTooltip": "搜索技巧 ",
