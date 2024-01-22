@@ -12,6 +12,7 @@
   "suttaplex:countParallels": "{count} 相似版本 ",
   "suttaplex:edition": "版本 ",
   "suttaplex:editions": "版本 ",
+  "suttaplex:fullParallel": "所有的平行版本：同一文本的不同版本。 ",
   "suttaplex:goToTextInOriginalLanguage": "转到原本语言的文献 ",
   "suttaplex:goToTranslation": "转到{author}翻译 ",
   "suttaplex:hasNoParallels": "本文无有记录的相似版本。 ",
