@@ -1,7 +1,7 @@
 {
   "suttaplex:advanced": "推荐给高级学者 ",
   "suttaplex:aligned": "对齐 ",
-  "suttaplex:alignedDescription": "翻译是按照根文本的段落进行匹配的。这些翻译是由SuttaCentral使用Bilara翻译应用程序制作的。 ",
+  "suttaplex:alignedDescription": "翻译是按照原文的段落进行匹配的。这些翻译是由SuttaCentral使用Bilara翻译应用程序制作的。 ",
   "suttaplex:alternateText": "{book}版本中的代数： ",
   "suttaplex:annotated": "带注释的 ",
   "suttaplex:beginner": "推荐给级初学者 ",
