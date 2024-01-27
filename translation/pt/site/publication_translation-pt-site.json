@@ -16,5 +16,6 @@
   "publication:title": "Detalhes da publicação ",
   "publication:titleDescription": "Este texto é incluso na seguinte publicação ",
   "publication:translationDescription": "Descrição da tradução ",
-  "publication:translationLanguage": "Idioma da tradução "
+  "publication:translationLanguage": "Idioma da tradução ",
+  "publication:translationProcess": "Processo da tradução "
 }
