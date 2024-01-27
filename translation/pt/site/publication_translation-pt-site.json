@@ -9,5 +9,6 @@
   "publication:publicationType": "Tipo de publicação ",
   "publication:publisher": "Editor ",
   "publication:rootLanguage": "Idioma de origem ",
-  "publication:rootTitle": "Título original "
+  "publication:rootTitle": "Título original ",
+  "publication:source": "Fonte "
 }
