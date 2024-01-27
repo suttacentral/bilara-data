@@ -12,5 +12,6 @@
   "publication:rootTitle": "Título original ",
   "publication:source": "Fonte ",
   "publication:suttaCentralPublicationNumber": "número de publicação SuttaCentral ",
-  "publication:textUid": "Identificador do texto (UID) "
+  "publication:textUid": "Identificador do texto (UID) ",
+  "publication:title": "Detalhes da publicação "
 }
