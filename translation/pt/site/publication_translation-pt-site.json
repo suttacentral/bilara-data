@@ -8,5 +8,6 @@
   "publication:publicationStatus": "Status da publicação ",
   "publication:publicationType": "Tipo de publicação ",
   "publication:publisher": "Editor ",
-  "publication:rootLanguage": "Idioma de origem "
+  "publication:rootLanguage": "Idioma de origem ",
+  "publication:rootTitle": "Título original "
 }
