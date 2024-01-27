@@ -19,5 +19,6 @@
   "publication:translationLanguage": "Idioma da tradução ",
   "publication:translationProcess": "Processo da tradução ",
   "publication:translationSubTitle": "Subtítulo da tradução ",
-  "publication:translationTitle": "Título da tradução "
+  "publication:translationTitle": "Título da tradução ",
+  "publication:translator": "Tradutor "
 }
