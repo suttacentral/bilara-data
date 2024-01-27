@@ -1,5 +1,6 @@
 {
   "publication:aboutThisLicense": "Sobre esta licença ",
   "publication:edition": "Edição ",
-  "publication:license": "Licença de conteúdo "
+  "publication:license": "Licença de conteúdo ",
+  "publication:licenseDescription": "Na medida do possível nos termos da lei, {authorName} renunciou a todos os direitos autorais e direitos conexos ou vizinhos de {translationTitle}. Esta obra foi publicada na Austrália. "
 }
