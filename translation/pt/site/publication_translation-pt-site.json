@@ -14,5 +14,6 @@
   "publication:suttaCentralPublicationNumber": "número de publicação SuttaCentral ",
   "publication:textUid": "Identificador do texto (UID) ",
   "publication:title": "Detalhes da publicação ",
-  "publication:titleDescription": "Este texto é incluso na seguinte publicação "
+  "publication:titleDescription": "Este texto é incluso na seguinte publicação ",
+  "publication:translationDescription": "Descrição da tradução "
 }
