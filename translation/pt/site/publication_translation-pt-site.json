@@ -6,5 +6,6 @@
   "publication:numberOfVolumes": "Número de volumes ",
   "publication:publicationDate": "Data de publicação ",
   "publication:publicationStatus": "Status da publicação ",
-  "publication:publicationType": "Tipo de publicação "
+  "publication:publicationType": "Tipo de publicação ",
+  "publication:publisher": "Editor "
 }
