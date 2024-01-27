@@ -1,6 +1,7 @@
 {
   "suttaplex:advanced": "Recomendado para aqueles com conhecimento avançado dos textos ",
   "suttaplex:aligned": "Alinhado ",
+  "suttaplex:alignedDescription": "As traduções são combinadas segmento a segmento com o texto raiz. Elas são produzidas pela SuttaCentral com nosso aplicativo de tradução Bilara. ",
   "suttaplex:alternateText": "Número alternativo na edição {book}: ",
   "suttaplex:beginner": "Recomendado para iniciantes ",
   "suttaplex:countParallel": "{count} paralelo ",
