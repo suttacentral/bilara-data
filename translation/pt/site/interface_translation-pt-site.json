@@ -105,6 +105,7 @@
   "interface:rootLangTitle": "Idioma de origem: {lang} ",
   "interface:san": "Sânscrito ",
   "interface:scrollForToolbar": "Aponte para a barra de ferramentas ",
+  "interface:searchFilterButtonText": "filtro ",
   "interface:searchResults": "SuttaCentral - resultados da busca ",
   "interface:shortcutToFullList": "Atalho para todos os suttas ",
   "interface:showParallelsAndDetails": "Mostrar paralelos e detalhes ",
