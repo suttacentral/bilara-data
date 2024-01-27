@@ -7,5 +7,6 @@
   "publication:publicationDate": "Data de publicação ",
   "publication:publicationStatus": "Status da publicação ",
   "publication:publicationType": "Tipo de publicação ",
-  "publication:publisher": "Editor "
+  "publication:publisher": "Editor ",
+  "publication:rootLanguage": "Idioma de origem "
 }
