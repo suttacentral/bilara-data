@@ -15,6 +15,7 @@
   "error:networkError": "Erro de rede ",
   "error:offline": "Não há conexão. ",
   "error:pageNoFound": "Página não encontrada ",
+  "error:pageNotFound": "Página não encontrada ",
   "error:translationDataLoadError": "Erro de leitura de dados de tradução ",
   "interface:ab": "Tratados Sistemáticos ",
   "interface:abbreviations": "Abreviações ",
