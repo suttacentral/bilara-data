@@ -11,7 +11,7 @@
 "viewoption:displaysInfo" : "व्हॉल्यूम/पृष्ठ संदर्भ, विविध वांचन इ. सारखी माहिती प्रदर्शित करते.",
 "viewoption:lineByLine" : "ओळीने ओळ",
 "viewoption:lookup" : "शोधन",
-"viewoption:lookupDictionaryEnabled" : "{लुकअप डिकशनरी} शब्द-शोध शब्दकोश आता सक्षम केला आहे.",
+"viewoption:lookupDictionaryEnabled" : "{lookupDictionary} शब्द-शोध शब्दकोश आता सक्षम केला आहे.",
 "viewoption:none" : "काहीही नाही",
 "viewoption:noteDescription" : "उपलब्ध असेल तेथे, मूळ मजकुरासाठी भाषांतर आणि विविध वांचन  वरील टिप्पण्या पहा.",
 "viewoption:noteDisplayTypeAsterisk" : "तारकावरील टूलटिप",
