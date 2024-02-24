@@ -148,6 +148,6 @@
   "text:languagePromptMessage": "You can change the language from the menu in the toolbar.",
   "text:segmentNumber": "SuttaCentral segment number",
   "text:viewImage": "View page image",
-  "interface:previous" : "Previous",
-  "interface:next" : "Next"
+  "interface:previous": "Previous",
+  "interface:next": "Next"
 }
