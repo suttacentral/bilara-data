@@ -142,7 +142,7 @@
   "interface:showParallelTableViewButtonText": "table",
   "interface:searchOptionsButtonText": "languages",
   "interface:searchFilterButtonText": "filter",
-  "interface:error:error404": "Table of Contents",
+  "interface:tableOfContent": "Table of Contents",
   "text:languagePromptMessage": "You can change the language from the menu in the toolbar.",
   "text:segmentNumber": "SuttaCentral segment number",
   "text:viewImage": "View page image",
