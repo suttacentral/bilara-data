@@ -3,6 +3,7 @@
   "donations:chooseFrequency": "Możesz wysłać jednorazową lub comiesięczną dotację: ",
   "donations:currency": "Waluta ",
   "donations:donateNow": "Wyślij dotację ",
+  "donations:errorMessage": "Strony serwisu są chwilowo niedostępne, proszę spróbować później",
   "donations:feeDisclaimer": "W zamian za obsługę transakcji Stripe pobiera opłatę w wysokości 1.75% + 30¢ dla Australijskich kart, oraz 2.9% + 30¢ dla międzynarodowych kart. W określonych przypadkach pobierana jest także opłata za konwersję walutową w wysokości 1.8% kwoty transakcji. ",
   "donations:invalidValue": "Nieprawidłowa kwota ",
   "donations:monthly": "Comiesięczna ",

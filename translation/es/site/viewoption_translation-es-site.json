@@ -1,7 +1,8 @@
 {
   "viewoption:activateChineseDescription": "Esto permite la búsqueda de palabras para textos chinos antiguos. Los significados de las palabras son del Diccionario Digital de Budismo.",
   "viewoption:activateChineseLookup": "Activar búsqueda de palabras chinas",
-  "viewoption:activatePaliDescription": "Analiza el texto Pali e intenta mostrar el significado de la palabra. Tenga en cuenta que esto es solo una ayuda y no siempre es precisa. Los significados de las palabras son del New Concise Pali English Dictionary.", "viewoption:activatePaliLookup": "Activar la búsqueda de palabras Pali",
+  "viewoption:activatePaliDescription": "Analiza el texto Pali e intenta mostrar el significado de la palabra. Tenga en cuenta que esto es solo una ayuda y no siempre es precisa. Los significados de las palabras son del New Concise Pali English Dictionary.",
+  "viewoption:activatePaliLookup": "Activar la búsqueda de palabras Pali",
   "viewoption:asterisk": "Información sobre herramientas en asterisco",
   "viewoption:changePaliScript": "Cambiar escritura Pali",
   "viewoption:changePaliScriptDescription": "Esto le permite leer el texto Pali en varios scripts.",
