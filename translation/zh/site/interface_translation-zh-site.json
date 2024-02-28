@@ -97,6 +97,7 @@
   "interface:rootLangTitle": "原文语言: {lang} ",
   "interface:san": "梵语 ",
   "interface:scrollForToolbar": "工具栏跟随滚动 ",
+  "interface:searchFilterButtonText": "过滤器 ",
   "interface:searchResults": "SuttaCentral 搜索结果 ",
   "interface:shortcutToFullList": "访问完整列表 ",
   "interface:showParallelTableViewButtonText": "表格 ",
