@@ -101,6 +101,7 @@
   "interface:pgd": "Gandhari",
   "interface:pli": "Pali ",
   "interface:pra": "Lingue pracrite",
+  "interface:previous": "Precedente ",
   "interface:publicationDetails": "Dettagli della pubblicazione",
   "interface:rootLangTitle": "Lingua principale: {lang}",
   "interface:san": "sanscrito",
