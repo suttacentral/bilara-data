@@ -37,5 +37,6 @@
   "donations:oneTime": "Une fois",
   "donations:payWithCard": "Faire un don avec une carte",
   "donations:storageDisclaimer": "SuttaCentral ne traite ni ne stocke les données de votre carte de crédit. Toutes les transactions par carte de crédit sont traitées de manière sécurisée par <a href='https://stripe.com' target='blank'>Stripe</a>.",
-  "donations:success1": "Sādhu! Sādhu! "
+  "donations:success1": "Sādhu! Sādhu! ",
+  "donations:success2": "Votre don du Dhamma est précieux pour nous. Il sera soigneusement utilisé pour soutenir SuttaCentral et contribuer à rendre le Dhamma accessible à tous ceux qui souhaitent se libérer de la souffrance. "
 }
