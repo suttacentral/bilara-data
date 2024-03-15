@@ -22,7 +22,7 @@
   "offline:language": "Lingua",
   "offline:networkError": "Errore di rete.",
   "offline:networkLost": "Connessione di rete persa. Download in pausa.",
-  "offline:networkRecovered": "Connessione di rete ripristinata. Ripresa del download.",
+  "offline:networkRecovered": "Connessione di rete ripristinata. Riavvio del download. ",
   "offline:newTech": "Le PWA sono una nuova tecnologia. Per ora, l'utilizzo offline presenta alcune limitazioni:",
   "offline:oneLang": "Una sola lingua.",
   "offline:paliLookups": "Ricerche pali",
