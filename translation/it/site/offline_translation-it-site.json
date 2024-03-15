@@ -11,7 +11,7 @@
   "offline:downloadComplete": "Il download è completo. Ora puoi leggere i sutta in {lang} offline.",
   "offline:downloadErrored": "Il tuo download è completo, ma non siamo riusciti a scaricare tutti i testi richiesti. {failed} richieste su {total} non sono state completate correttamente.",
   "offline:downloadInProgress": "Download in corso.",
-  "offline:downloadParallels": "Includi parallelismi",
+  "offline:downloadParallels": "Includi paralleli ",
   "offline:downloadParallelsDescription": "Selezionare per scaricare anche le tabelle parallele per i testi.",
   "offline:downloadPaused": "Download in pausa.",
   "offline:downloadRootTexts": "Includi i testi radice",
