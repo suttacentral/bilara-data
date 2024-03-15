@@ -5,7 +5,7 @@
   "offline:canceled": "Hai annullato il download.",
   "offline:certainFunctions": "Alcune funzioni, inclusa la ricerca, richiedono una connessione a Internet.",
   "offline:chineseLookups": "Ricerca in cinese ",
-  "offline:chineseLookupsDescription": "Selezionare per scaricare ricerche nel dizionario di parole cinesi nelle seguenti lingue:",
+  "offline:chineseLookupsDescription": "Selezionare per scaricare le voci del dizionario cinese nelle seguenti lingue: ",
   "offline:doesntSupportPWAs": "Purtroppo non supportiamo le funzionalità avanzate di Progressive Web App (PWA) sulla tua piattaforma. Se desideri un utilizzo offline completo, utilizza una versione aggiornata di Chrome. Abbiamo in programma di implementare più funzionalità PWA su altri browser in futuro.",
   "offline:downloadButton": "Scarica testi in {languageName}",
   "offline:downloadComplete": "Il download è completo. Ora puoi leggere i sutta in {lang} offline.",
