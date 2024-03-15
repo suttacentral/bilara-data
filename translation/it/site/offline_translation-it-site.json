@@ -12,7 +12,7 @@
   "offline:downloadErrored": "Il tuo download è completo, ma non siamo riusciti a scaricare tutti i testi richiesti. {failed} richieste su {total} non sono state completate correttamente.",
   "offline:downloadInProgress": "Download in corso.",
   "offline:downloadParallels": "Includi paralleli ",
-  "offline:downloadParallelsDescription": "Selezionare per scaricare anche le tabelle parallele per i testi.",
+  "offline:downloadParallelsDescription": "Selezionare per scaricare per i testi anche le tabelle dei paralleli . ",
   "offline:downloadPaused": "Download in pausa.",
   "offline:downloadRootTexts": "Includi i testi radice",
   "offline:downloadRootTextsDescription": "Selezionare per scaricare i testi anche nelle lingue principali. Ciò include un dizionario di ricerca Pali > {toLang}. Per modificare la tua ricerca, fai clic su",
