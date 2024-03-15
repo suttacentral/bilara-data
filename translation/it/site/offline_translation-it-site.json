@@ -25,7 +25,7 @@
   "offline:networkRecovered": "Connessione di rete ripristinata. Riavvio del download. ",
   "offline:newTech": "Le PWA sono una nuova tecnologia. Per ora, l'utilizzo offline presenta alcune limitazioni:",
   "offline:oneLang": "Una sola lingua.",
-  "offline:paliLookups": "Ricerche pali",
+  "offline:paliLookups": "Ricerche in pali ",
   "offline:paliLookupsDescription": "Selezionare per scaricare le ricerche nel dizionario delle parole pali nelle seguenti lingue:",
   "offline:pwaDescription": "SuttaCentral è un'<a href='https://developers.google.com/web/progressive-web-apps/' target='_blank' rel='noopener'>app Web progressiva</a>. Sui dispositivi supportati, molte funzionalità, inclusa la navigazione e le pagine visitate in precedenza, continueranno a funzionare anche se non si dispone di una connessione a Internet.",
   "offline:resetButton": "Cancella la cronologia dei download",
