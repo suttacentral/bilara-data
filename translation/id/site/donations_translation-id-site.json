@@ -37,5 +37,6 @@
   "donations:oneTime": "Sekali ",
   "donations:payWithCard": "Donasi dengan kartu ",
   "donations:storageDisclaimer": "SuttaCentral tidak menangani atau menyimpan rincian kartu kredit Anda. Semua transaksi kartu kredit ditangani secara aman oleh <a href='https://stripe.com' target='blank'>Stripe</a>. ",
-  "donations:success1": "Sādhu! Sādhu! "
+  "donations:success1": "Sādhu! Sādhu! ",
+  "donations:success2": "Pemberian Dhamma Anda sangat berharga bagi kami. Ini akan digunakan secara hati-hati untuk mendukung SuttaCentral, dan membantu membuat Dhamma tersedia bagi semua orang yang ingin terbebas dari penderitaan. "
 }
