@@ -20,7 +20,7 @@
   "error:error404": "Kesalahan 404 ",
   "error:generalError": "Kesalahan Umum ",
   "error:networkError": "Kesalahan Jaringan ",
-  "error:offline": "Anda sedang luring. ",
+  "error:offline": "Anda sedang offline. ",
   "error:pageNotFound": "Halaman Tidak Ditemukan ",
   "error:translationDataLoadError": "Kesalahan Pemuatan Data Terjemahan ",
   "interface:ab": "Dhamma Luhur (Abhidhamma) ",
