@@ -1,4 +1,5 @@
 {
+  "autocomplete:change": "Cambia ",
   "autocomplete:collection": "raccolta ",
   "autocomplete:goto": "Vai al ",
   "autocomplete:textOr": "testo o alla ",
