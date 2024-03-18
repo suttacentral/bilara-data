@@ -1,12 +1,13 @@
 {
   "search:all": "Tutto",
-	"search:dictionaries": "Dizionari",
-	"search:filter": "Filtro",
-	"search:hint": "Suggerimento: cerca ad es. mn34 o sn3.2 per andare direttamente a quel sutta.",
-	"search:loadMore": "Carica di più",
-	"search:resultsFor": "risultati per",
-	"search:rootTexts": "Testi radice",
-	"search:search": "Ricerca",
-	"search:searchResultsText": "cerca risultati per",
-	"search:translations": "Traduzioni"
+  "search:dictionaries": "Dizionari",
+  "search:filter": "Filtro",
+  "search:hint": "Suggerimento: cerca ad es. mn34 o sn3.2 per andare direttamente a quel sutta.",
+  "search:inputSearchTerm": "Inserisci il termine da cercare ",
+  "search:loadMore": "Carica di più",
+  "search:resultsFor": "risultati per",
+  "search:rootTexts": "Testi radice",
+  "search:search": "Ricerca",
+  "search:searchResultsText": "cerca risultati per",
+  "search:translations": "Traduzioni"
 }
