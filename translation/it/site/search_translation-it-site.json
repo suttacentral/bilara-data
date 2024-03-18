@@ -1,6 +1,7 @@
 {
   "autocomplete:change": "Cambia ",
   "autocomplete:collection": "raccolta ",
+  "autocomplete:filterSearch": "Filtra la ricerca in base ai primi sutta buddhisti ",
   "autocomplete:goto": "Vai al ",
   "autocomplete:textOr": "testo o alla ",
   "autocomplete:tipsForSearchSyntax": "Suggerimenti per la sintassi della ricerca ",
