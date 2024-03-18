@@ -5,6 +5,7 @@
   "search:hint": "Suggerimento: cerca ad es. mn34 o sn3.2 per andare direttamente a quel sutta.",
   "search:inputSearchTerm": "Inserisci il termine da cercare ",
   "search:loadMore": "Carica di più",
+  "search:metaDescriptionText": "Primi testi buddhisti e traduzioni moderne. Sutta (sutra) dal Tipitaka (Tripitaka) in pali, cinese, sanscrito e tibetano con gli insegnamenti del Buddha su consapevolezza, intuizione, saggezza e meditazione. ",
   "search:noResult": "Non ci sono risultati per '{searchTerm}'. Si consiglia <a target='_blank' href='https://discourse.suttacentral.net/search?q={searchTerm}'>di effettuare una ricerca nel forum</a>  o di porre<a target='_blank' href='https://discourse.suttacentral.net'>una nuova domanda</a>. ",
   "search:resultsFor": "risultati per",
   "search:rootTexts": "Testi radice",
