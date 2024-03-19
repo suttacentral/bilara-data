@@ -1,6 +1,7 @@
 {
   "suttaplex:advanced": "Consigliato per studenti avanzati",
   "suttaplex:aligned": "Allineato ",
+  "suttaplex:alignedDescription": "Le traduzioni \"allineate\" sono affiancate segmento per segmento al testo di partenza. Sono prodotte da SuttaCentral con la nostra applicazione per la traduzione Bilara. ",
   "suttaplex:alternateText": "Numero alternativo nell'edizione {libro}:",
   "suttaplex:beginner": "Consigliato per studenti principianti",
   "suttaplex:countParallel": "{count} parallelo",
