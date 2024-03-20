@@ -5,7 +5,7 @@
   "viewoption:activatePaliLookup": "Attiva la ricerca di parole pali",
   "viewoption:asterisk": "Tooltip sull'asterisco",
   "viewoption:changePaliScript": "Cambia lo script Pali",
-  "viewoption:changePaliScriptDescription": "Questo ti permette di leggere il testo Pali in varie scritture.",
+  "viewoption:changePaliScriptDescription": "Questo ti permette di leggere il testo Pali in vari alfabeti. ",
   "viewoption:changePaliScriptLabel": "Alfabeto ",
   "viewoption:displaysInfo": "Visualizza informazioni come riferimenti di volume/pagina, letture di varianti, ecc.",
   "viewoption:lineByLine": "Linea per linea",
