@@ -7,6 +7,7 @@
   "viewoption:changePaliScript": "Cambia lo script Pali",
   "viewoption:changePaliScriptDescription": "Questo ti permette di leggere il testo Pali in vari alfabeti. ",
   "viewoption:changePaliScriptLabel": "Alfabeto ",
+  "viewoption:chineseLookupDictionaryDisabled": "La ricerca nel dizionario 汉语 è ora disattivata. ",
   "viewoption:displaysInfo": "Visualizza informazioni come riferimenti di volume/pagina, letture di varianti, ecc.",
   "viewoption:lineByLine": "Linea per linea",
   "viewoption:lookup": "Cercare",
