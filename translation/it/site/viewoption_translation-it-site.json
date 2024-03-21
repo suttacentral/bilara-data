@@ -13,7 +13,7 @@
   "viewoption:lookup": "Ricerca ",
   "viewoption:lookupDictionaryEnabled": "La ricerca nel dizionario {lookupDictionary} è ora abilitata. ",
   "viewoption:none": "Nessuno",
-  "viewoption:noteDescription": "Ove disponibile, visualizza i commenti sulla traduzione e le letture delle varianti per i testi radice.",
+  "viewoption:noteDescription": "Ove disponibile, visualizza i commenti sulla traduzione e sulle varianti di lettura per i testi radice. ",
   "viewoption:noteDisplayTypeAsterisk": "Tooltip sull'asterisco",
   "viewoption:noteDisplayTypeNone": "Nessuno",
   "viewoption:noteDisplayTypeSidenotes": "Mostra come note a margine",
