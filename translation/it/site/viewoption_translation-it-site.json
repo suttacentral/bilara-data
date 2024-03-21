@@ -26,7 +26,7 @@
   "viewoption:referenceDescription": "“Principale” visualizza i riferimenti SuttaCentral primari per i testi segmentati e tutti i riferimenti per altri testi. Gli articoli rimanenti sono edizioni Pali extra.",
   "viewoption:referenceDisplayTypeMain": "Principale",
   "viewoption:referenceDisplayTypeNone": "Nessuno",
-  "viewoption:scriptChanged": "Pali è ora mostrato nello script {paliScript}.",
+  "viewoption:scriptChanged": "Pali è ora mostrato nell’alfabeto {paliScript}. ",
   "viewoption:showHighlighting": "Evidenzia i dettagli critici per il testo",
   "viewoption:showHighlightingDescription": "Ove applicabile, evidenzia il testo per mostrare ulteriori dettagli come letture di varianti, correzioni, struttura, ecc.",
   "viewoption:showHighlightingDisabled": "Mostra evidenziazione è ora disabilitata.",
