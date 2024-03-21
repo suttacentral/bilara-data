@@ -11,7 +11,7 @@
   "viewoption:displaysInfo": "Visualizza informazioni come i riferimenti al volume/pagina, eventuali varianti di lettura, ecc. ",
   "viewoption:lineByLine": "Linea per linea",
   "viewoption:lookup": "Ricerca ",
-  "viewoption:lookupDictionaryEnabled": "Il dizionario di ricerca {lookupDictionary} è ora abilitato.",
+  "viewoption:lookupDictionaryEnabled": "La ricerca nel dizionario {lookupDictionary} è ora abilitata. ",
   "viewoption:none": "Nessuno",
   "viewoption:noteDescription": "Ove disponibile, visualizza i commenti sulla traduzione e le letture delle varianti per i testi radice.",
   "viewoption:noteDisplayTypeAsterisk": "Tooltip sull'asterisco",
