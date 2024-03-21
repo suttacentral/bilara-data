@@ -23,7 +23,7 @@
   "viewoption:paliLookupDictionaryDisabled": "La ricerca nel dizionario Pali è ora disabilitata. ",
   "viewoption:plain": "Semplice ",
   "viewoption:reference": "Riferimenti",
-  "viewoption:referenceDescription": "\"Principale\" visualizza i riferimenti primari di SuttaCentral per i testi segmentati, e tutti i riferimenti per gli altri testi. Le voci rimanenti indicano ulteriori edizioni Pali. ",
+  "viewoption:referenceDescription": "“Principale” visualizza i riferimenti primari di SuttaCentral per i testi segmentati e tutti i riferimenti per gli altri testi. Le voci rimanenti indicano ulteriori edizioni Pali. ",
   "viewoption:referenceDisplayTypeMain": "Principale",
   "viewoption:referenceDisplayTypeNone": "Nessuno",
   "viewoption:scriptChanged": "Pali è ora mostrato nell’alfabeto {paliScript}. ",
