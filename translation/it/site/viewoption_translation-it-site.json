@@ -28,7 +28,7 @@
   "viewoption:referenceDisplayTypeNone": "Nessuno",
   "viewoption:scriptChanged": "Pali è ora mostrato nell’alfabeto {paliScript}. ",
   "viewoption:showHighlighting": "Evidenzia aspetti importanti del testo ",
-  "viewoption:showHighlightingDescription": "Ove applicabile, evidenzia il testo per mostrare ulteriori dettagli come letture di varianti, correzioni, struttura, ecc.",
+  "viewoption:showHighlightingDescription": "Ove applicabile, evidenzia il testo per mostrare ulteriori informazioni come varianti di lettura, correzioni, struttura, ecc. ",
   "viewoption:showHighlightingDisabled": "L’evidenziazione è ora disattivata. ",
   "viewoption:showHighlightingEnabled": "Mostra l'evidenziazione è ora abilitata.",
   "viewoption:sideBySide": "Fianco a fianco",
