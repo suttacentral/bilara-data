@@ -37,6 +37,6 @@
   "viewoption:textView": "Testo originale e traduzione",
   "viewoption:textViewDescription": "Alcuni testi su SuttaCentral sono “segmentati”; il testo originale e la traduzione corrispondono approssimativamente riga per riga. Per tali testi, vedere sia il testo radice che la traduzione.",
   "viewoption:textViewDisabled": "La visualizzazione pali-inglese è ora disattivata. ",
-  "viewoption:textViewEnabled": "{textView}-view è ora abilitato sui testi applicabili.",
+  "viewoption:textViewEnabled": "{textView}-view è ora attivata sui testi applicabili. ",
   "viewoption:viewRoot": "Visualizza il testo principale con la traduzione"
 }
