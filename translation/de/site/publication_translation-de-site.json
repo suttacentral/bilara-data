@@ -15,6 +15,7 @@
   "publication:license": "Lizenz ",
   "publication:licenseDescription": "Soweit gesetzlich möglich hat <a rel='dct:publisher' href='https://suttacentral.net/'><span property='dct:title'>{authorName}</span></a> auf jedes Copyright und alle verwandten Rechte an <cite property='dct:title'>{translationTitle}</cite> verzichtet. Dieses Werk wurde von <span property='vcard:Country' datatype='dct:ISO3166' content='AU' about='https://suttacentral.net/licensing'>Australien </span>aus publiziert. ",
   "publication:numberOfVolumes": "Anzahl der Bände ",
+  "publication:orderPrint": "Bestellen Sie ein gedrucktes Exemplar oder wählen Sie Dateien von den einzelnen Druckausgaben-Seiten unten aus. ",
   "publication:publicationDate": "Datum der Publikation ",
   "publication:publicationStatus": "Status der Publikation ",
   "publication:publicationType": "Art der Publikation ",
