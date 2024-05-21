@@ -6,6 +6,7 @@
   "suttaplex:alternateText": "{book} 版の別番号:",
   "suttaplex:annotated": "注釈付き ",
   "suttaplex:annotatedDescription": "原文と訳文に注釈付き ",
+  "suttaplex:annotatedOperationGuide": "翻訳をクリックした後、ツールバーの表示ボタンをクリックして注釈表示を選択 ",
   "suttaplex:beginner": "初心者におすすめ",
   "suttaplex:countParallel": "{count} 同等文献",
   "suttaplex:countParallels": "{count} 個の同等文献",
