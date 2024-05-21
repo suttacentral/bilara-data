@@ -108,6 +108,7 @@
   "interface:rootLangTitle": "原文言語: {lang}",
   "interface:san": "サンスクリット",
   "interface:scrollForToolbar": "ツールバーをスクロール",
+  "interface:searchFilter": "検索フィルター ",
   "interface:searchFilterButtonText": "絞り込み",
   "interface:searchOptionsButtonText": "言語",
   "interface:searchResults": "SuttaCentral スッタ・セントラル — 検索結果",
