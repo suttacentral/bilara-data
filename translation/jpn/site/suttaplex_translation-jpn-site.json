@@ -5,6 +5,7 @@
   "suttaplex:alignedOperationGuide": "翻訳をクリックした後、ツールバーの表示ボタンをクリックして訳を行毎に下位に表示か横に表示かを選択。 ",
   "suttaplex:alternateText": "{book} 版の別番号:",
   "suttaplex:annotated": "注釈付き ",
+  "suttaplex:annotatedDescription": "原文と訳文に注釈付き ",
   "suttaplex:beginner": "初心者におすすめ",
   "suttaplex:countParallel": "{count} 同等文献",
   "suttaplex:countParallels": "{count} 個の同等文献",
