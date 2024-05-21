@@ -1,8 +1,9 @@
 {
+  "autocomplete:change": "変える ",
+  "autocomplete:collection": "コレクション",
   "autocomplete:filterSearch": "初期仏教経文の絞り込み検索",
   "autocomplete:goto": "に行く",
   "autocomplete:textOr": "テキストまたは",
-  "autocomplete:collection": "コレクション",
   "autocomplete:tipsForSearchSyntax": "検索のコツ",
   "search:all": "全て",
   "search:dictionaries": "辞書",
