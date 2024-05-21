@@ -19,6 +19,7 @@
   "search:rootTexts": "原文",
   "search:search": "検索",
   "search:searchInAllText": "すべてのテキストを検索",
+  "search:searchOptions": "検索オプション ",
   "search:searchResultsText": "の検索結果",
   "search:translations": "翻訳"
 }
