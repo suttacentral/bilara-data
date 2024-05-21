@@ -105,6 +105,7 @@
   "interface:pli": "パーリ語",
   "interface:pra": "プラクリット語",
   "interface:publicationDetails": "出版物の詳細",
+  "interface:publicationEditions": "版 ",
   "interface:rootLangTitle": "原文言語: {lang}",
   "interface:san": "サンスクリット",
   "interface:scrollForToolbar": "ツールバーをスクロール",
