@@ -3,6 +3,7 @@
   "badge:annotated": "注釈付き",
   "badge:legacy": "パーリ語表示なし注釈なし",
   "bottomsheet:close": "閉じる ",
+  "bottomsheet:help": "ヘルプ ",
   "dictionary:adjacentTerms": "隣接する語句",
   "dictionary:definitionsFor": "の定義",
   "dictionary:dictionaryResultsText": "パーリ語辞書の検索結果",
