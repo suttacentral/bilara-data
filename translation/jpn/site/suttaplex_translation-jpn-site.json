@@ -22,6 +22,7 @@
   "suttaplex:intermediate": "中級者におすすめ",
   "suttaplex:itemNotFound": "エラー 404: 項目が見つかりません。",
   "suttaplex:legacy": "パーリ語表示なし注釈なし ",
+  "suttaplex:legacyDescription": "訳文は様々な出典元からスッタセントラルに掲載。パーリ語および注釈はありません。 ",
   "suttaplex:listenSutta": "この経典を聞く",
   "suttaplex:mention": "言及: あるテキストが別のテキストで引用または言及されています。",
   "suttaplex:ofRootText": "原文の",
