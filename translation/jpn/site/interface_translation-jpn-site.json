@@ -3,6 +3,7 @@
   "badge:annotated": "注釈付き",
   "badge:legacy": "パーリ語表示なし注釈なし",
   "bottomsheet:close": "閉じる ",
+  "bottomsheet:help1": "出典元: ニューコンサイス巴英辞典（ブッダダッタのコンサイス巴英辞典およびマーガレット・コーンのパーリ語辞典をスッタセントラルが編集したもの） ",
   "bottomsheet:help2": "パーリ語は機械的に分析されるので、結果は常に正しいとは限りません。 ",
   "bottomsheet:help": "ヘルプ ",
   "dictionary:adjacentTerms": "隣接する語句",
