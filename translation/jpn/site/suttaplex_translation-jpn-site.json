@@ -1,6 +1,7 @@
 {
   "suttaplex:advanced": "上級者におすすめ",
   "suttaplex:aligned": "パーリ語表示可 ",
+  "suttaplex:alignedDescription": "各言語訳は原文とセグメント単位で対応。訳文はスッタセントラルの翻訳入力アプリBilara（ビララ）を使用。 ",
   "suttaplex:alternateText": "{book} 版の別番号:",
   "suttaplex:beginner": "初心者におすすめ",
   "suttaplex:countParallel": "{count} 同等文献",
