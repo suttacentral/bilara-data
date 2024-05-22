@@ -10,5 +10,6 @@
   "donations:oneTime": "一回のみ",
   "donations:payWithCard": "カードで寄付する",
   "donations:storageDisclaimer": "SuttaCentral スッタ・セントラル は、クレジット カードの詳細を処理したり保存したりしません。すべてのクレジット カード取引は、<a href='https:// Stripe.com' target='blank'>Stripe</a> によって安全に処理されます。",
-  "donations:success1": "ありがとうございます！素晴らしい！ "
+  "donations:success1": "ありがとうございます！素晴らしい！ ",
+  "donations:success2": "あなたの教えに基づいた贈り物はスッタセントラルをサポートするために、そして苦から解放されたいと願う全ての人々にブッダの教えが伝えられるようにするために、大切に使わせていただきます。 "
 }
