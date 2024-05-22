@@ -9,5 +9,6 @@
   "donations:monthly": "毎月",
   "donations:oneTime": "一回のみ",
   "donations:payWithCard": "カードで寄付する",
-  "donations:storageDisclaimer": "SuttaCentral スッタ・セントラル は、クレジット カードの詳細を処理したり保存したりしません。すべてのクレジット カード取引は、<a href='https:// Stripe.com' target='blank'>Stripe</a> によって安全に処理されます。"
+  "donations:storageDisclaimer": "SuttaCentral スッタ・セントラル は、クレジット カードの詳細を処理したり保存したりしません。すべてのクレジット カード取引は、<a href='https:// Stripe.com' target='blank'>Stripe</a> によって安全に処理されます。",
+  "donations:success1": "ありがとうございます！素晴らしい！ "
 }
