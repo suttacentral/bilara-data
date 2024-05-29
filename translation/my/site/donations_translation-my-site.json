@@ -21,5 +21,6 @@
   "donations:monthly": "လစဉ်",
   "donations:oneTime": "တစ်ကြိမ်တည်းသာ",
   "donations:payWithCard": "ငွေသုံးကဒ်ဖြင့် လှူမည်",
-  "donations:storageDisclaimer": "SuttaCentral သည် ငွေသုံးကဒ် အချက်အလက်များကို ကိုင်တွယ်ခြင်း (သို့) သိမ်းဆည်းထားခြင်းမရှိပါ။ ကဒ် ဖြင့်ငွေလွှဲပြောင်းမှုအားလုံး၏ လုံခြုံမှုကို <a href='https://stripe.com' target='blank'>Stripe</a> မှ တာဝန်ယူပါသည်။"
+  "donations:storageDisclaimer": "SuttaCentral သည် ငွေသုံးကဒ် အချက်အလက်များကို ကိုင်တွယ်ခြင်း (သို့) သိမ်းဆည်းထားခြင်းမရှိပါ။ ကဒ် ဖြင့်ငွေလွှဲပြောင်းမှုအားလုံး၏ လုံခြုံမှုကို <a href='https://stripe.com' target='blank'>Stripe</a> မှ တာဝန်ယူပါသည်။",
+  "donations:success1": "သာဓု၊ သာဓု၊ "
 }
