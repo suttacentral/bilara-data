@@ -116,6 +116,7 @@
   "interface:rootLangTitle": "Langue originale : {lang} ",
   "interface:san": "Sanskrit",
   "interface:scrollForToolbar": "Défiler jusqu’à la barre d’outils ",
+  "interface:searchFilter": "Filtre de recherche ",
   "interface:searchFilterButtonText": "filtre ",
   "interface:searchOptionsButtonText": "langues ",
   "interface:searchResults": "SuttaCentral — Résultats de la recherche",
