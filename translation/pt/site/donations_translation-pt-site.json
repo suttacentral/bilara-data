@@ -36,5 +36,6 @@
   "donations:monthly": "Mensal ",
   "donations:oneTime": "Única ",
   "donations:payWithCard": "Pague com cartão de crédito/débito ",
-  "donations:storageDisclaimer": "SuttaCentral não armazena ou distribui os detalhes de seu cartão. Todas as transações são realizadas em ambiente seguro por <a href='https://stripe.com' target='blank'>Stripe</a>. "
+  "donations:storageDisclaimer": "SuttaCentral não armazena ou distribui os detalhes de seu cartão. Todas as transações são realizadas em ambiente seguro por <a href='https://stripe.com' target='blank'>Stripe</a>. ",
+  "donations:success2": "A sua doação em prol do Dhamma é de grande valor para nós. Ela será cuidadosamente usada para apoiar o SuttaCentral e ajudar a disponibilizar o Dhamma para todos aqueles que desejam se libertar do sofrimento. "
 }
