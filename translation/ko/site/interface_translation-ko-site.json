@@ -1,6 +1,7 @@
 {
   "badge:aligned": "정렬됨 ",
   "badge:annotated": "주석붙음 ",
+  "badge:legacy": "옛형식 ",
   "bottomsheet:close": "닫기 ",
   "bottomsheet:help": "도움말 "
 }
