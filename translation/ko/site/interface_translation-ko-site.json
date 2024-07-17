@@ -59,5 +59,6 @@
   "interface:donationsTitle": "SuttaCentral에 기부하기 ",
   "interface:expandSection": "섹션 펼치기 ",
   "interface:fixedToolbar": "고정된 도구 모음 ",
-  "interface:general": "일반 "
+  "interface:general": "일반 ",
+  "interface:generalGuideSujato": "팔리어 경전 독자 가이드 "
 }
