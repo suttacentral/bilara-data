@@ -71,5 +71,6 @@
   "interface:introductionPitaka": "{pitaka} 소개 ",
   "interface:introductionTitle": "SuttaCentral 소개 ",
   "interface:joinDiscussion": "이 경전에 대한 논의에 참여하세요. ",
-  "interface:kho": "호탄어, 사카어 "
+  "interface:kho": "호탄어, 사카어 ",
+  "interface:languageLabel": "언어 "
 }
