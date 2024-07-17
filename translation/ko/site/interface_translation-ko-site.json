@@ -73,5 +73,6 @@
   "interface:joinDiscussion": "이 경전에 대한 논의에 참여하세요. ",
   "interface:kho": "호탄어, 사카어 ",
   "interface:languageLabel": "언어 ",
-  "interface:languages": "언어들 "
+  "interface:languages": "언어들 ",
+  "interface:languagesDetail": "언어 세부사항 "
 }
