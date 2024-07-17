@@ -68,5 +68,6 @@
   "interface:home": "홈 ",
   "interface:infoButtonText": "정보 ",
   "interface:introduction": "소개 ",
-  "interface:introductionPitaka": "{pitaka}에 대한 소개 "
+  "interface:introductionPitaka": "{pitaka}에 대한 소개 ",
+  "interface:introductionTitle": "SuttaCentral 에 대한 소개 "
 }
