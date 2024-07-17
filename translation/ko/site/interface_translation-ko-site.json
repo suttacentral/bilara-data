@@ -22,5 +22,6 @@
   "error:networkError": "네트워크 에러 ",
   "error:offline": "오프라인 상태입니다. ",
   "error:pageNotFound": "페이지를 찾을 수 없습니다. ",
-  "error:translationDataLoadError": "번역 데이터 로드 에러 "
+  "error:translationDataLoadError": "번역 데이터 로드 에러 ",
+  "interface:ab": "체계적 연구서들 "
 }
