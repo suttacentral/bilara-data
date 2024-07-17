@@ -42,5 +42,6 @@
   "interface:chooseYourLanguage": "언어 선택 ",
   "interface:chooseYourLanguageDescription": "가능한 경우, 선택한 언어로 경전 내용 및 사이트 UI를 표시합니다. ",
   "interface:collectionOf": "장과 경들의 모음 ",
-  "interface:darkTheme": "어두운 테마 사용 "
+  "interface:darkTheme": "어두운 테마 사용 ",
+  "interface:dictionaryResults": "SuttaCentral — 사전 결과 "
 }
