@@ -20,5 +20,6 @@
   "error:error404": "404 에러 ",
   "error:generalError": "일반 에러 ",
   "error:networkError": "네트워크 에러 ",
-  "error:offline": "오프라인 상태입니다. "
+  "error:offline": "오프라인 상태입니다. ",
+  "error:pageNotFound": "페이지를 찾을 수 없습니다. "
 }
