@@ -53,5 +53,6 @@
   "interface:dnGuideSujatoTitle": "디가 니까야(긴 경전): 문헌과 수집으로써의 경전 ",
   "interface:donateNow": "지금 기부하기 ",
   "interface:donateNowTitle": "지금 기부하기 ",
-  "interface:donationSuccess": "기부 성공 "
+  "interface:donationSuccess": "기부 성공 ",
+  "interface:donationSuccessTitle": "기부 성공 "
 }
