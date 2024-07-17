@@ -64,5 +64,6 @@
   "interface:generalGuideSujatoTitle": "팔리어 경전 독자 가이드 ",
   "interface:goBack": "이전 메뉴로 돌아가기 ",
   "interface:goHome": "홈 페이지로 이동 ",
-  "interface:hideParallelsAndDetails": "평행 구절과 세부 사항 숨기기 "
+  "interface:hideParallelsAndDetails": "평행 구절과 세부 사항 숨기기 ",
+  "interface:home": "홈 "
 }
