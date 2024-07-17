@@ -76,5 +76,6 @@
   "interface:languages": "언어들 ",
   "interface:languagesDetail": "언어 세부사항 ",
   "interface:languagesTitle": "SuttaCentral 지원 언어 ",
-  "interface:licensing": "저작권 "
+  "interface:licensing": "저작권 ",
+  "interface:licensingTitle": "저작권 "
 }
