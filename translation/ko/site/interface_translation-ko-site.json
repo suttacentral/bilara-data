@@ -14,5 +14,6 @@
   "dictionary:adjacentTerms": "인접 어휘들 ",
   "dictionary:definitionsFor": "다음에 대한 정의들: ",
   "dictionary:dictionaryResultsText": "다음에 대한 팔리어 사전 결과: ",
-  "dictionary:similarSpelling": "유사한 철자 "
+  "dictionary:similarSpelling": "유사한 철자 ",
+  "error:connectToInternet": "검색을 사용하려면 인터넷에 연결해 주세요. "
 }
