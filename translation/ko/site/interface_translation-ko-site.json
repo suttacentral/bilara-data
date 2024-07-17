@@ -69,5 +69,6 @@
   "interface:infoButtonText": "정보 ",
   "interface:introduction": "소개 ",
   "interface:introductionPitaka": "{pitaka} 소개 ",
-  "interface:introductionTitle": "SuttaCentral 소개 "
+  "interface:introductionTitle": "SuttaCentral 소개 ",
+  "interface:joinDiscussion": "이 경전에 대한 논의에 참여하세요. "
 }
