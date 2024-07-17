@@ -19,5 +19,6 @@
   "error:dataLoadError": "데이터 로드 오류 ",
   "error:error404": "404 에러 ",
   "error:generalError": "일반 에러 ",
-  "error:networkError": "네트워크 에러 "
+  "error:networkError": "네트워크 에러 ",
+  "error:offline": "오프라인 상태입니다. "
 }
