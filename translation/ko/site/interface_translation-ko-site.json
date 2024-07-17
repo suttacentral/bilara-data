@@ -57,5 +57,6 @@
   "interface:donationSuccessTitle": "기부 성공 ",
   "interface:donations": "기부하기 ",
   "interface:donationsTitle": "SuttaCentral에 기부하기 ",
-  "interface:fixedToolbar": "고정된 도구 모음 "
+  "interface:fixedToolbar": "고정된 도구 모음 ",
+  "interface:general": "일반 "
 }
