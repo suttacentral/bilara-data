@@ -54,5 +54,6 @@
   "interface:donateNow": "지금 기부하기 ",
   "interface:donateNowTitle": "지금 기부하기 ",
   "interface:donationSuccess": "기부 성공 ",
-  "interface:donationSuccessTitle": "기부 성공 "
+  "interface:donationSuccessTitle": "기부 성공 ",
+  "interface:donations": "기부하기 "
 }
