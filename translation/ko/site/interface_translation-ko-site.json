@@ -55,5 +55,6 @@
   "interface:donateNowTitle": "지금 기부하기 ",
   "interface:donationSuccess": "기부 성공 ",
   "interface:donationSuccessTitle": "기부 성공 ",
-  "interface:donations": "기부하기 "
+  "interface:donations": "기부하기 ",
+  "interface:donationsTitle": "SuttaCentral에 기부하기 "
 }
