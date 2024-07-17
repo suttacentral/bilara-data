@@ -13,5 +13,6 @@
   "bottomsheet:help": "도움말 ",
   "dictionary:adjacentTerms": "인접 어휘들 ",
   "dictionary:definitionsFor": "다음에 대한 정의들: ",
-  "dictionary:dictionaryResultsText": "다음에 대한 팔리어 사전 결과: "
+  "dictionary:dictionaryResultsText": "다음에 대한 팔리어 사전 결과: ",
+  "dictionary:similarSpelling": "유사한 철자 "
 }
