@@ -17,5 +17,6 @@
   "dictionary:similarSpelling": "유사한 철자 ",
   "error:connectToInternet": "검색을 사용하려면 인터넷에 연결해 주세요. ",
   "error:dataLoadError": "데이터 로드 오류 ",
-  "error:error404": "404 에러 "
+  "error:error404": "404 에러 ",
+  "error:generalError": "일반 에러 "
 }
