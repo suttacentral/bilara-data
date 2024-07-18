@@ -117,6 +117,7 @@
   "interface:scrollForToolbar": "툴바를 보기 위해 스크롤 ",
   "interface:searchFilter": "검색 필터 ",
   "interface:searchFilterButtonText": "필터 ",
+  "interface:searchOptionsButtonText": "언어들 ",
   "interface:showParallelTableViewButtonText": "표 ",
   "interface:showParallelsAndDetails": "평행 구절과 세부 사항 보여주기 ",
   "interface:showParallelsButtonText": "평행 구절 ",
