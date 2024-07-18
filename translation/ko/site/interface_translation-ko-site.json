@@ -98,6 +98,7 @@
   "interface:networkError": "네트워크 오류 ",
   "interface:next": "다음 ",
   "interface:numbered": "숫자가 매겨진 경전 ",
+  "interface:numbering": "번호 매기기 ",
   "interface:san": "산스크리트 ",
   "interface:searchFilter": "검색 필터 ",
   "interface:searchFilterButtonText": "필터 ",
