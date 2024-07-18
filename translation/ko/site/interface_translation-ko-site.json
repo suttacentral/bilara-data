@@ -138,5 +138,6 @@
   "interface:suttaplexCompactView": "간결한 뷰 사용 ",
   "interface:tableOfContent": "목차 ",
   "interface:terminology": "용어 ",
-  "interface:terminologyTitle": "기본 팔리어 용어 "
+  "interface:terminologyTitle": "기본 팔리어 용어 ",
+  "interface:textSettings": "텍스트 설정 "
 }
