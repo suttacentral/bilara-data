@@ -89,5 +89,6 @@
   "interface:san": "산스크리트 ",
   "interface:searchFilter": "검색 필터 ",
   "interface:searchFilterButtonText": "필터 ",
-  "interface:showParallelTableViewButtonText": "표 "
+  "interface:showParallelTableViewButtonText": "표 ",
+  "interface:showParallelsAndDetails": "평행 구절과 세부 사항 보여주기 "
 }
