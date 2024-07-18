@@ -143,5 +143,6 @@
   "interface:toolbarAtTop": "상단에 도구 모음 놓기 ",
   "interface:toolsButtonText": "보기 ",
   "interface:uig": "위구르족 ",
-  "interface:useOffline": "오프라인에서 사용 "
+  "interface:useOffline": "오프라인에서 사용 ",
+  "interface:useoffline": "오프라인에서 사용 "
 }
