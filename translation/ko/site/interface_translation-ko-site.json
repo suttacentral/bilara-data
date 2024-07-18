@@ -156,5 +156,6 @@
   "interface:xct": "고대 티베트어 ",
   "interface:xto": "토하라어 A ",
   "text:languagePromptMessage": "도구 모음의 메뉴에서 언어를 변경할 수 있습니다. ",
-  "text:segmentNumber": "SuttaCentral 절 번호 "
+  "text:segmentNumber": "SuttaCentral 절 번호 ",
+  "text:viewImage": "페이지 그림 보기 "
 }
