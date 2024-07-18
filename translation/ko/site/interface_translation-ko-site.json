@@ -114,7 +114,7 @@
   "interface:publicationEditions": "판본들 ",
   "interface:rootLangTitle": "원전 언어: {lang} ",
   "interface:san": "산스크리트어 ",
-  "interface:scrollForToolbar": "툴바를 보기 위해 스크롤 ",
+  "interface:scrollForToolbar": "스크롤하여 도구 모음 보기 ",
   "interface:searchFilter": "검색 필터 ",
   "interface:searchFilterButtonText": "필터 ",
   "interface:searchOptionsButtonText": "언어들 ",
