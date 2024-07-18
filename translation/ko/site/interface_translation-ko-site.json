@@ -86,5 +86,6 @@
   "interface:menu": "메뉴 ",
   "interface:methodology": "방법론 ",
   "interface:middle": "중간 길이 니까야 ",
-  "interface:san": "산스크리트 "
+  "interface:san": "산스크리트 ",
+  "interface:searchFilter": "검색 필터 "
 }
