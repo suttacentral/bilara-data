@@ -92,5 +92,6 @@
   "interface:showParallelTableViewButtonText": "표 ",
   "interface:showParallelsAndDetails": "평행 구절과 세부 사항 보여주기 ",
   "interface:showParallelsButtonText": "평행 구절 ",
-  "interface:showToCButtonText": "내용 "
+  "interface:showToCButtonText": "내용 ",
+  "interface:tableOfContent": "목차 "
 }
