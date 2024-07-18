@@ -111,6 +111,7 @@
   "interface:pra": "프라크리트어 ",
   "interface:previous": "이전 ",
   "interface:publicationDetails": "출판 세부 사항 ",
+  "interface:rootLangTitle": "원전 언어: {lang} ",
   "interface:san": "산스크리트어 ",
   "interface:searchFilter": "검색 필터 ",
   "interface:searchFilterButtonText": "필터 ",
