@@ -14,5 +14,6 @@
   "viewoption:lookupDictionaryEnabled": "{lookupDictionary} 사전 검색 기능이 이제 활성화 되었습니다. ",
   "viewoption:none": "없음 ",
   "viewoption:noteDescription": "가능한 경우, 원본 텍스트의 번역 및 변형된 독법에 대한 주석을 보여줍니다. ",
-  "viewoption:noteDisplayTypeAsterisk": "별표 위에 툴팁으로 표시 "
+  "viewoption:noteDisplayTypeAsterisk": "별표 위에 툴팁으로 표시 ",
+  "viewoption:noteDisplayTypeNone": "없음 "
 }
