@@ -12,5 +12,6 @@
   "viewoption:lineByLine": "한 줄씩 번갈아서 ",
   "viewoption:lookup": "검색 ",
   "viewoption:lookupDictionaryEnabled": "{lookupDictionary} 사전 검색 기능이 이제 활성화 되었습니다. ",
-  "viewoption:none": "없음 "
+  "viewoption:none": "없음 ",
+  "viewoption:noteDescription": "가능한 경우, 원본 텍스트의 번역 및 변형된 독법에 대한 주석을 보여줍니다. "
 }
