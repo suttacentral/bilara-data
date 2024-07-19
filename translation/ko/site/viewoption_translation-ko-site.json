@@ -11,5 +11,6 @@
   "viewoption:displaysInfo": "권/페이지 참조, 다른 독법 등의 정보를 표시합니다. ",
   "viewoption:lineByLine": "한 줄씩 번갈아서 ",
   "viewoption:lookup": "검색 ",
-  "viewoption:lookupDictionaryEnabled": "{lookupDictionary} 사전 검색 기능이 이제 활성화 되었습니다. "
+  "viewoption:lookupDictionaryEnabled": "{lookupDictionary} 사전 검색 기능이 이제 활성화 되었습니다. ",
+  "viewoption:none": "없음 "
 }
