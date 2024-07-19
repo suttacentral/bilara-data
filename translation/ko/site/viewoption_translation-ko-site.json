@@ -24,5 +24,6 @@
   "viewoption:plain": "원문 보지 않기 ",
   "viewoption:reference": "참조 ",
   "viewoption:referenceDescription": "“주요”는 절로 구분된 텍스트에 대한 SuttaCentral의 주요 참조를 표시하며, 절로 구분되지 않은 텍스트에 대해서는 모든 참조를 표시합니다. 나머지 항목은 추가적인 팔리어 판본입니다. ",
-  "viewoption:referenceDisplayTypeMain": "주요 "
+  "viewoption:referenceDisplayTypeMain": "주요 ",
+  "viewoption:referenceDisplayTypeNone": "없음 "
 }
