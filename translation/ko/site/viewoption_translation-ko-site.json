@@ -22,5 +22,6 @@
   "viewoption:notesDescription": "역자의 주석, 변형된 독법 등을 봅니다. ",
   "viewoption:paliLookupDictionaryDisabled": "팔리어 사전 검색 기능이 이제 비활성화 되었습니다. ",
   "viewoption:plain": "원문 보지 않기 ",
-  "viewoption:reference": "참조 "
+  "viewoption:reference": "참조 ",
+  "viewoption:referenceDescription": "“주요”는 절로 구분된 텍스트에 대한 SuttaCentral의 주요 참조를 표시하며, 절로 구분되지 않은 텍스트에 대해서는 모든 참조를 표시합니다. 나머지 항목은 추가적인 팔리어 판본입니다. "
 }
