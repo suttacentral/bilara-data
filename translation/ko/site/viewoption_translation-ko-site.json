@@ -17,5 +17,6 @@
   "viewoption:noteDisplayTypeAsterisk": "별표 위에 툴팁으로 표시 ",
   "viewoption:noteDisplayTypeNone": "없음 ",
   "viewoption:noteDisplayTypeSidenotes": "측면 주석으로 표시 ",
-  "viewoption:noteSummary": "텍스트 절에 주석과 변형된 독법 표시 "
+  "viewoption:noteSummary": "텍스트 절에 주석과 변형된 독법 표시 ",
+  "viewoption:notes": "주석 "
 }
