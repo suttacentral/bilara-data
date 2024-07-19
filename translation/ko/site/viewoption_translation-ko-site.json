@@ -27,5 +27,6 @@
   "viewoption:referenceDisplayTypeMain": "주요 ",
   "viewoption:referenceDisplayTypeNone": "없음 ",
   "viewoption:scriptChanged": "팔리어가 이제 {paliScript} 표시 문자로 보여집니다. ",
-  "viewoption:showHighlighting": "세부 사항을  텍스트에 강조하여 표시 "
+  "viewoption:showHighlighting": "세부 사항을  텍스트에 강조하여 표시 ",
+  "viewoption:showHighlightingDescription": "적용 가능한 경우, 변형된 독법, 수정, 구조 등의 추가 세부 사항을 표시하기 위해 텍스트를 강조 표시합니다. "
 }
