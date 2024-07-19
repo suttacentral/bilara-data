@@ -32,5 +32,6 @@
   "viewoption:showHighlightingDisabled": "강조 보여주기가 이제 비활성화 되었습니다. ",
   "viewoption:showHighlightingEnabled": "강조 보여주기가 이제 활성화 되었습니다. ",
   "viewoption:showHighlightingTitle": "강조 보여주기 ",
-  "viewoption:sideBySide": "나란히 "
+  "viewoption:sideBySide": "나란히 ",
+  "viewoption:sidenotes": "측면 주석으로 표시 "
 }
