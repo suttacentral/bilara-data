@@ -20,5 +20,6 @@
   "viewoption:noteSummary": "텍스트 절에 주석과 변형된 독법 표시 ",
   "viewoption:notes": "주석 ",
   "viewoption:notesDescription": "역자의 주석, 변형된 독법 등을 봅니다. ",
-  "viewoption:paliLookupDictionaryDisabled": "팔리어 사전 검색 기능이 이제 비활성화 되었습니다. "
+  "viewoption:paliLookupDictionaryDisabled": "팔리어 사전 검색 기능이 이제 비활성화 되었습니다. ",
+  "viewoption:plain": "원문 보지 않기 "
 }
