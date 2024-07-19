@@ -15,5 +15,6 @@
   "viewoption:none": "없음 ",
   "viewoption:noteDescription": "가능한 경우, 원본 텍스트의 번역 및 변형된 독법에 대한 주석을 보여줍니다. ",
   "viewoption:noteDisplayTypeAsterisk": "별표 위에 툴팁으로 표시 ",
-  "viewoption:noteDisplayTypeNone": "없음 "
+  "viewoption:noteDisplayTypeNone": "없음 ",
+  "viewoption:noteDisplayTypeSidenotes": "측면 주석으로 표시 "
 }
