@@ -35,5 +35,6 @@
   "viewoption:sideBySide": "나란히 ",
   "viewoption:sidenotes": "측면 주석으로 표시 ",
   "viewoption:textView": "원문과 번역 ",
-  "viewoption:textViewDescription": "SuttaCentral의 일부 텍스트는 “분할”되어 있으며, 원본 텍스트와 번역이 대략적으로 한 줄씩 일치합니다. 이러한 텍스트에서는 원본 텍스트와 번역을 모두 확인할 수 있습니다. "
+  "viewoption:textViewDescription": "SuttaCentral의 일부 텍스트는 “분할”되어 있으며, 원본 텍스트와 번역이 대략적으로 한 줄씩 일치합니다. 이러한 텍스트에서는 원본 텍스트와 번역을 모두 확인할 수 있습니다. ",
+  "viewoption:textViewDisabled": "팔리어-영어 보기 기능이 이제 비활성화 되었습니다. "
 }
