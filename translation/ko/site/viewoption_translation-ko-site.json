@@ -3,5 +3,6 @@
   "viewoption:activateChineseLookup": "한자 단어 검색 활성화 ",
   "viewoption:activatePaliDescription": "팔리어 텍스트를 분석하고 단어 의미를 표시하려고 시도합니다. 이는 참고용 도구로서 항상 정확하지는 않음을 유의하세요. 단어 의미는 새로운 간결한 팔리어-영어 사전(New Concise Pali English Dictionary)에서 가져왔습니다. ",
   "viewoption:activatePaliLookup": "팔리어 단어 검색 활성화 ",
-  "viewoption:asterisk": "별표 위에 툴팁으로 표시 "
+  "viewoption:asterisk": "별표 위에 툴팁으로 표시 ",
+  "viewoption:changePaliScript": "팔리어 표시 문자 변경 "
 }
