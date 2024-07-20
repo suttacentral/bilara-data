@@ -12,7 +12,7 @@
   "suttaplex:countParallels": " 평행 구절들 {count} ",
   "suttaplex:edition": "판본 ",
   "suttaplex:editions": "판본들 ",
-  "suttaplex:fullParallel": "완전한 평행 구절: 같은 텍스트의 다른 버전들 ",
+  "suttaplex:fullParallel": "완전한 평행 구절: 같은 텍스트의 다른 버전들인 경우 ",
   "suttaplex:goToTextInOriginalLanguage": "원문 언어로 된 텍스트로 가기 ",
   "suttaplex:goToTranslation": "{author}의 번역본으로 가기 ",
   "suttaplex:hasNoParallels": "이 텍스트에는 기록된 평행 구절이 없습니다. ",
