@@ -11,6 +11,7 @@
   "suttaplex:countParallel": "평행 구절 {count} ",
   "suttaplex:countParallels": " 평행 구절들 {count} ",
   "suttaplex:edition": "판본 ",
+  "suttaplex:editions": "판본들 ",
   "suttaplex:itemNotFound": "오류 404: 항목을 찾을 수 없습니다. ",
   "suttaplex:legacy": "옛형식 ",
   "suttaplex:share": "공유 ",
