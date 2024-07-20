@@ -16,6 +16,7 @@
   "suttaplex:goToTextInOriginalLanguage": "원문 언어로 된 텍스트로 가기 ",
   "suttaplex:goToTranslation": "{author}의 번역본으로 가기 ",
   "suttaplex:hasNoParallels": "이 텍스트에는 기록된 평행 구절이 없습니다. ",
+  "suttaplex:inAncientTexts": "고대 텍스트로 ",
   "suttaplex:itemNotFound": "오류 404: 항목을 찾을 수 없습니다. ",
   "suttaplex:legacy": "옛형식 ",
   "suttaplex:share": "공유 ",
