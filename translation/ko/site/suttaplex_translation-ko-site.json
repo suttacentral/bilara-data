@@ -9,7 +9,7 @@
   "suttaplex:annotatedOperationGuide": "번역본으로 이동한 후, 도구 모음의 \"보기\" 버튼을 클릭하여 주석 읽기 옵션을 선택하세요. ",
   "suttaplex:beginner": "초급 학습자에게 추천 ",
   "suttaplex:countParallel": "평행 구절 {count} ",
-  "suttaplex:countParallels": "평행 구절들 {count} ",
+  "suttaplex:countParallels": " 평행 구절들 {count} ",
   "suttaplex:edition": "판본 ",
   "suttaplex:editions": "판본들 ",
   "suttaplex:fullParallel": "완전한 평행 구절: 같은 텍스트의 다른 버전들인 경우 ",
