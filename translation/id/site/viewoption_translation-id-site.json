@@ -4,6 +4,7 @@
   "viewoption:activatePaliDescription": "Menganalisis teks Pali dan memunculkan makna kata. Sebagai catatan: hanya sebagai panduan, dan tidak selalu akurat. Makna kata berasal dari New Concise Pali English Dictionary. ",
   "viewoption:activatePaliLookup": "Aktifkan lookup kata bahasa Pali ",
   "viewoption:allRefsDisabled": "Semua referensi sekarang nonaktif. ",
+  "viewoption:allRefsEnabled": "Semua referensi sekarang aktif. ",
   "viewoption:asterisk": "Tooltip pada tanda bintang ",
   "viewoption:changePaliScript": "Ganti aksara Pali ",
   "viewoption:changePaliScriptDescription": "Untuk membaca teks Pali dalam berbagai jenis aksara. ",
