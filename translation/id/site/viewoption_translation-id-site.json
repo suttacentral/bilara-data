@@ -14,6 +14,7 @@
   "viewoption:lineByLine": "Baris demi baris ",
   "viewoption:lookup": "Lookup ",
   "viewoption:lookupDictionaryEnabled": "Kamus _lookup_ {lookupDictionary} telah diaktifkan. ",
+  "viewoption:mainRefsDisabled": "Referensi-referensi utama sekarang nonaktif. ",
   "viewoption:none": "Nonaktif ",
   "viewoption:noteDescription": "Jika tersedia, fitur ini menampilkan komentar pada terjemahan dan varian bacaan untuk teks sumber. ",
   "viewoption:noteDisplayTypeToastAsterisk": "Tooltip pada tanda bintang ",
