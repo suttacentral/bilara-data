@@ -23,7 +23,7 @@
   "offline:networkError": "Kesalahan jaringan. ",
   "offline:networkLost": "Koneksi jaringan terputus. Menjeda unduhan. ",
   "offline:networkRecovered": "Koneksi jaringan pulih. Melanjutkan unduhan. ",
-  "offline:newTech": "PWA adalah teknologi baru. Untuk saat ini, penggunaan versi luring memiliki beberapa batasan: ",
+  "offline:newTech": "PWA adalah teknologi baru. Untuk saat ini, penggunaan versi offline memiliki beberapa batasan: ",
   "offline:oneLang": "Hanya satu bahasa. ",
   "offline:paliLookups": "Lookup Pali ",
   "offline:paliLookupsDescription": "Pilih untuk mengunduh lookup kamus kata Pali dalam bahasa berikut: ",
