@@ -8,7 +8,7 @@
   "offline:chineseLookupsDescription": "Pilih untuk mengunduh lookup kamus dari kata-kata bahasa Tionghoa dalam bahasa berikut: ",
   "offline:doesntSupportPWAs": "Sayangnya, kami tidak mendukung fitur Progressive Web App (PWA) lanjutan di perangkat Anda. Jika Anda ingin penggunaan offline sepenuhnya, harap gunakan Chrome versi terbaru. Kami berencana untuk mengimplementasikan lebih banyak fitur PWA di browser lain di masa mendatang. ",
   "offline:downloadButton": "Unduh teks dalam {languageName} ",
-  "offline:downloadComplete": "Unduhan Anda selesai. Anda sekarang dapat membaca sutta dalam {lang} secara luring. ",
+  "offline:downloadComplete": "Unduhan Anda selesai. Anda sekarang dapat membaca sutta dalam {lang} secara offline. ",
   "offline:downloadErrored": "Unduhan Anda selesai, tapi kami tidak dapat mengunduh semua teks yang diminta. {failed} dari {total} permintaan tidak diselesaikan dengan benar. ",
   "offline:downloadInProgress": "Unduhan sedang berlangsung. ",
   "offline:downloadParallels": "Sertakan paralel ",
