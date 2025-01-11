@@ -35,5 +35,6 @@
   "donations:monthly": "每月捐款 ",
   "donations:oneTime": "单次捐款 ",
   "donations:payWithCard": "用卡付款 ",
-  "donations:storageDisclaimer": "SuttaCentral并不处理或储存您的信用卡信息。所有信用卡交易都将由 <a href='https://stripe.com' target='blank'>Stripe</a> 进行安全处理。 "
+  "donations:storageDisclaimer": "SuttaCentral并不处理或储存您的信用卡信息。所有信用卡交易都将由 <a href='https://stripe.com' target='blank'>Stripe</a> 进行安全处理。 ",
+  "donations:success1": "善哉！善哉！ "
 }
