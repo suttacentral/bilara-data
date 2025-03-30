@@ -29,5 +29,6 @@
   "interface:searchOptionsButtonText": "ಭಾಷೆಗಳು ",
   "interface:subjects": "ವಿಷಯಗಳು ",
   "interface:subjectsTitle": "ವಿಷಯ ಸೂಚಿ ",
-  "interface:sutta": "ಸೂತ್ರಗಳು "
+  "interface:sutta": "ಸೂತ್ರಗಳು ",
+  "interface:view": "{pitaka} ವೀಕ್ಷಿಸಿ "
 }
