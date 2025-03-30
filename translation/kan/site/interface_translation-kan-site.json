@@ -30,5 +30,6 @@
   "interface:subjects": "ವಿಷಯಗಳು ",
   "interface:subjectsTitle": "ವಿಷಯ ಸೂಚಿ ",
   "interface:sutta": "ಸೂತ್ರಗಳು ",
-  "interface:view": "{pitaka} ವೀಕ್ಷಿಸಿ "
+  "interface:view": "{pitaka} ವೀಕ್ಷಿಸಿ ",
+  "interface:voice": "SC voice ನಲ್ಲಿ ಆಲಿಸಿ "
 }
