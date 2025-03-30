@@ -27,5 +27,6 @@
   "interface:rootLangTitle": "ಮೂಲ ಭಾಷೆ : {lang} ",
   "interface:san": "ಸಂಸ್ಕೃತ ",
   "interface:searchOptionsButtonText": "ಭಾಷೆಗಳು ",
-  "interface:subjects": "ವಿಷಯಗಳು "
+  "interface:subjects": "ವಿಷಯಗಳು ",
+  "interface:subjectsTitle": "ವಿಷಯ ಸೂಚಿ "
 }
