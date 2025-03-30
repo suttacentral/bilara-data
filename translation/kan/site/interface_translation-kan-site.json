@@ -11,5 +11,6 @@
   "interface:donateNow": "ಈಗ ದಾನ ಮಾಡಿ ",
   "interface:donateNowTitle": "ಈಗ ದಾನ ಮಾಡಿ ",
   "interface:goBack": "ಹಿಂದಿನ ಮೆನುಗೆ ಹೋಗಿ ",
-  "interface:introduction": "ಪರಿಚಯ "
+  "interface:introduction": "ಪರಿಚಯ ",
+  "interface:introductionPitaka": "{pitaka} ಕ್ಕೆ ಪರಿಚಯ "
 }
