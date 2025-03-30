@@ -26,5 +26,6 @@
   "interface:previous": "ಹಿಂದಿನ ",
   "interface:rootLangTitle": "ಮೂಲ ಭಾಷೆ : {lang} ",
   "interface:san": "ಸಂಸ್ಕೃತ ",
-  "interface:searchOptionsButtonText": "ಭಾಷೆಗಳು "
+  "interface:searchOptionsButtonText": "ಭಾಷೆಗಳು ",
+  "interface:subjects": "ವಿಷಯಗಳು "
 }
