@@ -2931,7 +2931,7 @@
   "root_title": "Dhammapada",
   "creation_process": "Tõlgitud pāli keelest, kasutades peamise allikana Mahāsaṅgīti väljaannet. Abistavateks võrdlusallikateks olid mitmed ingliskeelsed tõlked, eelkõige K.R. Normani, Auväärse Bhikkhu Bodhi, Auväärse Bhikkhu Sujato ja Auväärse Buddharakkhita tõlkeversioonid.",
   "text_description": "Tegu on uue tõlkega algupärasest paali (pāli) keelest, mille sihiks on võimalikult arusaadav ja sisuliselt täpne dhamma esitus.",
-  "is_published": false,
+  "is_published": true,
   "publication_status": "Väiksemad täpsustused ja toimetused jätkuvad.",
   "license_type": "Creative Commons Zero",
   "license_abbreviation": "CC0",
