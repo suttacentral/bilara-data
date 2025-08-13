@@ -37,6 +37,7 @@
   "viewoption:showHighlightingEnabled": "La mise en évidence est maintenant activée.",
   "viewoption:showHighlightingTitle": "Afficher le surlignage ",
   "viewoption:showIllustrations": "Afficher les illustrations ",
+  "viewoption:showIllustrationsDescription": "Affichage des illustrations dans des pages de texte segmentées. ",
   "viewoption:sideBySide": "Côte à côte",
   "viewoption:sidenotes": "Afficher en tant que notes secondaires",
   "viewoption:textView": "Texte original et traduction",
