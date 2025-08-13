@@ -38,6 +38,7 @@
   "viewoption:showHighlightingTitle": "Afficher le surlignage ",
   "viewoption:showIllustrations": "Afficher les illustrations ",
   "viewoption:showIllustrationsDescription": "Affichage des illustrations dans des pages de texte segmentées. ",
+  "viewoption:showIllustrationsDisabled": "L'affichage des illustrations est désormais désactivée. ",
   "viewoption:sideBySide": "Côte à côte",
   "viewoption:sidenotes": "Afficher en tant que notes secondaires",
   "viewoption:textView": "Texte original et traduction",
