@@ -27,7 +27,7 @@
   "viewoption:paliLookupDictionaryDisabled": "Das Pali-Nachschlagewerkzeug ist jetzt ausgeschaltet. ",
   "viewoption:plain": "Nur Übersetzung ",
   "viewoption:reference": "Quellenangaben ",
-  "viewoption:referenceDescription": "„Primäre“ zeigt SuttaCentrals primäre Referenzen für segmentierte Texte und alle Referenzen für andere Texte. Verbleibende Elemente sind zusätzliche Paliausgaben. ",
+  "viewoption:referenceDescription": "„Primäre“ zeigt SuttaCentrals primäre Referenzen für segmentierte Texte und alle Referenzen für andere Texte. Die übrigen Elemente sind zusätzliche Paliausgaben. ",
   "viewoption:referenceDisplayTypeMain": "Primäre ",
   "viewoption:referenceDisplayTypeNone": "Keine ",
   "viewoption:scriptChanged": "Pali wird nun in {paliScript}-Schrift gezeigt. ",
