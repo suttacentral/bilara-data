@@ -38,6 +38,7 @@
   "viewoption:showHighlightingTitle": "Показать подсветку",
   "viewoption:showIllustrations": "Показать иллюстрации ",
   "viewoption:showIllustrationsDescription": "Отображение иллюстраций в сегментированных текстах ",
+  "viewoption:showIllustrationsDisabled": "Отображение иллюстраций отключено ",
   "viewoption:sideBySide": "Построчно",
   "viewoption:sidenotes": "Сбоку",
   "viewoption:textView": "Исходный текст и перевод",
