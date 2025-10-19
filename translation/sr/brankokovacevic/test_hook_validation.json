@@ -1,0 +1,5 @@
+{
+  "test:0.1": "Test file with correct ellipsis … see?",
+  "test:0.2": "This is correct text with proper style",
+  "test:0.3": "All validations should pass now"
+}
