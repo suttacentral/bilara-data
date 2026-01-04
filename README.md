@@ -1,6 +1,6 @@
 # bilara-data
 
-The `bilara-data`repository contains the published and unpublished translations, root texts, and other data from the [Bilara translation app](https://bilara.suttacentral.net/). Translators use Bilara to do translations, while `bilara-data` manages version control and publication of translations to [SuttaCentral](https://suttacentral.net/).
+The `bilara-data` repository contains the published and unpublished translations, root texts, and other data from the [Bilara translation app](https://bilara.suttacentral.net/). Translators use Bilara to do translations, while `bilara-data` manages version control and publication of translations to [SuttaCentral](https://suttacentral.net/).
 
 The respository is monitered by Bilara's admin team, who manage the publication workflow from the Bilara app to SuttaCentral's website. 
 
