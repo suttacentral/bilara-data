@@ -167,7 +167,7 @@
     "type": "translator",
     "name": "Ajahn Mudito"
   },
-  "my-team": {
+  "myteam": {
     "type": "translator",
     "name": "Myanmar Translation Team"
   },
@@ -182,6 +182,10 @@
   "nyeinchanaye": {
     "type": "translator",
     "name": "Nyein Chan Aye"
+  },
+  "o": {
+    "type": "translator",
+    "name": "o Dhamma.gift"
   },
   "pasanna": {
     "type": "translator",
@@ -222,7 +226,7 @@
   "sonjabuege": {
     "type": "translator",
     "name": "Sonja Büge"
-  },  
+  },
   "suddhaso": {
     "type": "translator",
     "name": "Bhante Suddhāso"
