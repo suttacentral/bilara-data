@@ -14,7 +14,7 @@
   "viewoption:lineByLine": "Zeilenweise ",
   "viewoption:lookup": "Nachschlagewerkzeug ",
   "viewoption:lookupDictionaryEnabled": "Das {lookupDictionary}-Nachschlagewerkzeug ist jetzt eingeschaltet. ",
-  "viewoption:mainRefsDisabled": "Die primären Quellenangaben sind jetzt ausgeschaltet. ",
+  "viewoption:mainRefsDisabled": "Die primären Quellenverweise sind jetzt ausgeschaltet. ",
   "viewoption:mainRefsEnabled": "Die primären Quellenangaben sind jetzt eingeschaltet. ",
   "viewoption:none": "Keins ",
   "viewoption:noteDescription": "Zeigt Anmerkungen zur Übersetzung und abweichende Lesarten für Quelltexte, wo vorhanden. ",
