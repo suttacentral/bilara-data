@@ -26,7 +26,7 @@
   "viewoption:notesDescription": "Zeigt Anmerkungen des Übersetzers, abweichende Lesarten usw. ",
   "viewoption:paliLookupDictionaryDisabled": "Das Pali-Nachschlagewerkzeug ist jetzt ausgeschaltet. ",
   "viewoption:plain": "Nur Übersetzung ",
-  "viewoption:reference": "Quellenangaben ",
+  "viewoption:reference": "Quellenverweise ",
   "viewoption:referenceDescription": "„Primäre“ zeigt SuttaCentrals primäre Referenzen für segmentierte Texte und alle Referenzen für andere Texte. Die übrigen Optionen sind zusätzliche Paliausgaben. ",
   "viewoption:referenceDisplayTypeMain": "Primäre ",
   "viewoption:referenceDisplayTypeNone": "Keine ",
