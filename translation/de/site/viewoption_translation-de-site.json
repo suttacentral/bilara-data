@@ -3,7 +3,7 @@
   "viewoption:activateChineseLookup": "Chinesisches Nachschlagewerkzeug einschalten ",
   "viewoption:activatePaliDescription": "Analysiert den Palitext und versucht, die Wortbedeutung darzustellen. Man beachte, dass das nur eine Hilfe ist; es ist nicht immer genau. Wortbedeutungen stammen aus dem New Concise Pali English Dictionary. ",
   "viewoption:activatePaliLookup": "Pali-Nachschlagewerkzeug einschalten ",
-  "viewoption:allRefsDisabled": "Alle Quellenangaben sind jetzt ausgeschaltet. ",
+  "viewoption:allRefsDisabled": "Alle Quellenverweise sind jetzt ausgeschaltet. ",
   "viewoption:allRefsEnabled": "Alle Quellenangaben sind jetzt eingeschaltet. ",
   "viewoption:asterisk": "Tooltipp über Sternchen ",
   "viewoption:changePaliScript": "Schrift für Pali ändern ",
