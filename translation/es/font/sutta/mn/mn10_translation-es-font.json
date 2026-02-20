@@ -83,5 +83,6 @@
   "mn10:32.5": "Si la sensación placentera es material, reconoce que está experimentando una sensación placentera material. ",
   "mn10:32.6": "Si la sensación placentera es espiritual, reconoce que está experimentando una sensación placentera espiritual. ",
   "mn10:32.7": "Si la sensación dolorosa es material, reconoce que está experimentando una sensación dolorosa material. ",
-  "mn10:32.8": "Si la sensación dolorosa es espiritual, reconoce que está experimentando una sensación dolorosa espiritual. "
+  "mn10:32.8": "Si la sensación dolorosa es espiritual, reconoce que está experimentando una sensación dolorosa espiritual. ",
+  "mn10:32.9": "Si la sensación neutra es material, reconoce que está experimentando una sensación neutra material. "
 }
