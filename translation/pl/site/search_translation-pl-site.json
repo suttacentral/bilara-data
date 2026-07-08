@@ -1,5 +1,6 @@
 {
   "autocomplete:change": "Zmień ",
+  "autocomplete:collection": "Zbiór ",
   "search:all": "Wszystko",
   "search:dictionaries": "Słowniki",
   "search:filter": "Filtrowanie",
