@@ -1,6 +1,7 @@
 {
   "autocomplete:change": "Zmień ",
   "autocomplete:collection": "Zbiór ",
+  "autocomplete:filterSearch": "Ogranicz wyszukiwanie do wczesnych sutr buddyjskich ",
   "search:all": "Wszystko",
   "search:dictionaries": "Słowniki",
   "search:filter": "Filtrowanie",
