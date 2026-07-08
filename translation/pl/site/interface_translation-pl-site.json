@@ -115,6 +115,7 @@
   "interface:rootLangTitle": "Język źródłowy: {lang}",
   "interface:san": "Sanskryt",
   "interface:scrollForToolbar": "Przewiń do paska narzędzi",
+  "interface:searchFilter": "Filtr wyszukiwania ",
   "interface:searchFilterButtonText": "filtr",
   "interface:searchOptionsButtonText": "języki",
   "interface:searchResults": "SuttaCentral — Wyniki wyszukiwania",
