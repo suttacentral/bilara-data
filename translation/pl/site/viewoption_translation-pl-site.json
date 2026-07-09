@@ -4,6 +4,7 @@
   "viewoption:activatePaliDescription": "Analizuje tekst w Pali w celu odnalezienia znaczenia słów. Ta funkcja to jedynie pomoc, a wyświetlane znaczenia są czasami niedokładne. Znaczenia słów pochodzą ze słownika “New Concise Pali English”.",
   "viewoption:activatePaliLookup": "Aktywuj spoglądanie do słownika Pali",
   "viewoption:allRefsDisabled": "Wszystkie odniesienia zostały wyłączone. ",
+  "viewoption:allRefsEnabled": "Wszystkie odniesienia są teraz włączone. ",
   "viewoption:asterisk": "Tekst w chmurce po najechaniu na gwiazdkę",
   "viewoption:changePaliScript": "Zmień skrypt tekstu Pali.",
   "viewoption:changePaliScriptDescription": "Ta funkcja pozwala czytać Palijskie teksty w różnych skryptach.",
