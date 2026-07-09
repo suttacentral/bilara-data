@@ -14,6 +14,7 @@
   "viewoption:lineByLine": "Linia pod linią",
   "viewoption:lookup": "Słownik",
   "viewoption:lookupDictionaryEnabled": "{lookupDictionary} słownik odnośników jest teraz włączony.",
+  "viewoption:mainRefsDisabled": "Główne odniesienia zostały obecnie wyłączone. ",
   "viewoption:none": "Wyłączone",
   "viewoption:noteDescription": "Gdy dostępne, pokaż komentarze do tłumaczenia oraz warianty tekstów źródłowych.",
   "viewoption:noteDisplayTypeToastAsterisk": "Tekst w chmurce po najechaniu na gwiazdkę",
