@@ -14,6 +14,7 @@
   "search:loadMore": "Załaduj więcej",
   "search:matchPartial": "Częściowe wyszukiwanie ",
   "search:metaDescriptionText": "Wczesne teksty buddyjskie i współczesne tłumaczenia. Sutty (sutry) z Tipitaki (Tripitaki) w językach pali, chińskim, sanskryckim i tybetańskim, zawierające nauki Buddy dotyczące uważności, wglądu, mądrości i medytacji. ",
+  "search:noResult": "Nie znaleziono wyników dla hasła „{searchTerm}”.\nSpróbuj poszukać odpowiedzi na forum lub zadaj nowe pytanie. ",
   "search:resultsFor": "wyników dla",
   "search:rootTexts": "Teksty źródłowe",
   "search:search": "Szukaj",
