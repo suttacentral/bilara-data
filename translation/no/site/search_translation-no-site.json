@@ -4,9 +4,11 @@
   "autocomplete:textOr": "tekst eller",
   "autocomplete:collection": "samling",
   "autocomplete:tipsForSearchSyntax": "Tips for søkesyntaks",
+  "autocomplete:change": "",
   "search:all": "Alle",
   "search:dictionaries": "Ordbøker",
   "search:filter": "Filter",
+  "search:searchOptions": "",
   "search:hint": "Tips: Søk f.eks. mn34 eller sn3.2 for å gå rett til den suttaen.",
   "search:inAllLanguage": "på alle språk",
   "search:inputSearchTerm": "Skriv inn søkeord",
@@ -18,5 +20,6 @@
   "search:search": "Søk",
   "search:searchInAllText": "Søk i alle tekster",
   "search:searchResultsText": "Søkeresultater for",
-  "search:translations": "Oversettelser"
+  "search:translations": "Oversettelser",
+  "search:metaDescriptionText": ""
 }
