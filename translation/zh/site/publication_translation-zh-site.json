@@ -14,7 +14,7 @@
   "publication:publicationDate": "出版状态",
   "publication:publisher": "出版商",
   "publication:publicationType": "",
-  "publication:numberOfVolumes": "",
+  "publication:numberOfVolumes": "卷数",
   "publication:textUid": "",
   "publication:source": "",
   "publication:suttaCentralPublicationNumber": "",
