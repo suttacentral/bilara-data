@@ -15,7 +15,7 @@
   "viewoption:lookup": "查找 ",
   "viewoption:lookupDictionaryEnabled": "{lookupDictionary}查找字典现已启用 ",
   "viewoption:mainRefsEnabled": "主引用现已启用",
-  "viewoption:mainRefsDisabled": "",
+  "viewoption:mainRefsDisabled": "主引用现已停用",
   "viewoption:none": "无 ",
   "viewoption:noteDescription": "",
   "viewoption:noteDisplayTypeToastAsterisk": "当鼠标移动到星号上进行提示 ",
