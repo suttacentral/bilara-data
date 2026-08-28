@@ -44,7 +44,7 @@
   "viewoption:textViewEnabled": "{textView}-现可阅览应用文字。 ",
   "viewoption:viewRoot": "查看原文与翻译 ",
   "viewoption:showIllustrations": "显示插画",
-  "viewoption:showIllustrationsDescription": "",
+  "viewoption:showIllustrationsDescription": "在分段文本页面中显示插图",
   "viewoption:showIllustrationsDisabled": "",
   "viewoption:showIllustrationsEnabled": "",
   "viewoption:showIllustrationsTitle": ""
