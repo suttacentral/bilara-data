@@ -3,7 +3,7 @@
   "viewoption:activateChineseLookup": "启用中文查词 ",
   "viewoption:activatePaliDescription": "分析巴利文与尝试显示单词的含义。请注意，这只是一个辅助，并不一定准确。单词的解读来自New Concise Pali English Dictionary。 ",
   "viewoption:activatePaliLookup": "启用巴利文单词查找 ",
-  "viewoption:allRefsEnabled": "",
+  "viewoption:allRefsEnabled": "所有引用现已启用。",
   "viewoption:allRefsDisabled": "",
   "viewoption:asterisk": "当鼠标移动到星号上进行提示 ",
   "viewoption:changePaliScript": "更改巴利文的原稿 ",
