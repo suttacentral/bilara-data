@@ -95,6 +95,9 @@
     "collaborator": [
       {
         "author_github_handle": "Kazeni-sawaru"
+      },
+      {
+        "author_github_handle": "sabbamitta"
       }
     ]
   },
@@ -415,6 +418,17 @@
     "collaborator": [
       {
         "author_github_handle": "ChristelleAh-Mouck"
+      }
+    ]
+  },
+  "fr_ms_translation_marion": {
+    "name": "French sutta translation Marion Ah-Mouck",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/fr/marion/sutta",
+    "translation_muids": "translation-fr-marion",
+    "collaborator": [
+      {
+        "author_github_handle": "Marion009"
       }
     ]
   },
@@ -1286,6 +1300,17 @@
       }
     ]
   },
+  "tr_ms_translation_fulyakoksoy": {
+    "name": "Türkçe translation Fulyak Oksoy",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/tr/fulyakoksoy/sutta",
+    "translation_muids": "translation-tr-fulyakoksoy",
+    "collaborator": [
+      {
+        "author_github_handle": "FulyaKoksoy"
+      }
+    ]
+  },
   "vi_blurb_translation": {
     "name": "Vietnamese blurb translation",
     "root_path": "root/en/blurb",
@@ -1409,6 +1434,28 @@
     "collaborator": [
       {
         "author_github_handle": "YingChen-Jane"
+      }
+    ]
+  },
+  "tr_ms_translation_çakmakçı": {
+    "name": "Türkçe translation Ufuk Çakmakçı",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/tr/cakmakcı/sutta",
+    "translation_muids": "translation-tr-cakmakcı",
+    "collaborator": [
+      {
+        "author_github_handle": "FulyaKoksoy"
+      }
+    ]
+  },
+  "tr_ms_translation_şen": {
+    "name": "Türkçe translation Cem Şen",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/tr/sen/sutta",
+    "translation_muids": "translation-tr-sen",
+    "collaborator": [
+      {
+        "author_github_handle": "FulyaKoksoy"
       }
     ]
   }

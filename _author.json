@@ -79,6 +79,10 @@
     "type": "translator",
     "name": "Dōgen Sisapa"
   },
+  "fulyakoksoy": {
+    "type": "translator",
+    "name": "Fulyak Oksoy"
+  },
   "flavio": {
     "type": "translator",
     "name": "Flavio Stucky"
@@ -170,6 +174,10 @@
   "marcinow": {
     "type": "translator",
     "name": "Piotr Marcinów"
+  },
+  "marion": {
+    "type": "translator",
+    "name": "Marion Ah-Mouck"
   },
   "mgvali": {
     "type": "translator",
@@ -286,5 +294,13 @@
   "yingchen": {
     "type": "translator",
     "name": "Ying-Chen Chang"
+  },
+  "cakmakcı": {
+    "type": "translator",
+    "name": "Ufuk Çakmakçı"
+  },
+  "sen": {
+    "type": "translator",
+    "name": "Cem Şen"
   }
 }

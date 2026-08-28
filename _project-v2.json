@@ -69,7 +69,10 @@
     "root_path": "root/pli/ms/sutta/kn",
     "translation_path": "translation/de/sonjabuege/sutta/kn",
     "translation_muids": "translation-de-sonjabuege",
-    "creator_github_handle": "Kazeni-sawaru"
+    "creator_github_handle": [
+      "Kazeni-sawaru",
+      "sabbamitta"
+    ]
   },
   {
     "project_uid": "en_ms_translation_brahmali",
@@ -300,6 +303,14 @@
     "translation_path": "translation/fr/christelle/sutta",
     "translation_muids": "translation-fr-christelle",
     "creator_github_handle": "ChristelleAh-Mouck"
+  },
+  {
+    "project_uid": "fr_ms_translation_marion",
+    "name": "French sutta translation Marion Ah-Mouck",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/fr/marion/sutta",
+    "translation_muids": "translation-fr-marion",
+    "creator_github_handle": "Marion009"
   },
   {
     "project_uid": "fr_ms_translation_cittadhammo",
@@ -940,7 +951,15 @@
     "translation_path": "translation/tr/dogensisapa/sutta",
     "translation_muids": "translation-tr-dogensisapa",
     "creator_github_handle": "DogenSisapa"
-  },  
+  },
+  {
+    "project_uid": "tr_ms_translation_fulyakoksoy",
+    "name": "Türkçe translation Fulyak Oksoy",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/tr/fulyakoksoy/sutta",
+    "translation_muids": "translation-tr-fulyakoksoy",
+    "creator_github_handle": "FulyaKoksoy"
+  },
   {
     "project_uid": "vi_blurb_translation",
     "name": "Vietnamese blurb translation",
@@ -1027,5 +1046,21 @@
     "translation_path": "translation/zh/yingchen/sutta",
     "translation_muids": "translation-zh-yingchen",
     "creator_github_handle": "YingChen-Jane"
+  },
+  {
+    "project_uid": "tr_ms_translation_cakmakcı",
+    "name": "Türkçe translation Ufuk Çakmakçı",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/tr/cakmakcı/sutta",
+    "translation_muids": "translation-tr-cakmakcı",
+    "creator_github_handle": "FulyaKoksoy"
+  },
+  {
+    "project_uid": "tr_ms_translation_sen",
+    "name": "Türkçe translation Cem Şen",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/tr/sen/sutta",
+    "translation_muids": "translation-tr-sen",
+    "creator_github_handle": "FulyaKoksoy"
   }
 ]
