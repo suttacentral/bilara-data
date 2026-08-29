@@ -45,7 +45,7 @@
   "viewoption:viewRoot": "查看原文与翻译 ",
   "viewoption:showIllustrations": "显示插画",
   "viewoption:showIllustrationsDescription": "在分段文本页面中显示插图",
-  "viewoption:showIllustrationsDisabled": "",
-  "viewoption:showIllustrationsEnabled": "",
+  "viewoption:showIllustrationsDisabled": "插图显示已启用。",
+  "viewoption:showIllustrationsEnabled": "插图显示已关闭",
   "viewoption:showIllustrationsTitle": ""
 }
