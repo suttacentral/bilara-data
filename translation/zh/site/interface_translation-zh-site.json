@@ -7,9 +7,9 @@
   "bottomsheet:help1": "",
   "bottomsheet:help2": "",
   "bottomsheet:help3": "",
-  "bottomsheet:help4": "",
-  "bottomsheet:help5": "",
-  "bottomsheet:help6": "",
+  "bottomsheet:help4": "使用键盘进行导航",
+  "bottomsheet:help5": "下一个",
+  "bottomsheet:help6": "上一个",
   "bottomsheet:help7": "",
   "dictionary:adjacentTerms": "相邻词语 ",
   "dictionary:definitionsFor": "定义 ",
@@ -155,7 +155,7 @@
   "interface:parallelsTitle": "",
   "interface:publicationEditions": "",
   "interface:overview": "",
-  "interface:searchFilter": "",
+  "interface:searchFilter": "搜索过滤",
   "interface:palitipitaka": "",
   "interface:languagesDetail": ""
 }
