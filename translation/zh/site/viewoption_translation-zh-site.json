@@ -17,7 +17,7 @@
   "viewoption:mainRefsEnabled": "主引用现已启用",
   "viewoption:mainRefsDisabled": "主引用现已停用",
   "viewoption:none": "无 ",
-  "viewoption:noteDescription": "",
+  "viewoption:noteDescription": "在适用的情况下，查看关于译文的注释以及根文本的变体。",
   "viewoption:noteDisplayTypeToastAsterisk": "当鼠标移动到星号上进行提示 ",
   "viewoption:noteDisplayTypeToastNone": "无 ",
   "viewoption:noteDisplayTypeToastSidenotes": "显示在侧边栏 ",
