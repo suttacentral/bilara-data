@@ -1,0 +1,19 @@
+{
+  "lzh-mu-bi-vb-pc5:0.0": "<article id='lzh-mu-bi-vb-pc5'><header><ul><li class='division'>{}</li>",
+  "lzh-mu-bi-vb-pc5:0.1": "<li class='subdivision'>{}</li></ul>",
+  "lzh-mu-bi-vb-pc5:0.2": "<h1 class='sutta-title'>{}</h1></header>",
+  "lzh-mu-bi-vb-pc5:1.0": "<p>{}</p>",
+  "lzh-mu-bi-vb-pc5:2.0": "<p>{}",
+  "lzh-mu-bi-vb-pc5:2.1": "{}",
+  "lzh-mu-bi-vb-pc5:2.2": "{}",
+  "lzh-mu-bi-vb-pc5:2.3": "{}",
+  "lzh-mu-bi-vb-pc5:2.4": "{}",
+  "lzh-mu-bi-vb-pc5:2.5": "{}",
+  "lzh-mu-bi-vb-pc5:2.6": "{}",
+  "lzh-mu-bi-vb-pc5:2.7": "{}",
+  "lzh-mu-bi-vb-pc5:2.8": "{}",
+  "lzh-mu-bi-vb-pc5:2.9": "{}",
+  "lzh-mu-bi-vb-pc5:2.10": "{}",
+  "lzh-mu-bi-vb-pc5:2.11": "{}",
+  "lzh-mu-bi-vb-pc5:2.12": "{}</p>"
+}
