@@ -38,7 +38,7 @@
   "viewoption:showHighlightingTitle": "高亮显示",
   "viewoption:sideBySide": "译文和原文并排显示 ",
   "viewoption:sidenotes": "显示为旁注 ",
-  "viewoption:textView": "",
+  "viewoption:textView": "原文及译文",
   "viewoption:textViewDescription": "一些SuttaCentral的文本已经被分段; 原文与译文逐行匹配. (<a href='' title='查看已分段的文本' class='tools'>See list of segmented texts.</a>)对于此类文本, 可同时参阅原文与译文。 ",
   "viewoption:textViewDisabled": "巴利文-英文 现已停用 ",
   "viewoption:textViewEnabled": "{textView}-现可阅览应用文字。 ",
