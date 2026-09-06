@@ -1,0 +1,23 @@
+{
+  "lzh-mu-bu-vb-pc86:0.0": "<article id='lzh-mu-bu-vb-pc86'><header><ul><li class='division'>{}</li>",
+  "lzh-mu-bu-vb-pc86:0.1": "<li class='subdivision'>{}</li></ul>",
+  "lzh-mu-bu-vb-pc86:0.2": "<h1 class='sutta-title'>{}</h1></header>",
+  "lzh-mu-bu-vb-pc86:1.0": "<p>{}</p>",
+  "lzh-mu-bu-vb-pc86:2.0": "<p>{}</p>",
+  "lzh-mu-bu-vb-pc86:3.0": "<p>{}</p>",
+  "lzh-mu-bu-vb-pc86:4.0": "<p>{}</p>",
+  "lzh-mu-bu-vb-pc86:5.0": "<p>{}",
+  "lzh-mu-bu-vb-pc86:5.1": "{}</p>",
+  "lzh-mu-bu-vb-pc86:6.0": "<p>{}</p>",
+  "lzh-mu-bu-vb-pc86:7.0": "<p>{}",
+  "lzh-mu-bu-vb-pc86:7.1": "{}</p>",
+  "lzh-mu-bu-vb-pc86:8.0": "<p>{}</p>",
+  "lzh-mu-bu-vb-pc86:9.0": "<p>{}",
+  "lzh-mu-bu-vb-pc86:9.1": "{}</p>",
+  "lzh-mu-bu-vb-pc86:10.0": "<p>{}</p>",
+  "lzh-mu-bu-vb-pc86:11.0": "<p>{}</p>",
+  "lzh-mu-bu-vb-pc86:12.0": "<p>{}</p>",
+  "lzh-mu-bu-vb-pc86:13.0": "<p>{}</p>",
+  "lzh-mu-bu-vb-pc86:14.0": "<p>{}</p>",
+  "lzh-mu-bu-vb-pc86:15.0": "<p>{}</p>"
+}
