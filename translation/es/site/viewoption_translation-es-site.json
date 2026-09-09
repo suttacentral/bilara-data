@@ -26,6 +26,8 @@
   "viewoption:notesDescription": "Ver notas del traductor, lecturas variantes, etc.",
   "viewoption:paliLookupDictionaryDisabled": "El diccionario de búsqueda de Pali ahora está deshabilitado.",
   "viewoption:plain": "Plano",
+  "viewoption:ptsRefsEnabled": "PTS referencias ahora están habilitadas.",
+  "viewoption:ptsRefsDisabled": "PTS referencias ahora están deshabilitadas.",
   "viewoption:reference": "Referencias",
   "viewoption:referenceDescription": "“Principal” muestra las referencias primarias de SuttaCentral para textos segmentados y todas las referencias para otros textos. Los elementos restantes son ediciones adicionales de Pali.",
   "viewoption:referenceDisplayTypeMain": "Principal",
