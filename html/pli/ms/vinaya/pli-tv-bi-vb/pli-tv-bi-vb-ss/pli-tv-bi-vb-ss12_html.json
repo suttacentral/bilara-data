@@ -47,7 +47,7 @@
   "pli-tv-bi-vb-ss12:2.1.22": "{}",
   "pli-tv-bi-vb-ss12:2.1.23": "{}",
   "pli-tv-bi-vb-ss12:2.1.24": "{}",
-  "pli-tv-bi-vb-ss12:2.1.25": "{}<span class='subrule'>{}</span></p>",
+  "pli-tv-bi-vb-ss12:2.1.25": "<span class='subrule'>{}</span></p>",
   "pli-tv-bi-vb-ss12:2.1.26": "<p>{}</p>",
   "pli-tv-bi-vb-ss12:2.1.27": "<section class='formal-statement'><p>{}",
   "pli-tv-bi-vb-ss12:2.1.28": "{}</p></section>",
