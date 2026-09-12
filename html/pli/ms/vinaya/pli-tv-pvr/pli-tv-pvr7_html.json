@@ -929,7 +929,7 @@
   "pli-tv-pvr7:68.14": "{}</p>",
   "pli-tv-pvr7:68.15": "<p>{}",
   "pli-tv-pvr7:68.16": "{}</p>",
-  "pli-tv-pvr7:69.1": "<p class='end'>{}</p>",
+  "pli-tv-pvr7:69.1": "<p class='endsutta'>{}</p>",
   "pli-tv-pvr7:70.1": "<section class='uddana'><p class='uddana-intro'>{}</p>",
   "pli-tv-pvr7:71.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "pli-tv-pvr7:71.2": "<span class='verse-line'>{}</span>",
