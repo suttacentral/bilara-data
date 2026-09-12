@@ -1020,7 +1020,7 @@
   "pli-tv-pvr7:88.2": "{}</p>",
   "pli-tv-pvr7:89.1": "<p>{}",
   "pli-tv-pvr7:89.2": "{}</p>",
-  "pli-tv-pvr7:90.1": "<p class='end'>{}</p>",
+  "pli-tv-pvr7:90.1": "<p class='endsutta'>{}</p>",
   "pli-tv-pvr7:91.1": "<section class='uddana'><p class='uddana-intro'>{}</p>",
   "pli-tv-pvr7:92.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "pli-tv-pvr7:92.2": "<span class='verse-line'>{}</span>",
