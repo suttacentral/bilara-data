@@ -3335,7 +3335,7 @@
   "pli-tv-kd1:76.9.2": "<section class='kamma'><p>{}",
   "pli-tv-kd1:76.9.3": "{}",
   "pli-tv-kd1:76.9.4": "{}</p>",
-  "pli-tv-kd1:76.9.5": "<p>{}",
+  "pli-tv-kd1:76.9.5": "<section class='formal-statement'><p>{}<p>{}",
   "pli-tv-kd1:76.9.6": "{}",
   "pli-tv-kd1:76.9.7": "{}",
   "pli-tv-kd1:76.9.8": "{}",
