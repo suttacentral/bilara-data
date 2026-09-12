@@ -683,7 +683,7 @@
   "pli-tv-bu-vb-ss5:4.11.41": "{}</p>",
   "pli-tv-bu-vb-ss5:4.11.42": "<p class='end'>{}</p>",
   "pli-tv-bu-vb-ss5:4.11.43.0": "<h5 class='inserted-heading'>{}</h5>",
-  "pli-tv-bu-vb-ss5:4.11.43.1": "<p>{}</p>",
+  "pli-tv-bu-vb-ss5:4.11.43.1": "<p><span class='pe'>{}</span></p>",
   "pli-tv-bu-vb-ss5:4.11.44.0": "<h5 class='inserted-heading'>{}</h5>",
   "pli-tv-bu-vb-ss5:4.11.44.1": "<p>{}</p>",
   "pli-tv-bu-vb-ss5:4.11.45": "<p>{}",
