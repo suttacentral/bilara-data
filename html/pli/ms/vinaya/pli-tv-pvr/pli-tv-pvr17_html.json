@@ -156,7 +156,7 @@
   "pli-tv-pvr17:37.2": "<span class='verse-line'>{}</span>",
   "pli-tv-pvr17:37.3": "<span class='verse-line'>{}</span>",
   "pli-tv-pvr17:37.4": "<span class='verse-line'>{}</span></p></blockquote></section>",
-  "pli-tv-pvr17:38.1": "<p class='endsutta'>{}</p>",
+  "pli-tv-pvr17:38.1": "<p class='end'>{}</p> ",
   "pli-tv-pvr17:39.0": "<h2>{}</h2>",
   "pli-tv-pvr17:39.1": "<p>{}</p>",
   "pli-tv-pvr17:40.1": "<p data-counter='1'>{}",
