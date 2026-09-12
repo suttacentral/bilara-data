@@ -72,7 +72,7 @@
   "pli-tv-bi-vb-ss13:2.30": "{}",
   "pli-tv-bi-vb-ss13:2.31": "{}",
   "pli-tv-bi-vb-ss13:2.32": "{}",
-  "pli-tv-bi-vb-ss13:2.33": "{}</p>",
+  "pli-tv-bi-vb-ss13:2.33": "{}<span class='subrule'>{}</span></p>",
   "pli-tv-bi-vb-ss13:2.34": "<p>{}</p>",
   "pli-tv-bi-vb-ss13:2.35": "<section class='formal-statement'><p>{}",
   "pli-tv-bi-vb-ss13:2.36": "{}",
