@@ -331,7 +331,7 @@
   "pli-tv-kd4:5.5.7": "<p class='rule'>{}</p>",
   "pli-tv-kd4:5.6.1": "<p>{}",
   "pli-tv-kd4:5.6.2": "{}</p>",
-  "pli-tv-kd4:5.6.3": "<section class='kamma'><p>{}",
+  "pli-tv-kd4:5.6.3": "<section class='formal-statement'><p>{}",
   "pli-tv-kd4:5.6.4": "{}",
   "pli-tv-kd4:5.6.5": "{}",
   "pli-tv-kd4:5.6.6": "{}",
