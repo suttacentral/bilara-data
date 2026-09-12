@@ -55,7 +55,7 @@
   "pli-tv-bu-vb-ss12:2.12": "<dd>{}</dd>",
   "pli-tv-bu-vb-ss12:2.13": "<dt>{}</dt>",
   "pli-tv-bu-vb-ss12:2.14": "<dd><p>{}</p>",
-  "pli-tv-bu-vb-ss12:2.15": "<section class='kamma'><p>{}",
+  "pli-tv-bu-vb-ss12:2.15": "<section class='formal-statement'><p>{}",
   "pli-tv-bu-vb-ss12:2.16": "{}",
   "pli-tv-bu-vb-ss12:2.17": "{}",
   "pli-tv-bu-vb-ss12:2.18": "{}</p></section>",
