@@ -448,5 +448,5 @@
   "pli-tv-pvr19:109.2": "<span class='verse-line'>{}</span>",
   "pli-tv-pvr19:109.3": "<span class='verse-line'>{}</span>",
   "pli-tv-pvr19:109.4": "<span class='verse-line'>{}</span></p></blockquote>",
-  "pli-tv-pvr19:110.1": "<p class='endsection'>{}</p></article>"
+  "pli-tv-pvr19:110.1": "<p class='endkanda'>{}</p></article>"
 }
