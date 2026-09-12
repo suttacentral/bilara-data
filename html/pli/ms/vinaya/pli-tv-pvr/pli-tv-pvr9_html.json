@@ -51,7 +51,7 @@
   "pli-tv-pvr9:6.3": "<span class='verse-line'>{}</span>",
   "pli-tv-pvr9:6.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "pli-tv-pvr9:7.1": "<p class='endkanda'>{}</p>",
-  "pli-tv-pvr9:7.2": "<p class='end'>{}</p>",
+  "pli-tv-pvr9:7.2": "<p class='endkanda'>{}</p>",
   "pli-tv-pvr9:8.1": "<section class='uddana'><p class='uddana-intro'>{}</p>",
   "pli-tv-pvr9:9.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "pli-tv-pvr9:9.2": "<span class='verse-line'>{}</span>",
