@@ -203,7 +203,7 @@
   "pli-tv-pvr20:43.2": "<span class='verse-line'>{}</span>",
   "pli-tv-pvr20:43.3": "<span class='verse-line'>{}</span>",
   "pli-tv-pvr20:43.4": "<span class='verse-line'>{}</span></p></blockquote>",
-  "pli-tv-pvr20:44.1": "<p class='endsection'>{}</p>",
+  "pli-tv-pvr20:44.1": "<p class='endkanda'>{}</p>",
   "pli-tv-pvr20:45.1": "<p class='uddana-intro'>{}</p>",
   "pli-tv-pvr20:46.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "pli-tv-pvr20:46.2": "<span class='verse-line'>{}</span>",
