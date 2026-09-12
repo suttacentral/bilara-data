@@ -46,7 +46,7 @@
   "pli-tv-bi-vb-ss5:2.1.24": "<dd>{}</dd></dl></section>",
   "pli-tv-bi-vb-ss5:2.2.0": "<section class='cakka'><h2 class='inserted-heading'>{}</h2>",
   "pli-tv-bi-vb-ss5:2.2.1": "<p>{}</p>",
-  "pli-tv-bi-vb-ss5:2.2.2": "<p>{}</p>",
+  "pli-tv-bi-vb-ss5:2.2.2": "<p>{}",
   "pli-tv-bi-vb-ss5:2.2.3": "<p>{}",
   "pli-tv-bi-vb-ss5:2.2.4": "{}</p>",
   "pli-tv-bi-vb-ss5:2.2.5": "<p>{}",
