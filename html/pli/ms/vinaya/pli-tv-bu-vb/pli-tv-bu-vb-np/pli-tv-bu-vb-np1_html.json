@@ -2,7 +2,7 @@
   "pli-tv-bu-vb-np1:0.1": "<article id='pli-tv-bu-vb-np1'><header><ul><li class='collection'>{}</li>",
   "pli-tv-bu-vb-np1:0.2": "",
   "pli-tv-bu-vb-np1:0.3": "",
-  "pli-tv-bu-vb-np1:0.4": "{} <li class='division'>{}</li>",
+  "pli-tv-bu-vb-np1:0.4": "<li class='division'>{}</li>",
   "pli-tv-bu-vb-np1:0.5": "<li class='kanda'>{}</li>",
   "pli-tv-bu-vb-np1:0.6": "<li>{}</li></ul>",
   "pli-tv-bu-vb-np1:0.7": "<h1 class='sutta-title'>{}</h1></header>",
