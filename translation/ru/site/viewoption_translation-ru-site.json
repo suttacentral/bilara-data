@@ -26,6 +26,8 @@
   "viewoption:notesDescription": "Показывать заметки переводчика, варианты прочтений и т.д.",
   "viewoption:paliLookupDictionaryDisabled": "Словарь поиска пали отключен.",
   "viewoption:plain": "Простой",
+  "viewoption:ptsRefsEnabled": "Включены PTS ссылки.",
+  "viewoption:ptsRefsDisabled": "PTS ссылки скрыты.",
   "viewoption:reference": "Ссылки",
   "viewoption:referenceDescription": "Опция «Основные» отображает основные ссылки SuttaCentral для сегментированных текстов и все ссылки для других текстов. Другие опции — ссылки разных палийских редакций.",
   "viewoption:referenceDisplayTypeMain": "Основные",
