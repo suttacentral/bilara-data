@@ -302,5 +302,9 @@
   "sen": {
     "type": "translator",
     "name": "Cem Şen"
+  },
+  "magesh": {
+    "type": "translator",
+    "name": "Upasaka Magesh"
   }
 }
