@@ -13,12 +13,12 @@
   "t765.61:2.2": "{}",
   "t765.61:2.3": "{}</p>",
   "t765.61:3.0": "<p>{}</p>",
-  "t765.61:4.0": "<p>{}",
-  "t765.61:4.1": "{}",
-  "t765.61:4.2": "{}",
-  "t765.61:4.3": "{}</span></p></blockquote>",
-  "t765.61:5.0": "<p>{}",
-  "t765.61:5.1": "{}",
-  "t765.61:5.2": "{}",
-  "t765.61:5.3": "{}</span></p></blockquote>"
+  "t765.61:4.0": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "t765.61:4.1": "<span class='verse-line'>{}</span>",
+  "t765.61:4.2": "<span class='verse-line'>{}</span>",
+  "t765.61:4.3": "<span class='verse-line'>{}</span></p></blockquote>",
+  "t765.61:5.0": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "t765.61:5.1": "<span class='verse-line'>{}</span>",
+  "t765.61:5.2": "<span class='verse-line'>{}</span>",
+  "t765.61:5.3": "<span class='verse-line'>{}</span></p></blockquote>"
 }
