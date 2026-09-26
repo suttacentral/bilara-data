@@ -20,7 +20,7 @@
   "error:error404": "",
   "error:generalError": "பொதுவான பிழை",
   "error:networkError": "",
-  "error:offline": "",
+  "error:offline": "நீங்கள் இணைய இணைப்பில் இல்லை.",
   "error:pageNotFound": "",
   "error:translationDataLoadError": "",
   "interface:ab": "",
