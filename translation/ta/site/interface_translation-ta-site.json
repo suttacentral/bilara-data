@@ -22,7 +22,7 @@
   "error:networkError": "",
   "error:offline": "நீங்கள் இணைய இணைப்பில் இல்லை.",
   "error:pageNotFound": "இணையப் பக்கம் காணப்படவில்லை",
-  "error:translationDataLoadError": "",
+  "error:translationDataLoadError": "மொழிபெயர்ப்புத் தரவு ஏற்றும் பிழை",
   "interface:ab": "",
   "interface:abbreviations": "",
   "interface:abbreviationsTitle": "",
