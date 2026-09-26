@@ -102,7 +102,7 @@
   "interface:pli": "பாளி",
   "interface:pra": "பிராகிருத மொழிகள்",
   "interface:publicationDetails": "பதிப்பு விவரங்கள்",
-  "interface:rootLangTitle": "",
+  "interface:rootLangTitle": "மூல மொழி:{lang}",
   "interface:san": "",
   "interface:scrollForToolbar": "",
   "interface:fixedToolbar": "",
