@@ -17,7 +17,7 @@
   "dictionary:similarSpelling": "ஒத்த எழுத்துக் கோர்வை ",
   "error:connectToInternet": "தேடல் வசதியைப் பயன்படுத்த, தயவுசெய்து இணையத்துடன் இணையவும்.",
   "error:dataLoadError": "தரவு ஏற்றும் பிழை",
-  "error:error404": "",
+  "error:error404": "404 இணையப்பிழை",
   "error:generalError": "பொதுவான பிழை",
   "error:networkError": "",
   "error:offline": "நீங்கள் இணைய இணைப்பில் இல்லை.",
