@@ -16,7 +16,7 @@
   "dictionary:dictionaryResultsText": "",
   "dictionary:similarSpelling": "",
   "error:connectToInternet": "தேடல் வசதியைப் பயன்படுத்த, தயவுசெய்து இணையத்துடன் இணையவும்.",
-  "error:dataLoadError": "தரவு ஏற்றும் பிழை",
+  "error:dataLoadError": "",
   "error:error404": "",
   "error:generalError": "",
   "error:networkError": "",
