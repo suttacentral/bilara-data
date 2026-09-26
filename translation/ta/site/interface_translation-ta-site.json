@@ -105,7 +105,7 @@
   "interface:rootLangTitle": "மூல மொழி:{lang}",
   "interface:san": "சமஸ்கிருதம்",
   "interface:scrollForToolbar": "",
-  "interface:fixedToolbar": "",
+  "interface:fixedToolbar": "நிலையான கருவிப்பட்டி",
   "interface:toolbarAtTop": "",
   "interface:searchResults": "சுட்டா சென்ட்ரல்— தேடுதல் முடிவுகள்",
   "interface:shortcutToFullList": "அனைத்து சுத்தங்களுக்குமான குறுக்கிணைப்பு",
