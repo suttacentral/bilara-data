@@ -16,7 +16,7 @@
   "publication:publicationType": "வெளியீட்டு வகை",
   "publication:numberOfVolumes": "தொகுதிகளின் எண்ணிக்கை",
   "publication:textUid": "உரை அடையாளம்(UID)",
-  "publication:source": "",
+  "publication:source": "மூலம்",
   "publication:suttaCentralPublicationNumber": "",
   "publication:license": "",
   "publication:licenseDescription": "",
