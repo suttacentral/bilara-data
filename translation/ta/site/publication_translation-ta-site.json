@@ -17,7 +17,7 @@
   "publication:numberOfVolumes": "தொகுதிகளின் எண்ணிக்கை",
   "publication:textUid": "உரை அடையாளம்(UID)",
   "publication:source": "மூலம்",
-  "publication:suttaCentralPublicationNumber": "",
+  "publication:suttaCentralPublicationNumber": "சுட்டா சென்ட்ரலின் வெளியீட்டு எண்",
   "publication:license": "",
   "publication:licenseDescription": "",
   "publication:aboutThisLicense": "",
