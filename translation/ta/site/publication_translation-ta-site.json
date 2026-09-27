@@ -19,7 +19,7 @@
   "publication:source": "மூலம்",
   "publication:suttaCentralPublicationNumber": "சுட்டா சென்ட்ரலின் வெளியீட்டு எண்",
   "publication:license": "உரிமம்",
-  "publication:licenseDescription": "",
+  "publication:licenseDescription": "சட்டத்திற்கு உட்பட்ட வரம்பிற்குள், <a rel='dct:publisher' href='https://suttacentral.net/'><span property='dct:title'>{authorName}</span></a> என்பவர் <cite property='dct:title'>{translationTitle}</cite> மீதான அனைத்துப் பதிப்புரிமை மற்றும் அது தொடர்பான அல்லது அண்டை உரிமைகளையும் விட்டுக்கொடுத்துள்ளார். இவ்வாக்கம் <span property='vcard:Country' datatype='dct:ISO3166' content='AU' about='https://suttacentral.net/licensing'>ஆஸ்திரேலியா</span>விலிருந்து வெளியிடப்படுகிறது.",
   "publication:aboutThisLicense": "இந்த உரிமத்தைப் பற்றி ",
   "publication:editionsToolbarTitle": "பதிப்புகள்",
   "publication:suttaCentralEditions": "சுட்டா சென்ட்ரல் பதிப்புகள் ",
