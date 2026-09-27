@@ -12,7 +12,7 @@
   "publication:publicationStatus": "வெளியீட்டு நிலை",
   "publication:edition": "",
   "publication:publicationDate": "வெளியீட்டு நாள்",
-  "publication:publisher": "",
+  "publication:publisher": "வெளியீட்டாளர்",
   "publication:publicationType": "",
   "publication:numberOfVolumes": "",
   "publication:textUid": "",
