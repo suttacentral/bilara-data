@@ -14,7 +14,7 @@
   "publication:publicationDate": "வெளியீட்டு நாள்",
   "publication:publisher": "வெளியீட்டாளர்",
   "publication:publicationType": "வெளியீட்டு வகை",
-  "publication:numberOfVolumes": "",
+  "publication:numberOfVolumes": "தொகுதிகளின் எண்ணிக்கை",
   "publication:textUid": "",
   "publication:source": "",
   "publication:suttaCentralPublicationNumber": "",
