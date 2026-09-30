@@ -19,7 +19,7 @@
   "error:dataLoadError": "தரவு ஏற்றும் பிழை",
   "error:error404": "404 இணையப்பிழை",
   "error:generalError": "பொதுவான பிழை",
-  "error:networkError": "",
+  "error:networkError": "இணையப்பிழை",
   "error:offline": "நீங்கள் இணைய இணைப்பில் இல்லை.",
   "error:pageNotFound": "இணையப் பக்கம் காணப்படவில்லை",
   "error:translationDataLoadError": "மொழிபெயர்ப்புத் தரவு ஏற்றும் பிழை",
