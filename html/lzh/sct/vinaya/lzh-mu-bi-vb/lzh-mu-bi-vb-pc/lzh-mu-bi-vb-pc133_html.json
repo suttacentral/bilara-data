@@ -1,0 +1,22 @@
+{
+  "lzh-mu-bi-vb-pc133:0.0": "<article id='lzh-mu-bi-vb-pc133'><header><ul><li class='division'>{}</li>",
+  "lzh-mu-bi-vb-pc133:0.1": "<li class='subdivision'>{}</li></ul>",
+  "lzh-mu-bi-vb-pc133:0.2": "<h1 class='sutta-title'>{}</h1></header>",
+  "lzh-mu-bi-vb-pc133:1.0": "<p>{}</p>",
+  "lzh-mu-bi-vb-pc133:2.0": "<p>{}</p>",
+  "lzh-mu-bi-vb-pc133:3.0": "<p>{}</p>",
+  "lzh-mu-bi-vb-pc133:4.0": "<p>{}</p>",
+  "lzh-mu-bi-vb-pc133:5.0": "<p>{}</p>",
+  "lzh-mu-bi-vb-pc133:6.0": "<p>{}",
+  "lzh-mu-bi-vb-pc133:6.1": "{}</p>",
+  "lzh-mu-bi-vb-pc133:7.0": "<p>{}",
+  "lzh-mu-bi-vb-pc133:7.1": "{}</p>",
+  "lzh-mu-bi-vb-pc133:8.0": "<p>{}",
+  "lzh-mu-bi-vb-pc133:8.1": "{}</p>",
+  "lzh-mu-bi-vb-pc133:9.0": "<p>{}</p>",
+  "lzh-mu-bi-vb-pc133:10.0": "<p>{}",
+  "lzh-mu-bi-vb-pc133:10.1": "{}",
+  "lzh-mu-bi-vb-pc133:10.2": "{}",
+  "lzh-mu-bi-vb-pc133:10.3": "{}",
+  "lzh-mu-bi-vb-pc133:10.4": "{}</p>"
+}
