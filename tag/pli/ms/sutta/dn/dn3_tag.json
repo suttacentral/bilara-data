@@ -255,7 +255,7 @@
   "dn3:2.2.8": "med,nib",
   "dn3:2.2.9": "nib,med",
   "dn3:2.2.10": "med,nib",
-  "dn3:2.2.11": "nib,med,eth",
+  "dn3:2.2.11": "eth, med",
   "dn3:2.2.12": "nib,med",
   "dn3:2.2.13": "eth,nib,med",
   "dn3:2.2.14": "med,nib",
