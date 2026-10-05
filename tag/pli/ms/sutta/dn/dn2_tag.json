@@ -328,7 +328,7 @@
   "dn2:45.5": "mon,ren,deb",
   "dn2:45.6": "mon,ren,deb",
   "dn2:45.7": "mon,ren,deb",
-  "dn2:45.8": "eth,ren",
+  "dn2:45.8": "mon,ren,deb",
   "dn2:45.9": "eth,ren",
   "dn2:45.10": "eth,ren",
   "dn2:45.11": "eth,ren",
