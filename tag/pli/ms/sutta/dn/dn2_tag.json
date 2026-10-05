@@ -233,7 +233,7 @@
   "dn2:34.2": "deb",
   "dn2:34.3": "deb",
   "dn2:34.4": "deb",
-  "dn2:34.5": "eth,k,r,lif",
+  "dn2:34.5": "eth,k,r,lif,deb",
   "dn2:34.6": "ren,eth",
   "dn2:34.7": "ren,eth",
   "dn2:34.8": "ren,eth",
