@@ -307,7 +307,7 @@
   "dn2:43.0.1": "eth,deb",
   "dn2:43.0.2": "eth,deb",
   "dn2:43.1": "eth,ren,deb",
-  "dn2:43.2": "eth,ren,deb",
+  "dn2:43.2": "mon,ren,deb",
   "dn2:43.3": "eth,ren,deb",
   "dn2:43.4": "eth,ren,deb",
   "dn2:43.5": "eth,ren,deb",
