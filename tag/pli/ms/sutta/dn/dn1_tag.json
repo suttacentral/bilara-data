@@ -182,7 +182,7 @@
   "dn1:1.32.10": "sci,deb",
   "dn1:1.32.11": "sci,r,med,deb",
   "dn1:1.32.12": "sci,deb",
-  "dn1:1.33.1": "sci",
+  "dn1:1.33.1": "sci,deb",
   "dn1:1.33.2": "med,r,sci",
   "dn1:1.33.3": "med,r,sci",
   "dn1:1.33.4": "med,r,sci",
