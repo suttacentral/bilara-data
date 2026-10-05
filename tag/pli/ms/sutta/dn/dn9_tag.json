@@ -343,7 +343,7 @@
   "dn9:38.22": "deb",
   "dn9:39.0": "deb",
   "dn9:39.1": "r,deb",
-  "dn9:39.2": "r,deb,lif",
+  "dn9:39.2": "r,lif,deb",
   "dn9:39.3": "r,deb",
   "dn9:39.4": "r,deb",
   "dn9:39.5": "r,lif,deb",
