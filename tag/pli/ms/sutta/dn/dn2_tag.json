@@ -412,7 +412,7 @@
   "dn2:62.4": "mon,ren,deb,rit",
   "dn2:63.1": "mon,k,deb",
   "dn2:63.2": "deb",
-  "dn2:63.3": "eth",
+  "dn2:63.3": "mon,k,deb",
   "dn2:63.4": "eth",
   "dn2:63.5": "ren,eth",
   "dn2:63.6": "str",
