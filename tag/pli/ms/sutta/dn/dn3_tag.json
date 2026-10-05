@@ -9,7 +9,7 @@
   "dn3:1.2.2": "deb",
   "dn3:1.2.3": "deb",
   "dn3:1.2.4": "deb",
-  "dn3:1.2.5": "nib,lif",
+  "dn3:1.2.5": "nib,lif,deb",
   "dn3:1.2.6": "nib,lif",
   "dn3:1.2.7": "nib,8fp",
   "dn3:1.2.8": "nib",
