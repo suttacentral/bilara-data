@@ -594,7 +594,7 @@
   "dn1:3.35.1": "ani,sci,deb",
   "dn1:3.36.1": "ani,sci,deb",
   "dn1:3.37.1": "ani,sci,deb",
-  "dn1:3.38.1": "ani,r, deb",
+  "dn1:3.38.1": "r,ani, deb",
   "dn1:3.39.1": "r,sci,deb",
   "dn1:3.40.1": "r,deb",
   "dn1:3.41.1": "nib,deb",
