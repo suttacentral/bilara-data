@@ -21,7 +21,7 @@
   "dn3:1.4.2": "deb",
   "dn3:1.4.3": "deb",
   "dn3:1.4.4": "nib,lif,deb",
-  "dn3:1.4.5": "xxx",
+  "dn3:1.4.5": "nib,lif,deb",
   "dn3:1.4.6": "xxx",
   "dn3:1.4.7": "nib,deb",
   "dn3:1.4.8": "nib,deb",
