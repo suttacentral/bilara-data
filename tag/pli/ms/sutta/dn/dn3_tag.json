@@ -242,7 +242,7 @@
   "dn3:2.1.2": "deb,eth,nib",
   "dn3:2.1.3": "deb,eth",
   "dn3:2.1.4": "deb,eth",
-  "dn3:2.1.5": "xxx",
+  "dn3:2.1.5": "deb,eth",
   "dn3:2.1.6": "deb,nib",
   "dn3:2.1.7": "deb,nib",
   "dn3:2.2.1": "deb,eth",
