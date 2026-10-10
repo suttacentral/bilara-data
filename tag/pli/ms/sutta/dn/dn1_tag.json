@@ -512,7 +512,7 @@
   "dn1:3.14.1": "sci,deb",
   "dn1:3.14.2": "ani,deb",
   "dn1:3.14.3": "ani,deb",
-  "dn1:3.14.4": "sci,med,deb",
+  "dn1:3.14.4": "med,ani,r,lif,deb",
   "dn1:3.14.5": "sci,deb",
   "dn1:3.14.6": "sci,deb",
   "dn1:3.14.7": "sci,deb",
