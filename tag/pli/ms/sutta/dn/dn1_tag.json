@@ -568,7 +568,7 @@
   "dn1:3.24.2": "deb",
   "dn1:3.24.3": "nib,deb",
   "dn1:3.24.4": "nib,deb",
-  "dn1:3.24.5": "deb",
+  "dn1:3.24.5": "nib,deb",
   "dn1:3.24.6": "med,nib,deb",
   "dn1:3.24.7": "nib,deb",
   "dn1:3.25.1": "nib,deb",
