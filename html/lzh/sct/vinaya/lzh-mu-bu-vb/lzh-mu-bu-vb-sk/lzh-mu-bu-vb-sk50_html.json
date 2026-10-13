@@ -1,0 +1,10 @@
+{
+  "lzh-mu-bu-vb-sk50:0.0": "<article id='lzh-mu-bu-vb-sk50'><header><ul><li class='division'>{}</li>",
+  "lzh-mu-bu-vb-sk50:0.1": "<li class='subdivision'>{}</li></ul>",
+  "lzh-mu-bu-vb-sk50:1.0": "<p>{}</p>",
+  "lzh-mu-bu-vb-sk50:2.0": "<p>{}</p>",
+  "lzh-mu-bu-vb-sk50:3.0": "<p>{}</p>",
+  "lzh-mu-bu-vb-sk50:4.0": "<p>{}</p>",
+  "lzh-mu-bu-vb-sk50:5.0": "<p>{}",
+  "lzh-mu-bu-vb-sk50:5.1": "{}</p>"
+}
