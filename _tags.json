@@ -138,5 +138,10 @@
     "tag": "my",
     "expansion": "Myths",
     "definition": "Stories of ancient legends (not Jataka)"
+  },
+  {
+    "tag": "test2",
+    "expansion": "test2",
+    "definition": "test2"
   }
 ]
