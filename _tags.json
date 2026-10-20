@@ -1,0 +1,147 @@
+[
+  {
+    "tag": "4nt",
+    "expansion": "four noble truths",
+    "definition": "Suffering, its origin, cessation, and the path."
+  },
+  {
+    "tag": "8fp",
+    "expansion": "8 fold path",
+    "definition": "Ethical conduct, meditation and insight; and gradual training"
+  },
+  {
+    "tag": "k",
+    "expansion": "karma vipaka",
+    "definition": "Volitional actions having consequences"
+  },
+  {
+    "tag": "r",
+    "expansion": "rebirth",
+    "definition": "Continued existence after death"
+  },
+  {
+    "tag": "do",
+    "expansion": "dependent origination",
+    "definition": "Nexus of conditioned origination"
+  },
+  {
+    "tag": "5k",
+    "expansion": "5 khandas",
+    "definition": "5 aggregates of clinging"
+  },
+  {
+    "tag": "med",
+    "expansion": "meditation",
+    "definition": "Mindfulness; mental cultivation; mental absorptions"
+  },
+  {
+    "tag": "nib",
+    "expansion": "enlightenment",
+    "definition": "Eradication of suffering; Noble Ones (incl stages and their qualities)"
+  },
+  {
+    "tag": "bra",
+    "expansion": "brahmaviharas",
+    "definition": "Loving kindness, compassion, empathetic joy and equanimity"
+  },
+  {
+    "tag": "hin",
+    "expansion": "hindrances to progress",
+    "definition": "Factors impeding progress to enlightenment; greed, hatred and delusion; 5 hindrances"
+  },
+  {
+    "tag": "sup",
+    "expansion": "supports to progress",
+    "definition": "4 Foundations of mindfulness; 4 right efforts; 4 bases of psychic power (zeal, energy, focus, inquiry); 5 faculties/powers; and 7 enlightenment factors"
+  },
+  {
+    "tag": "rit",
+    "expansion": "rituals",
+    "definition": "Chanting, statues, incense, flowers, lamps or ceremonies (e.g., to predict the future)"
+  },
+  {
+    "tag": "gen",
+    "expansion": "gender and sex",
+    "definition": "The role of women and LGBTQI "
+  },
+  {
+    "tag": "str",
+    "expansion": "structural text",
+    "definition": "Background text components such as pleasantries, setting and context"
+  },
+  {
+    "tag": "oth",
+    "expansion": "other",
+    "definition": "All references not otherwise tagged"
+  },
+  {
+    "tag": "eth",
+    "expansion": "ethics and precepts",
+    "definition": "Good/bad conduct generally (not specifically for monastics) and precepts"
+  },
+  {
+    "tag": "mon",
+    "expansion": "monastic code",
+    "definition": "Good/bad conduct specifically for monastics, incl monastic code"
+  },
+  {
+    "tag": "sci",
+    "expansion": "science",
+    "definition": "Physics, the cosmos (incl questions not answered)"
+  },
+  {
+    "tag": "lif",
+    "expansion": "life form",
+    "definition": "Realms of existence, incl immaterial, fine material, sensual and lower realms"
+  },
+  {
+    "tag": "ren",
+    "expansion": "renunciation",
+    "definition": "Going forth, incl qualities of and discussions between renunciates"
+  },
+  {
+    "tag": "ani",
+    "expansion": "anicca",
+    "definition": "Three marks of existence: impermanence, suffering and no soul (any one or all)"
+  },
+  {
+    "tag": "xxx",
+    "expansion": "issue to resolve",
+    "definition": "Need to review these tags"
+  },
+  {
+    "tag": "mir",
+    "expansion": "miraculous powers",
+    "definition": "Miracles, Psychic powers"
+  },
+  {
+    "tag": "awa",
+    "expansion": "awakened",
+    "definition": "Example of someone becoming awakened (any stage)"
+  },
+  {
+    "tag": "deb",
+    "expansion": "debates and discussions",
+    "definition": "Debates and discussions with disagreements (not pure teaching)"
+  },
+  {
+    "tag": "f",
+    "expansion": "Friends on the path",
+    "definition": "Spiritual friends on the path (kalyana mitta)"
+  },
+  {
+    "tag": "j",
+    "expansion": "Jataka stories",
+    "definition": "Stories of past lives"
+  },
+  {
+    "tag": "my",
+    "expansion": "Myths",
+    "definition": "Stories of ancient legends (not Jataka)"
+  },
+  {
+    "tag": "test",
+    "expansion": "test",
+    "definition": "test"
+  }
+]
