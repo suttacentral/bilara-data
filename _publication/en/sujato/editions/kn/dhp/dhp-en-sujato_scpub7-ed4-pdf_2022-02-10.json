@@ -1,0 +1,52 @@
+{
+  "publication_number": "scpub7",
+  "text_uid": "dhp",
+  "edition_number": "ed4",
+  "publication_isbn": "978-1-76132-069-9",
+  "publication_blurb": null,
+  "cip": false,
+  "publication_type": "pdf",
+  "page_width": "6in",
+  "page_height": "9in",
+  "cover_bleed": null,
+  "cover_flap_width": null,
+  "cover_theme_color": "orange",
+  "main_toc_depth": "1",
+  "secondary_toc": false,
+  "sources": {
+    "main_text": "translation-en-sujato",
+    "notes": "comment-en-sujato",
+    "reference": "reference",
+    "markup": "html"
+  },
+  "number_of_volumes": 1,
+  "volumes": [
+    {
+      "volume_number": null,
+      "volume_isbn": null,
+      "volume_acronym": "Dhp",
+      "volume_translation_title": null,
+      "volume_root_title": null,
+      "volume_blurb": null,
+      "cover_background_image": "orange1.png",
+      "cover_image": "pdf_cover.png",
+      "frontmatter": [
+        "titlepage",
+        "halftitlepage",
+        "imprint",
+         "./matter/epigraph.html",
+        "main-toc",
+        "./matter/foreword.html",
+        "./matter/preface.html",
+        "./matter/introduction.html",
+        "./matter/acknowledgements.html"
+      ],
+      "mainmatter": [
+        "dhp"
+      ],
+      "backmatter": [
+        "colophon"
+      ]
+    }
+  ]
+}
