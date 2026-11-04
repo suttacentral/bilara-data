@@ -1,0 +1,67 @@
+{
+  "publication_number": "scpub8",
+  "text_uid": "pli-tv-vi",
+  "edition_number": "ed2",
+  "publication_isbn": "978-1-76132-002-6",
+  "publication_blurb": false,
+  "cip": false,
+  "publication_type": "epub",
+  "page_width": "6in",
+  "page_height": "9in",
+  "cover_bleed": false,
+  "cover_flap_width": false,
+  "cover_theme_color": "brown",
+  "main_toc_depth": "1",
+  "secondary_toc": true,
+  "sources": {
+    "main_text": "translation-en-brahmali",
+    "notes": "comment-en-brahmali",
+    "reference": "reference",
+    "markup": "html"
+  },
+  "number_of_volumes": 1,
+  "volumes": [
+    {
+      "volume_number": false,
+      "volume_isbn": false,
+      "volume_acronym": "Vi",
+      "cover_background_image": "green1.png",
+      "cover_image": "epub_cover.png",
+      "frontmatter": [
+        "titlepage",
+        "halftitlepage",
+        "imprint",
+        "./matter/epigraph.html",
+        "main-toc",
+        "./matter/foreword.html",
+        "./matter/preface.html",
+        "./matter/general-introduction.html",
+        "./matter/bu-vb-1-introduction.html",
+        "./matter/bu-vb-2-introduction.html",
+        "./matter/bi-vb-introduction.html",
+        "./matter/kd-1-introduction.html",
+        "./matter/kd-2-introduction.html",
+        "./matter/pvr-introduction.html",
+        "./matter/bibliography.html",
+        "./matter/abbreviations.html"
+      ],
+      "mainmatter": [
+        "pli-tv-bu-vb",
+        "pli-tv-bi-vb",
+        "pli-tv-kd",
+        "pli-tv-pvr"
+      ],
+      "backmatter": [
+        "endnotes",
+        "./matter/appendix-glossary.html",
+        "./matter/appendix-terms.html",
+        "./matter/appendix-sectional.html",
+        "./matter/appendix-furniture.html",
+        "./matter/appendix-medical.html",
+        "./matter/appendix-plants.html",
+        "./matter/bi-vb-appendix-rules.html",
+        "colophon"
+      ]
+    }
+  ]
+}

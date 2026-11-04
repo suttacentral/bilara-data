@@ -1,0 +1,52 @@
+{
+  "publication_number": "scpub2",
+  "text_uid": "dn",
+  "edition_number": "ed4",
+  "publication_isbn": "978-1-76132-093-4",
+  "publication_blurb": null,
+  "cip": false,
+  "publication_type": "pdf",
+  "page_width": "6in",
+  "page_height": "9in",
+  "cover_bleed": null,
+  "cover_flap_width": null,
+  "cover_theme_color": "blue",
+  "main_toc_depth": "all",
+  "secondary_toc": false,
+  "sources": {
+    "main_text": "translation-en-sujato",
+    "notes": "comment-en-sujato",
+    "reference": "reference",
+    "markup": "html"
+  },
+  "number_of_volumes": 1,
+  "volumes": [
+    {
+      "volume_number": null,
+      "volume_isbn": null,
+      "volume_acronym": "DN",
+      "cover_background_image": "blue1.png",
+      "cover_image": "epub_cover.png",
+      "frontmatter": [
+        "titlepage",
+        "halftitlepage",
+        "imprint",
+         "./matter/epigraph.html",
+        "main-toc",
+        "./matter/foreword.html",
+        "./matter/preface.html",
+        "./matter/general_introduction.html",
+        "./matter/introduction.html",
+        "./matter/acknowledgements.html",
+        "blurbs"
+      ],
+      "mainmatter": [
+        "dn"
+      ],
+      "backmatter": [
+        "endnotes",
+        "colophon"
+      ]
+    }
+  ]
+}

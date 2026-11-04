@@ -1,0 +1,52 @@
+{
+  "publication_number": "scpub7",
+  "text_uid": "dhp",
+  "edition_number": "ed3",
+  "publication_isbn": "978-1-76132-064-4",
+  "publication_blurb": "The Pali version of this famous text, consisting of 423 verses organized into memorable themes. It is the most widely read of the early texts, and has been translated many times into many languages. Versions are found in Chinese, Tibetan, and several Indic languages, attesting to its timeless, universal appeal.",
+  "cip": false,
+  "publication_type": "hardcover",
+  "page_width": "6in",
+  "page_height": "9in",
+  "cover_bleed": "3mm",
+  "cover_flap_width": "3.25in",
+  "cover_theme_color": "orange",
+  "main_toc_depth": "1",
+  "secondary_toc": false,
+  "sources": {
+    "main_text": "translation-en-sujato",
+    "notes": "comment-en-sujato",
+    "reference": "reference",
+    "markup": "html"
+  },
+  "number_of_volumes": 1,
+  "volumes": [
+    {
+      "volume_number": null,
+      "volume_isbn": null,
+      "volume_acronym": "Dhp",
+      "volume_translation_title": null,
+      "volume_root_title": null,
+      "volume_blurb": null,
+      "cover_background_image": "orange1.png",
+      "cover_image": "hardcover_cover_6inx9in.pdf",
+      "frontmatter": [
+        "titlepage",
+        "halftitlepage",
+        "imprint",
+         "./matter/epigraph.html",
+        "main-toc",
+        "./matter/foreword.html",
+        "./matter/preface.html",
+        "./matter/introduction.html",
+        "./matter/acknowledgements.html"
+      ],
+      "mainmatter": [
+        "dhp"
+      ],
+      "backmatter": [
+        "colophon"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "publication_number": "scpub3",
+  "text_uid": "mn",
+  "edition_number": "ed3",
+  "publication_isbn": "978-1-76132-058-3",
+  "publication_blurb": "The Middle Discourses (Majjhima Nikāya) is a collection of 152 discourses in the Pali canon (Tipiṭaka) that are of “middle” length. It is perhaps the most popular collection of early discourses, its teachings ranging from practical morality for children to challenging and abstruse philosophy. These teachings emerge as the Buddha encounters people from all walks of life in ancient India. More than any other collection, it reveals the full range of the Buddha in inspiration and wonder, in closely reasoned argumentation, and in deep abiding compassion.",
+  "cip": false,
+  "publication_type": "hardcover",
+  "page_width": "6in",
+  "page_height": "9in",
+  "cover_bleed": "3mm",
+  "cover_flap_width": "3.25in",
+  "cover_theme_color": "yellow",
+  "main_toc_depth": "all",
+  "secondary_toc": false,
+  "sources": {
+    "main_text": "translation-en-sujato",
+    "notes": "comment-en-sujato",
+    "reference": "reference",
+    "markup": "html"
+  },
+  "number_of_volumes": 3,
+  "volumes": [
+    {
+      "volume_number": "vol1",
+      "volume_isbn": "978-1-76132-059-0",
+      "volume_acronym": "MN 1–50",
+      "volume_translation_title": "The First Fifty",
+      "volume_root_title": "Mūlapaṇṇāsa",
+      "volume_blurb": null,
+      "cover_background_image": "yellow1.png",
+      "cover_image": "hardcover_cover_6inx9in_vol1.pdf",
+      "frontmatter": [
+        "titlepage",
+        "halftitlepage",
+        "imprint",
+         "./matter/epigraph.html",
+        "main-toc",
+        "./matter/foreword.html",
+        "./matter/preface.html",
+        "./matter/introduction.html",
+        "./matter/acknowledgements.html",
+        "blurbs"
+      ],
+      "mainmatter": [
+        "mn-mulapannasa"
+      ],
+      "backmatter": [
+        "colophon"
+      ]
+    },
+    {
+      "volume_number": "vol2",
+      "volume_isbn": "978-1-76132-060-6",
+      "volume_acronym": "MN 51–100",
+      "volume_translation_title": "The Middle Fifty",
+      "volume_root_title": "Majjhimapaṇṇāsa",
+      "volume_blurb": null,
+      "cover_background_image": "yellow2.png",
+      "cover_image": "hardcover_cover_6inx9in_vol2.pdf",
+      "frontmatter": [
+        "titlepage",
+        "halftitlepage",
+        "imprint",
+        "main-toc",
+        "blurbs"
+      ],
+      "mainmatter": [
+        "mn-majjhimapannasa"
+      ],
+      "backmatter": [
+        "colophon"
+      ]
+    },
+    {
+      "volume_number": "vol3",
+      "volume_isbn": "978-1-76132-061-3",
+      "volume_acronym": "MN 101–152",
+      "volume_translation_title": "The Final Fifty",
+      "volume_root_title": "Uparipaṇṇāsa",
+      "volume_blurb": null,
+      "cover_background_image": "yellow3.png",
+      "cover_image": "hardcover_cover_6inx9in_vol3.pdf",
+      "frontmatter": [
+        "titlepage",
+        "halftitlepage",
+        "imprint",
+        "main-toc",
+        "blurbs"
+      ],
+      "mainmatter": [
+        "mn-uparipannasa"
+      ],
+      "backmatter": [
+        "colophon"
+      ]
+    }
+  ]
+}

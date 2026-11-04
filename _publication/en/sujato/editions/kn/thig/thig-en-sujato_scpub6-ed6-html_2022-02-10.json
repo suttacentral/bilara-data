@@ -1,0 +1,51 @@
+{
+  "publication_number": "scpub6",
+  "text_uid": "thig",
+  "edition_number": "ed6",
+  "publication_isbn": "978-1-76132-047-7",
+  "publication_blurb": null,
+  "cip": false,
+  "publication_type": "html",
+  "page_width": null,
+  "page_height": null,
+  "cover_bleed": null,
+  "cover_flap_width": null,
+  "cover_theme_color": null,
+  "main_toc_depth": "all",
+  "secondary_toc": false,
+  "sources": {
+    "main_text": "translation-en-sujato",
+    "notes": "comment-en-sujato",
+    "reference": "reference",
+    "markup": "html"
+  },
+  "number_of_volumes": 1,
+  "volumes": [
+    {
+      "volume_number": null,
+      "volume_isbn": null,
+      "volume_acronym": "Thig",
+      "volume_translation_title": null,
+      "volume_root_title": null,
+      "volume_blurb": null,
+      "cover_background_image": null,
+      "cover_image": null,
+      "frontmatter": [
+        "halftitlepage",
+         "./matter/epigraph.html",
+        "main-toc",
+        "./matter/foreword.html",
+        "./matter/preface.html",
+        "./matter/introduction.html",
+        "./matter/acknowledgements.html"
+      ],
+      "mainmatter": [
+        "thig"
+      ],
+      "backmatter": [
+        "colophon",
+        "imprint"
+      ]
+    }
+  ]
+}
