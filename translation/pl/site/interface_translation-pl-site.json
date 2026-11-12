@@ -43,6 +43,8 @@
   "interface:chooseYourLanguage": "Wybierz język",
   "interface:chooseYourLanguageDescription": "Tam, gdzie to możliwe, wyświetl transakcje i interfejs użytkownika witryny w wybranym języku.",
   "interface:darkTheme": "Ciemna szata graficzna",
+  "interface:lightTheme": "",
+  "interface:deviceTheme": "",
   "interface:dictionaryResults": "SuttaCentral — Wyniki wyszukiwania w słowniku",
   "interface:discourses": "DYSKURSY",
   "interface:discoursesTitle": "DYSKURSY",

@@ -43,6 +43,8 @@
   "interface:chooseYourLanguage": "Pilih bahasa Anda ",
   "interface:chooseYourLanguageDescription": "Jika tersedia, tampilkan terjemahan dan tampilan situs dalam bahasa yang dipilih. ",
   "interface:darkTheme": "Gunakan tema gelap ",
+  "interface:lightTheme": "",
+  "interface:deviceTheme": "",
   "interface:dictionaryResults": "SuttaCentral — Hasil kamus ",
   "interface:discourses": "Khotbah ",
   "interface:discoursesTitle": "Khotbah ",

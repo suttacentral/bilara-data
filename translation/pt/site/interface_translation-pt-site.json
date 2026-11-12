@@ -43,6 +43,8 @@
   "interface:chooseYourLanguage": "Escolha o seu idioma ",
   "interface:chooseYourLanguageDescription": "Onde disponível, ver o conteúdo do site e textos traduzidos no idioma selecionado. ",
   "interface:darkTheme": "Usar tema escuro ",
+  "interface:lightTheme": "",
+  "interface:deviceTheme": "",
   "interface:dictionaryResults": "SuttaCentral - resultados do dicionário ",
   "interface:discourses": "DISCURSOS ",
   "interface:discoursesTitle": "DISCURSOS ",

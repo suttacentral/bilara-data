@@ -43,6 +43,8 @@
   "interface:chooseYourLanguage": "เลือกภาษา",
   "interface:chooseYourLanguageDescription": "แสดงข้อความและ UI ในภาษาที่เลือก (ถ้ามี)",
   "interface:darkTheme": "ใช้ธีมสีเข้ม",
+  "interface:lightTheme": "",
+  "interface:deviceTheme": "",
   "interface:dictionaryResults": "SuttaCentral — ผลลัพธ์จากพจนานุกรม",
   "interface:discourses": "พระสูตร",
   "interface:discoursesTitle": "พระสูตร",

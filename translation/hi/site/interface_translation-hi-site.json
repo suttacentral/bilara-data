@@ -43,6 +43,8 @@
   "interface:chooseYourLanguage": "",
   "interface:chooseYourLanguageDescription": "",
   "interface:darkTheme": "डार्क थीम का प्रयोग करें",
+  "interface:lightTheme": "",
+  "interface:deviceTheme": "",
   "interface:dictionaryResults": "सुत्तासेंट्रल—शब्दकोश परिणाम",
   "interface:discourses": "प्रवचन",
   "interface:discoursesTitle": "प्रवचन",

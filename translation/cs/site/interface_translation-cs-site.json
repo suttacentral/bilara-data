@@ -43,6 +43,8 @@
   "interface:chooseYourLanguage": "",
   "interface:chooseYourLanguageDescription": "",
   "interface:darkTheme": "Použijte tmavý motiv",
+  "interface:lightTheme": "",
+  "interface:deviceTheme": "",
   "interface:dictionaryResults": "Výsledky hledání ve slovníku SuttaCentral",
   "interface:discourses": "Sutty",
   "interface:discoursesTitle": "Sutty",

@@ -43,6 +43,8 @@
   "interface:chooseYourLanguage": "Choisir votre langue ",
   "interface:chooseYourLanguageDescription": "Le cas échéant, afficher les traductions et l’interface utilisateur du site dans la langue sélectionnée. ",
   "interface:darkTheme": "Utiliser le thème sombre",
+  "interface:lightTheme": "",
+  "interface:deviceTheme": "",
   "interface:dictionaryResults": "SuttaCentral — Résultats du dictionnaire",
   "interface:discourses": "Discours",
   "interface:discoursesTitle": "Discours",

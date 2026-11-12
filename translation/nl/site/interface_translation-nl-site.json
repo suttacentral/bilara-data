@@ -43,6 +43,8 @@
   "interface:chooseYourLanguage": "",
   "interface:chooseYourLanguageDescription": "",
   "interface:darkTheme": "Gebruik een donkere achtergrond",
+  "interface:lightTheme": "",
+  "interface:deviceTheme": "",
   "interface:dictionaryResults": "SuttaCentral — Woordenboekresultaten",
   "interface:discourses": "Leerredes",
   "interface:discoursesTitle": "Leerredes",

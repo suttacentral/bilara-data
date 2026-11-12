@@ -43,6 +43,8 @@
   "interface:chooseYourLanguage": "scegli la tua lingua ",
   "interface:chooseYourLanguageDescription": "Ove disponibile, visualizza le traduzioni e l'interfaccia utente del sito nella lingua selezionata.",
   "interface:darkTheme": "Usa il tema scuro",
+  "interface:lightTheme": "",
+  "interface:deviceTheme": "",
   "interface:dictionaryResults": "SuttaCentral — Risultati del dizionario",
   "interface:discourses": "Discorsi",
   "interface:discoursesTitle": "Discorsi",

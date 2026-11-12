@@ -43,6 +43,8 @@
   "interface:chooseYourLanguage": "",
   "interface:chooseYourLanguageDescription": "",
   "interface:darkTheme": "",
+  "interface:lightTheme": "",
+  "interface:deviceTheme": "",
   "interface:dictionaryResults": "",
   "interface:discourses": "",
   "interface:discoursesTitle": "",

@@ -43,6 +43,8 @@
   "interface:chooseYourLanguage": "Velg språk",
   "interface:chooseYourLanguageDescription": "Når mulig kan du se transaksjoner og brukergrensesnitt på valgt språk",
   "interface:darkTheme": "Bruk mørkt tema",
+  "interface:lightTheme": "",
+  "interface:deviceTheme": "",
   "interface:dictionaryResults": "SuttaCentral — Ordbokresultater",
   "interface:discourses": "Tekster",
   "interface:discoursesTitle": "Tekster",

@@ -43,6 +43,8 @@
   "interface:chooseYourLanguage": "உங்கள் மொழியை தேர்ந்தெடுங்கள்",
   "interface:chooseYourLanguageDescription": "மொழிபெயர்ப்புகள் மற்றும் பயனர் இடைமுகத்தை (UI) உங்கள் மொழியில் பாருங்கள்.( இருக்கும் பட்சத்தில்)",
   "interface:darkTheme": "அடர் நிற தோற்றம்",
+  "interface:lightTheme": "",
+  "interface:deviceTheme": "",
   "interface:dictionaryResults": "சுட்டா சென்ட்ரல்— அகராதி முடிவுகள்  ",
   "interface:discourses": "பேருரைகள் ",
   "interface:discoursesTitle": "பேருரைகள் ",

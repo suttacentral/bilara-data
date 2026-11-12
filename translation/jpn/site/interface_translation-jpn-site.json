@@ -43,6 +43,8 @@
   "interface:chooseYourLanguage": "言語を選んでください",
   "interface:chooseYourLanguageDescription": "可能な場合は、選択した言語で画面とサイト UI を表示します。",
   "interface:darkTheme": "ダークモードを使用する",
+  "interface:lightTheme": "",
+  "interface:deviceTheme": "",
   "interface:dictionaryResults": "SuttaCentral スッタ・セントラル — 辞書の結果",
   "interface:discourses": "経典",
   "interface:discoursesTitle": "経典",

@@ -43,6 +43,8 @@
   "interface:chooseYourLanguage": "Выберите язык",
   "interface:chooseYourLanguageDescription": "Показывать переводы и интерфейс на выбранном языке, если возможно.",
   "interface:darkTheme": "Тёмная тема",
+  "interface:lightTheme": "",
+  "interface:deviceTheme": "",
   "interface:dictionaryResults": "SuttaCentral — результаты из словаря",
   "interface:discourses": "Дискурсы",
   "interface:discoursesTitle": "Дискурсы",

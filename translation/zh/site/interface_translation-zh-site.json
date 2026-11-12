@@ -43,6 +43,8 @@
   "interface:chooseYourLanguage": "选择您的语言 ",
   "interface:chooseYourLanguageDescription": "在可用的情况下，显示您所选择的语言的翻译和界面。 ",
   "interface:darkTheme": "使用深色主题 ",
+  "interface:lightTheme": "",
+  "interface:deviceTheme": "",
   "interface:dictionaryResults": "SuttaCentral - 字典结果 ",
   "interface:discourses": "经文 ",
   "interface:discoursesTitle": "经文 ",
