@@ -36,12 +36,12 @@
   "t765.133:4.10": "{}</p>",
   "t765.133:5.0": "<p>{}</p>",
   "t765.133:6.0": "<p>{}</p>",
-  "t765.133:7.0": "<p>{}",
-  "t765.133:7.1": "{}",
-  "t765.133:7.2": "{}",
-  "t765.133:7.3": "{}</span></p></blockquote>",
-  "t765.133:8.0": "<p>{}",
-  "t765.133:8.1": "{}",
-  "t765.133:8.2": "{}",
-  "t765.133:8.3": "{}</span></p></blockquote>"
+  "t765.133:7.0": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "t765.133:7.1": "<span class='verse-line'>{}</span>",
+  "t765.133:7.2": "<span class='verse-line'>{}</span>",
+  "t765.133:7.3": "<span class='verse-line'>{}</span></p></blockquote>",
+  "t765.133:8.0": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "t765.133:8.1": "<span class='verse-line'>{}</span>",
+  "t765.133:8.2": "<span class='verse-line'>{}</span>",
+  "t765.133:8.3": "<span class='verse-line'>{}</span></p></blockquote>"
 }
